@@ -1,0 +1,565 @@
+,Name,Age,date,nationality,club,fee_y,position,market,match,goal,assist,minute,miss,clean,height,join,contract,href
+0,Aaron Ramsdale,24,"May 14, 1998",England,Arsenal,,Goalkeeper,28.0,39,0,0,3510,42,15,1.9,"Aug 20, 2021","Jun 30, 2025",/aaron-ramsdale/profil/spieler/427568
+2,Arthur Okonkwo,20,"Sep 9, 2001 ",England,Arsenal,,Goalkeeper,1.5,7,0,0,630,12,1,1.98,-,"Jun 30, 2023",/arthur-okonkwo/profil/spieler/503769
+3,Karl Hein,20,"Apr 13, 2002",Estonia,Arsenal,,Goalkeeper,0.8,12,0,0,1080,17,2,1.93,-,"Jun 30, 2025",/karl-hein/profil/spieler/493513
+4,Gabriel Magalhães,24,"Dec 19, 1997",Brazil,Arsenal,,Centre-Back,38.0,39,5,0,3310,0,0,1.9,"Sep 1, 2020","Jun 30, 2027",/gabriel-magalhaes/profil/spieler/435338
+5,Calum Chambers,27,"Jan 20, 1995",England,Arsenal,,Centre-Back,10.0,16,2,0,1205,0,0,1.82,"Jul 28, 2014","Jun 30, 2025",/calum-chambers/profil/spieler/215118
+6,Rob Holding,26,"Sep 20, 1995",England,Arsenal,,Centre-Back,10.0,21,1,0,1338,0,0,1.89,"Jul 22, 2016","Jun 30, 2024",/rob-holding/profil/spieler/253341
+8,Mazeed Ogungbo,19,"Oct 20, 2002",Ireland,Arsenal,,Centre-Back,,25,0,1,2184,0,0,-,-,"May 31, 2023",/mazeed-ogungbo/profil/spieler/581445
+9,Alex Kirk,19,"Oct 27, 2002",England,Arsenal,,Centre-Back,,11,0,1,853,0,0,-,-,"May 31, 2023",/alex-kirk/profil/spieler/586980
+10,Zach Awe,18,"Jan 9, 2004 ",England,Arsenal,,Centre-Back,,15,1,0,1215,0,0,1.92,-,"Jun 30, 2023",/zach-awe/profil/spieler/697282
+11,Kieran Tierney,25,"Jun 5, 1997 ",Scotland,Arsenal,,Left-Back,32.0,25,1,3,2154,0,0,1.8,"Aug 8, 2019","Jun 30, 2026",/kieran-tierney/profil/spieler/300716
+14,Ben White,24,"Oct 8, 1997 ",England,Arsenal,,Right-Back,40.0,37,0,0,3278,0,0,1.86,"Jul 30, 2021","Jun 30, 2026",/ben-white/profil/spieler/335721
+15,Takehiro Tomiyasu,23,"Nov 5, 1998 ",Japan,Arsenal,,Right-Back,25.0,23,0,1,1782,0,0,1.88,"Aug 31, 2021","Jun 30, 2025",/takehiro-tomiyasu/profil/spieler/331560
+17,Cédric Soares,30,"Aug 31, 1991",Portugal,Arsenal,,Right-Back,6.0,26,1,3,1854,0,0,1.71,"Jul 1, 2020","Jun 30, 2023",/cedric-soares/profil/spieler/112988
+18,Ryan Alebiosu,20,"Dec 17, 2001",England,Arsenal,,Right-Back,0.2,20,1,7,1371,0,0,1.88,-,"May 31, 2023",/ryan-alebiosu/profil/spieler/610649
+19,Zak Swanson,21,"Sep 28, 2000",England,Arsenal,,Right-Back,0.15,16,2,3,1310,0,0,1.89,-,"Jun 30, 2024",/zak-swanson/profil/spieler/540687
+20,Thomas Partey,29,"Jun 13, 1993",Ghana,Arsenal,,Defensive Midfield,38.0,26,2,1,2109,0,0,1.85,"Oct 5, 2020","Jun 30, 2025",/thomas-partey/profil/spieler/230784
+21,Mohamed Elneny,29,"Jul 11, 1992",Egypt,Arsenal,,Defensive Midfield,11.0,17,0,2,1052,0,0,1.79,"Jan 14, 2016","Jun 30, 2024",/mohamed-elneny/profil/spieler/160438
+22,Granit Xhaka,29,"Sep 27, 1992",Switzerland,Arsenal,,Central Midfield,20.0,30,1,2,2456,0,0,1.86,"Jul 1, 2016","Jun 30, 2024",/granit-xhaka/profil/spieler/111455
+23,Albert Sambi Lokonga,22,"Oct 22, 1999",Belgium,Arsenal,,Central Midfield,14.0,24,0,0,1508,0,0,1.83,"Jul 19, 2021","May 31, 2023",/albert-sambi-lokonga/profil/spieler/381967
+24,Charlie Patino,18,"Oct 17, 2003",England,Arsenal,,Central Midfield,2.0,21,2,1,1539,0,0,1.82,-,"May 31, 2023",/charlie-patino/profil/spieler/581674
+25,Miguel Azeez,19,"Sep 20, 2002",England,Arsenal,,Central Midfield,0.8,20,3,2,1553,0,0,1.8,-,"May 31, 2023",/miguel-azeez/profil/spieler/547533
+26,Salah-Eddine Oulad M'Hand,18,"Aug 20, 2003",Netherlands,Arsenal,,Central Midfield,,21,6,3,1558,0,0,1.77,-,"Jun 30, 2025",/salah-eddine-oulad-mhand/profil/spieler/559330
+28,Martin Ødegaard,23,"Dec 17, 1998",Norway,Arsenal,,Attacking Midfield,45.0,40,7,5,3107,0,0,1.78,"Aug 20, 2021","Jun 30, 2025",/martin-odegaard/profil/spieler/316264
+29,Emile Smith Rowe,21,"Jul 28, 2000",England,Arsenal,,Attacking Midfield,40.0,37,11,2,2176,0,0,1.82,"Aug 1, 2020","Jun 30, 2026",/emile-smith-rowe/profil/spieler/392765
+30,Marcelo Flores,18,"Oct 1, 2003 ",Mexico,Arsenal,,Attacking Midfield,1.5,22,11,3,1687,0,0,1.64,-,"Jun 30, 2023",/marcelo-flores/profil/spieler/668495
+31,Omari Hutchinson,18,"Oct 29, 2003",Jamaica,Arsenal,,Attacking Midfield,,22,8,7,1568,0,0,1.74,-,"Jun 30, 2025",/omari-hutchinson/profil/spieler/741238
+32,Gabriel Martinelli,21,"Jun 18, 2001",Brazil,Arsenal,,Left Winger,40.0,36,6,7,2331,0,0,1.78,"Jul 2, 2019","Jun 30, 2027",/gabriel-martinelli/profil/spieler/655488
+33,Bukayo Saka,20,"Sep 5, 2001 ",England,Arsenal,,Right Winger,65.0,43,12,7,3359,0,0,1.78,"Jul 1, 2019","Jun 30, 2024",/bukayo-saka/profil/spieler/433177
+35,Reiss Nelson,22,"Dec 10, 1999",England,Arsenal,,Right Winger,6.5,33,4,7,1574,0,0,1.75,"Jul 1, 2019","Jun 30, 2023",/reiss-nelson/profil/spieler/340325
+36,Eddie Nketiah,23,"May 30, 1999",England,Arsenal,,Centre-Forward,16.0,28,10,1,1284,0,0,1.75,"Jan 1, 2019","Jun 30, 2027",/eddie-nketiah/profil/spieler/340324
+40,Mika Biereth,19,"Feb 8, 2003 ",Denmark,Arsenal,,Centre-Forward,0.6,26,12,5,2225,0,0,1.87,-,"Jun 30, 2023",/mika-biereth/profil/spieler/565821
+41,Emiliano Martínez,29,"Sep 2, 1992 ",Argentina,Aston Villa,,Goalkeeper,28.0,37,0,0,3330,49,11,1.95,"Sep 16, 2020","Jun 30, 2027",/emiliano-martinez/profil/spieler/111873
+42,Robin Olsen,32,"Jan 8, 1990 ",Sweden,Aston Villa,,Goalkeeper,2.0,12,0,0,1080,20,1,1.96,"Jul 1, 2022",-,/robin-olsen/profil/spieler/75458
+45,Filip Marschall,19,"Apr 24, 2003",Poland,Aston Villa,,Goalkeeper,,29,0,0,2610,37,7,1.95,-,"May 31, 2023",/filip-marschall/profil/spieler/610863
+46,Tyrone Mings,29,"Mar 13, 1993",England,Aston Villa,,Centre-Back,30.0,37,1,3,3278,0,0,1.96,"Jul 8, 2019","Jun 30, 2026",/tyrone-mings/profil/spieler/253677
+47,Ezri Konsa,24,"Oct 23, 1997",England,Aston Villa,,Centre-Back,22.0,31,2,0,2584,0,0,1.83,"Jul 11, 2019","Jun 30, 2026",/ezri-konsa/profil/spieler/413403
+48,Calum Chambers,27,"Jan 20, 1995",England,Aston Villa,,Centre-Back,10.0,16,2,0,1205,0,0,1.82,"Jan 27, 2022","Jun 30, 2025",/calum-chambers/profil/spieler/215118
+51,Sil Swinkels,18,"Jan 6, 2004 ",Netherlands,Aston Villa,,Centre-Back,0.15,25,0,0,2133,0,0,-,-,-,/sil-swinkels/profil/spieler/646710
+52,Josh Feeney,17,"May 6, 2005 ",England,Aston Villa,,Centre-Back,,24,1,0,2068,0,0,1.93,-,-,/josh-feeney/profil/spieler/875929
+53,Lucas Digne,28,"Jul 20, 1993",France,Aston Villa,,Left-Back,25.0,31,1,4,2519,0,0,1.78,"Jan 13, 2022","Jun 30, 2026",/lucas-digne/profil/spieler/126664
+55,Ben Chrisene,18,"Jan 12, 2004",England,Aston Villa,,Left-Back,0.15,7,0,1,425,0,0,1.83,-,"May 31, 2023",/ben-chrisene/profil/spieler/670846
+56,Matty Cash,24,"Aug 7, 1997 ",Poland,Aston Villa,,Right-Back,25.0,40,4,4,3517,0,0,1.85,"Sep 3, 2020","Jun 30, 2027",/matty-cash/profil/spieler/425334
+57,Frédéric Guilbert,27,"Dec 24, 1994",France,Aston Villa,,Right-Back,7.0,36,1,5,2782,0,0,1.78,"Jan 31, 2019","Jun 30, 2026",/frederic-guilbert/profil/spieler/354352
+58,Ashley Young,36,"Jul 9, 1985 ",England,Aston Villa,,Right-Back,1.0,25,0,2,1328,0,0,1.75,"Jul 1, 2021","Jun 30, 2023",/ashley-young/profil/spieler/14086
+59,Kaine Kesler-Hayden,19,"Oct 23, 2002",England,Aston Villa,,Right-Back,0.3,39,2,3,3056,0,0,1.75,-,"Jun 30, 2026",/kaine-kesler-hayden/profil/spieler/626888
+60,Marvelous Nakamba,28,"Jan 19, 1994",Zimbabwe,Aston Villa,,Defensive Midfield,7.0,19,0,0,1143,0,0,1.77,"Aug 1, 2019","May 31, 2023",/marvelous-nakamba/profil/spieler/324882
+61,Lamare Bogarde,18,"Jan 5, 2004 ",Netherlands,Aston Villa,,Defensive Midfield,0.2,15,0,0,1322,0,0,1.83,-,"May 31, 2023",/lamare-bogarde/profil/spieler/645686
+62,Hayden Lindley,19,"Sep 2, 2002 ",England,Aston Villa,,Defensive Midfield,0.15,29,1,2,2396,0,0,1.78,-,"Jun 30, 2023",/hayden-lindley/profil/spieler/698097
+63,Douglas Luiz,24,"May 9, 1998 ",Brazil,Aston Villa,,Central Midfield,38.0,35,2,3,2812,0,0,1.77,"Jul 25, 2019","Jun 30, 2026",/douglas-luiz/profil/spieler/447661
+64,John McGinn,27,"Oct 18, 1994",Scotland,Aston Villa,,Central Midfield,32.0,36,3,4,3183,0,0,1.78,"Aug 8, 2018","Jun 30, 2025",/john-mcginn/profil/spieler/193116
+65,Jacob Ramsey,21,"May 28, 2001",England,Aston Villa,,Central Midfield,25.0,35,6,1,2564,0,0,1.8,"Jul 1, 2020","Jun 30, 2027",/jacob-ramsey/profil/spieler/503749
+66,Morgan Sanson,27,"Aug 18, 1994",France,Aston Villa,,Central Midfield,10.0,12,0,1,410,0,0,1.8,"Jan 26, 2021","Jun 30, 2023",/morgan-sanson/profil/spieler/174094
+70,Aaron Ramsey,19,"Jan 21, 2003",England,Aston Villa,,Attacking Midfield,1.0,24,6,5,1395,0,0,1.81,-,"May 31, 2023",/aaron-ramsey/profil/spieler/646658
+71,Tommi O'Reilly,18,"Dec 15, 2003",England,Aston Villa,,Attacking Midfield,,23,5,2,1611,0,0,1.7,-,"Jun 30, 2025",/tommi-oreilly/profil/spieler/818237
+72,Leon Bailey,24,"Aug 9, 1997 ",Jamaica,Aston Villa,,Left Winger,25.0,18,1,2,754,0,0,1.78,"Aug 4, 2021","Jun 30, 2025",/leon-bailey/profil/spieler/387626
+73,Philippe Coutinho,30,"Jun 12, 1992",Brazil,Aston Villa,,Left Winger,20.0,35,7,3,1946,0,0,1.72,"Jul 1, 2022","Jun 30, 2026",/philippe-coutinho/profil/spieler/80444
+76,Emiliano Buendía,25,"Dec 25, 1996",Argentina,Aston Villa,,Right Winger,32.0,37,4,6,2070,0,0,1.72,"Jul 1, 2021","Jun 30, 2026",/emiliano-buendia/profil/spieler/321247
+79,Ollie Watkins,26,"Dec 30, 1995",England,Aston Villa,,Centre-Forward,35.0,36,11,2,3045,0,0,1.8,"Sep 9, 2020","Jun 30, 2025",/ollie-watkins/profil/spieler/324358
+80,Danny Ings,29,"Jul 23, 1992",England,Aston Villa,,Centre-Forward,20.0,31,7,6,1995,0,0,1.77,"Aug 4, 2021","Jun 30, 2025",/danny-ings/profil/spieler/134294
+84,Caleb Chukwuemeka,20,"Jan 25, 2002",England,Aston Villa,,Centre-Forward,0.2,22,7,8,1185,0,0,1.9,-,"May 31, 2023",/caleb-chukwuemeka/profil/spieler/742746
+86,Mark Travers,23,"May 18, 1999",Ireland,Bournemouth,,Goalkeeper,2.5,46,0,0,4140,39,21,1.91,"Jul 1, 2020","Jun 30, 2027",/mark-travers/profil/spieler/357658
+87,Örjan Nyland,31,"Sep 10, 1990",Norway,Bournemouth,,Goalkeeper,0.7,13,0,0,1170,22,2,1.92,"Aug 17, 2021","Jun 30, 2023",/orjan-nyland/profil/spieler/73517
+88,Will Dennis,21,"Jul 10, 2000",England,Bournemouth,,Goalkeeper,0.1,1,0,0,90,1,0,1.88,"Aug 1, 2021","May 31, 2023",/will-dennis/profil/spieler/582078
+89,Lloyd Kelly,23,"Oct 6, 1998 ",England,Bournemouth,,Centre-Back,12.0,42,1,1,3714,0,0,1.9,"Jul 1, 2019","Jun 30, 2024",/lloyd-kelly/profil/spieler/480116
+90,Nathaniel Phillips,25,"Mar 21, 1997",England,Bournemouth,,Centre-Back,8.0,22,0,0,1840,0,0,1.9,"Jan 31, 2022","Jun 30, 2025",/nathaniel-phillips/profil/spieler/371814
+91,Chris Mepham,24,"Nov 5, 1997 ",Wales,Bournemouth,,Centre-Back,4.0,24,0,1,1203,0,0,1.9,"Jan 22, 2019","Jun 30, 2025",/chris-mepham/profil/spieler/480987
+92,Steve Cook,31,"Apr 19, 1991",England,Bournemouth,,Centre-Back,2.8,24,0,0,2067,0,0,1.85,"Jan 3, 2012","Jun 30, 2024",/steve-cook/profil/spieler/90836
+93,James Hill,20,"Jan 10, 2002",England,Bournemouth,,Centre-Back,1.0,17,1,0,1382,0,0,1.84,"Jan 5, 2022","May 31, 2023",/james-hill/profil/spieler/611793
+96,Jordan Zemura,22,"Nov 14, 1999",Zimbabwe,Bournemouth,,Left-Back,3.0,34,3,1,2963,0,0,1.73,"Aug 1, 2020","Jun 30, 2023",/jordan-zemura/profil/spieler/633530
+98,Ethan Laird,20,"Aug 5, 2001 ",England,Bournemouth,,Right-Back,5.0,27,0,4,1997,0,0,1.77,"Jan 6, 2022","May 31, 2023",/ethan-laird/profil/spieler/531679
+99,Jack Stacey,26,"Apr 6, 1996 ",England,Bournemouth,,Right-Back,3.0,27,0,2,2196,0,0,1.8,"Jul 8, 2019","Jun 30, 2023",/jack-stacey/profil/spieler/249356
+100,Adam Smith,31,"Apr 29, 1991",England,Bournemouth,,Right-Back,1.5,21,0,4,1804,0,0,1.74,"Jan 28, 2014","Jun 30, 2024",/adam-smith/profil/spieler/61841
+101,Brennan Camp,21,"Oct 12, 2000",Scotland,Bournemouth,,Right-Back,0.1,17,1,1,1388,0,0,1.81,-,-,/brennan-camp/profil/spieler/648699
+102,Tarik Gidaree,19,"May 8, 2003 ",England,Bournemouth,,Right-Back,,-,0,0,0,0,0,1.76,-,-,/tarik-gidaree/profil/spieler/733437
+103,Jefferson Lerma,27,"Oct 25, 1994",Colombia,Bournemouth,,Defensive Midfield,15.0,34,1,3,2860,0,0,1.79,"Aug 7, 2018","Jun 30, 2023",/jefferson-lerma/profil/spieler/262980
+104,Philip Billing,26,"Jun 11, 1996",Denmark,Bournemouth,,Central Midfield,18.0,42,11,10,3424,0,0,1.93,"Jul 29, 2019","Jun 30, 2024",/philip-billing/profil/spieler/320411
+105,Lewis Cook,25,"Feb 3, 1997 ",England,Bournemouth,,Central Midfield,9.0,29,1,2,2225,0,0,1.75,"Jul 8, 2016","Jun 30, 2025",/lewis-cook/profil/spieler/249089
+106,Ben Pearson,27,"Jan 4, 1995 ",England,Bournemouth,,Central Midfield,2.5,26,0,1,1095,0,0,1.76,"Jan 29, 2021","May 31, 2023",/ben-pearson/profil/spieler/183302
+108,Kyle Taylor,22,"Aug 28, 1999",Switzerland,Bournemouth,,Central Midfield,0.1,19,1,1,827,0,0,1.67,-,"Jun 30, 2024",/kyle-taylor/profil/spieler/562254
+109,Nathan Moriah-Welsh,20,"Mar 18, 2002",Guyana,Bournemouth,,Central Midfield,,2,0,0,156,0,0,1.72,-,"May 31, 2023",/nathan-moriah-welsh/profil/spieler/655139
+112,Ryan Christie,27,"Feb 22, 1995",Scotland,Bournemouth,,Attacking Midfield,9.0,48,4,11,3741,0,0,1.78,"Aug 31, 2021","Jun 30, 2024",/ryan-christie/profil/spieler/188077
+113,Emiliano Marcondes,27,"Mar 9, 1995 ",Denmark,Bournemouth,,Attacking Midfield,2.0,21,5,1,1070,0,0,1.82,"Jul 3, 2021","Jun 30, 2023",/emiliano-marcondes/profil/spieler/232964
+114,Jaidon Anthony,22,"Dec 1, 1999 ",England,Bournemouth,,Left Winger,6.0,48,8,7,3508,0,0,1.83,"Aug 1, 2020","Jun 30, 2027",/jaidon-anthony/profil/spieler/684210
+115,Siriki Dembélé,25,"Sep 7, 1996 ",Scotland,Bournemouth,,Left Winger,2.8,38,7,3,2518,0,0,1.73,"Jan 31, 2022","Jun 30, 2023",/siriki-dembele/profil/spieler/488656
+116,Morgan Rogers,19,"Jul 26, 2002",England,Bournemouth,,Left Winger,1.8,17,1,0,391,0,0,1.87,"Aug 23, 2021","May 31, 2023",/morgan-rogers/profil/spieler/503743
+117,Junior Stanislas,32,"Nov 26, 1989",England,Bournemouth,,Left Winger,0.7,8,0,2,202,0,0,1.83,"Jul 1, 2014","Jun 30, 2023",/junior-stanislas/profil/spieler/87672
+118,David Brooks,24,"Jul 8, 1997 ",Wales,Bournemouth,,Right Winger,16.0,9,3,0,660,0,0,1.73,"Jul 1, 2018","Jun 30, 2026",/david-brooks/profil/spieler/277033
+119,Jamal Lowe,27,"Jul 21, 1994",Jamaica,Bournemouth,,Right Winger,1.8,42,7,4,1646,0,0,1.83,"Aug 31, 2021","May 31, 2023",/jamal-lowe/profil/spieler/239949
+120,Ryan Glover,21,"Nov 9, 2000 ",England,Bournemouth,,Right Winger,,28,3,0,1966,0,0,-,-,"Jun 30, 2024",/ryan-glover/profil/spieler/684173
+121,Dominic Solanke,24,"Sep 14, 1997",England,Bournemouth,,Centre-Forward,16.0,48,30,7,4186,0,0,1.86,"Jan 4, 2019","Jun 30, 2026",/dominic-solanke/profil/spieler/258889
+122,Kieffer Moore,29,"Aug 8, 1992 ",Wales,Bournemouth,,Centre-Forward,5.0,28,9,4,1693,0,0,1.96,"Jan 31, 2022","Jun 30, 2025",/kieffer-moore/profil/spieler/275590
+124,David Raya,26,"Sep 15, 1995",Spain,Brentford,,Goalkeeper,22.0,25,0,0,2250,31,8,1.83,"Jul 6, 2019","Jun 30, 2024",/david-raya/profil/spieler/262749
+125,Álvaro Fernández,24,"Apr 13, 1998",Spain,Brentford,,Goalkeeper,4.0,16,0,0,1440,28,2,1.86,"Aug 17, 2021","Jun 30, 2023",/alvaro-fernandez/profil/spieler/453704
+126,Jonas Lössl,33,"Feb 1, 1989 ",Denmark,Brentford,,Goalkeeper,1.0,22,0,0,2040,26,6,1.95,"Jan 1, 2022","Jun 30, 2026",/jonas-lossl/profil/spieler/48870
+129,Matthew Cox,19,"May 2, 2003 ",England,Brentford,,Goalkeeper,,-,0,0,0,0,0,-,-,"Jun 30, 2028",/matthew-cox/profil/spieler/741236
+130,Kristoffer Ajer,24,"Apr 17, 1998",Norway,Brentford,,Centre-Back,18.0,28,1,2,2273,0,0,1.98,"Jul 21, 2021","Jun 30, 2026",/kristoffer-ajer/profil/spieler/328658
+131,Ethan Pinnock,29,"May 29, 1993",Jamaica,Brentford,,Centre-Back,12.0,35,1,1,2967,0,0,1.94,"Jul 2, 2019","Jun 30, 2025",/ethan-pinnock/profil/spieler/442248
+132,Pontus Jansson,31,"Feb 13, 1991",Sweden,Brentford,,Centre-Back,7.0,39,3,2,3502,0,0,1.96,"Jul 8, 2019","Jun 30, 2023",/pontus-jansson/profil/spieler/125314
+134,Zanka,32,"Apr 23, 1990",Denmark,Brentford,,Centre-Back,1.2,10,1,0,697,0,0,1.89,"Sep 9, 2021","Jun 30, 2023",/zanka/profil/spieler/52059
+137,Rico Henry,24,"Jul 8, 1997 ",England,Brentford,,Left-Back,20.0,37,3,0,2958,0,0,1.7,"Aug 31, 2016","Jun 30, 2026",/rico-henry/profil/spieler/339556
+139,Mads Roerslev,23,"Jun 24, 1999",Denmark,Brentford,,Right-Back,2.5,26,1,2,1539,0,0,1.84,"Aug 7, 2019","Jun 30, 2026",/mads-roerslev/profil/spieler/391005
+141,Daniel Oyegoke,19,"Jan 3, 2003 ",England,Brentford,,Right-Back,,-,0,0,0,0,0,1.78,-,"Jun 30, 2024",/daniel-oyegoke/profil/spieler/586984
+142,Christian Nörgaard,28,"Mar 10, 1994",Denmark,Brentford,,Defensive Midfield,14.0,38,3,4,3201,0,0,1.87,"Jul 1, 2019","Jun 30, 2025",/christian-norgaard/profil/spieler/148367
+143,Vitaly Janelt,24,"May 10, 1998",Germany,Brentford,,Defensive Midfield,14.0,35,4,1,2596,0,0,1.84,"Oct 3, 2020","Jun 30, 2026",/vitaly-janelt/profil/spieler/270171
+145,Mathias Jensen,26,"Jan 1, 1996 ",Denmark,Brentford,,Central Midfield,10.0,35,0,2,1932,0,0,1.8,"Jul 10, 2019","Jun 30, 2026",/mathias-jensen/profil/spieler/319859
+146,Josh Dasilva,23,"Oct 23, 1998",England,Brentford,,Central Midfield,10.0,10,0,0,270,0,0,1.84,"Aug 21, 2018","Jun 30, 2024",/josh-dasilva/profil/spieler/340321
+147,Frank Onyeka,24,"Jan 1, 1998 ",Nigeria,Brentford,,Central Midfield,9.0,24,0,0,1198,0,0,1.83,"Jul 20, 2021","Jun 30, 2026",/frank-onyeka/profil/spieler/421637
+148,Shandon Baptiste,24,"Apr 8, 1998 ",Grenada,Brentford,,Central Midfield,3.0,25,1,0,1026,0,0,1.8,"Jan 31, 2020","Jun 30, 2024",/shandon-baptiste/profil/spieler/533916
+150,Paris Maghoma,21,"May 8, 2001 ",England,Brentford,,Central Midfield,0.2,-,0,0,0,0,0,1.78,-,"May 31, 2023",/paris-maghoma/profil/spieler/470596
+151,Saman Ghoddos,28,"Sep 6, 1993 ",Iran,Brentford,,Attacking Midfield,2.5,23,1,5,914,0,0,1.75,"Jan 14, 2021","Jun 30, 2023",/saman-ghoddos/profil/spieler/204294
+152,Myles Peart-Harris,19,"Sep 18, 2002",England,Brentford,,Attacking Midfield,1.0,2,0,0,27,0,0,1.87,-,"May 31, 2023",/myles-peart-harris/profil/spieler/587002
+153,Yoane Wissa,25,"Sep 3, 1996 ",DR Congo,Brentford,,Left Winger,12.0,34,10,2,1580,0,0,1.8,"Aug 10, 2021","Jun 30, 2025",/yoane-wissa/profil/spieler/388165
+155,Max Haygarth,20,"Jan 21, 2002",England,Brentford,,Left Winger,0.1,-,0,0,0,0,0,1.75,-,-,/max-haygarth/profil/spieler/596216
+156,Bryan Mbeumo,22,"Aug 7, 1999 ",Cameroon,Brentford,,Right Winger,22.0,38,8,7,3056,0,0,1.71,"Aug 5, 2019","Jun 30, 2026",/bryan-mbeumo/profil/spieler/413039
+157,Sergi Canós,25,"Feb 2, 1997 ",Spain,Brentford,,Right Winger,14.0,35,4,2,2372,0,0,1.77,"Jan 31, 2017","Jun 30, 2023",/sergi-canos/profil/spieler/251845
+158,Nathan Young-Coombes,19,"Jan 15, 2003",England,Brentford,,Right Winger,,1,0,0,3,0,0,1.75,-,"Jun 30, 2024",/nathan-young-coombes/profil/spieler/581679
+159,Ivan Toney,26,"Mar 16, 1996",England,Brentford,,Centre-Forward,35.0,37,14,6,3120,0,0,1.85,"Sep 1, 2020","Jun 30, 2025",/ivan-toney/profil/spieler/251664
+162,Robert Sánchez,24,"Nov 18, 1997",Spain,Brighton,,Goalkeeper,16.0,38,0,0,3420,45,11,1.97,"Jul 1, 2020","Jun 30, 2025",/robert-sanchez/profil/spieler/403151
+165,Jason Steele,31,"Aug 18, 1990",England,Brighton,,Goalkeeper,0.6,4,0,0,360,4,2,1.88,"Jul 1, 2018","Jun 30, 2025",/jason-steele/profil/spieler/73564
+166,Tom McGill,22,"Mar 25, 2000",England,Brighton,,Goalkeeper,,18,0,0,1620,25,2,-,-,"Jun 30, 2023",/tom-mcgill/profil/spieler/406556
+167,Lewis Dunk,30,"Nov 21, 1991",England,Brighton,,Centre-Back,20.0,31,1,0,2691,0,0,1.92,"Jul 1, 2010","Jun 30, 2025",/lewis-dunk/profil/spieler/148153
+168,Adam Webster,27,"Jan 4, 1995 ",England,Brighton,,Centre-Back,17.0,24,3,0,1555,0,0,1.9,"Aug 3, 2019","Jun 30, 2026",/adam-webster/profil/spieler/212847
+169,Dan Burn,30,"May 9, 1992 ",England,Brighton,,Centre-Back,12.0,32,1,1,2688,0,0,2.01,"Aug 9, 2018","Jun 30, 2024",/dan-burn/profil/spieler/134270
+171,Jan Paul van Hecke,22,"Jun 8, 2000 ",Netherlands,Brighton,,Centre-Back,5.0,32,1,1,2736,0,0,1.89,"Sep 10, 2020","Jun 30, 2023",/jan-paul-van-hecke/profil/spieler/576314
+174,Antef Tsoungui,19,"Dec 30, 2002",Belgium,Brighton,,Centre-Back,0.3,15,0,0,1230,0,0,1.85,-,"Jun 30, 2023",/antef-tsoungui/profil/spieler/503858
+175,Odel Offiah,19,"Oct 26, 2002",England,Brighton,,Centre-Back,0.2,26,0,0,1911,0,0,-,-,"Jun 30, 2024",/odel-offiah/profil/spieler/567597
+176,Ed Turns,19,"Oct 18, 2002",Wales,Brighton,,Centre-Back,0.2,28,1,2,2520,0,0,1.82,-,"May 31, 2023",/ed-turns/profil/spieler/580809
+179,James Furlong,20,"Jun 7, 2002 ",Ireland,Brighton,,Left-Back,,27,1,4,2412,0,0,1.78,-,"May 31, 2023",/james-furlong/profil/spieler/580030
+180,Tariq Lamptey,21,"Sep 30, 2000",Ghana,Brighton,,Right-Back,18.0,32,0,2,1672,0,0,1.63,"Jan 31, 2020","Jun 30, 2025",/tariq-lamptey/profil/spieler/504148
+181,Joël Veltman,30,"Jan 15, 1992",Netherlands,Brighton,,Right-Back,10.0,37,1,1,3033,0,0,1.84,"Jul 29, 2020","Jun 30, 2023",/joel-veltman/profil/spieler/111195
+185,Alexis Mac Allister,23,"Dec 24, 1998",Argentina,Brighton,,Central Midfield,16.0,36,5,4,2365,0,0,1.74,"Jan 24, 2019","Jun 30, 2025",/alexis-mac-allister/profil/spieler/534033
+186,Jakub Moder,23,"Apr 7, 1999 ",Poland,Brighton,,Central Midfield,12.0,32,2,4,2006,0,0,1.91,"Oct 4, 2020","Jun 30, 2025",/jakub-moder/profil/spieler/384461
+187,Pascal Groß,31,"Jun 15, 1991",Germany,Brighton,,Central Midfield,6.0,33,2,4,2387,0,0,1.81,"Jul 1, 2017","Jun 30, 2024",/pascal-gross/profil/spieler/82873
+188,Moisés Caicedo,20,"Nov 2, 2001 ",Ecuador,Brighton,,Central Midfield,6.0,26,3,3,1888,0,0,1.78,"Feb 1, 2021","Jun 30, 2027",/moises-caicedo/profil/spieler/687626
+191,Marc Leonard,20,"Dec 19, 2001",Scotland,Brighton,,Central Midfield,0.3,27,4,3,2408,0,0,1.8,-,"May 31, 2023",/marc-leonard/profil/spieler/463751
+192,Solly March,27,"Jul 20, 1994",England,Brighton,,Left Midfield,9.0,33,0,2,1921,0,0,1.8,"Jul 1, 2013","Jun 30, 2024",/solly-march/profil/spieler/209212
+193,Jeremy Sarmiento,20,"Jun 16, 2002",Ecuador,Brighton,,Attacking Midfield,3.0,14,1,0,424,0,0,1.78,"Jul 2, 2021","Jun 30, 2026",/jeremy-sarmiento/profil/spieler/568005
+194,Adam Lallana,34,"May 10, 1988",England,Brighton,,Attacking Midfield,2.0,25,0,1,1605,0,0,1.72,"Jul 27, 2020","Jun 30, 2023",/adam-lallana/profil/spieler/43530
+195,Andy Moran,18,"Oct 15, 2003",Ireland,Brighton,,Attacking Midfield,0.3,27,5,4,1948,0,0,-,-,"Jun 30, 2025",/andy-moran/profil/spieler/724537
+196,Leandro Trossard,27,"Dec 4, 1994 ",Belgium,Brighton,,Left Winger,20.0,35,8,3,2873,0,0,1.72,"Jul 1, 2019","Jun 30, 2026",/leandro-trossard/profil/spieler/144028
+200,Danny Welbeck,31,"Nov 26, 1990",England,Brighton,,Centre-Forward,4.0,27,6,3,1550,0,0,1.85,"Oct 18, 2020","Jun 30, 2024",/danny-welbeck/profil/spieler/67063
+204,Evan Ferguson,17,"Oct 19, 2004",Ireland,Brighton,,Centre-Forward,0.6,24,10,1,1431,0,0,1.83,"Jul 1, 2022","Jun 30, 2026",/evan-ferguson/profil/spieler/648046
+205,Edouard Mendy,30,"Mar 1, 1992 ",Senegal,Chelsea,,Goalkeeper,32.0,49,0,0,4559,40,23,1.94,"Sep 24, 2020","Jun 30, 2025",/edouard-mendy/profil/spieler/442531
+206,Kepa Arrizabalaga,27,"Oct 3, 1994 ",Spain,Chelsea,,Goalkeeper,10.0,15,0,0,1201,10,8,1.86,"Aug 8, 2018","Jun 30, 2025",/kepa-arrizabalaga/profil/spieler/192279
+207,Marcus Bettinelli,30,"May 24, 1992",England,Chelsea,,Goalkeeper,2.0,1,0,0,90,1,0,1.93,"Jul 28, 2021","Jun 30, 2023",/marcus-bettinelli/profil/spieler/116648
+208,Lucas Bergström,19,"Sep 5, 2002 ",Finland,Chelsea,,Goalkeeper,,15,0,0,1350,28,1,2.05,-,"Jun 30, 2024",/lucas-bergstrom/profil/spieler/490606
+209,Teddy Sharman-Lowe,19,"Mar 30, 2003",England,Chelsea,,Goalkeeper,,20,0,0,1800,40,2,1.89,-,"May 31, 2023",/teddy-sharman-lowe/profil/spieler/731466
+212,Kurt Zouma,27,"Oct 27, 1994",France,Chelsea,,Centre-Back,28.0,33,1,1,2926,0,0,1.9,"Jan 31, 2014","Jun 30, 2025",/kurt-zouma/profil/spieler/157509
+213,Trevoh Chalobah,22,"Jul 5, 1999 ",England,Chelsea,,Centre-Back,20.0,31,4,1,2335,0,0,1.92,"Jul 1, 2021","Jun 30, 2028",/trevoh-chalobah/profil/spieler/346314
+215,Thiago Silva,37,"Sep 22, 1984",Brazil,Chelsea,,Centre-Back,2.5,48,3,3,3977,0,0,1.81,"Aug 28, 2020","Jun 30, 2024",/thiago-silva/profil/spieler/29241
+217,Xavier Mbuyamba,20,"Dec 31, 2001",Netherlands,Chelsea,,Centre-Back,0.5,26,2,1,2194,0,0,1.95,-,"Jun 30, 2025",/xavier-mbuyamba/profil/spieler/640432
+218,Ben Chilwell,25,"Dec 21, 1996",England,Chelsea,,Left-Back,38.0,13,3,1,841,0,0,1.8,"Aug 26, 2020","Jun 30, 2025",/ben-chilwell/profil/spieler/316125
+222,Dylan Williams,18,"Sep 13, 2003",England,Chelsea,,Left-Back,0.2,25,0,2,1918,0,0,1.77,-,"Jun 30, 2025",/dylan-williams/profil/spieler/732117
+223,Lewis Hall,17,"Sep 8, 2004 ",England,Chelsea,,Left-Back,,38,8,10,2816,0,0,1.79,-,"Jun 30, 2025",/lewis-hall/profil/spieler/670858
+224,Reece James,22,"Dec 8, 1999 ",England,Chelsea,,Right-Back,60.0,39,6,10,2862,0,0,1.8,"Jul 1, 2019","Jun 30, 2028",/reece-james/profil/spieler/472423
+225,César Azpilicueta,32,"Aug 28, 1989",Spain,Chelsea,,Right-Back,9.0,47,3,3,3634,0,0,1.78,"Aug 24, 2012","Jun 30, 2024",/cesar-azpilicueta/profil/spieler/57500
+226,Jorginho,30,"Dec 20, 1991",Italy,Chelsea,,Defensive Midfield,40.0,47,9,5,3562,0,0,1.78,"Jul 14, 2018","Jun 30, 2024",/jorginho/profil/spieler/102017
+227,N'Golo Kanté,31,"Mar 29, 1991",France,Chelsea,,Defensive Midfield,40.0,42,2,5,2685,0,0,1.71,"Jul 16, 2016","Jun 30, 2023",/ngolo-kante/profil/spieler/225083
+228,Xavier Simons,19,"Feb 20, 2003",England,Chelsea,,Defensive Midfield,0.3,30,1,2,2295,0,0,1.8,-,"May 31, 2023",/xavier-simons/profil/spieler/599739
+229,Mateo Kovacic,28,"May 6, 1994 ",Croatia,Chelsea,,Central Midfield,42.0,44,2,6,2906,0,0,1.77,"Jul 1, 2019","Jun 30, 2024",/mateo-kovacic/profil/spieler/51471
+230,Saúl Ñíguez,27,"Nov 21, 1994",Spain,Chelsea,,Central Midfield,25.0,26,1,1,1379,0,0,1.84,"Aug 31, 2021","Jun 30, 2026",/saul-niguez/profil/spieler/148928
+231,Ruben Loftus-Cheek,26,"Jan 23, 1996",England,Chelsea,,Central Midfield,20.0,40,1,5,2158,0,0,1.91,"Jan 1, 2015","Jun 30, 2024",/ruben-loftus-cheek/profil/spieler/202886
+236,Charlie Webster,18,"Jan 31, 2004",England,Chelsea,,Central Midfield,,33,7,4,2378,0,0,-,-,"Jun 30, 2024",/charlie-webster/profil/spieler/697278
+237,Mason Mount,23,"Jan 10, 1999",England,Chelsea,,Attacking Midfield,75.0,53,13,16,3781,0,0,1.81,"Jul 1, 2019","Jun 30, 2024",/mason-mount/profil/spieler/346483
+238,Kai Havertz,23,"Jun 11, 1999",Germany,Chelsea,,Attacking Midfield,70.0,47,14,6,3245,0,0,1.93,"Sep 4, 2020","Jun 30, 2025",/kai-havertz/profil/spieler/309400
+239,Harvey Vale,18,"Sep 11, 2003",England,Chelsea,,Attacking Midfield,0.4,38,9,5,3021,0,0,1.81,-,"Jun 30, 2025",/harvey-vale/profil/spieler/581675
+243,Christian Pulisic,23,"Sep 18, 1998",United States,Chelsea,,Right Winger,42.0,38,8,5,2207,0,0,1.77,"Jan 2, 2019","Jun 30, 2024",/christian-pulisic/profil/spieler/315779
+244,Hakim Ziyech,29,"Mar 19, 1993",Morocco,Chelsea,,Right Winger,28.0,44,8,6,2429,0,0,1.81,"Jul 1, 2020","Jun 30, 2025",/hakim-ziyech/profil/spieler/217111
+246,Tammy Abraham,24,"Oct 2, 1997 ",England,Chelsea,,Centre-Forward,50.0,53,27,5,4257,0,0,1.94,"Jul 1, 2017","Jun 30, 2026",/tammy-abraham/profil/spieler/331726
+248,Jude Soonsup-Bell,18,"Jan 10, 2004",England,Chelsea,,Centre-Forward,0.3,36,8,5,2308,0,0,1.82,-,"Jun 30, 2025",/jude-soonsup-bell/profil/spieler/670857
+249,Jack Butland,29,"Mar 10, 1993",England,Crystal Palace,,Goalkeeper,1.8,15,0,0,1304,18,3,1.96,"Oct 16, 2020","Jun 30, 2023",/jack-butland/profil/spieler/128899
+250,Vicente Guaita,35,"Jan 10, 1987",Spain,Crystal Palace,,Goalkeeper,1.5,30,0,0,2655,33,12,1.9,"Jul 1, 2018","Jun 30, 2024",/vicente-guaita/profil/spieler/64399
+252,Marc Guéhi,21,"Jul 13, 2000",England,Crystal Palace,,Centre-Back,32.0,42,4,1,3763,0,0,1.82,"Jul 18, 2021","Jun 30, 2026",/marc-guehi/profil/spieler/392757
+253,Joachim Andersen,26,"May 31, 1996",Denmark,Crystal Palace,,Centre-Back,25.0,39,0,3,3365,0,0,1.92,"Jul 28, 2021","Jun 30, 2026",/joachim-andersen/profil/spieler/260827
+254,Nathan Ferguson,21,"Oct 6, 2000 ",England,Crystal Palace,,Centre-Back,2.5,3,0,0,174,0,0,1.84,"Jul 27, 2020","Jun 30, 2023",/nathan-ferguson/profil/spieler/507254
+255,James Tomkins,33,"Mar 29, 1989",England,Crystal Palace,,Centre-Back,1.5,9,1,0,627,0,0,1.92,"Jul 5, 2016","Jun 30, 2023",/james-tomkins/profil/spieler/61592
+257,Tyrick Mitchell,22,"Sep 1, 1999 ",England,Crystal Palace,,Left-Back,25.0,41,0,2,3453,0,0,1.75,"Jul 1, 2020","Jun 30, 2025",/tyrick-mitchell/profil/spieler/730893
+258,Reece Hannam,21,"Sep 11, 2000",England,Crystal Palace,,Left-Back,0.2,9,0,0,715,0,0,1.86,-,"Jun 30, 2023",/reece-hannam/profil/spieler/503241
+259,Tayo Adaramola,18,"Nov 14, 2003",Ireland,Crystal Palace,,Left-Back,,28,2,3,2383,0,0,-,-,"May 31, 2023",/tayo-adaramola/profil/spieler/724529
+260,Joel Ward,32,"Oct 29, 1989",England,Crystal Palace,,Right-Back,2.0,32,0,0,2842,0,0,1.86,"Jul 1, 2012","Jun 30, 2023",/joel-ward/profil/spieler/92572
+261,Nathaniel Clyne,31,"Apr 5, 1991 ",England,Crystal Palace,,Right-Back,2.0,22,0,1,1731,0,0,1.75,"Oct 14, 2020","Jun 30, 2023",/nathaniel-clyne/profil/spieler/85177
+263,Jairo Riedewald,25,"Sep 9, 1996 ",Netherlands,Crystal Palace,,Defensive Midfield,5.0,6,1,0,221,0,0,1.82,"Jul 24, 2017","Jun 30, 2024",/jairo-riedewald/profil/spieler/241481
+265,Luka Milivojevic,31,"Apr 7, 1991 ",Serbia,Crystal Palace,,Defensive Midfield,4.0,20,0,0,911,0,0,1.86,"Jan 31, 2017","Jun 30, 2023",/luka-milivojevic/profil/spieler/74300
+266,Conor Gallagher,22,"Feb 6, 2000 ",England,Crystal Palace,,Central Midfield,25.0,39,8,5,3210,0,0,1.82,"Jul 30, 2021","Jun 30, 2025",/conor-gallagher/profil/spieler/488362
+267,Will Hughes,27,"Apr 17, 1995",England,Crystal Palace,,Central Midfield,6.0,20,1,1,1243,0,0,1.85,"Aug 28, 2021","Jun 30, 2024",/will-hughes/profil/spieler/207014
+268,James McArthur,34,"Oct 7, 1987 ",Scotland,Crystal Palace,,Central Midfield,1.2,23,0,4,1536,0,0,1.78,"Sep 1, 2014","Jun 30, 2023",/james-mcarthur/profil/spieler/41416
+269,Jack Wells-Morrison,18,"Feb 18, 2004",England,Crystal Palace,,Central Midfield,,25,1,1,2180,0,0,1.8,-,-,/jack-wells-morrison/profil/spieler/814811
+270,Jeffrey Schlupp,29,"Dec 23, 1992",Ghana,Crystal Palace,,Left Midfield,8.0,37,4,2,2192,0,0,1.78,"Jan 13, 2017","Jun 30, 2023",/jeffrey-schlupp/profil/spieler/157506
+271,Eberechi Eze,24,"Jun 29, 1998",England,Crystal Palace,,Attacking Midfield,22.0,19,1,1,1047,0,0,1.78,"Aug 28, 2020","Jun 30, 2025",/eberechi-eze/profil/spieler/479999
+272,Wilfried Zaha,29,"Nov 10, 1992",Cote d'Ivoire,Crystal Palace,,Left Winger,38.0,37,15,2,3122,0,0,1.8,"Feb 2, 2015","Jun 30, 2023",/wilfried-zaha/profil/spieler/145988
+273,Jesurun Rak-Sakyi,19,"Oct 5, 2002 ",England,Crystal Palace,,Left Winger,0.5,29,19,6,2461,0,0,1.78,-,"May 31, 2023",/jesurun-rak-sakyi/profil/spieler/586834
+274,Michael Olise,20,"Dec 12, 2001",France,Crystal Palace,,Right Winger,22.0,32,4,9,1564,0,0,1.84,"Jul 8, 2021","Jun 30, 2026",/michael-olise/profil/spieler/566723
+275,Scott Banks,20,"Sep 26, 2001",Scotland,Crystal Palace,,Right Winger,0.25,19,10,4,1284,0,0,1.83,-,"Jun 30, 2023",/scott-banks/profil/spieler/596821
+276,Odsonne Edouard,24,"Jan 16, 1998",France,Crystal Palace,,Centre-Forward,17.0,42,9,5,2287,0,0,1.87,"Aug 31, 2021","Jun 30, 2025",/odsonne-edouard/profil/spieler/344152
+279,Jordan Ayew,30,"Sep 11, 1991",Ghana,Crystal Palace,,Centre-Forward,6.0,34,3,3,2214,0,0,1.82,"Jul 25, 2019","Jun 30, 2023",/jordan-ayew/profil/spieler/108354
+281,Robert Street,20,"Sep 26, 2001",England,Crystal Palace,,Centre-Forward,,35,9,2,2313,0,0,1.89,-,"May 31, 2023",/robert-street/profil/spieler/703474
+282,Jordan Pickford,28,"Mar 7, 1994 ",England,Everton,,Goalkeeper,20.0,37,0,0,3330,63,7,1.85,"Jul 1, 2017","Jun 30, 2027",/jordan-pickford/profil/spieler/130164
+283,Asmir Begovic,35,"Jun 20, 1987",Bosnia-Herzegovina,Everton,,Goalkeeper,1.0,7,0,0,660,13,2,1.99,"Jul 20, 2021","Jun 30, 2023",/asmir-begovic/profil/spieler/33873
+284,Andy Lonergan,38,"Oct 19, 1983",England,Everton,,Goalkeeper,0.25,-,0,0,0,0,0,1.93,"Aug 20, 2021","Jun 30, 2023",/andy-lonergan/profil/spieler/14044
+285,Harry Tyrer,20,"Dec 6, 2001 ",England,Everton,,Goalkeeper,,19,0,0,1710,34,5,1.94,-,"May 31, 2023",/harry-tyrer/profil/spieler/574448
+286,Michael Keane,29,"Jan 11, 1993",England,Everton,,Centre-Back,20.0,38,3,2,3281,0,0,1.88,"Jul 3, 2017","Jun 30, 2025",/michael-keane/profil/spieler/118534
+287,Yerry Mina,27,"Sep 23, 1994",Colombia,Everton,,Centre-Back,20.0,14,1,0,923,0,0,1.95,"Aug 9, 2018","Jun 30, 2023",/yerry-mina/profil/spieler/289446
+288,Ben Godfrey,24,"Jan 15, 1998",England,Everton,,Centre-Back,20.0,27,0,0,2345,0,0,1.84,"Oct 5, 2020","Jun 30, 2025",/ben-godfrey/profil/spieler/343475
+289,Mason Holgate,25,"Oct 22, 1996",England,Everton,,Centre-Back,18.0,29,3,1,2494,0,0,1.87,"Aug 13, 2015","Jun 30, 2025",/mason-holgate/profil/spieler/348623
+291,Ryan Astley,20,"Oct 4, 2001 ",Wales,Everton,,Centre-Back,,26,0,0,2336,0,0,1.84,-,"May 31, 2023",/ryan-astley/profil/spieler/511552
+292,Reece Welch,18,"Sep 19, 2003",England,Everton,,Centre-Back,,30,1,1,2535,0,0,-,-,"Jun 30, 2026",/reece-welch/profil/spieler/655986
+293,Lucas Digne,28,"Jul 20, 1993",France,Everton,,Left-Back,25.0,31,1,4,2519,0,0,1.78,"Aug 1, 2018","Jun 30, 2026",/lucas-digne/profil/spieler/126664
+294,Vitaliy Mykolenko,23,"May 29, 1999",Ukraine,Everton,,Left-Back,18.0,37,1,4,3126,0,0,1.8,"Jan 1, 2022","Jun 30, 2026",/vitaliy-mykolenko/profil/spieler/404842
+296,Nathan Patterson,20,"Oct 16, 2001",Scotland,Everton,,Right-Back,8.0,13,0,2,695,0,0,1.89,"Jan 4, 2022","Jun 30, 2027",/nathan-patterson/profil/spieler/424015
+298,Seamus Coleman,33,"Oct 11, 1988",Ireland,Everton,,Right-Back,3.0,34,1,1,2971,0,0,1.77,"Jan 1, 2009","Jun 30, 2023",/seamus-coleman/profil/spieler/68390
+301,Donny van de Beek,25,"Apr 18, 1997",Netherlands,Everton,,Central Midfield,25.0,21,2,0,863,0,0,1.84,"Jan 31, 2022","Jun 30, 2025",/donny-van-de-beek/profil/spieler/288255
+302,Abdoulaye Doucouré,29,"Jan 1, 1993 ",Mali,Everton,,Central Midfield,22.0,34,2,4,2796,0,0,1.83,"Sep 8, 2020","Jun 30, 2023",/abdoulaye-doucoure/profil/spieler/127187
+304,Tom Davies,24,"Jun 30, 1998",England,Everton,,Central Midfield,18.0,8,1,1,387,0,0,1.8,"Jan 1, 2017","Jun 30, 2023",/tom-davies/profil/spieler/314210
+306,Tyler Onyango,19,"Mar 4, 2003 ",England,Everton,,Central Midfield,0.2,14,0,1,956,0,0,1.9,-,"May 31, 2023",/tyler-onyango/profil/spieler/663225
+307,Isaac Price,18,"Sep 26, 2003",Northern Ireland,Everton,,Central Midfield,,32,1,2,2476,0,0,-,-,"Jun 30, 2023",/isaac-price/profil/spieler/612749
+308,Alex Iwobi,26,"May 3, 1996 ",Nigeria,Everton,,Attacking Midfield,18.0,32,3,3,2234,0,0,1.83,"Aug 8, 2019","Jun 30, 2024",/alex-iwobi/profil/spieler/242631
+311,Charlie Whitaker,18,"Sep 16, 2003",England,Everton,,Attacking Midfield,,21,5,1,1401,0,0,-,-,"Jun 30, 2023",/charlie-whitaker/profil/spieler/726992
+312,Demarai Gray,26,"Jun 28, 1996",England,Everton,,Left Winger,22.0,39,6,5,2649,0,0,1.83,"Jul 22, 2021","Jun 30, 2024",/demarai-gray/profil/spieler/292417
+313,Anthony Gordon,21,"Feb 24, 2001",England,Everton,,Left Winger,20.0,40,4,3,2691,0,0,1.82,"Jan 1, 2020",-,/anthony-gordon/profil/spieler/503733
+314,Lewis Dobbin,19,"Jan 3, 2003 ",England,Everton,,Left Winger,0.3,26,6,2,1687,0,0,1.75,-,"May 31, 2023",/lewis-dobbin/profil/spieler/627248
+316,Andros Townsend,30,"Jul 16, 1991",England,Everton,,Right Winger,5.0,27,7,4,1815,0,0,1.81,"Jul 20, 2021","Jun 30, 2023",/andros-townsend/profil/spieler/61842
+318,Dominic Calvert-Lewin,25,"Mar 16, 1997",England,Everton,,Centre-Forward,40.0,18,5,2,1331,0,0,1.89,"Aug 31, 2016","Jun 30, 2025",/dominic-calvert-lewin/profil/spieler/306024
+319,Moise Kean,22,"Feb 28, 2000",Italy,Everton,,Centre-Forward,24.0,44,6,3,1434,0,0,1.83,"Aug 4, 2019","Jun 30, 2023",/moise-kean/profil/spieler/364135
+320,Salomón Rondón,32,"Sep 16, 1989",Venezuela,Everton,,Centre-Forward,2.5,23,3,1,1032,0,0,1.86,"Aug 31, 2021","Dec 31, 2025",/salomon-rondon/profil/spieler/80197
+322,Nathan Broadhead,24,"Apr 5, 1998 ",Wales,Everton,,Centre-Forward,0.5,27,13,0,1600,0,0,1.78,-,"Jun 30, 2026",/nathan-broadhead/profil/spieler/344009
+323,Ellis Simms,21,"Jan 5, 2001 ",England,Everton,,Centre-Forward,0.3,26,7,2,1916,0,0,1.91,"Jan 1, 2023","Jun 30, 2024",/ellis-simms/profil/spieler/511550
+324,Marek Rodak,25,"Dec 13, 1996",Slovakia,Fulham,,Goalkeeper,5.0,35,0,0,3180,26,16,1.94,"Jul 1, 2019","Jun 30, 2024",/marek-rodak/profil/spieler/186901
+327,Damian Las,20,"Apr 11, 2002",United States,Fulham,,Goalkeeper,0.5,2,0,0,180,2,1,1.85,-,"Dec 31, 2023",/damian-las/profil/spieler/504143
+328,Taye Ashby-Hammond,23,"Mar 21, 1999",England,Fulham,,Goalkeeper,,37,0,0,3330,28,19,1.9,-,"May 31, 2023",/taye-ashby-hammond/profil/spieler/314354
+329,Tosin Adarabioyo,24,"Sep 24, 1997",England,Fulham,,Centre-Back,15.0,44,2,2,3932,0,0,1.96,"Oct 5, 2020","Jun 30, 2024",/tosin-adarabioyo/profil/spieler/258878
+333,Tim Ream,34,"Oct 5, 1987 ",United States,Fulham,,Centre-Back,0.5,47,1,2,4161,0,0,1.86,"Aug 20, 2015","Jun 30, 2024",/tim-ream/profil/spieler/145466
+334,Antonee Robinson,24,"Aug 8, 1997 ",United States,Fulham,,Left-Back,8.0,37,3,4,3032,0,0,1.83,"Aug 20, 2020","Jun 30, 2024",/antonee-robinson/profil/spieler/349701
+337,Kenny Tete,26,"Oct 9, 1995 ",Netherlands,Fulham,,Right-Back,4.0,20,2,1,1339,0,0,1.8,"Sep 10, 2020","Jun 30, 2024",/kenny-tete/profil/spieler/206746
+340,Denis Odoi,34,"May 27, 1988",Ghana,Fulham,,Right-Back,0.7,36,2,5,2857,0,0,1.78,"Jul 14, 2016","Jun 30, 2024",/denis-odoi/profil/spieler/59641
+341,Marlon Fossey,23,"Sep 9, 1998 ",United States,Fulham,,Right-Back,0.25,27,1,10,2408,0,0,1.79,-,"Jun 30, 2025",/marlon-fossey/profil/spieler/408562
+342,Nathaniel Chalobah,27,"Dec 12, 1994",England,Fulham,,Defensive Midfield,4.0,22,0,2,1117,0,0,1.85,"Aug 31, 2021","Jun 30, 2024",/nathaniel-chalobah/profil/spieler/128900
+344,Harrison Reed,27,"Jan 27, 1995",England,Fulham,,Central Midfield,10.0,42,0,2,2904,0,0,1.81,"Aug 30, 2020","Jun 30, 2024",/harrison-reed/profil/spieler/226973
+346,Tom Cairney,31,"Jan 20, 1991",Scotland,Fulham,,Central Midfield,5.0,28,3,4,1596,0,0,1.85,"Jul 1, 2015","Jun 30, 2024",/tom-cairney/profil/spieler/123275
+347,Josh Onomah,25,"Apr 27, 1997",England,Fulham,,Central Midfield,3.5,22,1,3,920,0,0,1.85,"Aug 8, 2019","Jun 30, 2023",/josh-onomah/profil/spieler/243589
+350,Adrion Pajaziti,19,"Nov 16, 2002",Albania,Fulham,,Central Midfield,,25,2,2,2102,0,0,1.8,-,"Dec 31, 2023",/adrion-pajaziti/profil/spieler/626301
+352,Bobby De Cordova-Reid,29,"Feb 2, 1993 ",Jamaica,Fulham,,Attacking Midfield,7.0,44,8,7,2782,0,0,1.7,"Jan 24, 2020","Jun 30, 2024",/bobby-de-cordova-reid/profil/spieler/186186
+354,Neeskens Kebano,30,"Mar 10, 1992",DR Congo,Fulham,,Left Winger,3.0,44,9,7,3033,0,0,1.7,"Aug 26, 2016","Jun 30, 2023",/neeskens-kebano/profil/spieler/111422
+355,Ollie O'Neill,19,"Jan 8, 2003 ",Ireland,Fulham,,Left Winger,,23,6,3,1840,0,0,-,-,"Nov 30, 2023",/ollie-oneill/profil/spieler/610786
+356,Harry Wilson,25,"Mar 22, 1997",Wales,Fulham,,Right Winger,17.0,43,11,21,3591,0,0,1.73,"Jul 24, 2021","Jun 30, 2026",/harry-wilson/profil/spieler/279455
+358,Aleksandar Mitrović,27,"Sep 16, 1994",Serbia,Fulham,,Centre-Forward,20.0,46,43,7,3961,0,0,1.89,"Jul 30, 2018","Jun 30, 2026",/aleksandar-mitrovi%C4%87/profil/spieler/51152
+360,Aboubakar Kamara,27,"Mar 7, 1995 ",Mauritania,Fulham,,Centre-Forward,3.5,36,10,4,2973,0,0,1.77,"Jul 31, 2017","Jun 30, 2023",/aboubakar-kamara/profil/spieler/290951
+361,Jay Stansfield,19,"Nov 24, 2002",England,Fulham,,Centre-Forward,0.5,16,7,2,1331,0,0,1.87,-,"May 31, 2023",/jay-stansfield/profil/spieler/696346
+362,Illan Meslier,22,"Mar 2, 2000 ",France,Leeds,,Goalkeeper,20.0,42,0,0,3775,82,7,1.97,"Jul 27, 2020","Jun 30, 2026",/illan-meslier/profil/spieler/542586
+363,Kristoffer Klaesson,21,"Nov 27, 2000",Norway,Leeds,,Goalkeeper,2.0,24,0,0,2105,51,4,1.89,"Jul 31, 2021","Jun 30, 2025",/kristoffer-klaesson/profil/spieler/418561
+364,Diego Llorente,28,"Aug 16, 1993",Spain,Leeds,,Centre-Back,18.0,31,3,0,2538,0,0,1.86,"Sep 24, 2020","Jun 30, 2023",/diego-llorente/profil/spieler/246291
+365,Robin Koch,25,"Jul 17, 1996",Germany,Leeds,,Centre-Back,16.0,21,0,0,1663,0,0,1.91,"Aug 29, 2020","Jun 30, 2024",/robin-koch/profil/spieler/328784
+366,Pascal Struijk,22,"Aug 11, 1999",Netherlands,Leeds,,Centre-Back,15.0,33,2,0,2365,0,0,1.9,"Jan 1, 2020","Jun 30, 2027",/pascal-struijk/profil/spieler/410708
+367,Liam Cooper,30,"Aug 30, 1991",Scotland,Leeds,,Centre-Back,7.0,22,0,1,1846,0,0,1.86,"Aug 13, 2014","Jun 30, 2024",/liam-cooper/profil/spieler/75067
+369,Kris Moore,18,"Nov 13, 2003",England,Leeds,,Centre-Back,,28,0,1,2224,0,0,-,-,"Jun 30, 2024",/kris-moore/profil/spieler/746067
+370,Junior Firpo,25,"Aug 22, 1996",Dominican Republic,Leeds,,Left-Back,12.0,28,0,2,2024,0,0,1.84,"Jul 6, 2021","Jun 30, 2025",/junior-firpo/profil/spieler/374139
+372,Leo Fuhr Hjelde,18,"Aug 26, 2003",Norway,Leeds,,Left-Back,0.8,16,0,0,1080,0,0,1.88,-,"May 31, 2023",/leo-fuhr-hjelde/profil/spieler/661208
+374,Luke Ayling,30,"Aug 25, 1991",England,Leeds,,Right-Back,4.0,29,2,2,2424,0,0,1.83,"Aug 11, 2016","Jun 30, 2024",/luke-ayling/profil/spieler/67420
+375,Stuart Dallas,31,"Apr 19, 1991",Northern Ireland,Leeds,,Right-Back,4.0,37,1,1,3176,0,0,1.83,"Aug 4, 2015","Jun 30, 2024",/stuart-dallas/profil/spieler/158764
+378,Jack Jenkins,20,"Mar 23, 2002",England,Leeds,,Defensive Midfield,0.15,22,1,2,1828,0,0,1.9,-,"May 31, 2023",/jack-jenkins/profil/spieler/734375
+379,Nohan Kenneh,19,"Jan 10, 2003",Liberia,Leeds,,Defensive Midfield,,28,1,1,2245,0,0,1.9,-,"May 31, 2023",/nohan-kenneh/profil/spieler/581677
+380,Mateusz Klich,32,"Jun 13, 1990",Poland,Leeds,,Central Midfield,3.0,37,1,2,2313,0,0,1.83,"Jul 1, 2017","Dec 31, 2024",/mateusz-klich/profil/spieler/92738
+382,Adam Forshaw,30,"Oct 8, 1991 ",England,Leeds,,Central Midfield,2.0,28,0,1,1808,0,0,1.75,"Jan 18, 2018","Jun 30, 2023",/adam-forshaw/profil/spieler/121257
+383,Lewis Bate,19,"Oct 28, 2002",England,Leeds,,Central Midfield,1.0,27,1,1,2063,0,0,1.7,-,"May 31, 2023",/lewis-bate/profil/spieler/587003
+384,Sam Greenwood,20,"Jan 26, 2002",England,Leeds,,Attacking Midfield,2.5,27,9,7,1635,0,0,1.8,"Jan 1, 2022","Jun 30, 2026",/sam-greenwood/profil/spieler/532178
+385,Archie Gray,16,"Mar 12, 2006",England,Leeds,,Attacking Midfield,,26,3,2,1725,0,0,-,-,-,/archie-gray/profil/spieler/922693
+386,Jack Harrison,25,"Nov 20, 1996",England,Leeds,,Left Winger,18.0,38,10,2,2915,0,0,1.75,"Jul 2, 2021","Jun 30, 2024",/jack-harrison/profil/spieler/417346
+387,Stuart McKinstry,19,"Sep 18, 2002",Scotland,Leeds,,Left Winger,0.2,25,2,4,1511,0,0,1.79,-,"May 31, 2023",/stuart-mckinstry/profil/spieler/592474
+392,Crysencio Summerville,20,"Oct 30, 2001",Netherlands,Leeds,,Right Winger,2.0,23,7,1,1046,0,0,1.74,"Jul 1, 2021","Jun 30, 2026",/crysencio-summerville/profil/spieler/474701
+393,Rodrigo,31,"Mar 6, 1991 ",Spain,Leeds,,Second Striker,12.0,34,6,1,2527,0,0,1.82,"Aug 29, 2020","Jun 30, 2024",/rodrigo/profil/spieler/131505
+394,Patrick Bamford,28,"Sep 5, 1993 ",England,Leeds,,Centre-Forward,16.0,11,2,3,670,0,0,1.85,"Jul 31, 2018","Jun 30, 2026",/patrick-bamford/profil/spieler/183334
+396,Joe Gelhardt,20,"May 4, 2002 ",England,Leeds,,Centre-Forward,6.0,33,9,7,1481,0,0,1.79,"Aug 10, 2020","May 31, 2023",/joe-gelhardt/profil/spieler/503980
+397,Danny Ward,29,"Jun 22, 1993",Wales,Leicester,,Goalkeeper,6.0,5,0,0,450,8,1,1.91,"Jul 20, 2018","Jun 30, 2025",/danny-ward/profil/spieler/203026
+400,Jakub Stolarczyk,21,"Dec 19, 2000",Poland,Leicester,,Goalkeeper,0.2,18,0,0,1620,20,3,1.94,-,"May 31, 2023",/jakub-stolarczyk/profil/spieler/486144
+401,Chituru Odunze,19,"Oct 14, 2002",United States,Leicester,,Goalkeeper,,4,0,0,289,4,1,2.0,-,-,/chituru-odunze/profil/spieler/627198
+403,Caglar Söyüncü,26,"May 23, 1996",Turkey,Leicester,,Centre-Back,40.0,41,1,0,3592,0,0,1.87,"Aug 9, 2018","Jun 30, 2023",/caglar-soyuncu/profil/spieler/320141
+404,Jannik Vestergaard,29,"Aug 3, 1992 ",Denmark,Leicester,,Centre-Back,13.0,20,0,0,1171,0,0,1.99,"Aug 13, 2021","Jun 30, 2024",/jannik-vestergaard/profil/spieler/99331
+405,Daniel Amartey,27,"Dec 21, 1994",Ghana,Leicester,,Centre-Back,10.0,40,1,0,3140,0,0,1.86,"Jan 22, 2016","Jun 30, 2023",/daniel-amartey/profil/spieler/214056
+406,Jonny Evans,34,"Jan 3, 1988 ",Northern Ireland,Leicester,,Centre-Back,4.0,27,2,1,2108,0,0,1.88,"Jul 1, 2018","Jun 30, 2023",/jonny-evans/profil/spieler/42412
+409,Ben Nelson,18,"Mar 18, 2004",England,Leicester,,Centre-Back,,23,1,0,1962,0,0,1.93,-,"May 31, 2023",/ben-nelson/profil/spieler/714458
+410,Luke Thomas,21,"Jun 10, 2001",England,Leicester,,Left-Back,12.0,33,0,1,2816,0,0,1.81,"Jul 1, 2020","Jun 30, 2024",/luke-thomas/profil/spieler/505194
+411,Ryan Bertrand,32,"Aug 5, 1989 ",England,Leicester,,Left-Back,3.0,11,0,0,751,0,0,1.79,"Jul 15, 2021","Jun 30, 2023",/ryan-bertrand/profil/spieler/40611
+412,Timothy Castagne,26,"Dec 5, 1995 ",Belgium,Leicester,,Right-Back,28.0,36,1,0,2796,0,0,1.85,"Sep 3, 2020","Jun 30, 2025",/timothy-castagne/profil/spieler/262226
+413,James Justin,24,"Feb 23, 1998",England,Leicester,,Right-Back,25.0,20,0,0,1467,0,0,1.83,"Jul 1, 2019","Jun 30, 2026",/james-justin/profil/spieler/413220
+414,Ricardo Pereira,28,"Oct 6, 1993 ",Portugal,Leicester,,Right-Back,20.0,24,2,3,1554,0,0,1.75,"Jul 1, 2018","Jun 30, 2026",/ricardo-pereira/profil/spieler/215876
+415,Vontae Daley-Campbell,21,"Apr 2, 2001 ",England,Leicester,,Right-Back,0.2,28,1,2,2019,0,0,-,-,"Jun 30, 2025",/vontae-daley-campbell/profil/spieler/530732
+416,Wilfred Ndidi,25,"Dec 16, 1996",Nigeria,Leicester,,Defensive Midfield,60.0,31,2,1,2582,0,0,1.83,"Jan 3, 2017","Jun 30, 2024",/wilfred-ndidi/profil/spieler/274839
+417,Boubakary Soumaré,23,"Feb 27, 1999",France,Leicester,,Defensive Midfield,25.0,30,0,1,1686,0,0,1.88,"Jul 2, 2021","Jun 30, 2026",/boubakary-soumare/profil/spieler/344605
+419,Nampalys Mendy,30,"Jun 23, 1992",Senegal,Leicester,,Defensive Midfield,4.0,18,0,0,1306,0,0,1.67,"Jul 3, 2016","Jun 30, 2023",/nampalys-mendy/profil/spieler/111051
+420,Lewis Brunt,21,"Nov 6, 2000 ",England,Leicester,,Defensive Midfield,,26,3,0,2188,0,0,1.87,-,"Jun 30, 2025",/lewis-brunt/profil/spieler/533657
+421,Sammy Braybrooke,18,"Mar 12, 2004",England,Leicester,,Defensive Midfield,,27,2,5,2180,0,0,-,-,"Jun 30, 2026",/sammy-braybrooke/profil/spieler/840640
+422,Youri Tielemans,25,"May 7, 1997 ",Belgium,Leicester,,Central Midfield,55.0,50,7,5,4096,0,0,1.76,"Jul 8, 2019","Jun 30, 2023",/youri-tielemans/profil/spieler/249565
+423,Dennis Praet,28,"May 14, 1994",Belgium,Leicester,,Central Midfield,13.0,24,2,2,1544,0,0,1.81,"Aug 8, 2019","Jun 30, 2024",/dennis-praet/profil/spieler/129588
+424,Kiernan Dewsbury-Hall,23,"Sep 6, 1998 ",England,Leicester,,Central Midfield,8.0,44,3,3,3148,0,0,1.78,"Jul 1, 2021","Jun 30, 2027",/kiernan-dewsbury-hall/profil/spieler/475188
+425,Oliver Ewing,19,"Jan 3, 2003 ",Wales,Leicester,,Central Midfield,,17,0,2,1218,0,0,-,-,-,/oliver-ewing/profil/spieler/583953
+426,Wanya Marçal,19,"Oct 19, 2002",Portugal,Leicester,,Central Midfield,,27,6,1,2054,0,0,1.81,-,"Jun 30, 2024",/wanya-marcal/profil/spieler/670988
+427,Marc Albrighton,32,"Nov 18, 1989",England,Leicester,,Right Midfield,2.5,31,3,3,1833,0,0,1.75,"Jul 1, 2014","May 31, 2023",/marc-albrighton/profil/spieler/61560
+428,James Maddison,25,"Nov 23, 1996",England,Leicester,,Attacking Midfield,50.0,53,18,12,3625,0,0,1.75,"Jul 1, 2018","Jun 30, 2024",/james-maddison/profil/spieler/294057
+429,Kasey McAteer,20,"Nov 22, 2001",England,Leicester,,Attacking Midfield,0.3,28,2,2,1739,0,0,-,-,"May 31, 2023",/kasey-mcateer/profil/spieler/621193
+430,Will Alves,17,"May 4, 2005 ",England,Leicester,,Attacking Midfield,,29,2,2,1692,0,0,-,-,"Jun 30, 2023",/will-alves/profil/spieler/867711
+431,Harvey Barnes,24,"Dec 9, 1997 ",England,Leicester,,Left Winger,32.0,48,11,14,3202,0,0,1.82,"Jul 1, 2018","Jun 30, 2025",/harvey-barnes/profil/spieler/398065
+432,Ayoze Pérez,28,"Jul 29, 1993",Spain,Leicester,,Second Striker,10.0,25,3,5,865,0,0,1.78,"Jul 4, 2019","Jun 30, 2023",/ayoze-perez/profil/spieler/246968
+433,Ademola Lookman,24,"Oct 20, 1997",Nigeria,Leicester,,Second Striker,10.0,42,8,5,2346,0,0,1.74,"Aug 31, 2021","Jun 30, 2026",/ademola-lookman/profil/spieler/406040
+434,Kelechi Iheanacho,25,"Oct 3, 1996 ",Nigeria,Leicester,,Centre-Forward,20.0,43,8,9,2212,0,0,1.85,"Aug 3, 2017","Jun 30, 2024",/kelechi-iheanacho/profil/spieler/295330
+435,Patson Daka,23,"Oct 9, 1998 ",Zambia,Leicester,,Centre-Forward,20.0,38,11,4,1985,0,0,1.83,"Jul 1, 2021","Jun 30, 2026",/patson-daka/profil/spieler/365172
+436,Jamie Vardy,35,"Jan 11, 1987",England,Leicester,,Centre-Forward,5.0,33,17,2,2238,0,0,1.79,"Jul 1, 2012","Jun 30, 2024",/jamie-vardy/profil/spieler/197838
+437,Alisson,29,"Oct 2, 1992 ",Brazil,Liverpool,,Goalkeeper,50.0,54,0,0,4890,41,27,1.93,"Jul 19, 2018","Jun 30, 2027",/alisson/profil/spieler/105470
+438,Caoimhín Kelleher,23,"Nov 23, 1998",Ireland,Liverpool,,Goalkeeper,8.0,8,0,0,750,7,4,1.88,"Jul 1, 2019","Jun 30, 2026",/caoimhin-kelleher/profil/spieler/340918
+440,Adrián,35,"Jan 3, 1987 ",Spain,Liverpool,,Goalkeeper,1.0,1,0,0,90,0,1,1.9,"Aug 5, 2019","Jun 30, 2023",/adrian/profil/spieler/71271
+441,Marcelo Pitaluga,19,"Dec 20, 2002",Brazil,Liverpool,,Goalkeeper,0.1,22,0,0,1959,41,5,1.93,-,"May 31, 2023",/marcelo-pitaluga/profil/spieler/662334
+442,Liam Hughes,20,"Aug 19, 2001",Northern Ireland,Liverpool,,Goalkeeper,,4,0,0,360,5,1,1.93,-,-,/liam-hughes/profil/spieler/494284
+443,Harvey Davies,18,"Sep 3, 2003 ",England,Liverpool,,Goalkeeper,,25,0,0,2181,35,7,1.9,-,-,/harvey-davies/profil/spieler/706815
+444,Virgil van Dijk,30,"Jul 8, 1991 ",Netherlands,Liverpool,,Centre-Back,55.0,51,3,5,4620,0,0,1.93,"Jan 1, 2018","Jun 30, 2025",/virgil-van-dijk/profil/spieler/139208
+445,Ibrahima Konaté,23,"May 25, 1999",France,Liverpool,,Centre-Back,40.0,29,3,1,2487,0,0,1.94,"Jul 1, 2021","Jun 30, 2026",/ibrahima-konate/profil/spieler/357119
+446,Joe Gomez,25,"May 23, 1997",England,Liverpool,,Centre-Back,18.0,21,0,1,1036,0,0,1.88,"Jul 1, 2015","Jun 30, 2027",/joe-gomez/profil/spieler/256178
+447,Joel Matip,30,"Aug 8, 1991 ",Cameroon,Liverpool,,Centre-Back,18.0,43,3,3,3708,0,0,1.95,"Jul 1, 2016","Jun 30, 2024",/joel-matip/profil/spieler/82105
+448,Nathaniel Phillips,25,"Mar 21, 1997",England,Liverpool,,Centre-Back,8.0,22,0,0,1840,0,0,1.9,"Jul 1, 2019","Jun 30, 2025",/nathaniel-phillips/profil/spieler/371814
+452,Billy Koumetio,19,"Nov 14, 2002",France,Liverpool,,Centre-Back,0.8,35,2,2,2886,0,0,1.95,-,"Jun 30, 2025",/billy-koumetio/profil/spieler/696324
+453,Jarell Quansah,19,"Jan 29, 2003",England,Liverpool,,Centre-Back,,23,1,0,1480,0,0,1.9,-,"May 31, 2023",/jarell-quansah/profil/spieler/632349
+454,Andrew Robertson,28,"Mar 11, 1994",Scotland,Liverpool,,Left-Back,65.0,47,3,15,4003,0,0,1.78,"Jul 21, 2017","Jun 30, 2026",/andrew-robertson/profil/spieler/234803
+455,Konstantinos Tsimikas,26,"May 12, 1996",Greece,Liverpool,,Left-Back,15.0,26,0,6,1712,0,0,1.79,"Aug 10, 2020","Jun 30, 2025",/konstantinos-tsimikas/profil/spieler/338070
+456,Owen Beck,19,"Aug 9, 2002 ",Wales,Liverpool,,Left-Back,0.4,28,1,4,2272,0,0,1.77,-,"Jun 30, 2026",/owen-beck/profil/spieler/551001
+457,James Norris,19,"Apr 4, 2003 ",England,Liverpool,,Left-Back,,32,5,4,2504,0,0,1.72,-,-,/james-norris/profil/spieler/618495
+458,Trent Alexander-Arnold,23,"Oct 7, 1998 ",England,Liverpool,,Right-Back,80.0,47,2,19,4234,0,0,1.8,"Jul 1, 2016","Jun 30, 2025",/trent-alexander-arnold/profil/spieler/314353
+460,Conor Bradley,18,"Jul 9, 2003 ",Northern Ireland,Liverpool,,Right-Back,1.0,32,3,9,2570,0,0,1.81,-,"May 31, 2023",/conor-bradley/profil/spieler/624258
+461,Isaac Mabaya,17,"Sep 22, 2004",England,Liverpool,,Right-Back,,25,2,7,2020,0,0,-,-,"Jun 30, 2023",/isaac-mabaya/profil/spieler/670843
+462,Fabinho,28,"Oct 23, 1993",Brazil,Liverpool,,Defensive Midfield,60.0,48,8,1,3693,0,0,1.88,"Jul 1, 2018","Jun 30, 2026",/fabinho/profil/spieler/225693
+463,Curtis Jones,21,"Jan 30, 2001",England,Liverpool,,Central Midfield,28.0,27,1,4,1529,0,0,1.85,"Jul 1, 2020","Jun 30, 2027",/curtis-jones/profil/spieler/433188
+464,Naby Keïta,27,"Feb 10, 1995",Guinea,Liverpool,,Central Midfield,25.0,40,4,3,2086,0,0,1.72,"Jul 1, 2018","Jun 30, 2023",/naby-keita/profil/spieler/302215
+465,Thiago,31,"Apr 11, 1991",Spain,Liverpool,,Central Midfield,20.0,39,2,5,2386,0,0,1.74,"Sep 18, 2020","Jun 30, 2024",/thiago/profil/spieler/60444
+466,Alex Oxlade-Chamberlain,28,"Aug 15, 1993",England,Liverpool,,Central Midfield,16.0,29,3,3,1526,0,0,1.75,"Aug 31, 2017","Jun 30, 2023",/alex-oxlade-chamberlain/profil/spieler/143424
+467,Jordan Henderson,32,"Jun 17, 1990",England,Liverpool,,Central Midfield,15.0,57,3,7,3876,0,0,1.87,"Jul 1, 2011","Jun 30, 2025",/jordan-henderson/profil/spieler/61651
+468,Tyler Morton,19,"Oct 31, 2002",England,Liverpool,,Central Midfield,3.0,35,1,6,2768,0,0,1.85,-,"May 31, 2023",/tyler-morton/profil/spieler/618494
+469,James Milner,36,"Jan 4, 1986 ",England,Liverpool,,Central Midfield,2.0,39,0,3,1371,0,0,1.75,"Jul 1, 2015","Jun 30, 2023",/james-milner/profil/spieler/3333
+470,Elijah Dixon-Bonner,21,"Jan 1, 2001 ",England,Liverpool,,Central Midfield,0.3,15,4,0,829,0,0,-,-,-,/elijah-dixon-bonner/profil/spieler/433180
+471,Harvey Elliott,19,"Apr 4, 2003 ",England,Liverpool,,Attacking Midfield,22.0,13,1,1,675,0,0,1.7,"Jul 1, 2021","Jun 30, 2027",/harvey-elliott/profil/spieler/565822
+473,Melkamu Frauendorf,18,"Jan 12, 2004",Germany,Liverpool,,Attacking Midfield,,33,8,6,2471,0,0,1.8,-,"Jun 30, 2024",/melkamu-frauendorf/profil/spieler/594721
+474,James Balagizi,18,"Sep 20, 2003",England,Liverpool,,Attacking Midfield,,28,3,3,1987,0,0,1.89,-,-,/james-balagizi/profil/spieler/655987
+476,Luis Díaz,25,"Jan 13, 1997",Colombia,Liverpool,,Left Winger,65.0,54,22,11,3963,0,0,1.8,"Jan 30, 2022","Jun 30, 2027",/luis-diaz/profil/spieler/480692
+477,Diogo Jota,25,"Dec 4, 1996 ",Portugal,Liverpool,,Left Winger,60.0,55,21,8,3572,0,0,1.78,"Sep 19, 2020","Jun 30, 2027",/diogo-jota/profil/spieler/340950
+479,Mohamed Salah,30,"Jun 15, 1992",Egypt,Liverpool,,Right Winger,90.0,51,31,16,4014,0,0,1.75,"Jul 1, 2017","Jun 30, 2025",/mohamed-salah/profil/spieler/148455
+481,Kaide Gordon,17,"Oct 5, 2004 ",England,Liverpool,,Right Winger,1.5,19,5,2,1454,0,0,1.73,-,-,/kaide-gordon/profil/spieler/732119
+482,Harvey Blair,18,"Sep 14, 2003",England,Liverpool,,Right Winger,0.3,19,10,5,1303,0,0,-,-,-,/harvey-blair/profil/spieler/707164
+483,Roberto Firmino,30,"Oct 2, 1991 ",Brazil,Liverpool,,Centre-Forward,32.0,35,11,5,1804,0,0,1.81,"Jul 1, 2015","Jun 30, 2023",/roberto-firmino/profil/spieler/131789
+485,Max Woltman,18,"Aug 20, 2003",England,Liverpool,,Centre-Forward,0.3,35,9,4,2665,0,0,-,-,"Jun 30, 2023",/max-woltman/profil/spieler/696326
+486,Ederson,28,"Aug 17, 1993",Brazil,Manchester City,,Goalkeeper,45.0,49,0,0,4423,40,25,1.88,"Jul 1, 2017","Jun 30, 2026",/ederson/profil/spieler/238223
+488,Scott Carson,36,"Sep 3, 1985 ",England,Manchester City,,Goalkeeper,0.3,1,0,0,17,0,1,1.88,"Jul 20, 2021","Jun 30, 2023",/scott-carson/profil/spieler/14555
+489,Cieran Slicker,19,"Sep 15, 2002",Scotland,Manchester City,,Goalkeeper,,20,0,0,1800,34,7,-,-,"Jun 30, 2024",/cieran-slicker/profil/spieler/621997
+490,Rúben Dias,25,"May 14, 1997",Portugal,Manchester City,,Centre-Back,75.0,40,2,5,3290,0,0,1.87,"Sep 29, 2020","Jun 30, 2027",/ruben-dias/profil/spieler/258004
+491,Aymeric Laporte,28,"May 27, 1994",Spain,Manchester City,,Centre-Back,45.0,44,4,0,3757,0,0,1.89,"Jan 30, 2018","Jun 30, 2025",/aymeric-laporte/profil/spieler/176553
+492,John Stones,28,"May 28, 1994",England,Manchester City,,Centre-Back,28.0,27,2,0,2159,0,0,1.88,"Aug 9, 2016","Jun 30, 2026",/john-stones/profil/spieler/186590
+493,Nathan Aké,27,"Feb 18, 1995",Netherlands,Manchester City,,Centre-Back,25.0,27,3,0,1739,0,0,1.8,"Aug 5, 2020","Jun 30, 2025",/nathan-ake/profil/spieler/177476
+495,CJ Egan-Riley,19,"Jan 2, 2003 ",England,Manchester City,,Centre-Back,0.8,29,0,1,2300,0,0,1.83,-,"May 31, 2023",/cj-egan-riley/profil/spieler/581669
+496,Luke Mbete,18,"Sep 18, 2003",England,Manchester City,,Centre-Back,0.6,33,0,3,2570,0,0,1.85,-,"May 31, 2023",/luke-mbete/profil/spieler/609883
+497,Finley Burns,19,"Jun 17, 2003",England,Manchester City,,Centre-Back,0.3,26,0,0,2186,0,0,1.96,-,"Jun 30, 2027",/finley-burns/profil/spieler/581681
+499,Josh Wilson-Esbrand,19,"Dec 26, 2002",England,Manchester City,,Left-Back,0.4,21,2,2,1531,0,0,1.76,-,"May 31, 2023",/josh-wilson-esbrand/profil/spieler/576121
+500,Benjamin Mendy,27,"Jul 17, 1994",France,Manchester City,,Left-Back,,2,0,0,169,0,0,1.85,"Jul 24, 2017","Jun 30, 2023",/benjamin-mendy/profil/spieler/157495
+501,João Cancelo,28,"May 27, 1994",Portugal,Manchester City,,Right-Back,65.0,52,3,10,4622,0,0,1.82,"Aug 7, 2019","Jun 30, 2023",/joao-cancelo/profil/spieler/182712
+502,Kyle Walker,32,"May 28, 1990",England,Manchester City,,Right-Back,18.0,31,1,2,2648,0,0,1.83,"Jul 14, 2017","Jun 30, 2024",/kyle-walker/profil/spieler/95424
+504,Rodri,26,"Jun 22, 1996",Spain,Manchester City,,Defensive Midfield,80.0,46,7,2,3928,0,0,1.91,"Jul 4, 2019","Jun 30, 2027",/rodri/profil/spieler/357565
+505,Roméo Lavia,18,"Jan 6, 2004 ",Belgium,Manchester City,,Defensive Midfield,2.0,30,1,2,2518,0,0,1.81,-,"Jun 30, 2027",/romeo-lavia/profil/spieler/628451
+507,Claudio Gomes,21,"Jul 23, 2000",France,Manchester City,,Defensive Midfield,1.0,32,1,1,2619,0,0,1.8,-,"Jun 30, 2024",/claudio-gomes/profil/spieler/395239
+508,Ilkay Gündogan,31,"Oct 24, 1990",Germany,Manchester City,,Central Midfield,25.0,43,10,6,3021,0,0,1.8,"Jul 1, 2016","Jun 30, 2023",/ilkay-gundogan/profil/spieler/53622
+509,James McAtee,19,"Oct 18, 2002",England,Manchester City,,Central Midfield,3.0,34,23,8,2542,0,0,1.8,-,"May 31, 2023",/james-mcatee/profil/spieler/583199
+510,Tommy Doyle,20,"Oct 17, 2001",England,Manchester City,,Central Midfield,2.5,27,3,3,1630,0,0,1.72,-,"May 31, 2023",/tommy-doyle/profil/spieler/433183
+511,Kevin De Bruyne,31,"Jun 28, 1991",Belgium,Manchester City,,Attacking Midfield,85.0,45,19,14,3338,0,0,1.81,"Aug 30, 2015","Jun 30, 2025",/kevin-de-bruyne/profil/spieler/88755
+512,Bernardo Silva,27,"Aug 10, 1994",Portugal,Manchester City,,Attacking Midfield,80.0,50,13,7,3948,0,0,1.73,"Jul 1, 2017","Jun 30, 2025",/bernardo-silva/profil/spieler/241641
+513,Cole Palmer,20,"May 6, 2002 ",England,Manchester City,,Attacking Midfield,6.0,20,12,6,1156,0,0,1.82,"Jul 1, 2021","Jun 30, 2026",/cole-palmer/profil/spieler/568177
+514,Oscar Bobb,18,"Jul 12, 2003",Norway,Manchester City,,Attacking Midfield,,34,8,12,2821,0,0,-,-,"Jun 30, 2026",/oscar-bobb/profil/spieler/661207
+515,Phil Foden,22,"May 28, 2000",England,Manchester City,,Left Winger,90.0,45,14,11,3184,0,0,1.71,"Jul 1, 2017","Jun 30, 2027",/phil-foden/profil/spieler/406635
+517,Jack Grealish,26,"Sep 10, 1995",England,Manchester City,,Left Winger,70.0,39,6,4,2730,0,0,1.8,"Aug 5, 2021","Jun 30, 2027",/jack-grealish/profil/spieler/203460
+519,Samuel Edozie,19,"Jan 28, 2003",England,Manchester City,,Left Winger,0.8,17,4,2,1392,0,0,1.81,-,"Jun 30, 2027",/samuel-edozie/profil/spieler/680806
+520,Riyad Mahrez,31,"Feb 21, 1991",Algeria,Manchester City,,Right Winger,35.0,47,24,9,2931,0,0,1.79,"Jul 10, 2018","Jun 30, 2025",/riyad-mahrez/profil/spieler/171424
+521,Kayky,19,"Jun 11, 2003",Brazil,Manchester City,,Right Winger,14.0,19,6,4,1257,0,0,1.72,-,"Dec 31, 2023",/kayky/profil/spieler/668265
+522,Ben Knight,20,"Jun 14, 2002",England,Manchester City,,Right Winger,,11,2,2,562,0,0,1.7,-,"Jun 30, 2025",/ben-knight/profil/spieler/568007
+524,Liam Delap,19,"Feb 8, 2003 ",England,Manchester City,,Centre-Forward,1.5,15,8,2,929,0,0,1.86,-,"May 31, 2023",/liam-delap/profil/spieler/610849
+526,David de Gea,31,"Nov 7, 1990 ",Spain,Manchester United,,Goalkeeper,15.0,46,0,0,4140,66,10,1.89,"Jul 1, 2011","Jun 30, 2023",/david-de-gea/profil/spieler/59377
+527,Tom Heaton,36,"Apr 15, 1986",England,Manchester United,,Goalkeeper,0.8,2,0,0,112,2,1,1.88,"Jul 2, 2021","Jun 30, 2023",/tom-heaton/profil/spieler/34130
+528,Matej Kovar,22,"May 17, 2000",Czech Republic,Manchester United,,Goalkeeper,0.4,18,0,0,1620,18,9,1.96,-,"Jun 30, 2023",/matej-kovar/profil/spieler/550829
+530,Raphaël Varane,29,"Apr 25, 1993",France,Manchester United,,Centre-Back,48.0,29,1,1,2361,0,0,1.91,"Aug 14, 2021","Jun 30, 2025",/raphael-varane/profil/spieler/164770
+531,Harry Maguire,29,"Mar 5, 1993 ",England,Manchester United,,Centre-Back,38.0,37,2,0,3169,0,0,1.94,"Aug 5, 2019","Jun 30, 2025",/harry-maguire/profil/spieler/177907
+532,Victor Lindelöf,27,"Jul 17, 1994",Sweden,Manchester United,,Centre-Back,22.0,35,0,2,2960,0,0,1.87,"Jul 1, 2017","Jun 30, 2024",/victor-lindelof/profil/spieler/184573
+534,Phil Jones,30,"Feb 21, 1992",England,Manchester United,,Centre-Back,3.0,8,0,0,417,0,0,1.85,"Jul 1, 2011","Jun 30, 2023",/phil-jones/profil/spieler/117996
+536,Björn Hardley,19,"Dec 19, 2002",Netherlands,Manchester United,,Centre-Back,,30,2,0,2583,0,0,1.89,-,-,/bjorn-hardley/profil/spieler/682562
+537,Luke Shaw,26,"Jul 12, 1995",England,Manchester United,,Left-Back,38.0,27,0,5,2211,0,0,1.78,"Jul 1, 2014","Jun 30, 2024",/luke-shaw/profil/spieler/183288
+539,Brandon Williams,21,"Sep 3, 2000 ",England,Manchester United,,Left-Back,12.0,29,0,1,2331,0,0,1.8,"Jul 1, 2019","Jun 30, 2024",/brandon-williams/profil/spieler/507700
+541,Aaron Wan-Bissaka,24,"Nov 26, 1997",England,Manchester United,,Right-Back,25.0,26,0,0,2213,0,0,1.83,"Jul 1, 2019","Jun 30, 2024",/aaron-wan-bissaka/profil/spieler/477758
+542,Diogo Dalot,23,"Mar 18, 1999",Portugal,Manchester United,,Right-Back,20.0,30,0,0,2329,0,0,1.83,"Jul 1, 2018","Jun 30, 2024",/diogo-dalot/profil/spieler/357147
+543,Scott McTominay,25,"Dec 8, 1996 ",Scotland,Manchester United,,Defensive Midfield,32.0,37,2,1,3001,0,0,1.91,"Jul 1, 2017","Jun 30, 2025",/scott-mctominay/profil/spieler/315969
+544,James Garner,21,"Mar 13, 2001",England,Manchester United,,Defensive Midfield,7.0,49,4,10,4032,0,0,1.82,-,"Jun 30, 2026",/james-garner/profil/spieler/505219
+546,Charlie Savage,19,"May 2, 2003 ",Wales,Manchester United,,Defensive Midfield,0.6,29,2,2,2165,0,0,1.82,-,"May 31, 2023",/charlie-savage/profil/spieler/686837
+548,Donny van de Beek,25,"Apr 18, 1997",Netherlands,Manchester United,,Central Midfield,25.0,21,2,0,863,0,0,1.84,"Sep 2, 2020","Jun 30, 2025",/donny-van-de-beek/profil/spieler/288255
+549,Fred,29,"Mar 5, 1993 ",Brazil,Manchester United,,Central Midfield,20.0,36,4,6,2594,0,0,1.69,"Jul 1, 2018","Jun 30, 2024",/fred/profil/spieler/191614
+550,Zidane Iqbal,19,"Apr 27, 2003",Iraq,Manchester United,,Central Midfield,0.6,26,4,1,1706,0,0,1.81,"Jan 1, 2023","Jun 30, 2025",/zidane-iqbal/profil/spieler/686845
+551,Bruno Fernandes,27,"Sep 8, 1994 ",Portugal,Manchester United,,Attacking Midfield,85.0,46,10,14,3861,0,0,1.79,"Jan 29, 2020","Jun 30, 2026",/bruno-fernandes/profil/spieler/240306
+556,Jadon Sancho,22,"Mar 25, 2000",England,Manchester United,,Left Winger,75.0,38,5,3,2482,0,0,1.8,"Jul 23, 2021","Jun 30, 2026",/jadon-sancho/profil/spieler/401173
+557,Marcus Rashford,24,"Oct 31, 1997",England,Manchester United,,Left Winger,60.0,32,5,2,1657,0,0,1.85,"Jan 1, 2016","Jun 30, 2024",/marcus-rashford/profil/spieler/258923
+558,Anthony Elanga,20,"Apr 27, 2002",Sweden,Manchester United,,Left Winger,20.0,37,8,5,2346,0,0,1.78,"Jan 1, 2022","Jun 30, 2026",/anthony-elanga/profil/spieler/583189
+559,Alejandro Garnacho,17,"Jul 1, 2004 ",Argentina,Manchester United,,Left Winger,,35,15,6,2147,0,0,1.8,"Jul 1, 2022","Jun 30, 2024",/alejandro-garnacho/profil/spieler/811779
+562,Shola Shoretire,18,"Feb 2, 2004 ",England,Manchester United,,Right Winger,4.0,31,9,10,2560,0,0,1.71,"Jul 1, 2021","May 31, 2023",/shola-shoretire/profil/spieler/640026
+564,Mason Greenwood,20,"Oct 1, 2001 ",England,Manchester United,,Right Winger,,24,6,2,1700,0,0,1.81,"Jul 1, 2019","Jun 30, 2025",/mason-greenwood/profil/spieler/532826
+565,Cristiano Ronaldo,37,"Feb 5, 1985 ",Portugal,Manchester United,,Centre-Forward,30.0,39,24,3,3221,0,0,1.87,"Aug 31, 2021","Jun 30, 2025",/cristiano-ronaldo/profil/spieler/8198
+570,Karl Darlow,31,"Oct 8, 1990 ",England,Newcastle,,Goalkeeper,2.5,8,0,0,720,15,0,1.9,"Aug 9, 2014","May 31, 2023",/karl-darlow/profil/spieler/99397
+571,Mark Gillespie,30,"Mar 27, 1992",England,Newcastle,,Goalkeeper,0.3,2,0,0,180,6,0,1.91,"Jul 3, 2020","Jun 30, 2023",/mark-gillespie/profil/spieler/142389
+572,Dan Burn,30,"May 9, 1992 ",England,Newcastle,,Centre-Back,12.0,32,1,1,2688,0,0,2.01,"Jan 31, 2022","Jun 30, 2024",/dan-burn/profil/spieler/134270
+573,Jamaal Lascelles,28,"Nov 11, 1993",England,Newcastle,,Centre-Back,10.0,27,1,0,2146,0,0,1.88,"Aug 9, 2014","Jun 30, 2024",/jamaal-lascelles/profil/spieler/183318
+574,Fabian Schär,30,"Dec 20, 1991",Switzerland,Newcastle,,Centre-Back,7.0,26,2,2,2251,0,0,1.86,"Jul 26, 2018","Jun 30, 2024",/fabian-schar/profil/spieler/135343
+578,Jamal Lewis,24,"Jan 25, 1998",Northern Ireland,Newcastle,,Left-Back,10.0,6,0,0,353,0,0,1.78,"Sep 8, 2020","Jun 30, 2025",/jamal-lewis/profil/spieler/346018
+579,Paul Dummett,30,"Sep 26, 1991",Wales,Newcastle,,Left-Back,1.5,3,0,0,198,0,0,1.83,"Jul 1, 2012","Jun 30, 2023",/paul-dummett/profil/spieler/170321
+580,Kieran Trippier,31,"Sep 19, 1990",England,Newcastle,,Right-Back,15.0,25,2,0,1718,0,0,1.73,"Jan 7, 2022","Jun 30, 2025",/kieran-trippier/profil/spieler/95810
+581,Emil Krafth,27,"Aug 2, 1994 ",Sweden,Newcastle,,Right-Back,5.0,22,0,1,1819,0,0,1.84,"Aug 8, 2019","Jun 30, 2024",/emil-krafth/profil/spieler/184528
+582,Javier Manquillo,28,"May 5, 1994 ",Spain,Newcastle,,Right-Back,3.0,21,1,2,1317,0,0,1.78,"Jul 21, 2017","Jun 30, 2024",/javier-manquillo/profil/spieler/162029
+583,Bruno Guimarães,24,"Nov 16, 1997",Brazil,Newcastle,,Defensive Midfield,40.0,42,5,7,2903,0,0,1.82,"Jan 30, 2022","Jun 30, 2026",/bruno-guimaraes/profil/spieler/520624
+585,Joe Willock,22,"Aug 20, 1999",England,Newcastle,,Central Midfield,22.0,31,2,0,2089,0,0,1.86,"Aug 13, 2021","Jun 30, 2027",/joe-willock/profil/spieler/340329
+586,Sean Longstaff,24,"Oct 30, 1997",England,Newcastle,,Central Midfield,13.0,26,1,1,1607,0,0,1.81,"Jan 1, 2019","Jun 30, 2025",/sean-longstaff/profil/spieler/346707
+587,Jonjo Shelvey,30,"Feb 27, 1992",England,Newcastle,,Central Midfield,10.0,26,2,3,2166,0,0,1.84,"Jan 12, 2016","Jun 30, 2025",/jonjo-shelvey/profil/spieler/71292
+590,Lucas De Bolle,19,"Oct 22, 2002",Scotland,Newcastle,,Central Midfield,,19,1,4,1348,0,0,-,-,"May 31, 2023",/lucas-de-bolle/profil/spieler/626291
+591,Matt Ritchie,32,"Sep 10, 1989",Scotland,Newcastle,,Right Midfield,1.8,19,0,2,1412,0,0,1.73,"Jul 1, 2016","Jun 30, 2023",/matt-ritchie/profil/spieler/92469
+592,Joelinton,25,"Aug 14, 1996",Brazil,Newcastle,,Attacking Midfield,20.0,37,4,1,2739,0,0,1.86,"Jul 23, 2019","Jun 30, 2025",/joelinton/profil/spieler/333241
+593,Elliot Anderson,19,"Nov 6, 2002 ",Scotland,Newcastle,,Attacking Midfield,0.2,29,13,5,2382,0,0,1.79,"Jul 1, 2022","Jun 30, 2026",/elliot-anderson/profil/spieler/567576
+594,Joe White,19,"Oct 1, 2002 ",England,Newcastle,,Attacking Midfield,,31,2,7,2107,0,0,1.86,-,"May 31, 2023",/joe-white/profil/spieler/614811
+595,Allan Saint-Maximin,25,"Mar 12, 1997",France,Newcastle,,Left Winger,32.0,37,5,5,2915,0,0,1.73,"Aug 2, 2019","Jun 30, 2026",/allan-saint-maximin/profil/spieler/272642
+596,Ryan Fraser,28,"Feb 24, 1994",Scotland,Newcastle,,Left Winger,10.0,29,2,3,1613,0,0,1.63,"Sep 7, 2020","Jun 30, 2025",/ryan-fraser/profil/spieler/146795
+597,Miguel Almirón,28,"Feb 10, 1994",Paraguay,Newcastle,,Right Winger,16.0,32,1,0,1756,0,0,1.74,"Jan 31, 2019","Jun 30, 2026",/miguel-almiron/profil/spieler/272999
+598,Jacob Murphy,27,"Feb 24, 1995",England,Newcastle,,Right Winger,5.0,34,1,2,1517,0,0,1.73,"Jul 19, 2017","Jun 30, 2027",/jacob-murphy/profil/spieler/199527
+599,Callum Wilson,30,"Feb 27, 1992",England,Newcastle,,Centre-Forward,18.0,18,8,0,1389,0,0,1.8,"Sep 7, 2020","Jun 30, 2024",/callum-wilson/profil/spieler/123682
+600,Chris Wood,30,"Dec 7, 1991 ",New Zealand,Newcastle,,Centre-Forward,10.0,38,5,0,2886,0,0,1.91,"Jan 13, 2022","Jun 30, 2023",/chris-wood/profil/spieler/108725
+604,Jordan Smith,27,"Dec 8, 1994 ",England,Nottingem,,Goalkeeper,0.3,3,0,0,270,3,2,1.83,"Jul 1, 2016","May 31, 2023",/jordan-smith/profil/spieler/452707
+605,Joe Worrall,25,"Jan 10, 1997",England,Nottingem,,Centre-Back,4.0,46,1,1,4170,0,0,1.9,"Jul 1, 2015","Jun 30, 2024",/joe-worrall/profil/spieler/415970
+606,Scott McKenna,25,"Nov 12, 1996",Scotland,Nottingem,,Centre-Back,3.5,51,2,3,4559,0,0,1.89,"Sep 23, 2020","Jun 30, 2024",/scott-mckenna/profil/spieler/255906
+607,Steve Cook,31,"Apr 19, 1991",England,Nottingem,,Centre-Back,2.8,24,0,0,2067,0,0,1.85,"Jan 4, 2022","Jun 30, 2024",/steve-cook/profil/spieler/90836
+609,Loïc Mbe Soh,21,"Jun 13, 2001",France,Nottingem,,Centre-Back,2.5,4,0,0,235,0,0,1.87,"Sep 11, 2020","Jun 30, 2023",/loic-mbe-soh/profil/spieler/463610
+611,Baba Fernandes,22,"Mar 7, 2000 ",Portugal,Nottingem,,Centre-Back,,17,0,0,1336,0,0,1.88,-,"Jun 30, 2024",/baba-fernandes/profil/spieler/555703
+612,Riley Harbottle,21,"Sep 26, 2000",England,Nottingem,,Centre-Back,,14,1,0,1161,0,0,1.87,-,"May 31, 2023",/riley-harbottle/profil/spieler/565674
+613,Max Lowe,25,"May 11, 1997",England,Nottingem,,Left-Back,3.0,23,1,4,1818,0,0,1.75,"Aug 27, 2021","Jun 30, 2024",/max-lowe/profil/spieler/258885
+615,Djed Spence,21,"Aug 9, 2000 ",England,Nottingem,,Right-Back,8.0,50,3,5,4372,0,0,1.84,"Aug 31, 2021","Jun 30, 2023",/djed-spence/profil/spieler/483348
+617,Mohamed Dräger,26,"Jun 25, 1996",Tunisia,Nottingem,,Right-Back,1.3,23,4,7,1963,0,0,1.81,"Aug 31, 2021","Jun 30, 2023",/mohamed-drager/profil/spieler/192167
+618,Jordi Osei-Tutu,23,"Oct 2, 1998 ",England,Nottingem,,Right-Back,1.0,20,1,0,1138,0,0,1.76,"Aug 10, 2021","Jun 30, 2025",/jordi-osei-tutu/profil/spieler/397099
+619,Jordan Lawrence-Gabriel,23,"Sep 25, 1998",England,Nottingem,,Right-Back,0.5,25,0,1,1994,0,0,1.79,"Jul 1, 2021","Jun 30, 2025",/jordan-lawrence-gabriel/profil/spieler/425900
+620,Jayden Richardson,21,"Sep 4, 2000 ",England,Nottingem,,Right-Back,,35,1,1,2975,0,0,1.84,-,"May 31, 2025",/jayden-richardson/profil/spieler/565675
+621,Fin Back,19,"Sep 25, 2002",England,Nottingem,,Right-Back,,23,0,5,1914,0,0,-,-,"May 31, 2023",/fin-back/profil/spieler/646210
+622,James Garner,21,"Mar 13, 2001",England,Nottingem,,Defensive Midfield,7.0,49,4,10,4032,0,0,1.82,"Aug 22, 2021","Jun 30, 2026",/james-garner/profil/spieler/505219
+623,Jack Colback,32,"Oct 24, 1989",England,Nottingem,,Defensive Midfield,0.6,46,4,1,3741,0,0,1.77,"Aug 11, 2020","Jun 30, 2023",/jack-colback/profil/spieler/61644
+624,Ryan Yates,24,"Nov 21, 1997",England,Nottingem,,Central Midfield,4.0,51,9,2,4355,0,0,1.9,"Jul 1, 2016","Jun 30, 2025",/ryan-yates/profil/spieler/425902
+626,Harry Arter,32,"Dec 28, 1989",Ireland,Nottingem,,Central Midfield,0.8,16,0,0,1080,0,0,1.77,"Sep 22, 2020","Jun 30, 2023",/harry-arter/profil/spieler/55742
+627,Cafú,29,"Feb 26, 1993",Portugal,Nottingem,,Central Midfield,0.7,21,1,1,574,0,0,1.85,"Feb 2, 2021","Jun 30, 2023",/cafu/profil/spieler/203655
+628,Tyrese Fornah,22,"Sep 11, 1999",England,Nottingem,,Central Midfield,,32,1,1,2603,0,0,1.85,-,"May 31, 2023",/tyrese-fornah/profil/spieler/503918
+629,Oliver Hammond,19,"Nov 13, 2002",Wales,Nottingem,,Central Midfield,,22,7,1,1693,0,0,1.79,-,-,/oliver-hammond/profil/spieler/646214
+630,João Carvalho,25,"Mar 9, 1997 ",Portugal,Nottingem,,Attacking Midfield,2.5,25,4,3,1307,0,0,1.72,"Jul 1, 2018","Jun 30, 2023",/joao-carvalho/profil/spieler/258005
+631,Ateef Konaté,21,"Apr 4, 2001 ",France,Nottingem,,Attacking Midfield,0.15,27,7,7,2127,0,0,1.79,-,"May 31, 2023",/ateef-konate/profil/spieler/592980
+633,Philip Zinckernagel,27,"Dec 16, 1994",Denmark,Nottingem,,Right Winger,3.0,50,7,10,3420,0,0,1.75,"Aug 7, 2021","Jun 30, 2023",/philip-zinckernagel/profil/spieler/271098
+636,Brennan Johnson,21,"May 23, 2001",Wales,Nottingem,,Second Striker,15.0,53,19,9,4562,0,0,1.79,"Jul 1, 2019","Jun 30, 2026",/brennan-johnson/profil/spieler/470607
+638,Sam Surridge,23,"Jul 28, 1998",England,Nottingem,,Centre-Forward,2.0,48,13,3,1891,0,0,1.9,"Jan 31, 2022","Jun 30, 2024",/sam-surridge/profil/spieler/398402
+641,Lyle Taylor,32,"Mar 29, 1990",Montserrat,Nottingem,,Centre-Forward,0.5,33,8,2,2053,0,0,1.88,"Aug 15, 2020","Jun 30, 2023",/lyle-taylor/profil/spieler/104495
+642,Dale Taylor,18,"Dec 12, 2003",Northern Ireland,Nottingem,,Centre-Forward,,19,7,1,1232,0,0,-,-,"May 31, 2023",/dale-taylor/profil/spieler/624267
+643,Alex McCarthy,32,"Dec 3, 1989 ",England,Southampton,,Goalkeeper,3.0,18,0,0,1620,27,6,1.93,"Aug 1, 2016","Jun 30, 2025",/alex-mccarthy/profil/spieler/95976
+645,Willy Caballero,40,"Sep 28, 1981",Argentina,Southampton,,Goalkeeper,0.25,4,0,0,390,7,0,1.86,"Dec 6, 2021","Jun 30, 2023",/willy-caballero/profil/spieler/19948
+648,Mohammed Salisu,23,"Apr 17, 1999",Ghana,Southampton,,Centre-Back,18.0,37,1,0,3242,0,0,1.88,"Aug 12, 2020","Jun 30, 2024",/mohammed-salisu/profil/spieler/563963
+650,Lyanco,25,"Feb 1, 1997 ",Brazil,Southampton,,Centre-Back,5.0,18,0,0,1073,0,0,1.87,"Aug 25, 2021","Jun 30, 2025",/lyanco/profil/spieler/379807
+651,Dynel Simeu,20,"Mar 13, 2002",England,Southampton,,Centre-Back,1.0,35,2,1,3106,0,0,1.87,-,"May 31, 2023",/dynel-simeu/profil/spieler/503976
+652,Romain Perraud,24,"Sep 22, 1997",France,Southampton,,Left-Back,8.0,23,1,1,1925,0,0,1.73,"Jul 2, 2021","Jun 30, 2025",/romain-perraud/profil/spieler/318523
+653,Thierry Small,17,"Aug 1, 2004 ",England,Southampton,,Left-Back,0.1,19,5,2,1616,0,0,1.77,-,"May 31, 2023",/thierry-small/profil/spieler/746554
+654,Tino Livramento,19,"Nov 12, 2002",England,Southampton,,Right-Back,25.0,32,1,2,2419,0,0,1.73,"Aug 2, 2021","Jun 30, 2026",/tino-livramento/profil/spieler/503981
+655,Kyle Walker-Peters,25,"Apr 13, 1997",England,Southampton,,Right-Back,22.0,37,2,4,3034,0,0,1.73,"Aug 11, 2020","Jun 30, 2025",/kyle-walker-peters/profil/spieler/341051
+657,Ibrahima Diallo,23,"Mar 8, 1999 ",France,Southampton,,Defensive Midfield,10.0,30,1,2,1507,0,0,1.79,"Oct 4, 2020","Jun 30, 2024",/ibrahima-diallo/profil/spieler/413032
+659,James Ward-Prowse,27,"Nov 1, 1994 ",England,Southampton,,Central Midfield,32.0,42,11,8,3751,0,0,1.77,"Jul 1, 2012","Jun 30, 2026",/james-ward-prowse/profil/spieler/181579
+660,Stuart Armstrong,30,"Mar 30, 1992",Scotland,Southampton,,Central Midfield,6.0,30,3,1,1783,0,0,1.83,"Jul 1, 2018","Jun 30, 2024",/stuart-armstrong/profil/spieler/130765
+662,Kgaogelo Chauke,19,"Jan 8, 2003 ",South Africa,Southampton,,Central Midfield,0.15,23,0,0,1938,0,0,1.77,-,"May 31, 2023",/kgaogelo-chauke/profil/spieler/703577
+663,Tyler Dibling,16,"Mar 12, 2006",England,Southampton,,Attacking Midfield,,22,8,5,1463,0,0,-,-,"Jun 30, 2025",/tyler-dibling/profil/spieler/866655
+665,Mohamed Elyounoussi,27,"Aug 4, 1994 ",Norway,Southampton,,Left Winger,12.0,33,8,4,2265,0,0,1.78,"Jul 1, 2018","Jun 30, 2023",/mohamed-elyounoussi/profil/spieler/186644
+666,Moussa Djenepo,24,"Jun 15, 1998",Mali,Southampton,,Left Winger,10.0,16,0,0,649,0,0,1.77,"Jul 1, 2019","Jun 30, 2025",/moussa-djenepo/profil/spieler/485424
+667,Kazeem Olaigbe,19,"Jan 2, 2003 ",Belgium,Southampton,,Left Winger,,25,14,5,2205,0,0,-,-,"May 31, 2023",/kazeem-olaigbe/profil/spieler/565406
+669,Theo Walcott,33,"Mar 16, 1989",England,Southampton,,Right Winger,1.8,12,0,0,485,0,0,1.75,"Jul 1, 2021","Jun 30, 2023",/theo-walcott/profil/spieler/33713
+670,Armando Broja,20,"Sep 10, 2001",Albania,Southampton,,Centre-Forward,22.0,38,9,1,2339,0,0,1.91,"Aug 10, 2021","Jun 30, 2028",/armando-broja/profil/spieler/571743
+671,Ché Adams,25,"Jul 13, 1996",Scotland,Southampton,,Centre-Forward,18.0,33,8,3,2113,0,0,1.79,"Jul 1, 2019","Jun 30, 2024",/che-adams/profil/spieler/346779
+672,Adam Armstrong,25,"Feb 10, 1997",England,Southampton,,Centre-Forward,15.0,28,2,3,1758,0,0,1.73,"Aug 10, 2021","Jun 30, 2025",/adam-armstrong/profil/spieler/250426
+673,Michael Obafemi,21,"Jul 6, 2000 ",Ireland,Southampton,,Centre-Forward,2.5,34,12,3,2132,0,0,1.7,"Jan 1, 2019","May 31, 2023",/michael-obafemi/profil/spieler/444208
+676,Pierluigi Gollini,27,"Mar 18, 1995",Italy,Tottenham,,Goalkeeper,10.0,10,0,0,900,11,2,1.94,"Jul 24, 2021","Jun 30, 2023",/pierluigi-gollini/profil/spieler/244192
+677,Hugo Lloris,35,"Dec 26, 1986",France,Tottenham,,Goalkeeper,7.0,43,0,0,3900,47,16,1.88,"Aug 31, 2012","Jun 30, 2024",/hugo-lloris/profil/spieler/17965
+678,Brandon Austin,23,"Jan 8, 1999 ",England,Tottenham,,Goalkeeper,0.3,-,0,0,0,0,0,1.88,"Aug 1, 2021","Jun 30, 2024",/brandon-austin/profil/spieler/428016
+679,Cristian Romero,24,"Apr 27, 1998",Argentina,Tottenham,,Centre-Back,48.0,30,1,0,2551,0,0,1.85,"Aug 30, 2022","Jun 30, 2027",/cristian-romero/profil/spieler/355915
+680,Davinson Sánchez,26,"Jun 12, 1996",Colombia,Tottenham,,Centre-Back,28.0,32,2,0,2362,0,0,1.87,"Aug 23, 2017","Jun 30, 2024",/davinson-sanchez/profil/spieler/341429
+681,Eric Dier,28,"Jan 15, 1994",England,Tottenham,,Centre-Back,28.0,40,0,0,3498,0,0,1.88,"Jul 31, 2014","Jun 30, 2024",/eric-dier/profil/spieler/175722
+682,Japhet Tanganga,23,"Mar 31, 1999",England,Tottenham,,Centre-Back,12.0,19,0,0,1339,0,0,1.84,"Jan 1, 2020","Jun 30, 2025",/japhet-tanganga/profil/spieler/346478
+685,Maksim Paskotsi,19,"Jan 19, 2003",Estonia,Tottenham,,Centre-Back,0.2,11,0,0,435,0,0,-,-,"Jun 30, 2023",/maksim-paskotsi/profil/spieler/488298
+686,Brooklyn Lyons-Foster,21,"Dec 1, 2000 ",England,Tottenham,,Centre-Back,,17,1,0,1320,0,0,-,-,-,/brooklyn-lyons-foster/profil/spieler/462698
+687,Tobi Omole,22,"Dec 17, 1999",England,Tottenham,,Centre-Back,,18,2,0,1426,0,0,1.89,-,"Jun 30, 2024",/tobi-omole/profil/spieler/503687
+688,Malachi Fagan-Walcott,20,"Mar 11, 2002",England,Tottenham,,Centre-Back,,20,2,0,1775,0,0,1.86,-,-,/malachi-fagan-walcott/profil/spieler/554173
+690,Ben Davies,29,"Apr 24, 1993",Wales,Tottenham,,Left-Back,20.0,43,1,1,3771,0,0,1.81,"Jul 23, 2014","Jun 30, 2025",/ben-davies/profil/spieler/192765
+691,Emerson Royal,23,"Jan 14, 1999",Brazil,Tottenham,,Right-Back,25.0,44,1,1,2919,0,0,1.83,"Aug 31, 2021","Jun 30, 2026",/emerson-royal/profil/spieler/476344
+692,Matt Doherty,30,"Jan 16, 1992",Ireland,Tottenham,,Right-Back,12.0,26,2,4,1653,0,0,1.85,"Aug 30, 2020","Jun 30, 2023",/matt-doherty/profil/spieler/171679
+693,Marcel Lavinier,21,"Dec 16, 2000",Portugal,Tottenham,,Right-Back,0.3,21,0,4,1663,0,0,1.85,-,-,/marcel-lavinier/profil/spieler/392772
+694,Kallum Cesay,19,"Sep 4, 2002 ",Sierra Leone,Tottenham,,Right-Back,,25,1,0,2111,0,0,-,-,"Jun 30, 2024",/kallum-cesay/profil/spieler/696183
+695,Oliver Skipp,21,"Sep 16, 2000",England,Tottenham,,Defensive Midfield,18.0,28,0,0,2006,0,0,1.75,"Jul 1, 2018","Jun 30, 2027",/oliver-skipp/profil/spieler/406638
+697,Harvey White,20,"Sep 19, 2001",England,Tottenham,,Defensive Midfield,0.6,21,7,7,1871,0,0,1.68,-,"May 31, 2023",/harvey-white/profil/spieler/581598
+698,Jamie Bowden,20,"Jul 9, 2001 ",Ireland,Tottenham,,Defensive Midfield,,32,2,7,2407,0,0,1.83,-,-,/jamie-bowden/profil/spieler/504051
+699,Michael Craig,19,"Apr 16, 2003",Scotland,Tottenham,,Defensive Midfield,,14,0,1,694,0,0,-,-,-,/michael-craig/profil/spieler/633621
+700,Matthew Craig,19,"Apr 16, 2003",Scotland,Tottenham,,Defensive Midfield,,20,0,1,1343,0,0,-,-,-,/matthew-craig/profil/spieler/633659
+701,Pierre-Emile Höjbjerg,26,"Aug 5, 1995 ",Denmark,Tottenham,,Central Midfield,40.0,48,3,4,3986,0,0,1.85,"Aug 11, 2020","Jun 30, 2025",/pierre-emile-hojbjerg/profil/spieler/167799
+703,Rodrigo Bentancur,25,"Jun 25, 1997",Uruguay,Tottenham,,Central Midfield,28.0,44,0,7,2963,0,0,1.87,"Jan 31, 2022","Jun 30, 2026",/rodrigo-bentancur/profil/spieler/354362
+705,Moussa Sissoko,32,"Aug 16, 1989",France,Tottenham,,Central Midfield,4.5,38,2,1,3311,0,0,1.87,"Aug 31, 2016","Jun 30, 2024",/moussa-sissoko/profil/spieler/46001
+706,Nile John,19,"Mar 6, 2003 ",England,Tottenham,,Central Midfield,0.4,20,7,3,1703,0,0,1.76,-,"Jun 30, 2023",/nile-john/profil/spieler/581683
+707,Ryan Sessegnon,22,"May 18, 2000",England,Tottenham,,Left Midfield,18.0,22,0,2,1467,0,0,1.78,"Aug 8, 2019","Jun 30, 2025",/ryan-sessegnon/profil/spieler/392775
+709,Alfie Devine,17,"Aug 1, 2004 ",England,Tottenham,,Attacking Midfield,0.9,22,11,3,1803,0,0,-,-,"Jun 30, 2027",/alfie-devine/profil/spieler/728734
+710,Heung-min Son,29,"Jul 8, 1992 ","Korea, South",Tottenham,,Left Winger,75.0,45,24,10,3526,0,0,1.84,"Aug 28, 2015","Jun 30, 2025",/heung-min-son/profil/spieler/91845
+714,J'Neil Bennett,20,"Dec 7, 2001 ",England,Tottenham,,Left Winger,,22,3,1,1324,0,0,1.78,-,"Jun 30, 2023",/jneil-bennett/profil/spieler/554174
+715,Dejan Kulusevski,22,"Apr 25, 2000",Sweden,Tottenham,,Right Winger,40.0,47,7,11,2366,0,0,1.86,"Jan 31, 2022","Jun 30, 2023",/dejan-kulusevski/profil/spieler/431755
+716,Lucas Moura,29,"Aug 13, 1992",Brazil,Tottenham,,Right Winger,20.0,45,6,8,2435,0,0,1.72,"Jan 31, 2018","Jun 30, 2023",/lucas-moura/profil/spieler/77100
+717,Dilan Markanday,20,"Aug 20, 2001",England,Tottenham,,Right Winger,0.4,20,12,7,1555,0,0,1.67,-,"May 31, 2023",/dilan-markanday/profil/spieler/530807
+718,Romaine Mundle,19,"Apr 24, 2003",England,Tottenham,,Right Winger,,18,0,1,1103,0,0,-,-,"Jun 30, 2023",/romaine-mundle/profil/spieler/696181
+719,Harry Kane,28,"Jul 28, 1993",England,Tottenham,,Centre-Forward,90.0,50,27,10,4250,0,0,1.88,"Jan 1, 2011","Jun 30, 2024",/harry-kane/profil/spieler/132098
+720,Dane Scarlett,18,"Mar 24, 2004",England,Tottenham,,Centre-Forward,0.25,16,1,1,984,0,0,1.8,-,"May 31, 2023",/dane-scarlett/profil/spieler/670883
+721,Alphonse Areola,29,"Feb 27, 1993",France,West Ham,,Goalkeeper,8.0,18,0,0,1680,15,8,1.95,"Jul 1, 2022","Jun 30, 2027",/alphonse-areola/profil/spieler/120629
+722,Lukasz Fabianski,37,"Apr 18, 1985",Poland,West Ham,,Goalkeeper,1.0,38,0,0,3420,50,9,1.9,"Jul 1, 2018","Jun 30, 2023",/lukasz-fabianski/profil/spieler/29692
+723,Darren Randolph,35,"May 12, 1987",Ireland,West Ham,,Goalkeeper,0.8,-,0,0,0,0,0,1.87,"Jan 15, 2020","Jun 30, 2024",/darren-randolph/profil/spieler/51321
+725,Kurt Zouma,27,"Oct 27, 1994",France,West Ham,,Centre-Back,28.0,33,1,1,2926,0,0,1.9,"Aug 28, 2021","Jun 30, 2025",/kurt-zouma/profil/spieler/157509
+727,Craig Dawson,32,"May 6, 1990 ",England,West Ham,,Centre-Back,3.0,50,4,2,4206,0,0,1.88,"Jul 1, 2021","Jun 30, 2025",/craig-dawson/profil/spieler/121477
+728,Angelo Ogbonna,34,"May 23, 1988",Italy,West Ham,,Centre-Back,1.2,11,1,0,922,0,0,1.91,"Jul 10, 2015","Jun 30, 2023",/angelo-ogbonna/profil/spieler/48002
+729,Aji Alese,21,"Jan 17, 2001",England,West Ham,,Centre-Back,0.5,27,2,1,2402,0,0,1.92,-,"Jun 30, 2025",/aji-alese/profil/spieler/502065
+730,Jamal Baptiste,18,"Nov 11, 2003",England,West Ham,,Centre-Back,0.2,24,4,2,1918,0,0,-,-,"Jun 30, 2023",/jamal-baptiste/profil/spieler/610706
+732,Aaron Cresswell,32,"Dec 15, 1989",England,West Ham,,Left-Back,3.0,42,2,7,3576,0,0,1.7,"Jul 3, 2014","Jun 30, 2023",/aaron-cresswell/profil/spieler/92571
+733,Emmanuel Longelo,21,"Dec 27, 2000",England,West Ham,,Left-Back,0.15,22,1,5,1969,0,0,-,-,"Jun 30, 2026",/emmanuel-longelo/profil/spieler/504386
+734,Vladimir Coufal,29,"Aug 22, 1992",Czech Republic,West Ham,,Right-Back,12.0,34,0,5,2648,0,0,1.79,"Oct 2, 2020","Jun 30, 2023",/vladimir-coufal/profil/spieler/157672
+735,Ben Johnson,22,"Jan 24, 2000",England,West Ham,,Right-Back,9.0,35,1,0,2680,0,0,1.84,"Jul 1, 2020","Jun 30, 2024",/ben-johnson/profil/spieler/468002
+737,Harrison Ashby,20,"Nov 14, 2001",Scotland,West Ham,,Right-Back,0.3,27,3,6,2256,0,0,1.79,-,-,/harrison-ashby/profil/spieler/559130
+738,Declan Rice,23,"Jan 14, 1999",England,West Ham,,Defensive Midfield,80.0,50,5,4,4422,0,0,1.88,"Jul 1, 2017","Jun 30, 2024",/declan-rice/profil/spieler/357662
+739,Tomas Soucek,27,"Feb 27, 1995",Czech Republic,West Ham,,Defensive Midfield,45.0,51,6,1,4317,0,0,1.92,"Jul 27, 2020","Jun 30, 2024",/tomas-soucek/profil/spieler/283628
+740,Alex Kral,24,"May 19, 1998",Czech Republic,West Ham,,Defensive Midfield,7.0,13,0,1,537,0,0,1.86,"Aug 31, 2021","Jun 30, 2023",/alex-kral/profil/spieler/337333
+742,Keenan Appiah-Forson,20,"Oct 16, 2001",England,West Ham,,Defensive Midfield,0.3,29,2,3,2365,0,0,1.74,-,"Jun 30, 2023",/keenan-appiah-forson/profil/spieler/554098
+743,Freddie Potts,18,"Sep 12, 2003",England,West Ham,,Defensive Midfield,0.25,16,0,0,1137,0,0,-,-,"Jun 30, 2024",/freddie-potts/profil/spieler/698164
+744,Pierre Ekwah,20,"Jan 15, 2002",France,West Ham,,Defensive Midfield,,23,3,1,2005,0,0,1.89,-,"Jun 30, 2027",/pierre-ekwah/profil/spieler/538994
+746,Dan Chesters,20,"Apr 4, 2002 ",England,West Ham,,Right Midfield,0.25,28,2,5,2109,0,0,-,-,"Jun 30, 2024",/dan-chesters/profil/spieler/561452
+748,Pablo Fornals,26,"Feb 22, 1996",Spain,West Ham,,Attacking Midfield,22.0,54,6,7,3765,0,0,1.78,"Jul 1, 2019","Jun 30, 2024",/pablo-fornals/profil/spieler/357885
+749,Manuel Lanzini,29,"Feb 15, 1993",Argentina,West Ham,,Attacking Midfield,12.0,46,7,4,2925,0,0,1.67,"Jul 1, 2016","Jun 30, 2023",/manuel-lanzini/profil/spieler/135853
+750,Kamarai Swyer,19,"Dec 4, 2002 ",England,West Ham,,Attacking Midfield,,25,5,4,1389,0,0,-,-,"Jun 30, 2023",/kamarai-swyer/profil/spieler/693066
+751,Saïd Benrahma,26,"Aug 10, 1995",Algeria,West Ham,,Left Winger,25.0,48,11,6,2881,0,0,1.72,"Jan 29, 2021","Jun 30, 2026",/said-benrahma/profil/spieler/290532
+752,Armstrong Oko-Flex,20,"Mar 2, 2002 ",Ireland,West Ham,,Left Winger,,24,13,2,2002,0,0,-,-,"Jun 30, 2023",/armstrong-oko-flex/profil/spieler/531461
+753,Jarrod Bowen,25,"Dec 20, 1996",England,West Ham,,Right Winger,42.0,51,18,13,4090,0,0,1.82,"Jan 31, 2020","Jun 30, 2025",/jarrod-bowen/profil/spieler/314875
+755,Michail Antonio,32,"Mar 28, 1990",Jamaica,West Ham,,Centre-Forward,10.0,47,13,11,3921,0,0,1.8,"Sep 1, 2015","Jun 30, 2024",/michail-antonio/profil/spieler/104124
+756,Sonny Perkins,18,"Feb 10, 2004",England,West Ham,,Centre-Forward,1.2,30,16,2,2284,0,0,1.78,-,"Jun 30, 2025",/sonny-perkins/profil/spieler/670877
+757,José Sá,29,"Jan 17, 1993",Portugal,Wolverhampton,,Goalkeeper,18.0,37,0,0,3285,40,11,1.92,"Jul 15, 2021","Jun 30, 2026",/jose-sa/profil/spieler/249994
+758,Matija Sarkic,24,"Jul 23, 1997",Montenegro,Wolverhampton,,Goalkeeper,1.8,25,0,0,2280,30,11,1.94,"Jul 27, 2020","May 31, 2023",/matija-sarkic/profil/spieler/293257
+761,Andreas Söndergaard,21,"Jan 17, 2001",Denmark,Wolverhampton,,Goalkeeper,0.2,11,0,0,990,13,5,1.88,-,"Jun 30, 2023",/andreas-sondergaard/profil/spieler/462820
+762,James Storer,17,"Oct 4, 2004 ",Ireland,Wolverhampton,,Goalkeeper,,18,0,0,1620,30,3,1.96,-,-,/james-storer/profil/spieler/838367
+764,Max Kilman,25,"May 23, 1997",England,Wolverhampton,,Centre-Back,16.0,34,1,0,3049,0,0,1.94,"Aug 9, 2018","Jun 30, 2026",/max-kilman/profil/spieler/525247
+767,Yerson Mosquera,21,"May 2, 2001 ",Colombia,Wolverhampton,,Centre-Back,3.0,6,1,0,372,0,0,1.88,"Jul 1, 2021","Jun 30, 2023",/yerson-mosquera/profil/spieler/716276
+768,Toti,23,"Jan 16, 1999",Portugal,Wolverhampton,,Centre-Back,1.5,26,1,0,2185,0,0,1.87,"Sep 2, 2020","Jun 30, 2027",/toti/profil/spieler/606718
+769,Dion Sanderson,22,"Dec 15, 1999",England,Wolverhampton,,Centre-Back,0.6,29,0,0,2307,0,0,1.88,-,"May 31, 2023",/dion-sanderson/profil/spieler/495993
+770,Christian Marques,19,"Jan 15, 2003",Portugal,Wolverhampton,,Centre-Back,0.2,18,1,1,1643,0,0,1.87,-,"Jun 30, 2023",/christian-marques/profil/spieler/539807
+771,Rayan Aït-Nouri,21,"Jun 6, 2001 ",Algeria,Wolverhampton,,Left-Back,20.0,27,1,6,2135,0,0,1.8,"Jul 9, 2021","Jun 30, 2026",/rayan-ait-nouri/profil/spieler/578391
+772,Jonny Otto,28,"Mar 3, 1994 ",Spain,Wolverhampton,,Left-Back,15.0,13,2,0,1023,0,0,1.75,"Jan 31, 2019","Jun 30, 2025",/jonny-otto/profil/spieler/175446
+773,Ryan Giles,22,"Jan 26, 2000",England,Wolverhampton,,Left-Back,3.0,32,0,10,2464,0,0,1.79,-,"May 31, 2023",/ryan-giles/profil/spieler/504581
+775,Dexter Lembikisa,18,"Nov 4, 2003 ",Jamaica,Wolverhampton,,Left-Back,,38,1,3,2845,0,0,1.8,-,"Jun 30, 2026",/dexter-lembikisa/profil/spieler/712099
+776,Hugo Bueno,19,"Sep 18, 2002",Spain,Wolverhampton,,Left-Back,,17,4,7,1384,0,0,1.8,"Jul 1, 2022","Jun 30, 2026",/hugo-bueno/profil/spieler/698678
+777,Nélson Semedo,28,"Nov 16, 1993",Portugal,Wolverhampton,,Right-Back,22.0,29,1,1,2393,0,0,1.77,"Sep 23, 2020","Jun 30, 2023",/nelson-semedo/profil/spieler/231572
+779,Rúben Neves,25,"Mar 13, 1997",Portugal,Wolverhampton,,Defensive Midfield,40.0,36,4,2,2926,0,0,1.8,"Jul 8, 2017","Jun 30, 2024",/ruben-neves/profil/spieler/225161
+781,João Moutinho,35,"Sep 8, 1986 ",Portugal,Wolverhampton,,Central Midfield,2.5,39,2,1,3206,0,0,1.7,"Jul 24, 2018","Jun 30, 2023",/joao-moutinho/profil/spieler/29364
+784,Connor Ronan,24,"Mar 6, 1998 ",Ireland,Wolverhampton,,Central Midfield,0.75,30,8,5,2400,0,0,1.71,"Jan 1, 2017","Dec 31, 2026",/connor-ronan/profil/spieler/337787
+786,Chem Campbell,19,"Dec 30, 2002",Wales,Wolverhampton,,Attacking Midfield,,25,9,9,2151,0,0,1.8,-,"May 31, 2023",/chem-campbell/profil/spieler/614603
+787,Daniel Podence,26,"Oct 21, 1995",Portugal,Wolverhampton,,Left Winger,20.0,30,6,3,1779,0,0,1.65,"Jan 30, 2020","Jun 30, 2024",/daniel-podence/profil/spieler/256977
+788,Chiquinho,22,"Feb 5, 2000 ",Portugal,Wolverhampton,,Left Winger,3.0,32,4,10,1611,0,0,1.79,"Jan 17, 2022","Jun 30, 2026",/chiquinho/profil/spieler/695454
+789,Pedro Neto,22,"Mar 9, 2000 ",Portugal,Wolverhampton,,Right Winger,32.0,13,1,1,463,0,0,1.72,"Aug 2, 2019","Jun 30, 2027",/pedro-neto/profil/spieler/487465
+790,Trincão,22,"Dec 29, 1999",Portugal,Wolverhampton,,Right Winger,20.0,30,3,1,1386,0,0,1.84,"Jul 4, 2021","Jun 30, 2023",/trincao/profil/spieler/412669
+792,Raúl Jiménez,31,"May 5, 1991 ",Mexico,Wolverhampton,,Centre-Forward,18.0,36,6,5,2685,0,0,1.88,"Jul 1, 2019","Jun 30, 2024",/raul-jimenez/profil/spieler/206040
+793,Hee-chan Hwang,26,"Jan 26, 1996","Korea, South",Wolverhampton,,Centre-Forward,16.0,34,5,2,1988,0,0,1.77,"Jul 1, 2022","Jun 30, 2026",/hee-chan-hwang/profil/spieler/292246

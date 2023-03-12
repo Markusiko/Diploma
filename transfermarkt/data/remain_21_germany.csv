@@ -1,0 +1,405 @@
+,Name,Age,date,nationality,club,fee_y,position,market,match,goal,assist,minute,miss,clean,height,join,contract,href
+0,Manuel Neuer,36,"Mar 27, 1986",Germany,BAYERN MUNICH,,Goalkeeper,15.0,39,0,0,3501,38,14,1.93,"Jul 1, 2011","Jun 30, 2024",/manuel-neuer/profil/spieler/17259
+1,Sven Ulreich,33,"Aug 3, 1988 ",Germany,BAYERN MUNICH,,Goalkeeper,0.9,8,0,0,720,12,2,1.92,"Jul 1, 2021","Jun 30, 2024",/sven-ulreich/profil/spieler/40680
+4,Lucas Hernández,26,"Feb 14, 1996",France,BAYERN MUNICH,,Centre-Back,50.0,34,0,2,2700,0,0,1.84,"Jul 1, 2019","Jun 30, 2024",/lucas-hernandez/profil/spieler/281963
+5,Dayot Upamecano,23,"Oct 27, 1998",France,BAYERN MUNICH,,Centre-Back,40.0,38,1,6,3014,0,0,1.86,"Jul 5, 2021","Jun 30, 2026",/dayot-upamecano/profil/spieler/344695
+10,Jamie Lawrence,19,"Nov 10, 2002",Germany,BAYERN MUNICH,,Centre-Back,1.0,33,4,3,2605,0,0,2.01,-,"Jun 30, 2024",/jamie-lawrence/profil/spieler/522248
+11,Alphonso Davies,21,"Nov 2, 2000 ",Canada,BAYERN MUNICH,,Left-Back,70.0,31,0,6,2366,0,0,1.85,"Jan 1, 2019","Jun 30, 2025",/alphonso-davies/profil/spieler/424204
+13,Benjamin Pavard,26,"Mar 28, 1996",France,BAYERN MUNICH,,Right-Back,30.0,36,0,2,2935,0,0,1.86,"Jul 1, 2019","Jun 30, 2024",/benjamin-pavard/profil/spieler/353366
+14,Josip Stanisic,22,"Apr 2, 2000 ",Croatia,BAYERN MUNICH,,Right-Back,4.0,17,1,1,773,0,0,1.87,"Aug 1, 2021","Jun 30, 2026",/josip-stanisic/profil/spieler/483046
+15,Bouna Sarr,30,"Jan 31, 1992",Senegal,BAYERN MUNICH,,Right-Back,2.5,12,1,0,274,0,0,1.77,"Oct 5, 2020","Jun 30, 2024",/bouna-sarr/profil/spieler/190685
+16,Joshua Kimmich,27,"Feb 8, 1995 ",Germany,BAYERN MUNICH,,Defensive Midfield,80.0,39,3,12,3405,0,0,1.77,"Jul 2, 2015","Jun 30, 2025",/joshua-kimmich/profil/spieler/161056
+18,Nicolas Feldhahn,35,"Aug 14, 1986",Germany,BAYERN MUNICH,,Defensive Midfield,0.125,26,1,0,1839,0,0,1.89,-,-,/nicolas-feldhahn/profil/spieler/31741
+19,Leon Goretzka,27,"Feb 6, 1995 ",Germany,BAYERN MUNICH,,Central Midfield,65.0,27,3,3,2027,0,0,1.89,"Jul 1, 2018","Jun 30, 2026",/leon-goretzka/profil/spieler/153084
+20,Marcel Sabitzer,28,"Mar 17, 1994",Austria,BAYERN MUNICH,,Central Midfield,15.0,32,1,1,1076,0,0,1.77,"Aug 30, 2021","Jun 30, 2023",/marcel-sabitzer/profil/spieler/106987
+23,Taylor Booth,21,"May 31, 2001",United States,BAYERN MUNICH,,Central Midfield,1.0,25,3,6,1813,0,0,1.74,-,"Jun 30, 2025",/taylor-booth/profil/spieler/513963
+24,Timo Kern,32,"Jan 16, 1990",Germany,BAYERN MUNICH,,Central Midfield,0.2,24,5,5,1510,0,0,1.79,-,"Jun 30, 2024",/timo-kern/profil/spieler/57574
+25,Jamal Musiala,19,"Feb 26, 2003",Germany,BAYERN MUNICH,,Attacking Midfield,65.0,40,8,6,1980,0,0,1.84,"Jul 1, 2020","Jun 30, 2026",/jamal-musiala/profil/spieler/580195
+27,Paul Wanner,16,"Dec 23, 2005",Austria,BAYERN MUNICH,,Attacking Midfield,2.0,25,3,4,1436,0,0,1.85,"Jan 31, 2022","Jun 30, 2027",/paul-wanner/profil/spieler/900909
+29,Arijon Ibrahimovic,16,"Dec 11, 2005",Germany,BAYERN MUNICH,,Attacking Midfield,,27,10,15,1702,0,0,1.76,"Jan 17, 2023","Jun 30, 2025",/arijon-ibrahimovic/profil/spieler/744728
+30,Kingsley Coman,26,"Jun 13, 1996",France,BAYERN MUNICH,,Left Winger,60.0,32,8,6,2085,0,0,1.81,"Jul 1, 2017","Jun 30, 2027",/kingsley-coman/profil/spieler/243714
+31,Nemanja Motika,19,"Mar 20, 2003",Serbia,BAYERN MUNICH,,Left Winger,1.2,40,19,10,1924,0,0,1.79,-,"Jun 30, 2023",/nemanja-motika/profil/spieler/604323
+32,Serge Gnabry,26,"Jul 14, 1995",Germany,BAYERN MUNICH,,Right Winger,65.0,45,17,9,2748,0,0,1.76,"Jul 1, 2017","Jun 30, 2026",/serge-gnabry/profil/spieler/159471
+33,Leroy Sané,26,"Jan 11, 1996",Germany,BAYERN MUNICH,,Right Winger,60.0,45,14,15,2977,0,0,1.83,"Jul 15, 2020","Jun 30, 2025",/leroy-sane/profil/spieler/192565
+34,Thomas Müller,32,"Sep 13, 1989",Germany,BAYERN MUNICH,,Second Striker,22.0,45,13,25,3565,0,0,1.85,"Jul 1, 2009","Jun 30, 2024",/thomas-muller/profil/spieler/58358
+36,Eric Maxim Choupo-Moting,33,"Mar 23, 1989",Cameroon,BAYERN MUNICH,,Centre-Forward,3.0,26,9,5,499,0,0,1.91,"Oct 5, 2020","Jun 30, 2024",/eric-maxim-choupo-moting/profil/spieler/45660
+37,Lucas Copado,18,"Jan 10, 2004",Germany,BAYERN MUNICH,,Centre-Forward,1.0,36,14,13,2296,0,0,1.81,-,"Jun 30, 2024",/lucas-copado/profil/spieler/636898
+38,Gregor Kobel,24,"Dec 6, 1997 ",Switzerland,BORUSSIA DORTMUND,,Goalkeeper,22.0,40,0,0,3555,61,11,1.94,"Jul 1, 2021","Jun 30, 2026",/gregor-kobel/profil/spieler/257814
+40,Luca Unbehaun,21,"Feb 27, 2001",Germany,BORUSSIA DORTMUND,,Goalkeeper,1.5,22,0,0,1980,25,5,1.85,"Jul 1, 2019","Jun 30, 2023",/luca-unbehaun/profil/spieler/388815
+42,Stefan Drljaca,23,"Apr 20, 1999",Germany,BORUSSIA DORTMUND,,Goalkeeper,0.2,15,0,0,1350,22,4,1.92,-,"Jun 30, 2024",/stefan-drljaca/profil/spieler/388067
+43,Silas Ostrzinski,18,"Nov 19, 2003",Germany,BORUSSIA DORTMUND,,Goalkeeper,,24,0,0,2220,21,10,1.98,-,"Jun 30, 2023",/silas-ostrzinski/profil/spieler/684116
+46,Mats Hummels,33,"Dec 16, 1988",Germany,BORUSSIA DORTMUND,,Centre-Back,6.5,32,1,2,2477,0,0,1.91,"Jul 1, 2019","Jun 30, 2023",/mats-hummels/profil/spieler/39728
+48,Soumaïla Coulibaly,18,"Oct 14, 2003",France,BORUSSIA DORTMUND,,Centre-Back,0.75,13,0,0,952,0,0,1.9,"Jul 1, 2021","Jun 30, 2026",/soumaila-coulibaly/profil/spieler/659513
+49,Lennard Maloney,22,"Oct 8, 1999 ",United States,BORUSSIA DORTMUND,,Centre-Back,0.35,29,1,0,2201,0,0,1.87,-,"Jun 30, 2025",/lennard-maloney/profil/spieler/392710
+50,Raphaël Guerreiro,28,"Dec 22, 1993",Portugal,BORUSSIA DORTMUND,,Left-Back,25.0,28,5,4,2166,0,0,1.7,"Jul 1, 2016","Jun 30, 2023",/raphael-guerreiro/profil/spieler/170986
+51,Nico Schulz,29,"Apr 1, 1993 ",Germany,BORUSSIA DORTMUND,,Left-Back,4.0,24,0,3,1332,0,0,1.8,"Jul 1, 2019","Jun 30, 2024",/nico-schulz/profil/spieler/85867
+52,Tom Rothe,17,"Oct 29, 2004",Germany,BORUSSIA DORTMUND,,Left-Back,1.2,33,4,13,2747,0,0,1.93,"Jul 1, 2022","Jun 30, 2024",/tom-rothe/profil/spieler/798043
+54,Marius Wolf,27,"May 27, 1995",Germany,BORUSSIA DORTMUND,,Right-Back,6.5,35,3,2,1629,0,0,1.87,"Jul 2, 2018","Jun 30, 2024",/marius-wolf/profil/spieler/193900
+55,Thomas Meunier,30,"Sep 12, 1991",Belgium,BORUSSIA DORTMUND,,Right-Back,6.5,26,2,5,2097,0,0,1.91,"Jul 1, 2020","Jun 30, 2024",/thomas-meunier/profil/spieler/100986
+56,Mateu Morey Bauzà,22,"Mar 2, 2000 ",Spain,BORUSSIA DORTMUND,,Right-Back,4.0,,0,0,0,0,0,1.73,"Jul 1, 2019","Jun 30, 2024",/mateu-morey-bauza/profil/spieler/388513
+57,Felix Passlack,24,"May 29, 1998",Germany,BORUSSIA DORTMUND,,Right-Back,1.5,16,1,2,794,0,0,1.7,"Jan 4, 2016","Jun 30, 2023",/felix-passlack/profil/spieler/274461
+58,Lion Semic,18,"Sep 13, 2003",Germany,BORUSSIA DORTMUND,,Right-Back,0.5,26,3,7,1926,0,0,1.69,-,"Jun 30, 2024",/lion-semic/profil/spieler/521919
+59,Emre Can,28,"Jan 12, 1994",Germany,BORUSSIA DORTMUND,,Defensive Midfield,16.0,28,5,1,1941,0,0,1.86,"Jul 1, 2020","Jun 30, 2024",/emre-can/profil/spieler/119296
+61,Abdoulaye Kamara,17,"Nov 6, 2004 ",France,BORUSSIA DORTMUND,,Defensive Midfield,1.0,32,3,1,1790,0,0,1.83,-,"Jun 30, 2024",/abdoulaye-kamara/profil/spieler/718232
+62,Antonios Papadopoulos,22,"Sep 10, 1999",Germany,BORUSSIA DORTMUND,,Defensive Midfield,0.35,29,1,1,2319,0,0,1.86,-,"Jun 30, 2024",/antonios-papadopoulos/profil/spieler/482573
+63,Jude Bellingham,19,"Jun 29, 2003",England,BORUSSIA DORTMUND,,Central Midfield,80.0,44,6,14,3796,0,0,1.86,"Jul 23, 2020","Jun 30, 2025",/jude-bellingham/profil/spieler/581678
+64,Mahmoud Dahoud,26,"Jan 1, 1996 ",Germany,BORUSSIA DORTMUND,,Central Midfield,18.0,30,2,7,2230,0,0,1.78,"Jul 1, 2017","Jun 30, 2023",/mahmoud-dahoud/profil/spieler/191422
+65,Thomas Delaney,30,"Sep 3, 1991 ",Denmark,BORUSSIA DORTMUND,,Central Midfield,7.0,37,2,1,2040,0,0,1.82,"Jul 1, 2018","Jun 30, 2023",/thomas-delaney/profil/spieler/91849
+67,Marco Pasalic,21,"Sep 14, 2000",Croatia,BORUSSIA DORTMUND,,Right Midfield,0.275,14,2,1,594,0,0,1.77,-,"Jun 30, 2023",/marco-pasalic/profil/spieler/395928
+68,Giovanni Reyna,19,"Nov 13, 2002",United States,BORUSSIA DORTMUND,,Attacking Midfield,35.0,13,2,2,647,0,0,1.85,"Jan 12, 2020","Jun 30, 2025",/giovanni-reyna/profil/spieler/504215
+69,Julian Brandt,26,"May 2, 1996 ",Germany,BORUSSIA DORTMUND,,Attacking Midfield,25.0,40,9,10,2769,0,0,1.85,"Jul 1, 2019","Jun 30, 2024",/julian-brandt/profil/spieler/187492
+70,Marco Reus,33,"May 31, 1989",Germany,BORUSSIA DORTMUND,,Attacking Midfield,11.0,41,13,18,3445,0,0,1.8,"Jul 1, 2012","Jun 30, 2023",/marco-reus/profil/spieler/35207
+72,Immanuel Pherai,21,"Apr 25, 2001",Netherlands,BORUSSIA DORTMUND,,Attacking Midfield,0.7,32,6,7,2482,0,0,1.75,"Jul 1, 2020","Jun 30, 2024",/immanuel-pherai/profil/spieler/412935
+73,Göktan Gürpüz,19,"Jan 22, 2003",Turkey,BORUSSIA DORTMUND,,Attacking Midfield,0.25,31,2,13,2609,0,0,1.75,-,"Jun 30, 2025",/goktan-gurpuz/profil/spieler/655912
+74,Donyell Malen,23,"Jan 19, 1999",Netherlands,BORUSSIA DORTMUND,,Left Winger,27.0,38,9,6,2312,0,0,1.78,"Jul 27, 2021","Jun 30, 2026",/donyell-malen/profil/spieler/326029
+75,Thorgan Hazard,29,"Mar 29, 1993",Belgium,BORUSSIA DORTMUND,,Left Winger,15.0,30,6,1,1656,0,0,1.75,"Jul 1, 2019","Jun 30, 2023",/thorgan-hazard/profil/spieler/102226
+76,Jamie Bynoe-Gittens,17,"Aug 8, 2004 ",England,BORUSSIA DORTMUND,,Left Winger,4.0,22,11,4,1426,0,0,1.77,"Jul 1, 2022","Jun 30, 2025",/jamie-bynoe-gittens/profil/spieler/670882
+79,Youssoufa Moukoko,17,"Nov 20, 2004",Germany,BORUSSIA DORTMUND,,Centre-Forward,15.0,24,3,2,482,0,0,1.79,"Jul 29, 2020","Jun 30, 2026",/youssoufa-moukoko/profil/spieler/467720
+81,Justin Njinmah,21,"Nov 15, 2000",Germany,BORUSSIA DORTMUND,,Centre-Forward,0.4,35,19,8,2560,0,0,1.79,-,"Jun 30, 2023",/justin-njinmah/profil/spieler/596153
+82,Lukas Hradecky,32,"Nov 24, 1989",Finland,BAYER,,Goalkeeper,5.0,41,0,0,3690,54,11,1.92,"Jul 1, 2018","Jun 30, 2026",/lukas-hradecky/profil/spieler/48015
+83,Andrey Lunev,30,"Nov 13, 1991",Russia,BAYER,,Goalkeeper,2.5,2,0,0,180,2,0,1.9,"Jul 10, 2021","Jun 30, 2023",/andrey-lunev/profil/spieler/112541
+85,Niklas Lomb,28,"Jul 28, 1993",Germany,BAYER,,Goalkeeper,0.25,-,0,0,0,0,0,1.86,"Jul 1, 2012","Jun 30, 2024",/niklas-lomb/profil/spieler/85543
+86,Maximilian Neutgens,18,"Mar 3, 2004 ",Germany,BAYER,,Goalkeeper,,10,0,0,900,8,6,1.88,-,"Jun 30, 2023",/maximilian-neutgens/profil/spieler/696022
+87,Edmond Tapsoba,23,"Feb 2, 1999 ",Burkina Faso,BAYER,,Centre-Back,35.0,29,1,0,2307,0,0,1.94,"Jan 31, 2020","Jun 30, 2026",/edmond-tapsoba/profil/spieler/564545
+88,Jonathan Tah,26,"Feb 11, 1996",Germany,BAYER,,Centre-Back,25.0,42,2,3,3646,0,0,1.95,"Jul 16, 2015","Jun 30, 2025",/jonathan-tah/profil/spieler/196357
+89,Odilon Kossounou,21,"Jan 4, 2001 ",Cote d'Ivoire,BAYER,,Centre-Back,20.0,34,0,2,2270,0,0,1.91,"Jul 22, 2021","Jun 30, 2026",/odilon-kossounou/profil/spieler/644771
+90,Piero Hincapié,20,"Jan 9, 2002 ",Ecuador,BAYER,,Centre-Back,17.0,33,2,1,2183,0,0,1.83,"Aug 16, 2021","Jun 30, 2027",/piero-hincapie/profil/spieler/659813
+93,Mitchel Bakker,22,"Jun 20, 2000",Netherlands,BAYER,,Left-Back,14.0,30,1,5,2182,0,0,1.85,"Jul 12, 2021","Jun 30, 2025",/mitchel-bakker/profil/spieler/361065
+94,Wendell,28,"Jul 20, 1993",Brazil,BAYER,,Left-Back,5.0,28,1,1,1315,0,0,1.76,"Jul 1, 2014","Jun 30, 2025",/wendell/profil/spieler/228433
+95,Daley Sinkgraven,26,"Jul 4, 1995 ",Netherlands,BAYER,,Left-Back,4.0,18,0,0,630,0,0,1.79,"Jul 1, 2019","Jun 30, 2023",/daley-sinkgraven/profil/spieler/215099
+96,Jeremie Frimpong,21,"Dec 10, 2000",Netherlands,BAYER,,Right-Back,20.0,34,2,8,2787,0,0,1.71,"Jan 27, 2021","Jun 30, 2025",/jeremie-frimpong/profil/spieler/484547
+97,Timothy Fosu-Mensah,24,"Jan 2, 1998 ",Netherlands,BAYER,,Right-Back,4.0,8,0,0,210,0,0,1.85,"Jan 13, 2021","Jun 30, 2024",/timothy-fosu-mensah/profil/spieler/315131
+100,Kerem Demirbay,28,"Jul 3, 1993 ",Germany,BAYER,,Central Midfield,15.0,36,3,7,2590,0,0,1.83,"Jul 1, 2019","Jun 30, 2024",/kerem-demirbay/profil/spieler/125858
+101,Exequiel Palacios,23,"Oct 5, 1998 ",Argentina,BAYER,,Central Midfield,15.0,32,3,2,1550,0,0,1.77,"Jan 1, 2020","Jun 30, 2025",/exequiel-palacios/profil/spieler/401578
+102,Robert Andrich,27,"Sep 22, 1994",Germany,BAYER,,Central Midfield,13.0,33,7,3,2325,0,0,1.87,"Aug 16, 2021","Jun 30, 2026",/robert-andrich/profil/spieler/159088
+104,Charles Aránguiz,33,"Apr 17, 1989",Chile,BAYER,,Central Midfield,3.5,32,2,4,2013,0,0,1.71,"Aug 13, 2015","Jun 30, 2023",/charles-aranguiz/profil/spieler/89701
+105,Zidan Sertdemir,17,"Feb 4, 2005 ",Denmark,BAYER,,Central Midfield,2.0,16,8,3,1127,0,0,1.82,"Jul 1, 2021",-,/zidan-sertdemir/profil/spieler/788445
+106,Florian Wirtz,19,"May 3, 2003 ",Germany,BAYER,,Attacking Midfield,70.0,31,10,14,2327,0,0,1.76,"Jul 1, 2020","Jun 30, 2027",/florian-wirtz/profil/spieler/598577
+107,Moussa Diaby,22,"Jul 7, 1999 ",France,BAYER,,Left Winger,60.0,42,17,14,3579,0,0,1.7,"Jul 1, 2019","Jun 30, 2025",/moussa-diaby/profil/spieler/395516
+108,Paulinho,21,"Jul 15, 2000",Brazil,BAYER,,Left Winger,11.0,31,4,3,1633,0,0,1.77,"Jul 15, 2018","Jun 30, 2023",/paulinho/profil/spieler/428791
+109,Amine Adli,22,"May 10, 2000",France,BAYER,,Right Winger,12.0,35,4,4,1928,0,0,1.74,"Aug 26, 2021","Jun 30, 2026",/amine-adli/profil/spieler/532776
+110,Karim Bellarabi,32,"Apr 8, 1990 ",Germany,BAYER,,Right Winger,3.0,22,4,5,944,0,0,1.84,"Jul 1, 2011","Jun 30, 2023",/karim-bellarabi/profil/spieler/61087
+111,Patrik Schick,26,"Jan 24, 1996",Czech Republic,BAYER,,Centre-Forward,50.0,31,24,5,2229,0,0,1.91,"Sep 8, 2020","Jun 30, 2027",/patrik-schick/profil/spieler/242086
+112,Sardar Azmoun,27,"Jan 1, 1995 ",Iran,BAYER,,Centre-Forward,22.0,32,11,5,1720,0,0,1.86,"Jan 30, 2022","Jun 30, 2027",/sardar-azmoun/profil/spieler/180337
+116,Iker Bravo,17,"Jan 13, 2005",Spain,BAYER,,Centre-Forward,1.0,19,10,3,1439,0,0,1.84,-,"Jun 30, 2023",/iker-bravo/profil/spieler/741292
+117,Péter Gulácsi,32,"May 6, 1990 ",Hungary,LEIPZIG,,Goalkeeper,8.0,49,0,0,4437,57,15,1.9,"Jul 1, 2015","Jun 30, 2025",/peter-gulacsi/profil/spieler/57071
+120,Fabian Eutinger,18,"Oct 12, 2003",Germany,LEIPZIG,,Goalkeeper,0.1,9,0,0,840,18,2,1.87,-,"Jun 30, 2023",/fabian-eutinger/profil/spieler/692463
+121,Josko Gvardiol,20,"Jan 23, 2002",Croatia,LEIPZIG,,Centre-Back,35.0,46,2,4,3511,0,0,1.85,"Jul 1, 2021","Jun 30, 2027",/josko-gvardiol/profil/spieler/475959
+122,Mohamed Simakan,22,"May 3, 2000 ",France,LEIPZIG,,Centre-Back,22.0,41,1,1,3102,0,0,1.87,"Jul 1, 2021","Jun 30, 2027",/mohamed-simakan/profil/spieler/666234
+123,Willi Orbán,29,"Nov 3, 1992 ",Hungary,LEIPZIG,,Centre-Back,10.0,44,4,2,3891,0,0,1.86,"Jul 1, 2015","Jun 30, 2025",/willi-orban/profil/spieler/93740
+124,David Lelle,19,"Mar 9, 2003 ",Germany,LEIPZIG,,Centre-Back,,25,1,1,2092,0,0,1.89,-,"Jun 30, 2024",/david-lelle/profil/spieler/574199
+126,Marcel Halstenberg,30,"Sep 27, 1991",Germany,LEIPZIG,,Left-Back,5.0,15,1,0,704,0,0,1.88,"Aug 31, 2015","Jun 30, 2024",/marcel-halstenberg/profil/spieler/70243
+128,Lukas Klostermann,26,"Jun 3, 1996 ",Germany,LEIPZIG,,Right-Back,18.0,37,0,2,2717,0,0,1.89,"Aug 22, 2014","Jun 30, 2024",/lukas-klostermann/profil/spieler/215599
+129,Benjamin Henrichs,25,"Feb 23, 1997",Germany,LEIPZIG,,Right-Back,14.0,37,3,4,2100,0,0,1.85,"Jul 1, 2021","Jun 30, 2025",/benjamin-henrichs/profil/spieler/202591
+132,Konrad Laimer,25,"May 27, 1997",Austria,LEIPZIG,,Central Midfield,28.0,43,5,6,2435,0,0,1.8,"Jul 1, 2017","Jun 30, 2023",/konrad-laimer/profil/spieler/223967
+133,Amadou Haidara,24,"Jan 31, 1998",Mali,LEIPZIG,,Central Midfield,24.0,28,4,1,1633,0,0,1.75,"Jan 1, 2019","Jun 30, 2025",/amadou-haidara/profil/spieler/402008
+134,Marcel Sabitzer,28,"Mar 17, 1994",Austria,LEIPZIG,,Central Midfield,15.0,32,1,1,1076,0,0,1.77,"Jul 1, 2014","Jun 30, 2023",/marcel-sabitzer/profil/spieler/106987
+136,Kevin Kampl,31,"Oct 9, 1990 ",Slovenia,LEIPZIG,,Central Midfield,6.0,40,0,1,3006,0,0,1.78,"Aug 31, 2017","Jun 30, 2024",/kevin-kampl/profil/spieler/53418
+139,Dani Olmo,24,"May 7, 1998 ",Spain,LEIPZIG,,Attacking Midfield,40.0,31,4,5,1500,0,0,1.79,"Jan 25, 2020","Jun 30, 2024",/dani-olmo/profil/spieler/293385
+140,Dominik Szoboszlai,21,"Oct 25, 2000",Hungary,LEIPZIG,,Attacking Midfield,28.0,45,10,9,2126,0,0,1.87,"Jan 1, 2021","Jun 30, 2026",/dominik-szoboszlai/profil/spieler/451276
+141,Emil Forsberg,30,"Oct 23, 1991",Sweden,LEIPZIG,,Attacking Midfield,11.0,46,11,4,2364,0,0,1.77,"Jan 7, 2015","Jun 30, 2025",/emil-forsberg/profil/spieler/111078
+144,Hugo Novoa,19,"Jan 24, 2003",Spain,LEIPZIG,,Right Winger,3.0,20,8,1,860,0,0,1.82,"Jul 1, 2021","Jun 30, 2024",/hugo-novoa/profil/spieler/668276
+146,Christopher Nkunku,24,"Nov 14, 1997",France,LEIPZIG,,Second Striker,80.0,52,35,20,4271,0,0,1.78,"Jul 18, 2019","Jun 30, 2026",/christopher-nkunku/profil/spieler/344381
+147,André Silva,26,"Nov 6, 1995 ",Portugal,LEIPZIG,,Centre-Forward,32.0,51,17,8,3219,0,0,1.85,"Jul 2, 2021","Jun 30, 2026",/andre-silva/profil/spieler/198008
+149,Yussuf Poulsen,28,"Jun 15, 1994",Denmark,LEIPZIG,,Centre-Forward,14.0,37,7,3,1475,0,0,1.92,"Jul 4, 2013","Jun 30, 2024",/yussuf-poulsen/profil/spieler/157635
+151,Frederik Rönnow,29,"Aug 4, 1992 ",Denmark,UNION BERLIN,,Goalkeeper,2.0,13,0,0,1200,10,4,1.88,"Jul 20, 2021","Jun 30, 2024",/frederik-ronnow/profil/spieler/107775
+153,Jakob Busk,28,"Sep 12, 1993",Denmark,UNION BERLIN,,Goalkeeper,0.25,-,0,0,0,0,0,1.89,"Jan 15, 2016",-,/jakob-busk/profil/spieler/203411
+154,Niklas Petzsch,18,"Jun 18, 2004",Germany,UNION BERLIN,,Goalkeeper,,14,0,0,1215,19,2,-,-,"Jun 30, 2023",/niklas-petzsch/profil/spieler/698776
+155,Yannic Stein,17,"Sep 17, 2004",Germany,UNION BERLIN,,Goalkeeper,,6,0,0,494,11,2,-,-,"Jun 30, 2023",/yannic-stein/profil/spieler/698840
+157,Paul Jaeckel,23,"Jul 22, 1998",Germany,UNION BERLIN,,Centre-Back,5.0,32,0,0,2555,0,0,1.86,"Jul 1, 2021",-,/paul-jaeckel/profil/spieler/284248
+158,Timo Baumgartl,26,"Mar 4, 1996 ",Germany,UNION BERLIN,,Centre-Back,5.0,35,1,2,3081,0,0,1.9,"Jul 1, 2021","Jun 30, 2023",/timo-baumgartl/profil/spieler/187491
+159,Robin Knoche,30,"May 22, 1992",Germany,UNION BERLIN,,Centre-Back,5.0,46,1,1,4170,0,0,1.89,"Aug 4, 2020","Jun 30, 2024",/robin-knoche/profil/spieler/94201
+162,Sebastian Griesbeck,31,"Oct 3, 1990 ",Germany,UNION BERLIN,,Centre-Back,0.7,30,1,0,2449,0,0,1.89,"Jul 15, 2020","Jun 30, 2023",/sebastian-griesbeck/profil/spieler/153555
+163,Mathis Bruns,18,"Mar 31, 2004",Germany,UNION BERLIN,,Centre-Back,0.2,12,0,0,1008,0,0,1.92,-,"Jun 30, 2023",/mathis-bruns/profil/spieler/699702
+165,Niko Gießelmann,30,"Sep 26, 1991",Germany,UNION BERLIN,,Left-Back,2.3,37,3,7,2538,0,0,1.82,"Jul 15, 2020","Jun 30, 2023",/niko-giesselmann/profil/spieler/72792
+167,Julian Ryerson,24,"Nov 17, 1997",Norway,UNION BERLIN,,Right-Back,4.0,36,3,0,1646,0,0,1.83,"Jul 31, 2018","Jun 30, 2026",/julian-ryerson/profil/spieler/370789
+168,Christopher Trimmel,35,"Feb 24, 1987",Austria,UNION BERLIN,,Right-Back,0.9,37,3,3,2972,0,0,1.89,"Jul 1, 2014","Jun 30, 2024",/christopher-trimmel/profil/spieler/75921
+169,Rani Khedira,28,"Jan 27, 1994",Germany,UNION BERLIN,,Defensive Midfield,6.0,45,0,1,3835,0,0,1.89,"Jul 1, 2021","Jun 30, 2023",/rani-khedira/profil/spieler/124410
+170,Robert Andrich,27,"Sep 22, 1994",Germany,UNION BERLIN,,Central Midfield,13.0,33,7,3,2325,0,0,1.87,"Jul 1, 2019","Jun 30, 2026",/robert-andrich/profil/spieler/159088
+172,András Schäfer,23,"Apr 13, 1999",Hungary,UNION BERLIN,,Central Midfield,2.0,29,4,4,2025,0,0,1.78,"Jan 21, 2022",-,/andras-schafer/profil/spieler/454863
+173,Levin Öztunali,26,"Mar 15, 1996",Germany,UNION BERLIN,,Central Midfield,1.5,24,0,1,873,0,0,1.84,"Jul 1, 2021",-,/levin-oztunali/profil/spieler/168543
+174,Kevin Möhwald,28,"Jul 3, 1993 ",Germany,UNION BERLIN,,Central Midfield,1.5,22,0,0,584,0,0,1.82,"Aug 30, 2021",-,/kevin-mohwald/profil/spieler/94137
+176,Maximilian Somnitz,19,"Jun 9, 2003 ",Germany,UNION BERLIN,,Central Midfield,0.2,18,4,1,1471,0,0,1.89,-,"Jun 30, 2024",/maximilian-somnitz/profil/spieler/692713
+179,Genki Haraguchi,31,"May 9, 1991 ",Japan,UNION BERLIN,,Attacking Midfield,2.5,42,2,6,2511,0,0,1.78,"Jul 1, 2021","Jun 30, 2024",/genki-haraguchi/profil/spieler/79377
+181,Sheraldo Becker,27,"Feb 9, 1995 ",Suriname,UNION BERLIN,,Second Striker,7.0,40,6,9,2407,0,0,1.8,"Jul 1, 2019","Jun 30, 2025",/sheraldo-becker/profil/spieler/188888
+186,Sven Michel,31,"Jul 15, 1990",Germany,UNION BERLIN,,Centre-Forward,1.2,35,18,9,2082,0,0,1.77,"Jan 31, 2022","Jun 30, 2024",/sven-michel/profil/spieler/186988
+188,Kevin Behrens,31,"Feb 3, 1991 ",Germany,UNION BERLIN,,Centre-Forward,0.9,34,6,4,916,0,0,1.85,"Jul 1, 2021","Jun 30, 2024",/kevin-behrens/profil/spieler/117432
+191,Mark Flekken,29,"Jun 13, 1993",Netherlands,FREIBURG,,Goalkeeper,7.0,37,0,0,3390,43,11,1.95,"Jul 1, 2018",-,/mark-flekken/profil/spieler/125714
+192,Noah Atubolu,20,"May 25, 2002",Germany,FREIBURG,,Goalkeeper,1.5,31,0,0,2790,34,13,1.9,"Jul 1, 2021",-,/noah-atubolu/profil/spieler/526845
+193,Benjamin Uphoff,28,"Aug 8, 1993 ",Germany,FREIBURG,,Goalkeeper,0.5,4,0,0,390,10,0,1.92,"Aug 5, 2020","Jun 30, 2023",/benjamin-uphoff/profil/spieler/120296
+195,Philipp Lienhart,25,"Jul 11, 1996",Austria,FREIBURG,,Centre-Back,18.0,38,5,0,3408,0,0,1.89,"Jul 1, 2018","Jun 30, 2024",/philipp-lienhart/profil/spieler/225657
+196,Keven Schlotterbeck,25,"Apr 28, 1997",Germany,FREIBURG,,Centre-Back,3.0,15,1,0,532,0,0,1.89,"Jul 1, 2018","Jun 30, 2023",/keven-schlotterbeck/profil/spieler/413843
+198,Manuel Gulde,31,"Feb 12, 1991",Germany,FREIBURG,,Centre-Back,1.7,25,0,0,1546,0,0,1.84,"Jul 1, 2016",-,/manuel-gulde/profil/spieler/45683
+199,Kenneth Schmidt,20,"Jun 3, 2002 ",Germany,FREIBURG,,Centre-Back,0.5,28,0,1,2352,0,0,1.87,"Jan 1, 2023",-,/kenneth-schmidt/profil/spieler/527276
+200,Christian Günter,29,"Feb 28, 1993",Germany,FREIBURG,,Left-Back,12.0,40,2,10,3690,0,0,1.84,"Jul 1, 2012",-,/christian-gunter/profil/spieler/93707
+201,Kimberly Ezekwem,21,"Jun 19, 2001",Germany,FREIBURG,,Left-Back,0.3,14,0,0,892,0,0,1.87,"Jul 1, 2021",-,/kimberly-ezekwem/profil/spieler/453865
+202,Hugo Siquet,19,"Jul 9, 2002 ",Belgium,FREIBURG,,Right-Back,5.5,22,1,2,1743,0,0,1.8,"Jan 1, 2022","Jun 30, 2023",/hugo-siquet/profil/spieler/578680
+203,Lukas Kübler,29,"Aug 30, 1992",Germany,FREIBURG,,Right-Back,2.3,33,2,0,2743,0,0,1.82,"Jul 1, 2015",-,/lukas-kubler/profil/spieler/93604
+204,Kiliann Sildillia,20,"May 16, 2002",France,FREIBURG,,Right-Back,1.5,25,1,0,1539,0,0,1.86,"Jul 1, 2021","Jun 30, 2024",/kiliann-sildillia/profil/spieler/548348
+205,Jonathan Schmid,32,"Jun 22, 1990",France,FREIBURG,,Right-Back,1.2,17,1,1,862,0,0,1.79,"Jul 1, 2019",-,/jonathan-schmid/profil/spieler/70285
+206,Yannik Keitel,22,"Feb 15, 2000",Germany,FREIBURG,,Defensive Midfield,4.0,14,0,0,593,0,0,1.86,"Apr 16, 2020","Jun 30, 2024",/yannik-keitel/profil/spieler/342039
+207,Nicolas Höfler,32,"Mar 9, 1990 ",Germany,FREIBURG,,Defensive Midfield,2.5,35,3,7,3112,0,0,1.81,"Jul 1, 2010",-,/nicolas-hofler/profil/spieler/55099
+208,Yannik Engelhardt,21,"Feb 7, 2001 ",Germany,FREIBURG,,Defensive Midfield,0.4,29,1,4,2476,0,0,1.84,-,"Jun 30, 2023",/yannik-engelhardt/profil/spieler/405670
+209,Baptiste Santamaria,27,"Mar 9, 1995 ",France,FREIBURG,,Central Midfield,14.0,47,2,2,3388,0,0,1.83,"Sep 17, 2020","Jun 30, 2025",/baptiste-santamaria/profil/spieler/285323
+210,Maximilian Eggestein,25,"Dec 8, 1996 ",Germany,FREIBURG,,Central Midfield,8.0,40,3,2,3064,0,0,1.81,"Aug 18, 2021","Jun 30, 2025",/maximilian-eggestein/profil/spieler/190284
+212,Robert Wagner,18,"Jul 14, 2003",Germany,FREIBURG,,Central Midfield,0.5,30,3,2,2505,0,0,1.81,"Jul 1, 2022","Jun 30, 2024",/robert-wagner/profil/spieler/690429
+213,Vincenzo Grifo,29,"Apr 7, 1993 ",Italy,FREIBURG,,Left Winger,12.0,40,13,8,3315,0,0,1.8,"Sep 2, 2019",-,/vincenzo-grifo/profil/spieler/185077
+214,Noah Weißhaupt,20,"Sep 20, 2001",Germany,FREIBURG,,Left Winger,1.7,24,3,3,1125,0,0,1.81,"Jul 1, 2021",-,/noah-weisshaupt/profil/spieler/392163
+215,Roland Sallai,25,"May 22, 1997",Hungary,FREIBURG,,Right Winger,12.0,36,5,6,1784,0,0,1.83,"Aug 31, 2018","Jun 30, 2025",/roland-sallai/profil/spieler/332798
+216,Kevin Schade,20,"Nov 27, 2001",Germany,FREIBURG,,Right Winger,7.0,25,7,2,1084,0,0,1.85,"Jul 1, 2021","Jun 30, 2023",/kevin-schade/profil/spieler/473050
+217,Woo-yeong Jeong,22,"Sep 20, 1999","Korea, South",FREIBURG,,Second Striker,5.5,37,5,2,2089,0,0,1.79,"Jul 1, 2019","Jun 30, 2025",/woo-yeong-jeong/profil/spieler/297583
+218,Lucas Höler,27,"Jul 10, 1994",Germany,FREIBURG,,Centre-Forward,6.5,40,7,9,3029,0,0,1.84,"Jan 1, 2018",-,/lucas-holer/profil/spieler/248999
+220,Nils Petersen,33,"Dec 6, 1988 ",Germany,FREIBURG,,Centre-Forward,1.5,27,7,1,813,0,0,1.88,"Jul 1, 2015",-,/nils-petersen/profil/spieler/42936
+221,Vincent Vermeij,27,"Aug 9, 1994 ",Netherlands,FREIBURG,,Centre-Forward,0.4,29,11,2,1798,0,0,1.96,-,"Jun 30, 2023",/vincent-vermeij/profil/spieler/273054
+223,Marvin Schwäbe,27,"Apr 25, 1995",Germany,KÖLN,,Goalkeeper,4.0,24,0,0,2220,30,4,1.9,"Jul 1, 2021","Jun 30, 2024",/marvin-schwabe/profil/spieler/160929
+224,Timo Horn,29,"May 12, 1993",Germany,KÖLN,,Goalkeeper,2.0,13,0,0,1170,21,1,1.92,"Jul 1, 2011","Jun 30, 2023",/timo-horn/profil/spieler/84938
+225,Jonas Urbig,18,"Aug 8, 2003 ",Germany,KÖLN,,Goalkeeper,0.3,26,0,0,2340,34,7,1.89,"Jul 1, 2022","Jun 30, 2024",/jonas-urbig/profil/spieler/607720
+226,Matthias Köbbing,25,"May 28, 1997",Germany,KÖLN,,Goalkeeper,0.025,-,0,0,0,0,0,1.96,"Mar 8, 2022","Jun 30, 2025",/matthias-kobbing/profil/spieler/227089
+227,Timo Hübers,25,"Jul 20, 1996",Germany,KÖLN,,Centre-Back,7.5,24,1,0,2162,0,0,1.9,"Jul 1, 2021","Jun 30, 2024",/timo-hubers/profil/spieler/236981
+230,Julian Chabot,24,"Feb 12, 1998",Germany,KÖLN,,Centre-Back,2.0,17,0,0,851,0,0,1.95,"Jan 26, 2022","Jun 30, 2023",/julian-chabot/profil/spieler/303219
+233,Jonas Hector,32,"May 27, 1990",Germany,KÖLN,,Left-Back,3.5,33,0,6,2885,0,0,1.85,"Jul 1, 2012","Jun 30, 2023",/jonas-hector/profil/spieler/108537
+236,Benno Schmitz,27,"Nov 17, 1994",Germany,KÖLN,,Right-Back,3.0,33,0,5,2606,0,0,1.82,"Jul 1, 2018","Jun 30, 2024",/benno-schmitz/profil/spieler/160968
+238,Kingsley Schindler,28,"Jul 12, 1993",Germany,KÖLN,,Right-Back,0.8,20,1,3,499,0,0,1.83,"Jul 1, 2019","Jun 30, 2023",/kingsley-schindler/profil/spieler/153678
+240,Ellyes Skhiri,27,"May 10, 1995",Tunisia,KÖLN,,Defensive Midfield,13.0,23,5,1,1864,0,0,1.85,"Jul 29, 2019","Jun 30, 2023",/ellyes-skhiri/profil/spieler/290587
+241,Dejan Ljubicic,24,"Oct 8, 1997 ",Austria,KÖLN,,Defensive Midfield,7.5,32,3,1,2166,0,0,1.87,"Jul 1, 2021","Jun 30, 2025",/dejan-ljubicic/profil/spieler/287188
+243,Mathias Olesen,21,"Mar 21, 2001",Luxembourg,KÖLN,,Central Midfield,0.35,30,4,0,2378,0,0,1.88,"Feb 4, 2022","Jun 30, 2025",/mathias-olesen/profil/spieler/490581
+244,Ondrej Duda,27,"Dec 5, 1994 ",Slovakia,KÖLN,,Attacking Midfield,4.0,34,2,1,1731,0,0,1.81,"Sep 16, 2020","Jun 30, 2023",/ondrej-duda/profil/spieler/232418
+247,Florian Kainz,29,"Oct 24, 1992",Austria,KÖLN,,Left Winger,3.5,34,4,7,2435,0,0,1.76,"Jan 18, 2019","Jun 30, 2025",/florian-kainz/profil/spieler/106270
+249,Jan Thielmann,20,"May 26, 2002",Germany,KÖLN,,Right Winger,7.5,32,3,3,1488,0,0,1.78,"Jan 17, 2020","Jun 30, 2024",/jan-thielmann/profil/spieler/472249
+251,Mark Uth,30,"Aug 24, 1991",Germany,KÖLN,,Centre-Forward,3.0,33,5,9,2302,0,0,1.85,"Jul 1, 2021","Jun 30, 2025",/mark-uth/profil/spieler/112935
+252,Sebastian Andersson,30,"Jul 15, 1991",Sweden,KÖLN,,Centre-Forward,2.0,29,3,1,1453,0,0,1.9,"Sep 15, 2020","Jun 30, 2023",/sebastian-andersson/profil/spieler/147573
+253,Tim Lemperle,20,"Feb 5, 2002 ",Germany,KÖLN,,Centre-Forward,2.0,22,4,0,793,0,0,1.89,"Jul 1, 2020","Jun 30, 2025",/tim-lemperle/profil/spieler/553285
+254,Robin Zentner,27,"Oct 28, 1994",Germany,MAINZ,,Goalkeeper,5.0,35,0,0,3210,49,10,1.95,"Jul 1, 2014","Jun 30, 2025",/robin-zentner/profil/spieler/160963
+255,Finn Dahmen,24,"Mar 27, 1998",Germany,MAINZ,,Goalkeeper,1.5,2,0,0,180,3,0,1.88,"Jul 1, 2018","Jun 30, 2023",/finn-dahmen/profil/spieler/251299
+256,Lasse Rieß,20,"Jul 27, 2001",Germany,MAINZ,,Goalkeeper,0.2,26,0,0,2303,24,13,1.91,"Jul 1, 2021","Jun 30, 2025",/lasse-riess/profil/spieler/490609
+260,Stefan Bell,30,"Aug 24, 1991",Germany,MAINZ,,Centre-Back,2.5,36,2,0,3140,0,0,1.92,"Jul 1, 2010","Jun 30, 2024",/stefan-bell/profil/spieler/82350
+261,Alexander Hack,28,"Sep 8, 1993 ",Germany,MAINZ,,Centre-Back,2.5,30,3,1,2247,0,0,1.93,"Nov 30, 2015","Jun 30, 2024",/alexander-hack/profil/spieler/126281
+263,Aarón Martín,25,"Apr 22, 1997",Spain,MAINZ,,Left-Back,5.0,31,1,1,2473,0,0,1.8,"Jul 1, 2019","Jun 30, 2023",/aaron-martin/profil/spieler/251878
+265,Silvan Widmer,29,"Mar 5, 1993 ",Switzerland,MAINZ,,Right-Back,5.0,36,4,5,3219,0,0,1.83,"Jul 9, 2021","Jun 30, 2024",/silvan-widmer/profil/spieler/168989
+267,Anton Stach,23,"Nov 15, 1998",Germany,MAINZ,,Defensive Midfield,13.0,32,1,9,2022,0,0,1.94,"Jul 31, 2021","Jun 30, 2024",/anton-stach/profil/spieler/344069
+268,Niklas Tauer,21,"Feb 17, 2001",Germany,MAINZ,,Defensive Midfield,1.5,15,0,0,832,0,0,1.83,"Sep 27, 2019","Jun 30, 2024",/niklas-tauer/profil/spieler/470815
+269,Stephan Fürstner,34,"Sep 11, 1987",Germany,MAINZ,,Defensive Midfield,0.075,17,0,0,888,0,0,1.78,-,-,/stephan-furstner/profil/spieler/35493
+270,Leandro Barreiro,22,"Jan 3, 2000 ",Luxembourg,MAINZ,,Central Midfield,8.0,34,1,3,1978,0,0,1.74,"Jul 1, 2018","Jun 30, 2024",/leandro-barreiro/profil/spieler/357233
+274,Eniss Shabani,19,"May 29, 2003",Germany,MAINZ,,Central Midfield,0.2,24,3,3,1886,0,0,1.8,"Jul 1, 2022","Jun 30, 2025",/eniss-shabani/profil/spieler/663189
+275,Timothé Rupil,19,"Jun 12, 2003",Luxembourg,MAINZ,,Central Midfield,0.1,15,2,3,955,0,0,1.71,-,"Jun 30, 2024",/timothe-rupil/profil/spieler/627661
+277,Jae-sung Lee,29,"Aug 10, 1992","Korea, South",MAINZ,,Attacking Midfield,3.0,30,4,3,1627,0,0,1.8,"Jul 8, 2021","Jun 30, 2024",/jae-sung-lee/profil/spieler/314398
+279,Romario Rösch,22,"Jul 1, 1999 ",Germany,MAINZ,,Attacking Midfield,0.15,33,4,4,2406,0,0,1.82,-,"Jun 30, 2023",/romario-rosch/profil/spieler/333464
+280,Kaito Mizuta,22,"Apr 8, 2000 ",Japan,MAINZ,,Attacking Midfield,0.15,35,5,7,2827,0,0,1.82,-,"Jun 30, 2023",/kaito-mizuta/profil/spieler/677794
+283,Ben Bobzien,19,"Apr 29, 2003",Germany,MAINZ,,Right Winger,0.25,24,12,5,1907,0,0,1.74,"Jul 1, 2022","Jun 30, 2023",/ben-bobzien/profil/spieler/658116
+284,Jonathan Burkardt,21,"Jul 11, 2000",Germany,MAINZ,,Centre-Forward,17.0,37,14,4,2845,0,0,1.83,"Jul 1, 2018","Jun 30, 2024",/jonathan-burkardt/profil/spieler/333647
+285,Karim Onisiwo,30,"Mar 17, 1992",Austria,MAINZ,,Centre-Forward,3.5,33,7,10,2540,0,0,1.88,"Jan 5, 2016","Jun 30, 2024",/karim-onisiwo/profil/spieler/119234
+288,Oliver Baumann,32,"Jun 2, 1990 ",Germany,HOFFENHEIM,,Goalkeeper,4.5,35,0,0,3150,62,8,1.87,"Jul 1, 2014","Jun 30, 2024",/oliver-baumann/profil/spieler/55089
+289,Philipp Pentke,37,"May 1, 1985 ",Germany,HOFFENHEIM,,Goalkeeper,0.3,3,0,0,300,6,0,1.91,"Jul 1, 2019","Jun 30, 2023",/philipp-pentke/profil/spieler/8246
+290,Luca Philipp,21,"Nov 28, 2000",Germany,HOFFENHEIM,,Goalkeeper,0.3,21,0,0,1890,34,3,1.92,"Jul 31, 2020","Jun 30, 2023",/luca-philipp/profil/spieler/432671
+291,Nahue Noll,19,"Mar 17, 2003",Germany,HOFFENHEIM,,Goalkeeper,0.2,27,0,0,2430,40,7,1.88,"Jul 1, 2021","Jun 30, 2025",/nahue-noll/profil/spieler/600942
+294,Kevin Akpoguma,27,"Apr 19, 1995",Nigeria,HOFFENHEIM,,Centre-Back,6.0,29,2,4,1786,0,0,1.92,"Jul 1, 2013","Jun 30, 2024",/kevin-akpoguma/profil/spieler/160241
+295,Kevin Vogt,30,"Sep 23, 1991",Germany,HOFFENHEIM,,Centre-Back,3.5,33,0,2,2855,0,0,1.94,"Jul 1, 2016","Jun 30, 2025",/kevin-vogt/profil/spieler/84435
+297,Benjamin Hübner,32,"Jul 4, 1989 ",Germany,HOFFENHEIM,,Centre-Back,1.0,6,1,0,393,0,0,1.93,"Jul 1, 2016",-,/benjamin-hubner/profil/spieler/52348
+299,Ermin Bicakcic,32,"Jan 24, 1990",Bosnia-Herzegovina,HOFFENHEIM,,Centre-Back,1.0,1,0,0,4,0,0,1.85,"Jul 1, 2014","Jun 30, 2023",/ermin-bicakcic/profil/spieler/51676
+300,Gabriel Haider,20,"Jun 18, 2002",Austria,HOFFENHEIM,,Centre-Back,0.125,14,1,1,873,0,0,1.84,-,"Jun 30, 2024",/gabriel-haider/profil/spieler/523913
+301,Noah König,19,"May 17, 2003",Germany,HOFFENHEIM,,Centre-Back,0.125,15,0,0,1049,0,0,1.88,-,"Jun 30, 2025",/noah-konig/profil/spieler/685487
+304,Pavel Kaderabek,30,"Apr 25, 1992",Czech Republic,HOFFENHEIM,,Right-Back,5.0,19,1,3,1197,0,0,1.82,"Jul 1, 2015","Jun 30, 2025",/pavel-kaderabek/profil/spieler/143798
+308,Angelo Stiller,21,"Apr 4, 2001 ",Germany,HOFFENHEIM,,Defensive Midfield,7.0,29,3,2,1946,0,0,1.83,"Jul 1, 2021","Jun 30, 2025",/angelo-stiller/profil/spieler/443710
+309,Sebastian Rudy,32,"Feb 28, 1990",Germany,HOFFENHEIM,,Defensive Midfield,1.5,24,3,1,925,0,0,1.8,"Jul 1, 2021","Jun 30, 2023",/sebastian-rudy/profil/spieler/57051
+311,Fabian Rüth,20,"Jul 2, 2001 ",Germany,HOFFENHEIM,,Defensive Midfield,0.125,20,1,0,1212,0,0,1.87,-,"Jun 30, 2023",/fabian-ruth/profil/spieler/452065
+312,Dennis Geiger,24,"Jun 10, 1998",Germany,HOFFENHEIM,,Central Midfield,9.0,22,2,2,1551,0,0,1.73,"Jul 1, 2016","Jun 30, 2023",/dennis-geiger/profil/spieler/251309
+313,Umut Tohumcu,17,"Aug 11, 2004",Germany,HOFFENHEIM,,Central Midfield,,23,20,12,1914,0,0,1.75,"Jan 18, 2023","Jun 30, 2026",/umut-tohumcu/profil/spieler/569031
+314,Robert Skov,26,"May 20, 1996",Denmark,HOFFENHEIM,,Right Midfield,7.0,14,1,4,434,0,0,1.85,"Jul 29, 2019","Jun 30, 2024",/robert-skov/profil/spieler/270393
+315,Christoph Baumgartner,22,"Aug 1, 1999 ",Austria,HOFFENHEIM,,Attacking Midfield,22.0,31,7,2,2090,0,0,1.8,"Jan 15, 2019","Jun 30, 2025",/christoph-baumgartner/profil/spieler/324278
+317,Tom Bischof,17,"Jun 28, 2005",Germany,HOFFENHEIM,,Attacking Midfield,1.0,19,8,8,1560,0,0,1.76,"Jul 1, 2021","Jun 30, 2025",/tom-bischof/profil/spieler/822959
+318,Jacob Bruun Larsen,23,"Sep 19, 1998",Denmark,HOFFENHEIM,,Left Winger,6.0,28,5,2,942,0,0,1.83,"Jan 31, 2020","Jun 30, 2024",/jacob-bruun-larsen/profil/spieler/293281
+319,Bambasé Conté,18,"Jul 7, 2003 ",Germany,HOFFENHEIM,,Left Winger,,15,5,7,1146,0,0,1.78,-,"Jun 30, 2023",/bambase-conte/profil/spieler/574193
+320,Georginio Rutter,20,"Apr 20, 2002",France,HOFFENHEIM,,Centre-Forward,16.0,36,8,5,1813,0,0,1.82,"Feb 1, 2021","Jun 30, 2028",/georginio-rutter/profil/spieler/538977
+321,Ihlas Bebou,28,"Apr 23, 1994",Togo,HOFFENHEIM,,Centre-Forward,16.0,29,7,3,2196,0,0,1.83,"Jul 1, 2019","Jun 30, 2026",/ihlas-bebou/profil/spieler/237164
+322,Andrej Kramaric,31,"Jun 19, 1991",Croatia,HOFFENHEIM,,Centre-Forward,12.0,35,8,11,2937,0,0,1.77,"Jul 1, 2016","Jun 30, 2025",/andrej-kramaric/profil/spieler/46580
+323,Munas Dabbur,30,"May 14, 1992",Israel,HOFFENHEIM,,Centre-Forward,4.0,30,5,6,1479,0,0,1.82,"Jan 7, 2020","Jun 30, 2024",/munas-dabbur/profil/spieler/145866
+325,Maximilian Beier,19,"Oct 17, 2002",Germany,HOFFENHEIM,,Centre-Forward,3.0,34,8,7,2424,0,0,1.85,"Jul 1, 2020","Jun 30, 2023",/maximilian-beier/profil/spieler/578392
+326,Fisnik Asllani,19,"Aug 8, 2002 ",Germany,HOFFENHEIM,,Centre-Forward,0.4,8,1,3,395,0,0,1.88,"Jan 4, 2022","Jun 30, 2026",/fisnik-asllani/profil/spieler/524290
+327,Nick Proschwitz,35,"Nov 28, 1986",Germany,HOFFENHEIM,,Centre-Forward,0.15,37,20,7,3101,0,0,1.92,-,"Jun 30, 2023",/nick-proschwitz/profil/spieler/31535
+328,Yann Sommer,33,"Dec 17, 1988",Switzerland,BORUSSIA MÖNCHENGLADBACH,,Goalkeeper,5.0,36,0,0,3240,63,7,1.83,"Jul 1, 2014","Jun 30, 2025",/yann-sommer/profil/spieler/42205
+329,Tobias Sippel,34,"Mar 22, 1988",Germany,BORUSSIA MÖNCHENGLADBACH,,Goalkeeper,0.4,1,0,0,90,1,0,1.83,"Jul 1, 2015","Jun 30, 2023",/tobias-sippel/profil/spieler/31653
+330,Jan Olschowsky,20,"Nov 18, 2001",Germany,BORUSSIA MÖNCHENGLADBACH,,Goalkeeper,0.3,16,0,0,1440,21,4,1.84,"Jul 13, 2020","Jun 30, 2027",/jan-olschowsky/profil/spieler/455922
+333,Nico Elvedi,25,"Sep 30, 1996",Switzerland,BORUSSIA MÖNCHENGLADBACH,,Centre-Back,18.0,31,1,1,2702,0,0,1.89,"Jul 1, 2015","Jun 30, 2024",/nico-elvedi/profil/spieler/192635
+336,Tony Jantschke,32,"Apr 7, 1990 ",Germany,BORUSSIA MÖNCHENGLADBACH,,Centre-Back,0.8,3,0,0,227,0,0,1.77,"Jul 1, 2009","Jun 30, 2023",/tony-jantschke/profil/spieler/47587
+337,Tom Gaal,21,"Mar 3, 2001 ",Germany,BORUSSIA MÖNCHENGLADBACH,,Centre-Back,0.1,28,0,1,2474,0,0,1.93,-,"Jun 30, 2023",/tom-gaal/profil/spieler/392133
+338,Mamadou Doucouré,24,"May 21, 1998",France,BORUSSIA MÖNCHENGLADBACH,,Centre-Back,0.1,5,0,0,257,0,0,1.83,"Jul 1, 2016","Jun 30, 2024",/mamadou-doucoure/profil/spieler/340480
+339,Ramy Bensebaini,27,"Apr 16, 1995",Algeria,BORUSSIA MÖNCHENGLADBACH,,Left-Back,17.0,24,6,2,2110,0,0,1.87,"Aug 14, 2019","Jun 30, 2023",/ramy-bensebaini/profil/spieler/284732
+340,Luca Netz,19,"May 15, 2003",Germany,BORUSSIA MÖNCHENGLADBACH,,Left-Back,6.5,27,1,5,1550,0,0,1.84,"Aug 6, 2021","Jun 30, 2026",/luca-netz/profil/spieler/524285
+341,Joe Scally,19,"Dec 31, 2002",United States,BORUSSIA MÖNCHENGLADBACH,,Right-Back,8.0,33,1,2,2129,0,0,1.84,"Jan 1, 2021","Jun 30, 2026",/joe-scally/profil/spieler/504153
+342,Stefan Lainer,29,"Aug 27, 1992",Austria,BORUSSIA MÖNCHENGLADBACH,,Right-Back,4.5,23,1,3,1637,0,0,1.75,"Jul 1, 2019","Jun 30, 2024",/stefan-lainer/profil/spieler/85791
+344,Christoph Kramer,31,"Feb 19, 1991",Germany,BORUSSIA MÖNCHENGLADBACH,,Defensive Midfield,2.5,19,0,0,828,0,0,1.91,"Jul 1, 2016","Jun 30, 2025",/christoph-kramer/profil/spieler/82097
+345,Florian Neuhaus,25,"Mar 16, 1997",Germany,BORUSSIA MÖNCHENGLADBACH,,Central Midfield,20.0,32,4,4,2323,0,0,1.85,"Jul 1, 2017","Jun 30, 2024",/florian-neuhaus/profil/spieler/278332
+346,Manu Koné,21,"May 17, 2001",France,BORUSSIA MÖNCHENGLADBACH,,Central Midfield,18.0,29,3,1,2376,0,0,1.85,"Jan 21, 2021","Jun 30, 2025",/manu-kone/profil/spieler/624690
+349,Lars Stindl,33,"Aug 26, 1988",Germany,BORUSSIA MÖNCHENGLADBACH,,Attacking Midfield,2.5,29,5,5,1884,0,0,1.81,"Jul 1, 2015","Jun 30, 2023",/lars-stindl/profil/spieler/48298
+350,Conor Noß,21,"Jan 1, 2001 ",Ireland,BORUSSIA MÖNCHENGLADBACH,,Attacking Midfield,0.7,16,1,2,1107,0,0,1.81,"Jul 1, 2021","Jun 30, 2024",/conor-noss/profil/spieler/520857
+352,Alassane Plea,29,"Mar 10, 1993",France,BORUSSIA MÖNCHENGLADBACH,,Left Winger,15.0,36,10,8,2156,0,0,1.81,"Jul 13, 2018","Jun 30, 2025",/alassane-plea/profil/spieler/167329
+354,Mika Schroers,20,"Feb 4, 2002 ",Germany,BORUSSIA MÖNCHENGLADBACH,,Left Winger,0.1,35,3,7,2273,0,0,1.81,-,"Jun 30, 2023",/mika-schroers/profil/spieler/472246
+355,Jonas Hofmann,29,"Jul 14, 1992",Germany,BORUSSIA MÖNCHENGLADBACH,,Right Winger,13.0,28,12,6,2154,0,0,1.76,"Jan 1, 2016","Jun 30, 2025",/jonas-hofmann/profil/spieler/7161
+356,Patrick Herrmann,31,"Feb 12, 1991",Germany,BORUSSIA MÖNCHENGLADBACH,,Right Winger,2.3,26,0,6,864,0,0,1.79,"Jan 1, 2010","Jun 30, 2024",/patrick-herrmann/profil/spieler/32711
+357,Marcus Thuram,24,"Aug 6, 1997 ",France,BORUSSIA MÖNCHENGLADBACH,,Centre-Forward,20.0,23,3,1,1034,0,0,1.92,"Jul 22, 2019","Jun 30, 2023",/marcus-thuram/profil/spieler/318528
+359,Kevin Trapp,31,"Jul 8, 1990 ",Germany,EINTRACHT FRANKFURT,,Goalkeeper,7.0,46,0,0,4200,61,7,1.89,"Aug 7, 2019","Jun 30, 2026",/kevin-trapp/profil/spieler/45672
+360,Diant Ramaj,20,"Sep 19, 2001",Germany,EINTRACHT FRANKFURT,,Goalkeeper,0.75,1,0,0,90,1,0,1.89,"Jul 1, 2021","Jun 30, 2027",/diant-ramaj/profil/spieler/448705
+361,Jannik Horz,19,"Apr 14, 2003",Germany,EINTRACHT FRANKFURT,,Goalkeeper,0.2,5,0,0,450,8,1,1.93,-,"Jun 30, 2023",/jannik-horz/profil/spieler/586229
+362,Jens Grahl,33,"Sep 22, 1988",Germany,EINTRACHT FRANKFURT,,Goalkeeper,0.2,1,0,0,90,2,0,1.92,"Jul 19, 2021","Jun 30, 2026",/jens-grahl/profil/spieler/40034
+363,Matteo Bignetti,18,"May 6, 2004 ",Austria,EINTRACHT FRANKFURT,,Goalkeeper,,14,0,0,1260,16,5,1.9,-,"Jun 30, 2023",/matteo-bignetti/profil/spieler/629032
+364,Evan Ndicka,22,"Aug 20, 1999",France,EINTRACHT FRANKFURT,,Centre-Back,32.0,44,4,4,3918,0,0,1.92,"Jul 5, 2018","Jun 30, 2023",/evan-ndicka/profil/spieler/371149
+365,Tuta,22,"Jul 4, 1999 ",Brazil,EINTRACHT FRANKFURT,,Centre-Back,13.0,38,4,0,3096,0,0,1.85,"Jan 31, 2019","Jun 30, 2026",/tuta/profil/spieler/546213
+367,Almamy Touré,26,"Apr 28, 1996",Mali,EINTRACHT FRANKFURT,,Centre-Back,3.5,18,1,0,1104,0,0,1.83,"Jan 31, 2019","Jun 30, 2023",/almamy-toure/profil/spieler/216181
+368,Makoto Hasebe,38,"Jan 18, 1984",Japan,EINTRACHT FRANKFURT,,Centre-Back,0.8,26,0,0,1721,0,0,1.8,"Jul 1, 2014","Jun 30, 2023",/makoto-hasebe/profil/spieler/39259
+369,Christopher Lenz,27,"Sep 22, 1994",Germany,EINTRACHT FRANKFURT,,Left-Back,4.0,18,0,1,779,0,0,1.8,"Jul 1, 2021","Jun 30, 2024",/christopher-lenz/profil/spieler/159844
+370,Jan Schröder,19,"Apr 15, 2003",Germany,EINTRACHT FRANKFURT,,Left-Back,0.2,18,0,3,1489,0,0,1.82,"Aug 20, 2021","Jun 30, 2023",/jan-schroder/profil/spieler/610798
+373,Timothy Chandler,32,"Mar 29, 1990",United States,EINTRACHT FRANKFURT,,Right-Back,1.2,22,0,1,1555,0,0,1.86,"Jul 1, 2014","Jun 30, 2025",/timothy-chandler/profil/spieler/49723
+376,Djibril Sow,25,"Feb 6, 1997 ",Switzerland,EINTRACHT FRANKFURT,,Central Midfield,22.0,44,3,6,3600,0,0,1.84,"Jul 1, 2019","Jun 30, 2024",/djibril-sow/profil/spieler/212723
+377,Sebastian Rode,31,"Oct 11, 1990",Germany,EINTRACHT FRANKFURT,,Central Midfield,2.5,28,1,0,1197,0,0,1.79,"Jul 27, 2019","Jun 30, 2024",/sebastian-rode/profil/spieler/44466
+381,Daichi Kamada,25,"Aug 5, 1996 ",Japan,EINTRACHT FRANKFURT,,Attacking Midfield,22.0,46,9,4,3341,0,0,1.84,"Jul 1, 2017","Jun 30, 2023",/daichi-kamada/profil/spieler/356141
+382,Jesper Lindström,22,"Feb 29, 2000",Denmark,EINTRACHT FRANKFURT,,Attacking Midfield,17.0,39,5,9,2649,0,0,1.82,"Jul 11, 2021","Jun 30, 2026",/jesper-lindstrom/profil/spieler/513245
+390,Rafael Borré,26,"Sep 15, 1995",Colombia,EINTRACHT FRANKFURT,,Centre-Forward,20.0,45,12,8,3554,0,0,1.74,"Jul 5, 2021","Jun 30, 2025",/rafael-borre/profil/spieler/323831
+395,Koen Casteels,30,"Jun 25, 1992",Belgium,WOLFSBURG,,Goalkeeper,11.0,34,0,0,3060,50,11,1.97,"Jan 21, 2015","Jun 30, 2024",/koen-casteels/profil/spieler/108880
+396,Pavao Pervan,34,"Nov 13, 1987",Austria,WOLFSBURG,,Goalkeeper,0.6,7,0,0,630,16,1,1.94,"Jul 1, 2018","Jun 30, 2024",/pavao-pervan/profil/spieler/51977
+397,Philipp Schulze,19,"Jan 29, 2003",Germany,WOLFSBURG,,Goalkeeper,0.2,18,0,0,1650,31,2,1.9,"Jul 1, 2021","Jun 30, 2023",/philipp-schulze/profil/spieler/574203
+398,Niklas Klinger,26,"Oct 13, 1995",Germany,WOLFSBURG,,Goalkeeper,0.1,-,0,0,0,0,0,1.87,"Jul 1, 2019","Jun 30, 2023",/niklas-klinger/profil/spieler/192268
+399,Maxence Lacroix,22,"Apr 6, 2000 ",France,WOLFSBURG,,Centre-Back,20.0,36,0,0,3128,0,0,1.9,"Aug 25, 2020","Jun 30, 2025",/maxence-lacroix/profil/spieler/434224
+400,Sebastiaan Bornauw,23,"Mar 22, 1999",Belgium,WOLFSBURG,,Centre-Back,10.0,31,1,1,2197,0,0,1.91,"Jul 16, 2021","Jun 30, 2026",/sebastiaan-bornauw/profil/spieler/338629
+403,Micky van de Ven,21,"Apr 19, 2001",Netherlands,WOLFSBURG,,Centre-Back,4.0,5,0,1,189,0,0,1.93,"Aug 31, 2021","Jun 30, 2027",/micky-van-de-ven/profil/spieler/557459
+405,Paulo Otávio,27,"Nov 23, 1994",Brazil,WOLFSBURG,,Left-Back,6.0,11,0,1,536,0,0,1.73,"Jul 1, 2019","Jun 30, 2023",/paulo-otavio/profil/spieler/221611
+406,Jérôme Roussillon,29,"Jan 6, 1993 ",France,WOLFSBURG,,Left-Back,4.5,33,1,0,2229,0,0,1.72,"Aug 6, 2018",-,/jerome-roussillon/profil/spieler/127076
+407,Ridle Baku,24,"Apr 8, 1998 ",Germany,WOLFSBURG,,Right-Back,20.0,41,5,5,2952,0,0,1.76,"Oct 1, 2020","Jun 30, 2025",/ridle-baku/profil/spieler/327251
+413,Maximilian Arnold,28,"May 27, 1994",Germany,WOLFSBURG,,Central Midfield,17.0,41,4,6,3566,0,0,1.84,"Jan 1, 2012","Jun 30, 2026",/maximilian-arnold/profil/spieler/117674
+415,Yannick Gerhardt,28,"Mar 13, 1994",Germany,WOLFSBURG,,Central Midfield,6.0,33,1,6,1755,0,0,1.84,"Jul 1, 2016","Jun 30, 2025",/yannick-gerhardt/profil/spieler/119277
+416,Gil-Linnart Walther,19,"Mar 14, 2003",Germany,WOLFSBURG,,Central Midfield,,4,0,0,297,0,0,-,-,-,/gil-linnart-walther/profil/spieler/690222
+417,Kevin Paredes,19,"May 7, 2003 ",United States,WOLFSBURG,,Left Midfield,5.0,2,0,0,13,0,0,1.7,"Jan 28, 2022","Jun 30, 2026",/kevin-paredes/profil/spieler/711517
+418,Felix Nmecha,21,"Oct 10, 2000",Germany,WOLFSBURG,,Attacking Midfield,2.0,18,0,1,345,0,0,1.9,"Jul 21, 2021","Jun 30, 2024",/felix-nmecha/profil/spieler/406640
+419,Josip Brekalo,24,"Jun 23, 1998",Croatia,WOLFSBURG,,Left Winger,15.0,35,8,3,2427,0,0,1.75,"Jul 1, 2016","Jun 30, 2026",/josip-brekalo/profil/spieler/293169
+423,Luca Waldschmidt,26,"May 19, 1996",Germany,WOLFSBURG,,Second Striker,7.0,19,3,2,980,0,0,1.81,"Aug 22, 2021","Jun 30, 2025",/luca-waldschmidt/profil/spieler/196095
+424,Maximilian Philipp,28,"Mar 1, 1994 ",Germany,WOLFSBURG,,Second Striker,4.5,25,1,4,1144,0,0,1.83,"Jul 1, 2021","Jun 30, 2023",/maximilian-philipp/profil/spieler/143891
+427,Lukas Nmecha,23,"Dec 14, 1998",Germany,WOLFSBURG,,Centre-Forward,18.0,31,10,1,2014,0,0,1.85,"Jul 16, 2021","Jun 30, 2025",/lukas-nmecha/profil/spieler/314288
+429,Jonas Wind,23,"Feb 7, 1999 ",Denmark,WOLFSBURG,,Centre-Forward,14.0,42,16,7,3308,0,0,1.9,"Jan 31, 2022","Jun 30, 2026",/jonas-wind/profil/spieler/391004
+432,Manuel Riemann,33,"Sep 9, 1988 ",Germany,BOCHUM,,Goalkeeper,1.2,35,0,0,3121,49,8,1.86,"Jul 1, 2015","Jun 30, 2025",/manuel-riemann/profil/spieler/40792
+433,Michael Esser,34,"Nov 22, 1987",Germany,BOCHUM,,Goalkeeper,0.4,4,0,0,389,9,0,1.98,"Jul 1, 2021","Jun 30, 2024",/michael-esser/profil/spieler/61989
+434,Tjark Ernst,19,"Mar 15, 2003",Germany,BOCHUM,,Goalkeeper,0.2,19,0,0,1710,11,11,1.93,-,"Jun 30, 2026",/tjark-ernst/profil/spieler/553282
+435,Paul Grave,21,"Apr 10, 2001",Germany,BOCHUM,,Goalkeeper,0.1,-,0,0,0,0,0,1.93,"Mar 2, 2019",-,/paul-grave/profil/spieler/452192
+438,Erhan Masovic,23,"Nov 22, 1998",Serbia,BOCHUM,,Centre-Back,2.5,22,0,0,1670,0,0,1.89,"Oct 5, 2020","Jun 30, 2025",/erhan-masovic/profil/spieler/343959
+439,Vasilios Lampropoulos,32,"Mar 31, 1990",Greece,BOCHUM,,Centre-Back,0.5,15,0,0,1264,0,0,1.85,"Aug 14, 2020","Jun 30, 2023",/vasilios-lampropoulos/profil/spieler/63489
+441,Danilo Soares,30,"Oct 29, 1991",Brazil,BOCHUM,,Left-Back,2.2,34,0,1,2874,0,0,1.7,"Jul 1, 2017","Jun 30, 2024",/danilo-soares/profil/spieler/154396
+445,Cristian Gamboa,32,"Oct 24, 1989",Costa Rica,BOCHUM,,Right-Back,0.7,27,1,0,2113,0,0,1.75,"Aug 27, 2019","Jun 30, 2024",/cristian-gamboa/profil/spieler/121686
+446,Anthony Losilla,36,"Mar 10, 1986",France,BOCHUM,,Defensive Midfield,0.5,37,2,0,3387,0,0,1.85,"Jul 1, 2014","Jun 30, 2024",/anthony-losilla/profil/spieler/111266
+449,Patrick Osterhage,22,"Feb 1, 2000 ",Germany,BOCHUM,,Central Midfield,0.9,15,0,2,725,0,0,1.86,"Jul 1, 2021","Jun 30, 2026",/patrick-osterhage/profil/spieler/443331
+454,Gerrit Holtmann,27,"Mar 25, 1995",Philippines,BOCHUM,,Left Winger,4.5,33,5,7,2169,0,0,1.85,"Aug 24, 2020","Jun 30, 2025",/gerrit-holtmann/profil/spieler/190289
+455,Christopher Antwi-Adjei,28,"Feb 7, 1994 ",Ghana,BOCHUM,,Left Winger,1.0,28,1,4,1291,0,0,1.74,"Jul 1, 2021","Jun 30, 2024",/christopher-antwi-adjei/profil/spieler/289182
+457,Takuma Asano,27,"Nov 10, 1994",Japan,BOCHUM,,Right Winger,3.0,31,3,4,1838,0,0,1.73,"Jul 1, 2021","Jun 30, 2024",/takuma-asano/profil/spieler/245744
+458,Tarsis Bonga,25,"Jan 10, 1997",Germany,BOCHUM,,Right Winger,0.3,3,0,0,14,0,0,1.97,"Jul 15, 2020","Jun 30, 2023",/tarsis-bonga/profil/spieler/283140
+461,Simon Zoller,31,"Jun 26, 1991",Germany,BOCHUM,,Centre-Forward,1.1,11,4,3,714,0,0,1.79,"Jan 1, 2019","Jun 30, 2024",/simon-zoller/profil/spieler/79967
+465,Rafal Gikiewicz,34,"Oct 26, 1987",Poland,AUGSBURG,,Goalkeeper,1.2,36,0,0,3270,60,9,1.9,"Jul 1, 2020","Jun 30, 2023",/rafal-gikiewicz/profil/spieler/78339
+466,Tomas Koubek,29,"Aug 26, 1992",Czech Republic,AUGSBURG,,Goalkeeper,1.0,-,0,0,0,0,0,1.97,"Aug 6, 2019","Jun 30, 2024",/tomas-koubek/profil/spieler/146714
+467,Daniel Klein,21,"Mar 13, 2001",Germany,AUGSBURG,,Goalkeeper,0.2,12,0,0,1013,17,4,1.93,"Jul 2, 2021","Jun 30, 2025",/daniel-klein/profil/spieler/392124
+468,Reece Oxford,23,"Dec 16, 1998",England,AUGSBURG,,Centre-Back,12.0,31,3,1,2814,0,0,1.9,"Aug 2, 2019","Jun 30, 2025",/reece-oxford/profil/spieler/314295
+469,Felix Uduokhai,24,"Sep 9, 1997 ",Germany,AUGSBURG,,Centre-Back,10.0,15,0,0,919,0,0,1.92,"Jul 1, 2020","Jun 30, 2024",/felix-uduokhai/profil/spieler/278343
+470,Jeffrey Gouweleeuw,30,"Jul 10, 1991",Netherlands,AUGSBURG,,Centre-Back,3.5,30,2,0,2698,0,0,1.87,"Jan 9, 2016","Jun 30, 2024",/jeffrey-gouweleeuw/profil/spieler/106405
+471,Frederik Winther,21,"Jan 4, 2001 ",Denmark,AUGSBURG,,Centre-Back,1.0,7,1,0,568,0,0,1.9,"Oct 4, 2020","Jun 30, 2023",/frederik-winther/profil/spieler/569349
+472,Iago,25,"Mar 23, 1997",Brazil,AUGSBURG,,Left-Back,5.5,30,2,7,2370,0,0,1.81,"Jul 1, 2019","Jun 30, 2024",/iago/profil/spieler/520468
+473,Mads Pedersen,25,"Sep 1, 1996 ",Denmark,AUGSBURG,,Left-Back,2.0,29,2,1,1390,0,0,1.74,"Jul 1, 2019","Jun 30, 2024",/mads-pedersen/profil/spieler/288429
+475,Robert Gumny,24,"Jun 4, 1998 ",Poland,AUGSBURG,,Right-Back,2.5,30,0,0,2412,0,0,1.82,"Sep 2, 2020","Jun 30, 2025",/robert-gumny/profil/spieler/353826
+476,Raphael Framberger,26,"Sep 6, 1995 ",Germany,AUGSBURG,,Right-Back,1.5,24,0,0,927,0,0,1.79,"Jan 1, 2015","Jun 30, 2023",/raphael-framberger/profil/spieler/146163
+477,Niklas Dorsch,24,"Jan 15, 1998",Germany,AUGSBURG,,Defensive Midfield,10.0,31,1,1,2417,0,0,1.78,"Jul 8, 2021","Jun 30, 2026",/niklas-dorsch/profil/spieler/251302
+478,Carlos Gruezo,27,"Apr 19, 1995",Ecuador,AUGSBURG,,Defensive Midfield,3.2,18,0,0,997,0,0,1.72,"Jul 2, 2019","Dec 31, 2025",/carlos-gruezo/profil/spieler/189475
+479,Tobias Strobl,32,"May 12, 1990",Germany,AUGSBURG,,Defensive Midfield,0.9,6,0,0,444,0,0,1.88,"Jul 1, 2020","Jun 30, 2023",/tobias-strobl/profil/spieler/57845
+480,Dikeni Salifou,19,"Jun 8, 2003 ",Togo,AUGSBURG,,Defensive Midfield,,7,0,0,596,0,0,1.91,-,-,/dikeni-salifou/profil/spieler/664973
+484,Dominic Schmidt,21,"Mar 12, 2001",Germany,AUGSBURG,,Central Midfield,0.1,22,1,0,1310,0,0,1.85,-,"Jun 30, 2023",/dominic-schmidt/profil/spieler/476498
+485,Fredrik Jensen,24,"Sep 9, 1997 ",Finland,AUGSBURG,,Attacking Midfield,1.5,16,2,4,655,0,0,1.83,"Jul 1, 2018","Jun 30, 2025",/fredrik-jensen/profil/spieler/249157
+486,Rubén Vargas,23,"Aug 5, 1998 ",Switzerland,AUGSBURG,,Left Winger,8.0,30,2,3,2064,0,0,1.79,"Jul 1, 2019","Jun 30, 2025",/ruben-vargas/profil/spieler/345886
+487,André Hahn,31,"Aug 13, 1990",Germany,AUGSBURG,,Right Winger,2.0,34,6,3,2266,0,0,1.85,"Jul 1, 2018","Jun 30, 2023",/andre-hahn/profil/spieler/42783
+488,Noah Joel Sarenren Bazee,25,"Aug 21, 1996",Germany,AUGSBURG,,Right Winger,1.0,18,3,2,497,0,0,1.83,"Jul 1, 2019","Jun 30, 2024",/noah-joel-sarenren-bazee/profil/spieler/283001
+489,Daniel Caligiuri,34,"Jan 15, 1988",Italy,AUGSBURG,,Right Winger,0.8,29,4,3,2061,0,0,1.82,"Jul 1, 2020","Jun 30, 2023",/daniel-caligiuri/profil/spieler/38410
+493,Florian Niederlechner,31,"Oct 24, 1990",Germany,AUGSBURG,,Centre-Forward,2.2,27,6,6,1234,0,0,1.87,"Jul 1, 2019","Jun 30, 2025",/florian-niederlechner/profil/spieler/152963
+497,Florian Müller,24,"Nov 13, 1997",Germany,STUTTGART,,Goalkeeper,5.5,30,0,0,2700,52,4,1.9,"Jul 1, 2021","Jun 30, 2025",/florian-muller/profil/spieler/284769
+498,Fabian Bredlow,27,"Mar 2, 1995 ",Germany,STUTTGART,,Goalkeeper,0.5,6,0,0,540,9,1,1.9,"Jul 1, 2019","Jun 30, 2024",/fabian-bredlow/profil/spieler/187624
+499,Florian Schock,21,"May 22, 2001",Germany,STUTTGART,,Goalkeeper,0.2,20,0,0,1800,28,5,2.0,"Sep 7, 2021","Jun 30, 2024",/florian-schock/profil/spieler/470816
+501,Waldemar Anton,25,"Jul 20, 1996",Germany,STUTTGART,,Centre-Back,6.0,30,2,1,2608,0,0,1.89,"Jul 28, 2020","Jun 30, 2025",/waldemar-anton/profil/spieler/193004
+505,Matej Maglica,23,"Sep 25, 1998",Croatia,STUTTGART,,Centre-Back,0.9,33,2,1,2357,0,0,1.98,-,"Jun 30, 2024",/matej-maglica/profil/spieler/433388
+506,Luca Bazzoli,21,"Nov 1, 2000 ",Germany,STUTTGART,,Centre-Back,0.225,21,1,0,1796,0,0,1.88,-,"Jun 30, 2023",/luca-bazzoli/profil/spieler/493899
+507,Borna Sosa,24,"Jan 21, 1998",Croatia,STUTTGART,,Left-Back,23.0,30,2,9,2680,0,0,1.87,"Jul 1, 2018","Jun 30, 2025",/borna-sosa/profil/spieler/293194
+508,Pascal Stenzel,26,"Mar 20, 1996",Germany,STUTTGART,,Right-Back,1.5,17,0,0,919,0,0,1.83,"Jul 1, 2020","Jun 30, 2024",/pascal-stenzel/profil/spieler/195246
+509,Wataru Endo,29,"Feb 9, 1993 ",Japan,STUTTGART,,Defensive Midfield,8.0,34,4,2,2992,0,0,1.78,"Jul 1, 2020","Jun 30, 2024",/wataru-endo/profil/spieler/146310
+510,Atakan Karazor,25,"Oct 13, 1996",Germany,STUTTGART,,Defensive Midfield,4.5,25,0,1,1995,0,0,1.91,"Jul 1, 2019","Jun 30, 2026",/atakan-karazor/profil/spieler/232320
+511,Richard Weil,34,"Feb 6, 1988 ",Germany,STUTTGART,,Defensive Midfield,0.05,28,0,1,1974,0,0,1.83,-,"Jun 30, 2023",/richard-weil/profil/spieler/49032
+513,Enzo Millot,19,"Jul 17, 2002",France,STUTTGART,,Central Midfield,2.0,8,0,1,212,0,0,1.74,"Aug 14, 2021","Jun 30, 2025",/enzo-millot/profil/spieler/569366
+514,Nikolas Nartey,22,"Feb 22, 2000",Denmark,STUTTGART,,Central Midfield,1.8,9,0,0,467,0,0,1.85,"Aug 29, 2019","Jun 30, 2025",/nikolas-nartey/profil/spieler/400546
+515,Naouirou Ahamada,20,"Mar 29, 2002",France,STUTTGART,,Central Midfield,1.5,7,0,1,275,0,0,1.83,"Jul 1, 2021","Jun 30, 2026",/naouirou-ahamada/profil/spieler/538971
+521,Lilian Egloff,19,"Aug 20, 2002",Germany,STUTTGART,,Attacking Midfield,0.8,19,1,3,779,0,0,1.82,"Jul 1, 2020","Jun 30, 2024",/lilian-egloff/profil/spieler/472243
+523,Falko Michel,21,"Jan 14, 2001",Germany,STUTTGART,,Attacking Midfield,0.25,21,3,8,1721,0,0,1.86,-,"Jun 30, 2024",/falko-michel/profil/spieler/527270
+525,Tanguy Coulibaly,21,"Feb 18, 2001",France,STUTTGART,,Left Winger,2.5,22,0,2,1172,0,0,1.78,"Jul 2, 2019","Jun 30, 2023",/tanguy-coulibaly/profil/spieler/618425
+529,Silas,23,"Oct 6, 1998 ",DR Congo,STUTTGART,,Right Winger,15.0,9,0,0,272,0,0,1.89,"Aug 13, 2019","Jun 30, 2026",/silas/profil/spieler/612826
+530,Chris Führich,24,"Jan 9, 1998 ",Germany,STUTTGART,,Right Winger,4.0,26,3,2,1805,0,0,1.81,"Jul 19, 2021","Jun 30, 2025",/chris-fuhrich/profil/spieler/272278
+532,Tiago Tomás,20,"Jun 16, 2002",Portugal,STUTTGART,,Centre-Forward,7.0,38,7,0,1695,0,0,1.8,"Jan 30, 2022","Jun 30, 2023",/tiago-tomas/profil/spieler/616344
+537,Oliver Christensen,23,"Mar 22, 1999",Denmark,HERTHA,,Goalkeeper,1.5,13,0,0,1126,13,4,1.9,"Aug 26, 2021","Jun 30, 2026",/oliver-christensen/profil/spieler/471936
+540,Rune Jarstein,37,"Sep 29, 1984",Norway,HERTHA,,Goalkeeper,0.3,,0,0,0,0,0,1.92,"Jan 1, 2014","Jun 30, 2023",/rune-jarstein/profil/spieler/24112
+543,Márton Dárdai,20,"Feb 12, 2002",Germany,HERTHA,,Centre-Back,5.0,14,0,1,917,0,0,1.88,"Jul 1, 2020","Jun 30, 2025",/marton-dardai/profil/spieler/432281
+544,Linus Gechter,18,"Feb 27, 2004",Germany,HERTHA,,Centre-Back,4.5,21,2,0,1319,0,0,1.9,"Jan 1, 2022","Jun 30, 2023",/linus-gechter/profil/spieler/692734
+547,Christalino Atemona,20,"Apr 26, 2002",Germany,HERTHA,,Centre-Back,0.15,15,1,0,1228,0,0,1.87,-,"Jun 30, 2023",/christalino-atemona/profil/spieler/605225
+548,Cimo Röcker,28,"Jan 21, 1994",Germany,HERTHA,,Centre-Back,0.1,25,0,1,2095,0,0,1.86,-,"Jun 30, 2023",/cimo-rocker/profil/spieler/117482
+549,Marlon Morgenstern,21,"Jan 30, 2001",Germany,HERTHA,,Centre-Back,0.1,20,0,0,1724,0,0,1.88,-,-,/marlon-morgenstern/profil/spieler/533007
+550,Maximilian Mittelstädt,25,"Mar 18, 1997",Germany,HERTHA,,Left-Back,4.5,26,0,5,1674,0,0,1.8,"Aug 19, 2015","Jun 30, 2027",/maximilian-mittelstadt/profil/spieler/282660
+552,Marvin Plattenhardt,30,"Jan 26, 1992",Germany,HERTHA,,Left-Back,2.0,25,1,5,1987,0,0,1.81,"Jul 1, 2014","Jun 30, 2023",/marvin-plattenhardt/profil/spieler/89592
+555,Peter Pekarik,35,"Oct 30, 1986",Slovakia,HERTHA,,Right-Back,0.7,31,0,0,2552,0,0,1.77,"Aug 31, 2012","Jun 30, 2023",/peter-pekarik/profil/spieler/51100
+556,Julian Eitschberger,18,"Mar 5, 2004 ",Germany,HERTHA,,Right-Back,,21,1,3,1775,0,0,1.79,"Jul 1, 2022","Jun 30, 2026",/julian-eitschberger/profil/spieler/706617
+557,Lucas Tousart,25,"Apr 29, 1997",France,HERTHA,,Defensive Midfield,9.0,35,2,1,2341,0,0,1.85,"Jan 27, 2020","Jun 30, 2025",/lucas-tousart/profil/spieler/353948
+559,Jonas Dirkner,19,"Jul 15, 2002",Germany,HERTHA,,Defensive Midfield,0.175,25,0,2,2001,0,0,-,-,-,/jonas-dirkner/profil/spieler/605222
+560,Suat Serdar,25,"Apr 11, 1997",Germany,HERTHA,,Central Midfield,8.0,35,4,2,2595,0,0,1.84,"Jul 1, 2021","Jun 30, 2026",/suat-serdar/profil/spieler/261905
+562,Vladimir Darida,31,"Aug 8, 1990 ",Czech Republic,HERTHA,,Central Midfield,2.2,29,2,5,1939,0,0,1.72,"Jul 18, 2015","Jun 30, 2025",/vladimir-darida/profil/spieler/179643
+563,Jonas Michelbrink,21,"Jun 23, 2001",Germany,HERTHA,,Central Midfield,0.5,31,2,5,1787,0,0,1.82,-,"Jun 30, 2024",/jonas-michelbrink/profil/spieler/471901
+564,Julian Albrecht,20,"Aug 31, 2001",Germany,HERTHA,,Central Midfield,0.175,33,6,2,2179,0,0,1.82,"Jul 1, 2019","Jun 30, 2024",/julian-albrecht/profil/spieler/392149
+565,Kevin-Prince Boateng,35,"Mar 6, 1987 ",Ghana,HERTHA,,Attacking Midfield,0.9,21,0,0,858,0,0,1.86,"Jul 1, 2021","Jun 30, 2023",/kevin-prince-boateng/profil/spieler/16922
+567,Myziane Maolida,23,"Feb 14, 1999",France,HERTHA,,Left Winger,3.0,19,1,1,886,0,0,1.82,"Aug 31, 2021","Jun 30, 2023",/myziane-maolida/profil/spieler/371142
+571,Marco Richter,24,"Nov 24, 1997",Germany,HERTHA,,Right Winger,6.0,33,6,2,1808,0,0,1.76,"Aug 9, 2021","Jun 30, 2025",/marco-richter/profil/spieler/279009
+572,Dong-jun Lee,25,"Feb 1, 1997 ","Korea, South",HERTHA,,Right Winger,1.2,4,0,0,116,0,0,1.73,"Jan 29, 2022",-,/dong-jun-lee/profil/spieler/269601
+573,Kelian Nsona,20,"May 11, 2002",France,HERTHA,,Right Winger,1.2,,0,0,0,0,0,1.89,"Jan 31, 2022","Jun 30, 2026",/kelian-nsona/profil/spieler/569368
+574,Marten Winkler,19,"Oct 31, 2002",Germany,HERTHA,,Right Winger,0.175,24,8,2,1544,0,0,1.84,-,"Jun 30, 2023",/marten-winkler/profil/spieler/574569
+575,Matheus Cunha,23,"May 27, 1999",Brazil,HERTHA,,Centre-Forward,30.0,38,7,7,1341,0,0,1.83,"Jan 31, 2020","Jun 30, 2023",/matheus-cunha/profil/spieler/517894
+577,Stevan Jovetic,32,"Nov 2, 1989 ",Montenegro,HERTHA,,Centre-Forward,2.5,22,7,1,1311,0,0,1.83,"Jul 27, 2021","Jun 30, 2023",/stevan-jovetic/profil/spieler/46104
+579,Davie Selke,27,"Jan 20, 1995",Germany,HERTHA,,Centre-Forward,1.8,28,5,0,1166,0,0,1.95,"Jul 1, 2017","Jun 30, 2024",/davie-selke/profil/spieler/178459
+582,Ralf Fährmann,33,"Sep 27, 1988",Germany,SCHALKE 04,,Goalkeeper,0.4,8,0,0,720,11,1,1.97,"Jul 1, 2011","Jun 30, 2025",/ralf-fahrmann/profil/spieler/39015
+583,Felix Wienand,20,"Jun 27, 2002",Germany,SCHALKE 04,,Goalkeeper,0.075,20,0,0,1780,39,3,1.9,-,"Jun 30, 2024",/felix-wienand/profil/spieler/553449
+584,Michael Langer,37,"Jan 6, 1985 ",Austria,SCHALKE 04,,Goalkeeper,0.05,2,0,0,180,3,1,1.95,"Aug 4, 2017","Jun 30, 2023",/michael-langer/profil/spieler/19114
+587,Marcin Kaminski,30,"Jan 15, 1992",Poland,SCHALKE 04,,Centre-Back,1.0,33,2,2,2970,0,0,1.92,"Jul 1, 2021","Jun 30, 2023",/marcin-kaminski/profil/spieler/129358
+591,Henning Matriciani,22,"Mar 14, 2000",Germany,SCHALKE 04,,Centre-Back,0.25,19,0,0,928,0,0,1.87,"Sep 28, 2021","Jun 30, 2024",/henning-matriciani/profil/spieler/570160
+592,Mika Hanraths,23,"Jun 4, 1999 ",Germany,SCHALKE 04,,Centre-Back,0.125,24,3,0,2067,0,0,1.88,-,"Jun 30, 2023",/mika-hanraths/profil/spieler/334225
+595,Kerim Calhanoglu,19,"Aug 26, 2002",Germany,SCHALKE 04,,Left-Back,0.8,22,1,3,1487,0,0,1.83,"Sep 24, 2020","Jun 30, 2023",/kerim-calhanoglu/profil/spieler/553905
+596,Mehmet Aydin,20,"Feb 9, 2002 ",Germany,SCHALKE 04,,Right-Back,2.0,19,1,1,868,0,0,1.8,"Jul 1, 2021","Jun 30, 2025",/mehmet-aydin/profil/spieler/472242
+599,Florian Flick,22,"May 1, 2000 ",Germany,SCHALKE 04,,Defensive Midfield,1.0,29,0,1,1577,0,0,1.9,"Jul 1, 2021","Jun 30, 2023",/florian-flick/profil/spieler/596881
+601,Dries Wouters,25,"Jan 28, 1997",Belgium,SCHALKE 04,,Defensive Midfield,0.6,7,0,0,549,0,0,1.91,"Jul 16, 2021","Jun 30, 2023",/dries-wouters/profil/spieler/249570
+602,Jimmy Kaparos,20,"Dec 25, 2001",Netherlands,SCHALKE 04,,Defensive Midfield,0.125,29,1,0,2290,0,0,1.87,-,"Jun 30, 2024",/jimmy-kaparos/profil/spieler/471897
+604,Danny Latza,32,"Dec 7, 1989 ",Germany,SCHALKE 04,,Central Midfield,0.6,16,2,0,764,0,0,1.79,"Jul 1, 2021","Jun 30, 2024",/danny-latza/profil/spieler/39025
+609,Dominick Drexler,32,"May 26, 1990",Germany,SCHALKE 04,,Attacking Midfield,0.9,24,3,7,1807,0,0,1.83,"Jul 21, 2021","Jun 30, 2023",/dominick-drexler/profil/spieler/53400
+611,Daniel Kyerewaa,20,"Oct 5, 2001 ",Germany,SCHALKE 04,,Attacking Midfield,0.1,21,1,0,1209,0,0,1.75,-,"Jun 30, 2023",/daniel-kyerewaa/profil/spieler/522104
+612,Marius Bülter,29,"Mar 29, 1993",Germany,SCHALKE 04,,Left Winger,2.0,34,12,13,2653,0,0,1.88,"Jul 1, 2021","Jun 30, 2024",/marius-bulter/profil/spieler/116088
+614,Matthew Hoppe,21,"Mar 13, 2001",United States,SCHALKE 04,,Centre-Forward,1.0,8,0,1,185,0,0,1.91,"Jan 1, 2021","May 31, 2023",/matthew-hoppe/profil/spieler/678194
+615,Simon Terodde,34,"Mar 2, 1988 ",Germany,SCHALKE 04,,Centre-Forward,1.0,32,30,5,2736,0,0,1.92,"Jul 1, 2021","Jun 30, 2023",/simon-terodde/profil/spieler/36284
+617,Rufat Dadashov,30,"Sep 29, 1991",Azerbaijan,SCHALKE 04,,Centre-Forward,0.2,21,10,1,1724,0,0,1.89,-,"Jun 30, 2023",/rufat-dadashov/profil/spieler/157478
+618,Bleron Krasniqi,20,"May 18, 2002",Kosovo,SCHALKE 04,,Centre-Forward,0.1,19,4,0,1152,0,0,1.85,-,"Jun 30, 2023",/bleron-krasniqi/profil/spieler/604104
+619,Keke Topp,18,"Mar 25, 2004",Germany,SCHALKE 04,,Centre-Forward,,19,7,2,1213,0,0,1.92,-,"Jun 30, 2024",/keke-topp/profil/spieler/701757
+620,Jiri Pavlenka,30,"Apr 14, 1992",Czech Republic,WERDER,,Goalkeeper,3.0,23,0,0,2070,26,5,1.96,"Jul 1, 2017","Jun 30, 2025",/jiri-pavlenka/profil/spieler/260053
+621,Michael Zetterer,26,"Jul 12, 1995",Germany,WERDER,,Goalkeeper,0.5,12,0,0,1080,19,4,1.87,"Jan 27, 2015",-,/michael-zetterer/profil/spieler/196813
+623,Dudu,23,"Feb 10, 1999",Germany,WERDER,,Goalkeeper,0.2,8,0,0,629,14,1,1.96,"Jul 1, 2020","Jun 30, 2024",/dudu/profil/spieler/369258
+624,Mio Backhaus,18,"Apr 16, 2004",Germany,WERDER,,Goalkeeper,,20,0,0,1800,37,4,1.94,-,-,/mio-backhaus/profil/spieler/620295
+625,Marco Friedl,24,"Mar 16, 1998",Austria,WERDER,,Centre-Back,5.0,28,4,3,2463,0,0,1.87,"Jul 1, 2019","Jun 30, 2026",/marco-friedl/profil/spieler/156990
+626,Milos Veljkovic,26,"Sep 26, 1995",Serbia,WERDER,,Centre-Back,4.0,26,1,1,2307,0,0,1.88,"Feb 1, 2016","Jun 30, 2025",/milos-veljkovic/profil/spieler/202228
+629,Fabio Chiarodia,17,"Jun 5, 2005 ",Italy,WERDER,,Centre-Back,0.5,11,1,1,900,0,0,1.86,"Oct 7, 2021","Jun 30, 2024",/fabio-chiarodia/profil/spieler/724104
+630,Dominik Becker,22,"Jan 9, 2000 ",Germany,WERDER,,Centre-Back,0.2,15,0,0,1201,0,0,1.88,-,"Jun 30, 2023",/dominik-becker/profil/spieler/335998
+631,Anthony Jung,30,"Nov 3, 1991 ",Germany,WERDER,,Left-Back,1.0,30,2,2,2518,0,0,1.86,"Jul 1, 2021","Jun 30, 2024",/anthony-jung/profil/spieler/58995
+633,Felix Agu,22,"Sep 27, 1999",Germany,WERDER,,Right-Back,2.5,27,0,3,1700,0,0,1.8,"Jul 1, 2020","Jun 30, 2024",/felix-agu/profil/spieler/393512
+636,Ilia Gruev,22,"May 6, 2000 ",Bulgaria,WERDER,,Defensive Midfield,1.0,26,1,0,1185,0,0,1.85,"Jul 1, 2019","Jun 30, 2025",/ilia-gruev/profil/spieler/381753
+637,Nicolai Rapp,25,"Dec 13, 1996",Germany,WERDER,,Defensive Midfield,0.8,29,2,2,1714,0,0,1.86,"Jul 1, 2021","Jun 30, 2023",/nicolai-rapp/profil/spieler/185427
+638,Christian Groß,33,"Feb 8, 1989 ",Germany,WERDER,,Defensive Midfield,0.5,27,0,2,2054,0,0,1.82,"Aug 1, 2020","Jun 30, 2024",/christian-gross/profil/spieler/58396
+639,Maximilian Eggestein,25,"Dec 8, 1996 ",Germany,WERDER,,Central Midfield,8.0,40,3,2,3064,0,0,1.81,"Jul 1, 2015","Jun 30, 2025",/maximilian-eggestein/profil/spieler/190284
+640,Kevin Möhwald,28,"Jul 3, 1993 ",Germany,WERDER,,Central Midfield,1.5,22,0,0,584,0,0,1.82,"Jul 1, 2018",-,/kevin-mohwald/profil/spieler/94137
+641,Jean Manuel Mbom,22,"Feb 24, 2000",Germany,WERDER,,Central Midfield,1.5,20,0,1,1140,0,0,1.85,"Jul 1, 2018",-,/jean-manuel-mbom/profil/spieler/335003
+642,Leonardo Bittencourt,28,"Dec 19, 1993",Germany,WERDER,,Attacking Midfield,3.5,22,2,4,1547,0,0,1.71,"Jul 15, 2020",-,/leonardo-bittencourt/profil/spieler/93844
+643,Romano Schmid,22,"Jan 27, 2000",Austria,WERDER,,Attacking Midfield,3.5,34,3,7,2473,0,0,1.68,"Jan 3, 2019","Jun 30, 2025",/romano-schmid/profil/spieler/346853
+644,Niklas Schmidt,24,"Mar 1, 1998 ",Germany,WERDER,,Attacking Midfield,0.8,26,2,6,1340,0,0,1.84,"Jul 1, 2017","Jun 30, 2025",/niklas-schmidt/profil/spieler/275249
+648,Josh Sargent,22,"Feb 20, 2000",United States,WERDER,,Centre-Forward,7.0,31,6,3,1976,0,0,1.85,"Jan 1, 2019","Jun 30, 2025",/josh-sargent/profil/spieler/393325
+649,Marvin Ducksch,28,"Mar 7, 1994 ",Germany,WERDER,,Centre-Forward,4.0,34,23,11,2997,0,0,1.88,"Aug 25, 2021","Jun 30, 2024",/marvin-ducksch/profil/spieler/125103
+650,Niclas Füllkrug,29,"Feb 9, 1993 ",Germany,WERDER,,Centre-Forward,3.0,34,19,8,2588,0,0,1.89,"Jul 1, 2019","Jun 30, 2025",/niclas-fullkrug/profil/spieler/75489
+651,Johannes Eggestein,24,"May 8, 1998 ",Germany,WERDER,,Centre-Forward,1.8,26,0,4,683,0,0,1.83,"Jul 1, 2016",-,/johannes-eggestein/profil/spieler/251303
+652,Yuya Osako,32,"May 18, 1990",Japan,WERDER,,Centre-Forward,0.9,37,13,2,2378,0,0,1.84,"Jul 1, 2018","Jan 31, 2024",/yuya-osako/profil/spieler/108650
+654,Eren Dinkci,20,"Dec 13, 2001",Germany,WERDER,,Centre-Forward,0.7,22,0,2,714,0,0,1.88,"Jan 1, 2021","Jun 30, 2025",/eren-dinkci/profil/spieler/645774
+656,Dejan Galjen,20,"Feb 25, 2002",Germany,WERDER,,Centre-Forward,0.075,2,0,0,90,0,0,1.87,-,"Jun 30, 2023",/dejan-galjen/profil/spieler/594725
