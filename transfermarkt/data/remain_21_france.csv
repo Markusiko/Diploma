@@ -1,0 +1,432 @@
+,Name,Age,date,nationality,club,fee_y,position,market,match,goal,assist,minute,miss,clean,height,join,contract,href
+0,Gianluigi Donnarumma,23,"Feb 25, 1999",Italy,PSG,,Goalkeeper,50.0,24,0,0,2160,23,9,1.96,"Jul 14, 2021","Jun 30, 2026",/gianluigi-donnarumma/profil/spieler/315858
+1,Keylor Navas,35,"Dec 15, 1986",Costa Rica,PSG,,Goalkeeper,8.0,26,0,0,2308,24,10,1.85,"Sep 2, 2019","Jun 30, 2023",/keylor-navas/profil/spieler/79422
+3,Alexandre Letellier,31,"Dec 11, 1990",France,PSG,,Goalkeeper,0.4,1,0,0,7,0,1,1.93,"Sep 25, 2020","Jun 30, 2024",/alexandre-letellier/profil/spieler/93730
+6,Marquinhos,28,"May 14, 1994",Brazil,PSG,,Centre-Back,70.0,40,5,1,3582,0,0,1.83,"Jul 19, 2013","Jun 30, 2024",/marquinhos/profil/spieler/181767
+7,Presnel Kimpembe,26,"Aug 13, 1995",France,PSG,,Centre-Back,40.0,41,2,1,3545,0,0,1.83,"Jul 1, 2015","Jun 30, 2024",/presnel-kimpembe/profil/spieler/282041
+10,Sergio Ramos,36,"Mar 30, 1986",Spain,PSG,,Centre-Back,6.0,13,2,0,844,0,0,1.84,"Jul 8, 2021","Jun 30, 2023",/sergio-ramos/profil/spieler/25557
+11,El Chadaille Bitshiabu,17,"May 16, 2005",France,PSG,,Centre-Back,2.0,11,1,0,715,0,0,1.96,"Jul 1, 2022","Jun 30, 2024",/el-chadaille-bitshiabu/profil/spieler/787912
+13,Juan Bernat,29,"Mar 1, 1993 ",Spain,PSG,,Left-Back,12.0,16,0,0,974,0,0,1.77,"Aug 31, 2018","Jun 30, 2025",/juan-bernat/profil/spieler/126719
+16,Achraf Hakimi,23,"Nov 4, 1998 ",Morocco,PSG,,Right-Back,65.0,41,4,6,3292,0,0,1.81,"Jul 6, 2021","Jun 30, 2026",/achraf-hakimi/profil/spieler/398073
+19,Danilo Pereira,30,"Sep 9, 1991 ",Portugal,PSG,,Defensive Midfield,14.0,37,5,0,2620,0,0,1.88,"Jul 1, 2021","Jun 30, 2025",/danilo-pereira/profil/spieler/141050
+20,Marco Verratti,29,"Nov 5, 1992 ",Italy,PSG,,Central Midfield,50.0,32,2,2,2623,0,0,1.65,"Jul 18, 2012","Jun 30, 2026",/marco-verratti/profil/spieler/102558
+28,Ismaël Gharbi,18,"Apr 10, 2004",Spain,PSG,,Attacking Midfield,1.5,12,1,1,422,0,0,1.73,"Jul 1, 2022","Jun 30, 2025",/ismael-gharbi/profil/spieler/810096
+30,Neymar,30,"Feb 5, 1992 ",Brazil,PSG,,Left Winger,75.0,28,13,8,2328,0,0,1.75,"Aug 3, 2017","Jun 30, 2025",/neymar/profil/spieler/68290
+33,Lionel Messi,35,"Jun 24, 1987",Argentina,PSG,,Right Winger,50.0,34,11,15,2872,0,0,1.7,"Aug 10, 2021","Jun 30, 2023",/lionel-messi/profil/spieler/28003
+34,Pablo Sarabia,30,"May 11, 1992",Spain,PSG,,Right Winger,25.0,47,22,10,3176,0,0,1.74,"Jul 2, 2019","Jun 30, 2025",/pablo-sarabia/profil/spieler/74230
+36,Kylian Mbappé,23,"Dec 20, 1998",France,PSG,,Centre-Forward,160.0,46,39,26,3912,0,0,1.78,"Jul 1, 2018","Jun 30, 2025",/kylian-mbappe/profil/spieler/342229
+40,Sekou Yansané,19,"Apr 28, 2003",France,PSG,,Centre-Forward,0.3,6,1,0,282,0,0,1.84,-,"Jun 30, 2027",/sekou-yansane/profil/spieler/853344
+43,Simon Ngapandouetnbu,19,"Apr 12, 2003",Cameroon,MARSEILLE,,Goalkeeper,0.4,11,0,0,990,14,3,1.86,"Oct 11, 2019","Jun 30, 2024",/simon-ngapandouetnbu/profil/spieler/696600
+44,Fabio Vanni,19,"Jul 20, 2002",France,MARSEILLE,,Goalkeeper,0.15,10,0,0,854,18,2,1.81,-,-,/fabio-vanni/profil/spieler/801577
+47,Leonardo Balerdi,23,"Jan 26, 1999",Argentina,MARSEILLE,,Centre-Back,10.0,24,0,0,1270,0,0,1.87,"Jul 3, 2021","Jun 30, 2026",/leonardo-balerdi/profil/spieler/575998
+50,Yakine Said M'Madi,18,"Mar 11, 2004",Comoros,MARSEILLE,,Centre-Back,,16,1,0,1409,0,0,1.84,-,"Jun 30, 2024",/yakine-said-mmadi/profil/spieler/922488
+52,Sead Kolasinac,29,"Jun 20, 1993",Bosnia-Herzegovina,MARSEILLE,,Left-Back,3.0,22,0,1,848,0,0,1.83,"Jan 18, 2022","Jun 30, 2023",/sead-kolasinac/profil/spieler/94005
+54,Amay Caprice,17,"Aug 21, 2004",France,MARSEILLE,,Right-Back,0.25,22,1,1,1874,0,0,-,-,"Jun 30, 2024",/amay-caprice/profil/spieler/743494
+56,Pape Gueye,23,"Jan 24, 1999",Senegal,MARSEILLE,,Defensive Midfield,12.0,42,1,2,2373,0,0,1.89,"Jul 1, 2020","Jun 30, 2023",/pape-gueye/profil/spieler/485963
+57,Paolo Sciortino,18,"Nov 5, 2003 ",France,MARSEILLE,,Defensive Midfield,0.15,22,1,0,1873,0,0,1.77,-,"Jun 30, 2024",/paolo-sciortino/profil/spieler/805476
+58,Tom Moustier,20,"May 2, 2002 ",France,MARSEILLE,,Defensive Midfield,,7,0,0,503,0,0,1.85,-,"Jun 30, 2024",/tom-moustier/profil/spieler/782889
+60,Gerson,25,"May 20, 1997",Brazil,MARSEILLE,,Central Midfield,22.0,48,11,10,3490,0,0,1.84,"Jul 1, 2021","Dec 31, 2027",/gerson/profil/spieler/341705
+61,Valentin Rongier,27,"Dec 7, 1994 ",France,MARSEILLE,,Central Midfield,12.0,46,1,2,3305,0,0,1.72,"Sep 3, 2019","Jun 30, 2026",/valentin-rongier/profil/spieler/332889
+62,Cheick Souaré,19,"Sep 3, 2002 ",France,MARSEILLE,,Central Midfield,0.2,12,2,1,1080,0,0,1.85,-,"Jun 30, 2023",/cheick-souare/profil/spieler/569367
+64,Bilal Nadir,18,"Nov 28, 2003",France,MARSEILLE,,Central Midfield,0.15,18,0,1,1539,0,0,1.72,-,"Jun 30, 2024",/bilal-nadir/profil/spieler/659520
+66,Dimitri Payet,35,"Mar 29, 1987",France,MARSEILLE,,Attacking Midfield,5.0,46,16,13,3730,0,0,1.75,"Jan 30, 2017","Jun 30, 2024",/dimitri-payet/profil/spieler/37647
+67,Ugo Bertelli,18,"Jul 15, 2003",France,MARSEILLE,,Attacking Midfield,0.3,26,1,2,2072,0,0,1.68,-,"Jun 30, 2023",/ugo-bertelli/profil/spieler/708680
+71,Salim Ben Seghir,19,"Feb 24, 2003",France,MARSEILLE,,Left Winger,0.4,18,5,1,1530,0,0,1.74,"Jul 1, 2021","Jun 30, 2023",/salim-ben-seghir/profil/spieler/708681
+72,Jonathan Pitou,17,"Aug 11, 2004",France,MARSEILLE,,Left Winger,0.25,13,0,0,756,0,0,1.74,-,"Jun 30, 2025",/jonathan-pitou/profil/spieler/800611
+75,Bamba Dieng,22,"Mar 23, 2000",Senegal,MARSEILLE,,Centre-Forward,10.0,36,8,3,1568,0,0,1.78,"Jul 1, 2021","Jun 30, 2025",/bamba-dieng/profil/spieler/822458
+78,Aylan Benyahia-Tani,16,"Jul 19, 2005",France,MARSEILLE,,Centre-Forward,0.25,10,0,1,512,0,0,-,-,"Jun 30, 2024",/aylan-benyahia-tani/profil/spieler/881250
+79,Alexander Nübel,25,"Sep 30, 1996",Germany,MONACO,,Goalkeeper,8.0,49,0,0,4440,51,14,1.93,"Jul 1, 2021","Jun 30, 2023",/alexander-nubel/profil/spieler/195778
+82,Yann Lienard,19,"Mar 16, 2003",France,MONACO,,Goalkeeper,0.2,11,0,0,990,18,0,1.94,-,"Jun 30, 2024",/yann-lienard/profil/spieler/745341
+83,Benoît Badiashile,21,"Mar 26, 2001",France,MONACO,,Centre-Back,30.0,34,1,1,2700,0,0,1.94,"Jul 1, 2018","Jun 30, 2030",/benoit-badiashile/profil/spieler/463603
+84,Axel Disasi,24,"Mar 11, 1998",France,MONACO,,Centre-Back,17.0,45,3,0,3678,0,0,1.9,"Aug 7, 2020","Jun 30, 2025",/axel-disasi/profil/spieler/386047
+85,Guillermo Maripán,28,"May 6, 1994 ",Chile,MONACO,,Centre-Back,15.0,37,1,0,2677,0,0,1.9,"Aug 24, 2019","Jun 30, 2025",/guillermo-maripan/profil/spieler/249730
+89,Yllan Okou,19,"Dec 23, 2002",France,MONACO,,Centre-Back,0.3,17,4,1,1505,0,0,1.89,-,"Jun 30, 2025",/yllan-okou/profil/spieler/745202
+90,Fouad El Maach,21,"Jan 2, 2001 ",Morocco,MONACO,,Centre-Back,0.15,16,1,0,1199,0,0,1.88,-,"Jun 30, 2024",/fouad-el-maach/profil/spieler/536503
+91,Caio Henrique,24,"Jul 31, 1997",Brazil,MONACO,,Left-Back,20.0,49,2,13,3894,0,0,1.78,"Aug 27, 2020","Jun 30, 2027",/caio-henrique/profil/spieler/420064
+92,Ismail Jakobs,22,"Aug 17, 1999",Senegal,MONACO,,Left-Back,7.0,39,0,2,1635,0,0,1.84,"Jul 12, 2021","Jun 30, 2026",/ismail-jakobs/profil/spieler/375137
+93,Louis Torres,21,"Apr 29, 2001",France,MONACO,,Left-Back,0.15,18,2,2,1501,0,0,1.82,-,"Jun 30, 2023",/louis-torres/profil/spieler/536510
+94,Vanderson,21,"Jun 21, 2001",Brazil,MONACO,,Right-Back,18.0,22,2,3,1438,0,0,1.73,"Jan 1, 2022","Jun 30, 2027",/vanderson/profil/spieler/789082
+95,Ruben Aguilar,29,"Apr 26, 1993",France,MONACO,,Right-Back,10.0,39,0,2,2875,0,0,1.7,"Aug 6, 2019","Jun 30, 2025",/ruben-aguilar/profil/spieler/203746
+97,Aurélien Platret,19,"Feb 20, 2003",France,MONACO,,Right-Back,0.15,20,0,3,1594,0,0,-,-,-,/aurelien-platret/profil/spieler/745201
+100,Soungoutou Magassa,18,"Oct 8, 2003 ",France,MONACO,,Defensive Midfield,0.2,22,1,0,1761,0,0,1.88,"Jul 1, 2022","Jun 30, 2024",/soungoutou-magassa/profil/spieler/745181
+101,Youssouf Fofana,23,"Jan 10, 1999",France,MONACO,,Central Midfield,18.0,46,1,4,3042,0,0,1.85,"Jan 29, 2020","Jun 30, 2024",/youssouf-fofana/profil/spieler/569598
+102,Jean Lucas,24,"Jun 22, 1998",Brazil,MONACO,,Central Midfield,8.0,39,2,2,2198,0,0,1.79,"Aug 2, 2021","Jun 30, 2026",/jean-lucas/profil/spieler/578872
+103,Eliot Matazo,20,"Feb 15, 2002",Belgium,MONACO,,Central Midfield,8.0,28,0,1,1271,0,0,1.7,"Jul 1, 2020","Jun 30, 2026",/eliot-matazo/profil/spieler/535834
+105,Félix Lemaréchal,18,"Aug 7, 2003 ",France,MONACO,,Central Midfield,0.6,22,2,2,1622,0,0,1.8,"Jul 1, 2022","Jun 30, 2023",/felix-lemarechal/profil/spieler/659518
+106,Tiago Ribeiro,20,"Mar 14, 2002",Portugal,MONACO,,Central Midfield,0.25,21,4,3,1228,0,0,1.83,-,"Jun 30, 2023",/tiago-ribeiro/profil/spieler/504084
+107,Florian Baranik,20,"Feb 2, 2002 ",France,MONACO,,Central Midfield,0.15,14,1,0,1183,0,0,-,-,"Jun 30, 2023",/florian-baranik/profil/spieler/538968
+108,Aleksandr Golovin,26,"May 30, 1996",Russia,MONACO,,Attacking Midfield,25.0,40,4,8,2179,0,0,1.78,"Jul 27, 2018","Jun 30, 2026",/aleksandr-golovin/profil/spieler/263918
+109,Maghnes Akliouche,20,"Feb 25, 2002",France,MONACO,,Attacking Midfield,1.0,20,3,4,1009,0,0,1.83,"Jul 1, 2022","Jun 30, 2024",/maghnes-akliouche/profil/spieler/745200
+111,Eric Ayiah,22,"Mar 6, 2000 ",Ghana,MONACO,,Left Winger,0.15,23,3,1,1246,0,0,1.83,-,"Jun 30, 2025",/eric-ayiah/profil/spieler/543503
+112,Gelson Martins,27,"May 11, 1995",Portugal,MONACO,,Right Winger,15.0,47,5,4,2682,0,0,1.7,"Jul 1, 2019","Jun 30, 2024",/gelson-martins/profil/spieler/257448
+113,Krépin Diatta,23,"Feb 25, 1999",Senegal,MONACO,,Right Winger,13.0,13,2,0,530,0,0,1.75,"Jan 21, 2021","Jun 30, 2025",/krepin-diatta/profil/spieler/490426
+115,Wissam Ben Yedder,31,"Aug 12, 1990",France,MONACO,,Centre-Forward,25.0,52,32,7,3554,0,0,1.7,"Aug 14, 2019","Jun 30, 2024",/wissam-ben-yedder/profil/spieler/146854
+116,Kevin Volland,29,"Jul 30, 1992",Germany,MONACO,,Centre-Forward,22.0,51,15,13,3731,0,0,1.79,"Sep 2, 2020","Jun 30, 2024",/kevin-volland/profil/spieler/82009
+117,Myron Boadu,21,"Jan 14, 2001",Netherlands,MONACO,,Centre-Forward,14.0,42,6,2,1446,0,0,1.81,"Aug 4, 2021","Jun 30, 2026",/myron-boadu/profil/spieler/412932
+120,Alfred Gomis,28,"Sep 5, 1993 ",Senegal,RENNAIS,,Goalkeeper,8.0,32,0,0,2846,33,12,1.96,"Sep 29, 2020","Jun 30, 2023",/alfred-gomis/profil/spieler/163568
+121,Dogan Alemdar,19,"Oct 29, 2002",Turkey,RENNAIS,,Goalkeeper,3.5,16,0,0,1440,18,5,1.92,"Aug 27, 2021","Jun 30, 2026",/dogan-alemdar/profil/spieler/576033
+123,Romain Salin,37,"Jul 29, 1984",France,RENNAIS,,Goalkeeper,0.4,4,0,0,304,4,2,1.86,"Jul 1, 2019","Jun 30, 2024",/romain-salin/profil/spieler/23974
+124,Elias Damergy,19,"Oct 17, 2002",Tunisia,RENNAIS,,Goalkeeper,0.2,9,0,0,810,7,3,1.86,"Jul 1, 2022","Jun 30, 2023",/elias-damergy/profil/spieler/693312
+127,Warmed Omari,22,"Apr 23, 2000",France,RENNAIS,,Centre-Back,8.0,40,1,0,3259,0,0,1.88,"Jul 1, 2021","Jun 30, 2026",/warmed-omari/profil/spieler/711996
+129,Jeanuël Belocian,17,"Feb 17, 2005",France,RENNAIS,,Centre-Back,0.5,13,0,0,1046,0,0,1.82,"Jul 1, 2022","Jun 30, 2024",/jeanuel-belocian/profil/spieler/919515
+130,Adrien Truffert,20,"Nov 20, 2001",France,RENNAIS,,Left-Back,12.0,41,3,3,2338,0,0,1.76,"Jul 1, 2020","Jun 30, 2025",/adrien-truffert/profil/spieler/654539
+131,Birger Meling,27,"Dec 17, 1994",Norway,RENNAIS,,Left-Back,7.0,37,0,5,2097,0,0,1.73,"Jul 20, 2021","Jun 30, 2026",/birger-meling/profil/spieler/282250
+132,Faitout Maouassa,23,"Jul 6, 1998 ",France,RENNAIS,,Left-Back,3.0,9,0,0,356,0,0,1.7,"Jul 1, 2017","Jun 30, 2023",/faitout-maouassa/profil/spieler/357072
+133,Hamari Traoré,30,"Jan 27, 1992",Mali,RENNAIS,,Right-Back,10.0,42,3,10,3683,0,0,1.75,"Jul 1, 2017","Jun 30, 2023",/hamari-traore/profil/spieler/297070
+134,Lorenz Assignon,22,"Jun 22, 2000",France,RENNAIS,,Right-Back,3.0,26,0,3,843,0,0,1.81,"Jul 1, 2021","Jun 30, 2025",/lorenz-assignon/profil/spieler/711969
+135,Lesley Ugochukwu,18,"Mar 26, 2004",France,RENNAIS,,Defensive Midfield,3.0,23,1,0,614,0,0,1.91,"Jul 1, 2021","Jun 30, 2025",/lesley-ugochukwu/profil/spieler/711999
+137,Noah Françoise,18,"Jul 5, 2003 ",France,RENNAIS,,Defensive Midfield,0.25,23,3,1,2070,0,0,1.77,"Jul 1, 2022","Jun 30, 2023",/noah-francoise/profil/spieler/620321
+138,Eduardo Camavinga,19,"Nov 10, 2002",France,RENNAIS,,Central Midfield,55.0,46,2,2,1866,0,0,1.82,"Jan 1, 2019","Jun 30, 2027",/eduardo-camavinga/profil/spieler/640428
+139,Baptiste Santamaria,27,"Mar 9, 1995 ",France,RENNAIS,,Central Midfield,14.0,47,2,2,3388,0,0,1.83,"Aug 17, 2021","Jun 30, 2025",/baptiste-santamaria/profil/spieler/285323
+140,Flavien Tait,29,"Feb 2, 1993 ",France,RENNAIS,,Central Midfield,8.0,39,7,4,2824,0,0,1.76,"Jul 9, 2019","Jun 30, 2024",/flavien-tait/profil/spieler/202278
+142,Trésor Matondo,18,"Jul 24, 2003",France,RENNAIS,,Central Midfield,,22,0,3,1929,0,0,1.69,-,-,/tresor-matondo/profil/spieler/711988
+143,Benjamin Bourigeaud,28,"Jan 14, 1994",France,RENNAIS,,Right Midfield,18.0,48,12,16,3974,0,0,1.78,"Jul 1, 2017","Jun 30, 2026",/benjamin-bourigeaud/profil/spieler/266359
+144,Romain Del Castillo,26,"Mar 29, 1996",France,RENNAIS,,Right Midfield,3.0,24,1,7,1106,0,0,1.72,"Jul 1, 2018","Jun 30, 2024",/romain-del-castillo/profil/spieler/353399
+145,Lovro Majer,24,"Jan 17, 1998",Croatia,RENNAIS,,Attacking Midfield,20.0,49,11,13,3239,0,0,1.78,"Aug 26, 2021","Jun 30, 2027",/lovro-majer/profil/spieler/387106
+146,Désiré Doué,17,"Jun 3, 2005 ",France,RENNAIS,,Attacking Midfield,0.4,13,1,1,890,0,0,1.81,"Jul 1, 2022","Jun 30, 2025",/desire-doue/profil/spieler/914562
+147,Martin Terrier,25,"Mar 4, 1997 ",France,RENNAIS,,Left Winger,25.0,46,21,7,3355,0,0,1.84,"Jul 6, 2020","Jun 30, 2026",/martin-terrier/profil/spieler/442891
+148,Kamaldeen Sulemana,20,"Feb 15, 2002",Ghana,RENNAIS,,Left Winger,18.0,28,5,3,1422,0,0,1.75,"Jul 16, 2021","Jun 30, 2027",/kamaldeen-sulemana/profil/spieler/746695
+149,Jérémy Doku,20,"May 27, 2002",Belgium,RENNAIS,,Right Winger,20.0,18,2,2,670,0,0,1.73,"Oct 5, 2020","Jun 30, 2025",/jeremy-doku/profil/spieler/486049
+158,Teddy Boulhendi,21,"Apr 9, 2001 ",Algeria,NICE,,Goalkeeper,0.15,1,0,0,90,2,0,1.85,"Jul 1, 2020","Jun 30, 2024",/teddy-boulhendi/profil/spieler/789419
+159,Jean-Clair Todibo,22,"Dec 30, 1999",France,NICE,,Centre-Back,20.0,40,1,0,3476,0,0,1.9,"Jul 1, 2021","Jun 30, 2027",/jean-clair-todibo/profil/spieler/605184
+162,Dante,38,"Oct 18, 1983",Brazil,NICE,,Centre-Back,0.8,38,0,1,3232,0,0,1.88,"Aug 23, 2016","Jun 30, 2023",/dante/profil/spieler/16136
+163,Yannis Nahounou,18,"May 16, 2004",France,NICE,,Centre-Back,0.15,2,0,0,176,0,0,1.94,-,"Jun 30, 2026",/yannis-nahounou/profil/spieler/904707
+164,Melvin Bard,21,"Nov 6, 2000 ",France,NICE,,Left-Back,9.0,37,2,2,2936,0,0,1.73,"Jul 16, 2021","Jun 30, 2025",/melvin-bard/profil/spieler/532775
+167,Youcef Atal,26,"May 17, 1996",Algeria,NICE,,Right-Back,15.0,18,2,2,1171,0,0,1.76,"Jul 17, 2018","Jun 30, 2024",/youcef-atal/profil/spieler/416108
+168,Jordan Lotomba,23,"Sep 29, 1998",Switzerland,NICE,,Right-Back,7.0,34,0,1,2081,0,0,1.77,"Aug 3, 2020","Jun 30, 2025",/jordan-lotomba/profil/spieler/313094
+169,Antoine Mendy,18,"May 27, 2004",France,NICE,,Right-Back,0.15,7,0,0,592,0,0,1.87,"Jul 1, 2022","Jun 30, 2025",/antoine-mendy/profil/spieler/891998
+170,Khéphren Thuram,21,"Mar 26, 2001",France,NICE,,Defensive Midfield,17.0,41,4,3,2285,0,0,1.92,"Jul 6, 2019","Jun 30, 2025",/khephren-thuram/profil/spieler/463618
+171,Pablo Rosario,25,"Jan 7, 1997 ",Netherlands,NICE,,Defensive Midfield,10.0,41,0,2,2970,0,0,1.85,"Jul 27, 2021","Jun 30, 2026",/pablo-rosario/profil/spieler/370791
+172,Mario Lemina,28,"Sep 1, 1993 ",Gabon,NICE,,Defensive Midfield,9.0,36,2,0,2124,0,0,1.84,"Jul 24, 2021","Jun 30, 2025",/mario-lemina/profil/spieler/170934
+173,Morgan Schneiderlin,32,"Nov 8, 1989 ",France,NICE,,Defensive Midfield,3.5,24,0,1,906,0,0,1.86,"Jul 1, 2020","Jun 30, 2023",/morgan-schneiderlin/profil/spieler/56818
+175,Justin Smith,19,"Feb 4, 2003 ",Canada,NICE,,Defensive Midfield,0.3,2,0,0,180,0,0,1.9,-,"Jun 30, 2023",/justin-smith/profil/spieler/904712
+176,Hicham Boudaoui,22,"Sep 23, 1999",Algeria,NICE,,Central Midfield,6.5,33,3,3,1793,0,0,1.75,"Sep 2, 2019","Jun 30, 2027",/hicham-boudaoui/profil/spieler/560593
+181,Myziane Maolida,23,"Feb 14, 1999",France,NICE,,Left Winger,3.0,19,1,1,886,0,0,1.82,"Aug 13, 2018","Jun 30, 2023",/myziane-maolida/profil/spieler/371142
+187,Andy Delort,30,"Oct 9, 1991 ",Algeria,NICE,,Centre-Forward,13.0,40,20,5,3044,0,0,1.81,"Aug 28, 2021","Jun 30, 2023",/andy-delort/profil/spieler/122797
+190,Matz Sels,30,"Feb 26, 1992",Belgium,STRASBOURG,,Goalkeeper,8.0,38,0,0,3420,44,13,1.88,"Jul 26, 2018","Jun 30, 2026",/matz-sels/profil/spieler/127202
+191,Eiji Kawashima,39,"Mar 20, 1983",Japan,STRASBOURG,,Goalkeeper,0.2,2,0,0,180,0,2,1.85,"Aug 29, 2018","Jun 30, 2023",/eiji-kawashima/profil/spieler/77383
+192,Alaa Bellaarouch,20,"Feb 1, 2002 ",Morocco,STRASBOURG,,Goalkeeper,0.15,17,0,0,1442,20,4,1.88,-,"Jun 30, 2023",/alaa-bellaarouch/profil/spieler/667991
+193,Alexander Djiku,27,"Aug 9, 1994 ",Ghana,STRASBOURG,,Centre-Back,10.0,33,1,0,2876,0,0,1.82,"Jul 5, 2019","Jun 30, 2023",/alexander-djiku/profil/spieler/250844
+194,Gerzino Nyamsi,25,"Jan 22, 1997",France,STRASBOURG,,Centre-Back,7.5,35,0,2,3073,0,0,1.95,"Aug 30, 2021","Jun 30, 2025",/gerzino-nyamsi/profil/spieler/378953
+196,Ismaël Doukouré,18,"Jul 24, 2003",France,STRASBOURG,,Centre-Back,1.5,14,1,0,852,0,0,1.83,"Jan 29, 2022","Jun 30, 2026",/ismael-doukoure/profil/spieler/786436
+197,Maxime Le Marchand,32,"Oct 11, 1989",France,STRASBOURG,,Centre-Back,1.2,12,1,1,857,0,0,1.85,"Aug 26, 2021","Jun 30, 2023",/maxime-le-marchand/profil/spieler/60558
+199,Kanfory Kaba,18,"Mar 23, 2004",France,STRASBOURG,,Centre-Back,,23,1,0,2001,0,0,-,-,-,/kanfory-kaba/profil/spieler/962560
+202,Karol Fila,24,"Jun 13, 1998",Poland,STRASBOURG,,Right-Back,1.2,17,0,0,620,0,0,1.83,"Jul 1, 2021","Jun 30, 2023",/karol-fila/profil/spieler/385817
+204,Ibrahima Sissoko,24,"Oct 27, 1997",France,STRASBOURG,,Defensive Midfield,8.0,36,2,6,2390,0,0,1.93,"Jul 1, 2018","Jun 30, 2024",/ibrahima-sissoko/profil/spieler/372712
+207,Habib Diarra,18,"Jan 3, 2004 ",France,STRASBOURG,,Defensive Midfield,0.6,13,2,0,917,0,0,1.79,"Jul 1, 2022","Jun 30, 2027",/habib-diarra/profil/spieler/876631
+208,Jean-Ricner Bellegarde,24,"Jun 27, 1998",France,STRASBOURG,,Central Midfield,8.0,38,2,3,2395,0,0,1.72,"Jul 2, 2019","Jun 30, 2024",/jean-ricner-bellegarde/profil/spieler/450050
+209,Sanjin Prcic,28,"Nov 20, 1993",Bosnia-Herzegovina,STRASBOURG,,Central Midfield,4.0,34,1,0,2348,0,0,1.81,"Sep 2, 2019","Jun 30, 2025",/sanjin-prcic/profil/spieler/125783
+210,Dimitri Liénard,34,"Feb 13, 1988",France,STRASBOURG,,Left Midfield,0.7,35,2,4,2225,0,0,1.81,"Jul 1, 2013","Jun 30, 2023",/dimitri-lienard/profil/spieler/314940
+211,Dany Jean,19,"Nov 28, 2002",Haiti,STRASBOURG,,Left Midfield,0.1,18,3,3,980,0,0,-,-,"Jun 30, 2025",/dany-jean/profil/spieler/628835
+212,Adrien Thomasson,28,"Dec 10, 1993",France,STRASBOURG,,Attacking Midfield,9.0,33,8,5,2513,0,0,1.75,"Jul 1, 2018","Jun 30, 2026",/adrien-thomasson/profil/spieler/215977
+213,Nordine Kandil,20,"Oct 31, 2001",France,STRASBOURG,,Attacking Midfield,0.4,9,1,2,418,0,0,1.65,"Jul 1, 2021","Jun 30, 2025",/nordine-kandil/profil/spieler/891379
+214,Aymeric Ahmed,18,"Nov 8, 2003 ",Comoros,STRASBOURG,,Attacking Midfield,0.25,18,2,1,1230,0,0,1.75,-,"Jun 30, 2023",/aymeric-ahmed/profil/spieler/918157
+215,Abdoul Ouattara,16,"Oct 22, 2005",Cote d'Ivoire,STRASBOURG,,Attacking Midfield,0.1,9,2,1,644,0,0,-,-,-,/abdoul-ouattara/profil/spieler/991487
+218,Ludovic Ajorque,28,"Feb 25, 1994",France,STRASBOURG,,Centre-Forward,16.0,38,12,8,2853,0,0,1.97,"Jul 1, 2018","Jun 30, 2026",/ludovic-ajorque/profil/spieler/283994
+219,Habib Diallo,27,"Jun 18, 1995",Senegal,STRASBOURG,,Centre-Forward,12.0,33,12,2,1669,0,0,1.86,"Oct 5, 2020","Jun 30, 2025",/habib-diallo/profil/spieler/344888
+220,Kévin Gameiro,35,"May 9, 1987 ",France,STRASBOURG,,Centre-Forward,2.0,37,11,4,2557,0,0,1.72,"Jul 18, 2021","Jun 30, 2023",/kevin-gameiro/profil/spieler/27389
+223,Wuilker Fariñez,24,"Feb 15, 1998",Venezuela,LENS,,Goalkeeper,4.0,15,0,0,1283,17,4,1.8,"Jul 1, 2021","Jun 30, 2024",/wuilker-farinez/profil/spieler/373714
+224,Jean-Louis Leca,36,"Sep 21, 1985",France,LENS,,Goalkeeper,0.5,28,0,0,2404,37,6,1.8,"Jul 1, 2018","Jun 30, 2024",/jean-louis-leca/profil/spieler/27490
+225,Yannick Pandor,21,"May 1, 2001 ",Comoros,LENS,,Goalkeeper,0.2,19,0,0,1710,28,3,1.92,"Jul 1, 2022","Jun 30, 2026",/yannick-pandor/profil/spieler/804829
+226,Facundo Medina,23,"May 28, 1999",Argentina,LENS,,Centre-Back,11.0,34,1,0,2866,0,0,1.84,"Jul 2, 2020","Jun 30, 2026",/facundo-medina/profil/spieler/474800
+227,Kevin Danso,23,"Sep 19, 1998",Austria,LENS,,Centre-Back,9.0,36,2,3,3029,0,0,1.9,"Aug 6, 2021","Jun 30, 2026",/kevin-danso/profil/spieler/263236
+228,Jonathan Gradit,29,"Nov 24, 1992",France,LENS,,Centre-Back,4.5,37,0,0,3170,0,0,1.8,"Aug 20, 2019","Jun 30, 2026",/jonathan-gradit/profil/spieler/126557
+230,Steven Fortes,30,"Apr 17, 1992",Cape Verde,LENS,,Centre-Back,0.65,20,1,0,1717,0,0,1.92,"Jul 1, 2019","Jun 30, 2023",/steven-fortes/profil/spieler/276895
+231,Adrien Louveau,22,"Feb 1, 2000 ",France,LENS,,Centre-Back,0.1,9,0,0,765,0,0,1.89,"Jul 1, 2022","Jun 30, 2023",/adrien-louveau/profil/spieler/804817
+232,Massadio Haidara,29,"Dec 2, 1992 ",Mali,LENS,,Left-Back,2.0,21,1,2,1149,0,0,1.79,"Jul 1, 2018","Jun 30, 2025",/massadio-haidara/profil/spieler/170929
+233,Deiver Machado,28,"Sep 2, 1993 ",Colombia,LENS,,Left-Back,1.8,22,0,1,512,0,0,1.8,"Jul 7, 2021","Jun 30, 2026",/deiver-machado/profil/spieler/332560
+234,Ismaël Boura,21,"Aug 14, 2000",France,LENS,,Left-Back,1.5,22,1,0,1490,0,0,1.73,"Apr 19, 2020","Jun 30, 2023",/ismael-boura/profil/spieler/770895
+235,Malcom Musquet,20,"Apr 15, 2002",France,LENS,,Left-Back,0.1,16,1,1,1357,0,0,1.83,-,-,/malcom-musquet/profil/spieler/911512
+237,Brayann Pereira,19,"May 21, 2003",France,LENS,,Right-Back,0.6,16,0,0,1202,0,0,1.72,-,"Jun 30, 2023",/brayann-pereira/profil/spieler/620317
+241,Samba Sow,33,"Apr 29, 1989",Mali,LENS,,Defensive Midfield,0.2,10,0,1,725,0,0,1.85,"Jul 1, 2009",-,/samba-sow/profil/spieler/89461
+242,Seko Fofana,27,"May 7, 1995 ",Cote d'Ivoire,LENS,,Central Midfield,25.0,41,10,2,3616,0,0,1.85,"Aug 18, 2020","Jun 30, 2025",/seko-fofana/profil/spieler/182893
+245,Yacouba Barry,19,"Nov 25, 2002",France,LENS,,Central Midfield,0.1,21,0,0,1513,0,0,1.88,-,-,/yacouba-barry/profil/spieler/821136
+246,Przemyslaw Frankowski,27,"Apr 12, 1995",Poland,LENS,,Right Midfield,8.0,40,6,5,2618,0,0,1.75,"Aug 5, 2021","Jun 30, 2026",/przemyslaw-frankowski/profil/spieler/239743
+249,David Costa,21,"Jan 5, 2001 ",Portugal,LENS,,Attacking Midfield,4.5,38,4,5,1712,0,0,1.68,"Jul 1, 2020","Jun 30, 2024",/david-costa/profil/spieler/719442
+250,Mohamed Cissé,21,"Apr 26, 2001",France,LENS,,Right Winger,0.2,20,1,0,977,0,0,1.71,-,-,/mohamed-cisse/profil/spieler/800246
+254,Florian Sotoca,31,"Oct 25, 1990",France,LENS,,Centre-Forward,2.5,38,6,3,2687,0,0,1.87,"Jul 1, 2019","Jun 30, 2026",/florian-sotoca/profil/spieler/354726
+255,Wesley Saïd,27,"Apr 19, 1995",France,LENS,,Centre-Forward,2.5,23,6,2,751,0,0,1.71,"Jul 1, 2021","Jun 30, 2026",/wesley-said/profil/spieler/182916
+258,Anthony Lopes,31,"Oct 1, 1990 ",Portugal,LYON,,Goalkeeper,10.0,42,0,0,3704,51,13,1.84,"Jul 1, 2011","Jun 30, 2025",/anthony-lopes/profil/spieler/60561
+259,Julian Pollersbeck,27,"Aug 16, 1994",Germany,LYON,,Goalkeeper,0.8,9,0,0,704,10,3,1.95,"Sep 18, 2020","Jun 30, 2023",/julian-pollersbeck/profil/spieler/228975
+261,Kayne Bonnevie,20,"Jul 22, 2001",France,LYON,,Goalkeeper,0.25,11,0,0,990,11,4,1.91,"Jul 1, 2022","Jun 30, 2024",/kayne-bonnevie/profil/spieler/618465
+262,Castello Lukeba,19,"Dec 17, 2002",France,LYON,,Centre-Back,20.0,32,2,0,2816,0,0,1.84,"Jul 1, 2021","Jun 30, 2025",/castello-lukeba/profil/spieler/618472
+264,Sinaly Diomandé,21,"Apr 9, 2001 ",Cote d'Ivoire,LYON,,Centre-Back,5.0,16,0,0,846,0,0,1.84,"Jul 1, 2020","Jun 30, 2025",/sinaly-diomande/profil/spieler/702441
+265,Jérôme Boateng,33,"Sep 3, 1988 ",Germany,LYON,,Centre-Back,3.5,27,0,2,1824,0,0,1.92,"Sep 1, 2021","Jun 30, 2023",/jerome-boateng/profil/spieler/26485
+267,Damien Da Silva,34,"May 17, 1988",France,LYON,,Centre-Back,1.0,22,0,0,1576,0,0,1.84,"Jul 1, 2021","Jun 30, 2024",/damien-da-silva/profil/spieler/57370
+269,Henrique Silva,28,"Apr 25, 1994",Brazil,LYON,,Left-Back,1.5,23,0,1,1462,0,0,1.73,"Jul 1, 2021","Jun 30, 2024",/henrique-silva/profil/spieler/204072
+270,Hugo Vogel,18,"Jan 4, 2004 ",France,LYON,,Left-Back,0.5,16,0,0,1199,0,0,1.77,-,"Jun 30, 2026",/hugo-vogel/profil/spieler/743519
+271,Malo Gusto,19,"May 19, 2003",France,LYON,,Right-Back,12.0,38,1,5,2413,0,0,1.79,"Jan 30, 2023","Jun 30, 2023",/malo-gusto/profil/spieler/620322
+273,Irvyn Lomami,18,"Dec 30, 2003",France,LYON,,Right-Back,0.2,18,0,0,1567,0,0,1.71,-,"Jun 30, 2025",/irvyn-lomami/profil/spieler/802987
+275,Thiago Mendes,30,"Mar 15, 1992",Brazil,LYON,,Defensive Midfield,9.0,37,1,1,2564,0,0,1.77,"Jul 3, 2019","Jun 30, 2025",/thiago-mendes/profil/spieler/135617
+277,Maxence Caqueret,22,"Feb 15, 2000",France,LYON,,Central Midfield,25.0,39,0,1,2844,0,0,1.74,"Dec 14, 2018","Jun 30, 2027",/maxence-caqueret/profil/spieler/395237
+278,Houssem Aouar,24,"Jun 30, 1998",France,LYON,,Central Midfield,25.0,45,8,4,3072,0,0,1.75,"Jul 1, 2017","Jun 30, 2023",/houssem-aouar/profil/spieler/395693
+282,Noam Bonnet,20,"May 25, 2002",France,LYON,,Central Midfield,0.15,22,2,0,1773,0,0,1.77,-,"Jun 30, 2023",/noam-bonnet/profil/spieler/729677
+285,Rayan Cherki,18,"Aug 17, 2003",France,LYON,,Attacking Midfield,18.0,22,2,4,862,0,0,1.76,"Jan 1, 2020","Jun 30, 2024",/rayan-cherki/profil/spieler/607223
+286,Jeff Reine-Adélaïde,24,"Jan 17, 1998",France,LYON,,Attacking Midfield,14.0,13,0,1,303,0,0,1.84,"Aug 14, 2019","Jun 30, 2023",/jeff-reine-adelaide/profil/spieler/326300
+287,Maxwel Cornet,25,"Sep 27, 1996",Cote d'Ivoire,LYON,,Left Winger,15.0,29,9,2,1944,0,0,1.79,"Jan 15, 2015","Jun 30, 2027",/maxwel-cornet/profil/spieler/234781
+288,Karl Toko Ekambi,29,"Sep 14, 1992",Cameroon,LYON,,Left Winger,15.0,40,18,7,2930,0,0,1.82,"Jul 1, 2020","Jun 30, 2023",/karl-toko-ekambi/profil/spieler/315110
+290,Bradley Barcola,19,"Sep 2, 2002 ",France,LYON,,Left Winger,1.0,27,3,6,1405,0,0,1.86,"Jan 7, 2022","Jun 30, 2026",/bradley-barcola/profil/spieler/708265
+291,Madyan Sounni,19,"Dec 23, 2002",France,LYON,,Left Winger,0.15,16,1,1,814,0,0,1.78,-,"Jun 30, 2023",/madyan-sounni/profil/spieler/729680
+292,Tetê,22,"Feb 15, 2000",Brazil,LYON,,Right Winger,22.0,39,12,7,2381,0,0,1.75,"Mar 31, 2022","Jun 30, 2023",/tete/profil/spieler/371256
+294,Moussa Dembélé,25,"Jul 12, 1996",France,LYON,,Centre-Forward,20.0,36,22,5,2696,0,0,1.87,"Aug 31, 2018","Jun 30, 2023",/moussa-dembele/profil/spieler/229004
+297,Gaël Nsombi,19,"Jan 25, 2003",France,LYON,,Centre-Forward,0.2,18,1,0,969,0,0,1.71,-,"Jun 30, 2023",/gael-nsombi/profil/spieler/744942
+298,Alban Lafont,23,"Jan 23, 1999",France,NANTES,,Goalkeeper,16.0,39,0,0,3510,48,9,1.96,"Jul 1, 2021","Jun 30, 2024",/alban-lafont/profil/spieler/357117
+299,Rémy Descamps,26,"Jun 25, 1996",France,NANTES,,Goalkeeper,0.8,9,0,0,810,9,5,1.96,"Jul 1, 2021","Jun 30, 2024",/remy-descamps/profil/spieler/282028
+300,Denis Petric,34,"May 24, 1988",Slovenia,NANTES,,Goalkeeper,0.2,2,0,0,180,0,2,1.87,"Aug 1, 2019","Jun 30, 2023",/denis-petric/profil/spieler/28356
+301,Andrei Girotto,30,"Feb 17, 1992",Brazil,NANTES,,Centre-Back,5.0,41,6,1,3600,0,0,1.86,"Aug 12, 2017","Jun 30, 2024",/andrei-girotto/profil/spieler/270051
+302,Jean-Charles Castelletto,27,"Jan 26, 1995",Cameroon,NANTES,,Centre-Back,4.0,31,1,0,2782,0,0,1.86,"Jul 1, 2020","Jun 30, 2026",/jean-charles-castelletto/profil/spieler/182875
+303,Nicolas Pallois,34,"Sep 19, 1987",France,NANTES,,Centre-Back,1.5,36,1,1,2991,0,0,1.89,"Jul 27, 2017","Jun 30, 2024",/nicolas-pallois/profil/spieler/139279
+304,Abdoulaye Sylla,22,"Apr 10, 2000",Guinea,NANTES,,Centre-Back,0.25,17,0,1,1390,0,0,1.81,-,"Jun 30, 2024",/abdoulaye-sylla/profil/spieler/807648
+305,Yannis M'Bemba,20,"Jul 1, 2001 ",France,NANTES,,Centre-Back,0.2,22,1,0,1803,0,0,1.9,-,"Jun 30, 2023",/yannis-mbemba/profil/spieler/822116
+306,Robin Voisine,20,"Apr 7, 2002 ",France,NANTES,,Centre-Back,0.15,23,2,1,1872,0,0,1.88,"Jul 1, 2022","Jun 30, 2025",/robin-voisine/profil/spieler/650582
+307,Quentin Merlin,20,"May 16, 2002",France,NANTES,,Left-Back,5.0,34,3,3,2464,0,0,1.73,"Jul 1, 2021","Jun 30, 2026",/quentin-merlin/profil/spieler/557613
+308,Charles Traoré,30,"Jan 1, 1992 ",Mali,NANTES,,Left-Back,1.5,17,0,0,802,0,0,1.8,"Aug 31, 2018","Jun 30, 2023",/charles-traore/profil/spieler/394906
+309,Dennis Appiah,30,"Jun 9, 1992 ",France,NANTES,,Right-Back,2.0,37,0,0,2387,0,0,1.79,"Jul 1, 2019","Jun 30, 2025",/dennis-appiah/profil/spieler/111038
+310,Fábio,31,"Jul 9, 1990 ",Brazil,NANTES,,Right-Back,1.8,30,0,4,1769,0,0,1.72,"Jul 18, 2018","Dec 31, 2024",/fabio/profil/spieler/61891
+311,Sébastien Corchia,31,"Nov 1, 1990 ",France,NANTES,,Right-Back,1.8,33,0,3,1536,0,0,1.76,"Oct 7, 2020","Jun 30, 2023",/sebastien-corchia/profil/spieler/102744
+312,Lohann Doucet,19,"Sep 14, 2002",France,NANTES,,Defensive Midfield,0.15,21,0,0,1404,0,0,1.8,"Jul 1, 2022","Jun 30, 2025",/lohann-doucet/profil/spieler/830265
+313,Pedro Chirivella,25,"May 23, 1997",Spain,NANTES,,Central Midfield,7.0,36,3,1,3071,0,0,1.78,"Jul 1, 2020","Jun 30, 2026",/pedro-chirivella/profil/spieler/242273
+315,Samuel Moutoussamy,25,"Aug 12, 1996",DR Congo,NANTES,,Central Midfield,3.0,34,1,1,1787,0,0,1.76,"Sep 6, 2017","Jun 30, 2024",/samuel-moutoussamy/profil/spieler/353403
+316,Mohamed Achi,20,"Jan 16, 2002",France,NANTES,,Central Midfield,0.3,25,3,6,2122,0,0,1.81,"Jul 1, 2022","Jun 30, 2023",/mohamed-achi/profil/spieler/855158
+317,Ludovic Blas,24,"Dec 31, 1997",France,NANTES,,Attacking Midfield,16.0,41,15,5,3442,0,0,1.8,"Sep 2, 2019","Jun 30, 2024",/ludovic-blas/profil/spieler/288225
+319,Gor Manvelyan,20,"Apr 9, 2002 ",France,NANTES,,Attacking Midfield,0.4,19,1,3,1193,0,0,1.8,"Jul 1, 2021","Jun 30, 2024",/gor-manvelyan/profil/spieler/773795
+320,Moses Simon,26,"Jul 12, 1995",Nigeria,NANTES,,Left Winger,10.0,34,6,8,2665,0,0,1.68,"Jul 1, 2020","Jun 30, 2024",/moses-simon/profil/spieler/274862
+324,Marcus Coco,26,"Jun 24, 1996",France,NANTES,,Right Winger,2.0,28,1,1,1122,0,0,1.84,"Jul 16, 2019","Jun 30, 2023",/marcus-coco/profil/spieler/353365
+329,Léo Jardim,27,"Mar 20, 1995",Brazil,LILLE,,Goalkeeper,4.0,20,0,0,1800,24,9,1.88,"Jul 13, 2019","Dec 31, 2025",/leo-jardim/profil/spieler/288415
+332,Adam Jakubech,25,"Jan 2, 1997 ",Slovakia,LILLE,,Goalkeeper,0.5,-,0,0,0,0,0,1.88,"Jul 26, 2017","Jun 30, 2025",/adam-jakubech/profil/spieler/258267
+333,Jules Raux,18,"Aug 29, 2003",France,LILLE,,Goalkeeper,0.15,4,0,0,360,5,2,1.89,-,-,/jules-raux/profil/spieler/707245
+335,Tiago Djaló,22,"Apr 9, 2000 ",Portugal,LILLE,,Centre-Back,12.0,38,1,1,3131,0,0,1.9,"Aug 1, 2019","Jun 30, 2024",/tiago-djalo/profil/spieler/420465
+337,José Fonte,38,"Dec 22, 1983",Portugal,LILLE,,Centre-Back,0.8,49,0,2,4410,0,0,1.87,"Jul 15, 2018","Jun 30, 2023",/jose-fonte/profil/spieler/33829
+338,Maxime Wackers,24,"Jan 1, 1998 ",France,LILLE,,Centre-Back,0.15,2,0,0,180,0,0,1.84,-,-,/maxime-wackers/profil/spieler/798894
+339,Leny Yoro,16,"Nov 13, 2005",France,LILLE,,Centre-Back,0.15,5,0,0,200,0,0,1.9,"Jul 1, 2022","Jun 30, 2025",/leny-yoro/profil/spieler/923831
+341,Gabriel Gudmundsson,23,"Apr 29, 1999",Sweden,LILLE,,Left-Back,6.0,39,1,0,1954,0,0,1.8,"Aug 31, 2021","Jun 30, 2026",/gabriel-gudmundsson/profil/spieler/362108
+345,Simon Ramet,19,"Mar 13, 2003",France,LILLE,,Right-Back,0.15,3,0,0,196,0,0,1.7,-,-,/simon-ramet/profil/spieler/707231
+346,Benjamin André,31,"Aug 3, 1990 ",France,LILLE,,Defensive Midfield,12.0,42,2,1,3509,0,0,1.8,"Jul 17, 2019","Jun 30, 2026",/benjamin-andre/profil/spieler/84301
+348,Jean Onana,22,"Jan 8, 2000 ",Cameroon,LILLE,,Defensive Midfield,5.0,23,3,2,1845,0,0,1.89,"Jan 31, 2020","Jun 30, 2027",/jean-onana/profil/spieler/656441
+352,Ugo Raghouber,18,"Jul 13, 2003",France,LILLE,,Central Midfield,0.25,6,0,0,458,0,0,1.8,-,"Jun 30, 2024",/ugo-raghouber/profil/spieler/707230
+353,Rocco Ascone,18,"Sep 12, 2003",France,LILLE,,Central Midfield,0.2,5,1,1,345,0,0,1.8,-,"Jun 30, 2023",/rocco-ascone/profil/spieler/620318
+354,Carlos Baleba,18,"Jan 3, 2004 ",Cameroon,LILLE,,Central Midfield,0.15,-,0,0,0,0,0,1.79,"Jul 1, 2022","Jun 30, 2026",/carlos-baleba/profil/spieler/973085
+356,Angel Gomes,21,"Aug 31, 2000",England,LILLE,,Attacking Midfield,7.0,30,3,2,1255,0,0,1.68,"Aug 9, 2020","Jun 30, 2025",/angel-gomes/profil/spieler/392770
+358,Exaucé Mpembele Boula,20,"May 15, 2002",France,LILLE,,Attacking Midfield,0.2,7,2,1,601,0,0,1.85,-,-,/exauce-mpembele-boula/profil/spieler/538972
+359,Jonathan Bamba,26,"Mar 26, 1996",France,LILLE,,Left Winger,17.0,39,1,4,3085,0,0,1.75,"Jul 2, 2018","Jun 30, 2023",/jonathan-bamba/profil/spieler/292818
+360,Capita,20,"Jan 10, 2002",Angola,LILLE,,Left Winger,0.175,11,4,1,555,0,0,1.71,-,"Jun 30, 2025",/capita/profil/spieler/666545
+361,Joffrey Bazie,18,"Oct 27, 2003",Burkina Faso,LILLE,,Left Winger,,-,0,0,0,0,0,1.79,-,"Jun 30, 2026",/joffrey-bazie/profil/spieler/854488
+363,Timothy Weah,22,"Feb 22, 2000",United States,LILLE,,Right Winger,12.0,35,3,5,1888,0,0,1.83,"Jul 1, 2019","Jun 30, 2024",/timothy-weah/profil/spieler/370846
+364,Luiz Araújo,26,"Jun 2, 1996 ",Brazil,LILLE,,Right Winger,10.0,31,6,5,2433,0,0,1.75,"Jul 1, 2017",-,/luiz-araujo/profil/spieler/435485
+365,Edon Zhegrova,23,"Mar 31, 1999",Kosovo,LILLE,,Right Winger,5.0,29,6,7,1282,0,0,1.81,"Jan 14, 2022","Jun 30, 2026",/edon-zhegrova/profil/spieler/496857
+366,Isaac Lihadji,20,"Apr 10, 2002",France,LILLE,,Right Winger,3.5,18,1,4,309,0,0,1.77,"Jul 2, 2020","Jun 30, 2025",/isaac-lihadji/profil/spieler/557610
+367,Jonathan David,22,"Jan 14, 2000",Canada,LILLE,,Centre-Forward,45.0,48,19,0,3655,0,0,1.75,"Aug 11, 2020","Jun 30, 2025",/jonathan-david/profil/spieler/533738
+369,Bica,19,"Jun 16, 2003",Portugal,LILLE,,Centre-Forward,0.3,6,3,1,448,0,0,1.8,-,"Jun 30, 2023",/bica/profil/spieler/743987
+370,Marco Bizot,31,"Mar 10, 1991",Netherlands,BRESTOIS,,Goalkeeper,4.5,38,0,0,3420,57,7,1.93,"Aug 4, 2021","Jun 30, 2024",/marco-bizot/profil/spieler/124884
+373,Grégoire Coudert,23,"Apr 3, 1999 ",France,BRESTOIS,,Goalkeeper,0.2,18,0,0,1620,26,5,1.88,"Jul 5, 2021","Jun 30, 2023",/gregoire-coudert/profil/spieler/525155
+374,Brendan Chardonnet,27,"Dec 22, 1994",France,BRESTOIS,,Centre-Back,5.0,35,3,0,2957,0,0,1.84,"Jul 1, 2013","Jun 30, 2025",/brendan-chardonnet/profil/spieler/250779
+375,Jean-Kévin Duverne,24,"Jul 12, 1997",France,BRESTOIS,,Centre-Back,4.0,40,1,3,3270,0,0,1.84,"Sep 2, 2019","Jun 30, 2023",/jean-kevin-duverne/profil/spieler/344864
+376,Lilian Brassier,22,"Nov 2, 1999 ",France,BRESTOIS,,Centre-Back,4.0,34,1,0,2525,0,0,1.86,"Jul 1, 2021","Jun 30, 2024",/lilian-brassier/profil/spieler/485960
+377,Christophe Hérelle,29,"Aug 22, 1992",Martinique,BRESTOIS,,Centre-Back,4.0,24,0,0,2028,0,0,1.88,"Aug 11, 2020","Jun 30, 2024",/christophe-herelle/profil/spieler/170544
+380,Jere Uronen,27,"Jul 13, 1994",Finland,BRESTOIS,,Left-Back,2.0,18,1,0,998,0,0,1.77,"Jul 20, 2021","Jun 30, 2023",/jere-uronen/profil/spieler/131827
+385,Haris Belkebla,28,"Jan 28, 1994",Algeria,BRESTOIS,,Central Midfield,4.0,32,0,0,2402,0,0,1.77,"Jul 1, 2018","Jun 30, 2023",/haris-belkebla/profil/spieler/138055
+386,Hugo Magnetti,24,"May 30, 1998",France,BRESTOIS,,Central Midfield,2.0,29,0,1,1498,0,0,1.8,"Jul 1, 2018","Jun 30, 2026",/hugo-magnetti/profil/spieler/474662
+389,Romain Del Castillo,26,"Mar 29, 1996",France,BRESTOIS,,Right Midfield,3.0,24,1,7,1106,0,0,1.72,"Aug 31, 2021","Jun 30, 2024",/romain-del-castillo/profil/spieler/353399
+391,Axel Camblan,19,"Jun 18, 2003",France,BRESTOIS,,Attacking Midfield,0.1,24,12,6,1838,0,0,1.69,"Jul 1, 2022","Jun 30, 2023",/axel-camblan/profil/spieler/924800
+394,Franck Honorat,25,"Aug 11, 1996",France,BRESTOIS,,Right Winger,10.0,37,11,6,3106,0,0,1.8,"Jul 1, 2020","Jun 30, 2025",/franck-honorat/profil/spieler/229006
+396,Steve Mounié,27,"Sep 29, 1994",Benin,BRESTOIS,,Centre-Forward,7.0,38,10,2,2518,0,0,1.9,"Sep 9, 2020","Jun 30, 2024",/steve-mounie/profil/spieler/238639
+397,Irvin Cardona,24,"Aug 8, 1997 ",France,BRESTOIS,,Centre-Forward,4.5,37,5,2,1726,0,0,1.85,"Aug 12, 2019","Jun 30, 2027",/irvin-cardona/profil/spieler/342226
+398,Jérémy Le Douaron,24,"Apr 21, 1998",France,BRESTOIS,,Centre-Forward,3.0,35,6,4,1559,0,0,1.89,"Jul 1, 2020","Jun 30, 2026",/jeremy-le-douaron/profil/spieler/737781
+401,Yehvann Diouf,22,"Nov 16, 1999",France,REIMS,,Goalkeeper,0.5,8,0,0,720,9,4,1.84,"Jul 1, 2019","Jun 30, 2024",/yehvann-diouf/profil/spieler/448632
+402,Nicolas Penneteau,41,"Feb 28, 1981",France,REIMS,,Goalkeeper,0.15,-,0,0,0,0,0,1.85,"Jul 1, 2021","Jun 30, 2023",/nicolas-penneteau/profil/spieler/5578
+405,Yunis Abdelhamid,34,"Sep 28, 1987",Morocco,REIMS,,Centre-Back,1.2,37,2,0,3254,0,0,1.9,"Jul 1, 2017","Jun 30, 2024",/yunis-abdelhamid/profil/spieler/199704
+407,Enzo Valentim,21,"Sep 11, 2000",France,REIMS,,Centre-Back,0.2,21,1,0,1890,0,0,-,-,-,/enzo-valentim/profil/spieler/502511
+409,Bradley Locko,20,"May 6, 2002 ",France,REIMS,,Left-Back,2.0,28,1,1,1362,0,0,1.8,"Jul 1, 2021","Jun 30, 2023",/bradley-locko/profil/spieler/805908
+410,Thomas Foket,27,"Sep 25, 1994",Belgium,REIMS,,Right-Back,5.0,29,1,1,2239,0,0,1.77,"Aug 31, 2018","Jun 30, 2025",/thomas-foket/profil/spieler/215114
+413,Ibrahim Diakité,18,"Oct 31, 2003",Guinea,REIMS,,Right-Back,0.2,28,0,1,2359,0,0,1.78,"Jul 1, 2022","Jun 30, 2023",/ibrahim-diakite/profil/spieler/919173
+414,Azor Matusiwa,24,"Apr 28, 1998",Netherlands,REIMS,,Defensive Midfield,7.0,33,1,1,2828,0,0,1.73,"Aug 31, 2021","Jun 30, 2026",/azor-matusiwa/profil/spieler/315145
+415,Jens Cajuste,22,"Aug 10, 1999",Sweden,REIMS,,Defensive Midfield,5.0,19,2,0,785,0,0,1.88,"Jan 10, 2022","Jun 30, 2026",/jens-cajuste/profil/spieler/468066
+416,Marshall Munetsi,26,"Jun 22, 1996",Zimbabwe,REIMS,,Defensive Midfield,5.0,24,5,2,1883,0,0,1.88,"Jul 1, 2019","Jun 30, 2026",/marshall-munetsi/profil/spieler/414908
+417,Dion Lopy,20,"Feb 2, 2002 ",Senegal,REIMS,,Defensive Midfield,2.5,29,0,0,1849,0,0,1.86,"Jul 1, 2021","Jun 30, 2024",/dion-lopy/profil/spieler/649033
+419,Xavier Chavalerin,31,"Mar 7, 1991 ",France,REIMS,,Central Midfield,3.5,38,5,2,2975,0,0,1.79,"Jul 1, 2017","Jun 30, 2024",/xavier-chavalerin/profil/spieler/118278
+422,Martin Adeline,18,"Dec 2, 2003 ",France,REIMS,,Central Midfield,0.8,24,2,1,1426,0,0,1.8,"Jul 1, 2022","Jun 30, 2023",/martin-adeline/profil/spieler/814976
+424,Kamory Doumbia,19,"Feb 18, 2003",Mali,REIMS,,Attacking Midfield,1.0,24,10,4,1727,0,0,1.7,"Jul 1, 2022","Jun 30, 2025",/kamory-doumbia/profil/spieler/671594
+425,Samuel Koeberlé,17,"Nov 26, 2004",France,REIMS,,Attacking Midfield,0.15,21,1,1,1511,0,0,-,-,-,/samuel-koeberle/profil/spieler/926235
+426,Nathanaël Mbuku,20,"Mar 16, 2002",France,REIMS,,Left Winger,8.0,33,2,1,1520,0,0,1.7,"Jul 1, 2019","Jun 30, 2027",/nathanael-mbuku/profil/spieler/557614
+428,Arbër Zeneli,27,"Feb 25, 1995",Kosovo,REIMS,,Left Winger,4.5,10,2,3,437,0,0,1.76,"Jan 26, 2019","Jun 30, 2025",/arber-zeneli/profil/spieler/222876
+430,Mitchell van Bergen,22,"Aug 27, 1999",Netherlands,REIMS,,Left Winger,2.0,25,1,2,1381,0,0,1.7,"Aug 27, 2021","Jun 30, 2025",/mitchell-van-bergen/profil/spieler/393239
+432,Alexis Flips,22,"Jan 18, 2000",France,REIMS,,Right Winger,2.5,30,2,4,1440,0,0,1.73,"Jul 1, 2021","Jun 30, 2024",/alexis-flips/profil/spieler/395242
+434,Noa Cervantes,19,"Apr 16, 2003",Algeria,REIMS,,Right Winger,0.3,15,7,2,1246,0,0,1.78,-,"Jun 30, 2023",/noa-cervantes/profil/spieler/659517
+437,Kaj Sierhuis,24,"Apr 27, 1998",Netherlands,REIMS,,Centre-Forward,2.3,21,4,3,1559,0,0,1.8,"Jan 31, 2020","Jun 30, 2024",/kaj-sierhuis/profil/spieler/315283
+440,Jonas Omlin,28,"Jan 10, 1994",Switzerland,MONTPELLIER,,Goalkeeper,8.0,30,0,0,2679,41,10,1.9,"Aug 15, 2020","Jun 30, 2027",/jonas-omlin/profil/spieler/247915
+441,Dimitry Bertaud,24,"Jun 6, 1998 ",France,MONTPELLIER,,Goalkeeper,1.5,16,0,0,1281,27,5,1.8,"Jul 1, 2017","Jun 30, 2025",/dimitry-bertaud/profil/spieler/371816
+442,Matis Carvalho,23,"Apr 28, 1999",Portugal,MONTPELLIER,,Goalkeeper,0.2,15,0,0,1350,20,4,1.86,"Jul 1, 2019","Jun 30, 2023",/matis-carvalho/profil/spieler/478346
+443,Maxime Estève,20,"May 26, 2002",France,MONTPELLIER,,Centre-Back,4.5,24,0,0,1856,0,0,1.93,"Jul 1, 2021","Jun 30, 2025",/maxime-esteve/profil/spieler/842341
+444,Mamadou Sakho,32,"Feb 13, 1990",France,MONTPELLIER,,Centre-Back,4.5,32,0,1,2848,0,0,1.87,"Jul 27, 2021","Jun 30, 2024",/mamadou-sakho/profil/spieler/47713
+445,Pedro Mendes,31,"Oct 1, 1990 ",Portugal,MONTPELLIER,,Centre-Back,4.0,2,0,0,76,0,0,1.86,"Jul 18, 2017","Jun 30, 2023",/pedro-mendes/profil/spieler/72857
+447,Enzo Tchato,19,"Nov 23, 2002",Cameroon,MONTPELLIER,,Centre-Back,0.25,20,0,2,1800,0,0,1.82,"Jul 1, 2022","Jun 30, 2025",/enzo-tchato/profil/spieler/842338
+448,Redouane Halhal,19,"Mar 5, 2003 ",Morocco,MONTPELLIER,,Centre-Back,0.1,17,0,0,1378,0,0,1.87,-,-,/redouane-halhal/profil/spieler/913660
+449,Nicolas Cozza,23,"Jan 8, 1999 ",France,MONTPELLIER,,Left-Back,5.0,37,2,2,2968,0,0,1.78,"Jul 1, 2017","Jun 30, 2027",/nicolas-cozza/profil/spieler/485965
+452,Thibault Tamas,21,"Feb 20, 2001",France,MONTPELLIER,,Left-Back,0.2,4,0,0,288,0,0,1.78,"Sep 27, 2019","Jun 30, 2023",/thibault-tamas/profil/spieler/569374
+454,Arnaud Souquet,30,"Feb 12, 1992",France,MONTPELLIER,,Right-Back,2.5,37,1,3,2532,0,0,1.79,"Aug 6, 2019","Dec 31, 2025",/arnaud-souquet/profil/spieler/111058
+455,Thibaut Vargas,22,"May 22, 2000",France,MONTPELLIER,,Right-Back,0.6,28,4,3,2392,0,0,1.75,"Jul 1, 2019","Jun 30, 2023",/thibaut-vargas/profil/spieler/627463
+457,Marius Ros,20,"Nov 15, 2001",France,MONTPELLIER,,Right-Back,0.1,24,2,5,1979,0,0,1.75,-,"Jun 30, 2024",/marius-ros/profil/spieler/913674
+458,Joris Chotard,20,"Sep 24, 2001",France,MONTPELLIER,,Defensive Midfield,10.0,38,1,1,3124,0,0,1.79,"Sep 25, 2019","Jun 30, 2025",/joris-chotard/profil/spieler/624037
+460,Jordan Ferri,30,"Mar 12, 1992",France,MONTPELLIER,,Central Midfield,5.0,36,0,4,3100,0,0,1.73,"Jul 1, 2019","Jun 30, 2026",/jordan-ferri/profil/spieler/118284
+461,Léo Leroy,22,"Feb 14, 2000",France,MONTPELLIER,,Central Midfield,1.5,28,2,0,974,0,0,1.87,"Jul 1, 2021","Jun 30, 2025",/leo-leroy/profil/spieler/650350
+462,Sacha Delaye,20,"Apr 23, 2002",France,MONTPELLIER,,Central Midfield,0.8,18,1,2,803,0,0,1.71,"Jul 1, 2021","Jun 30, 2023",/sacha-delaye/profil/spieler/842425
+463,Téji Savanier,30,"Dec 22, 1991",France,MONTPELLIER,,Attacking Midfield,12.0,31,9,7,2583,0,0,1.72,"Jul 2, 2019","Jun 30, 2026",/teji-savanier/profil/spieler/127156
+466,Stephy Mavididi,24,"May 31, 1998",England,MONTPELLIER,,Left Winger,10.0,31,8,3,2337,0,0,1.82,"Jul 1, 2020","Jun 30, 2024",/stephy-mavididi/profil/spieler/340328
+467,Béni Makouana,19,"Sep 28, 2002",Congo,MONTPELLIER,,Left Winger,0.8,27,1,0,456,0,0,1.81,"Oct 19, 2020","Jun 30, 2025",/beni-makouana/profil/spieler/624920
+469,Andy Delort,30,"Oct 9, 1991 ",Algeria,MONTPELLIER,,Centre-Forward,13.0,40,20,5,3044,0,0,1.81,"Jul 1, 2019","Jun 30, 2023",/andy-delort/profil/spieler/122797
+470,Elye Wahi,19,"Jan 2, 2003 ",France,MONTPELLIER,,Centre-Forward,12.0,36,10,2,1901,0,0,1.84,"Jan 1, 2021","Jun 30, 2025",/elye-wahi/profil/spieler/659542
+471,Valère Germain,32,"Apr 17, 1990",France,MONTPELLIER,,Centre-Forward,2.5,36,4,3,2129,0,0,1.81,"Aug 31, 2021","Jun 30, 2024",/valere-germain/profil/spieler/60540
+473,Petar Skuletic,32,"Jun 29, 1990",Serbia,MONTPELLIER,,Centre-Forward,0.3,10,1,0,630,0,0,1.93,"Jul 1, 2018",-,/petar-skuletic/profil/spieler/58295
+475,Ryan Bakayoko,20,"Feb 13, 2002",France,MONTPELLIER,,Centre-Forward,0.1,25,9,2,1717,0,0,1.92,-,"Jun 30, 2025",/ryan-bakayoko/profil/spieler/855043
+483,Kévin Boma,19,"Nov 20, 2002",Togo,ANGERS,,Centre-Back,0.3,27,3,2,2267,0,0,1.93,-,"Jun 30, 2025",/kevin-boma/profil/spieler/709727
+484,Daylam Meddah,19,"Oct 6, 2002 ",France,ANGERS,,Centre-Back,0.1,13,1,0,1037,0,0,1.87,-,"Jun 30, 2025",/daylam-meddah/profil/spieler/768439
+485,Souleyman Doumbia,25,"Sep 24, 1996",Cote d'Ivoire,ANGERS,,Left-Back,3.0,28,0,1,2244,0,0,1.83,"Jul 8, 2020","Jun 30, 2023",/souleyman-doumbia/profil/spieler/296356
+486,Abdoulaye Bamba,32,"Apr 25, 1990",Cote d'Ivoire,ANGERS,,Right-Back,0.5,15,0,2,844,0,0,1.82,"Jan 1, 2017","Jun 30, 2023",/abdoulaye-bamba/profil/spieler/62351
+487,Ali Kalla,24,"Apr 23, 1998",France,ANGERS,,Right-Back,0.1,10,0,0,854,0,0,1.72,"Jul 1, 2022","Jun 30, 2023",/ali-kalla/profil/spieler/807687
+488,Batista Mendy,22,"Jan 12, 2000",France,ANGERS,,Defensive Midfield,3.0,35,1,1,2481,0,0,1.91,"Jul 19, 2021","Jun 30, 2024",/batista-mendy/profil/spieler/395234
+489,Zinédine Ould Khaled,22,"Jan 14, 2000",France,ANGERS,,Defensive Midfield,0.25,7,0,1,470,0,0,1.95,"Jul 29, 2019","Jun 30, 2025",/zinedine-ould-khaled/profil/spieler/650104
+490,Nabil Bentaleb,27,"Nov 24, 1994",Algeria,ANGERS,,Central Midfield,3.5,18,1,0,1523,0,0,1.87,"Jan 6, 2022","Jun 30, 2025",/nabil-bentaleb/profil/spieler/245537
+491,Azzedine Ounahi,22,"Apr 19, 2000",Morocco,ANGERS,,Central Midfield,3.0,33,2,2,1649,0,0,1.82,"Jul 14, 2021","Jun 30, 2027",/azzedine-ounahi/profil/spieler/593482
+494,Mattéo Corduan,20,"Jun 19, 2002",France,ANGERS,,Central Midfield,0.1,14,1,0,1076,0,0,1.85,-,-,/matteo-corduan/profil/spieler/829873
+495,Yassin Belkhdim,20,"Feb 14, 2002",Morocco,ANGERS,,Central Midfield,0.1,22,1,2,1833,0,0,1.75,"Jul 1, 2022","Jun 30, 2025",/yassin-belkhdim/profil/spieler/807688
+498,Pierrick Capelle,35,"Apr 15, 1987",France,ANGERS,,Left Midfield,0.5,31,0,2,1275,0,0,1.81,"Jul 1, 2015","Jun 30, 2023",/pierrick-capelle/profil/spieler/214532
+500,Waniss Taïbi,20,"Mar 7, 2002 ",France,ANGERS,,Attacking Midfield,0.6,18,0,4,1105,0,0,1.84,"Jul 1, 2021","Jun 30, 2025",/waniss-taibi/profil/spieler/680447
+501,Sofiane Boufal,28,"Sep 17, 1993",Morocco,ANGERS,,Left Winger,8.0,29,8,5,2344,0,0,1.75,"Oct 5, 2020","Jun 30, 2026",/sofiane-boufal/profil/spieler/232271
+503,Marin Jakolis,25,"Dec 26, 1996",Croatia,ANGERS,,Left Winger,1.2,32,11,5,2146,0,0,1.82,"Jan 29, 2022","Jun 30, 2023",/marin-jakolis/profil/spieler/261963
+505,Jason Mbock,22,"Nov 1, 1999 ",France,ANGERS,,Left Winger,0.2,14,2,1,964,0,0,1.79,-,"Jun 30, 2023",/jason-mbock/profil/spieler/460660
+507,Noah Fatar,20,"Feb 15, 2002",France,ANGERS,,Right Winger,0.3,13,3,2,760,0,0,1.7,-,"Jun 30, 2023",/noah-fatar/profil/spieler/707225
+512,Frank Magri,22,"Sep 4, 1999 ",France,ANGERS,,Centre-Forward,0.5,27,8,3,1884,0,0,1.78,-,"Jun 30, 2024",/frank-magri/profil/spieler/807689
+513,Guédé Nadje,18,"Nov 12, 2003",France,ANGERS,,Centre-Forward,0.2,17,3,0,1088,0,0,-,-,"Jun 30, 2024",/guede-nadje/profil/spieler/855160
+514,Gauthier Gallon,29,"Apr 23, 1993",France,TROYES,,Goalkeeper,2.5,31,0,0,2790,45,8,1.86,"Jul 1, 2019","Jun 30, 2024",/gauthier-gallon/profil/spieler/193256
+516,Jessy Moulin,36,"Jan 13, 1986",France,TROYES,,Goalkeeper,0.25,8,0,0,720,9,1,1.84,"Jul 19, 2021","Jun 30, 2023",/jessy-moulin/profil/spieler/33925
+520,Yoann Salmier,29,"Nov 21, 1992",French Guiana,TROYES,,Centre-Back,2.0,31,0,1,2671,0,0,1.88,"Jul 1, 2019","Jun 30, 2024",/yoann-salmier/profil/spieler/351843
+523,Tanguy Zoukrou,19,"May 7, 2003 ",France,TROYES,,Centre-Back,0.4,12,0,0,740,0,0,1.89,"Jul 1, 2022","Jun 30, 2024",/tanguy-zoukrou/profil/spieler/917120
+524,Adil Rami,36,"Dec 27, 1985",France,TROYES,,Centre-Back,0.4,19,3,0,1353,0,0,1.91,"Aug 24, 2021","Jun 30, 2023",/adil-rami/profil/spieler/51118
+525,Eric N'Jo,18,"Jun 1, 2004 ",France,TROYES,,Centre-Back,0.4,10,0,0,816,0,0,1.87,"Jul 1, 2022","Jun 30, 2025",/eric-njo/profil/spieler/991649
+527,Nathan Gassama,21,"Jan 5, 2001 ",France,TROYES,,Centre-Back,0.1,14,2,1,1260,0,0,1.91,-,-,/nathan-gassama/profil/spieler/815346
+528,Rudy Kohon,18,"May 23, 2004",France,TROYES,,Centre-Back,0.1,13,2,0,1117,0,0,-,-,-,/rudy-kohon/profil/spieler/917101
+529,Lassine Soumaoro,19,"Dec 19, 2002",Mali,TROYES,,Centre-Back,0.1,5,1,0,317,0,0,-,-,-,/lassine-soumaoro/profil/spieler/976271
+530,Abdu Conté,24,"Mar 24, 1998",Portugal,TROYES,,Left-Back,3.0,37,0,2,3053,0,0,1.83,"Jan 12, 2022","Jun 30, 2026",/abdu-conte/profil/spieler/337798
+531,Yasser Larouci,21,"Jan 1, 2001 ",France,TROYES,,Left-Back,2.5,15,0,1,505,0,0,1.76,"Jul 28, 2021","Jun 30, 2026",/yasser-larouci/profil/spieler/554251
+533,Mathis Hamdi,18,"Oct 18, 2003",France,TROYES,,Left-Back,0.1,13,0,0,960,0,0,1.8,-,-,/mathis-hamdi/profil/spieler/982864
+537,Benrandy Abdallah,22,"Jul 1, 1999 ",France,TROYES,,Right-Back,0.15,,0,0,0,0,0,1.84,-,"Jun 30, 2023",/benrandy-abdallah/profil/spieler/485959
+538,Anas Namri,20,"Nov 12, 2001",Morocco,TROYES,,Right-Back,0.1,16,1,3,1440,0,0,1.68,-,"Jun 30, 2023",/anas-namri/profil/spieler/972473
+539,Bachir Diop,19,"Aug 21, 2002",France,TROYES,,Defensive Midfield,0.1,14,2,0,1016,0,0,-,-,-,/bachir-diop/profil/spieler/972479
+540,Rominigue Kouamé,25,"Dec 17, 1996",Mali,TROYES,,Central Midfield,5.0,34,1,2,2976,0,0,1.77,"Jul 1, 2021","Jun 30, 2024",/rominigue-kouame/profil/spieler/277635
+541,Xavier Chavalerin,31,"Mar 7, 1991 ",France,TROYES,,Central Midfield,3.5,38,5,2,2975,0,0,1.79,"Aug 29, 2021","Jun 30, 2024",/xavier-chavalerin/profil/spieler/118278
+543,Florian Tardieu,30,"Apr 22, 1992",France,TROYES,,Central Midfield,3.0,30,4,2,2631,0,0,1.84,"Jul 24, 2019","Jun 30, 2024",/florian-tardieu/profil/spieler/212804
+544,Tristan Dingomé,31,"Feb 17, 1991",Cameroon,TROYES,,Central Midfield,1.5,25,2,5,1074,0,0,1.74,"Oct 5, 2020",-,/tristan-dingome/profil/spieler/126683
+545,Filip Krastev,20,"Oct 15, 2001",Bulgaria,TROYES,,Central Midfield,0.9,21,4,5,1556,0,0,1.78,"Jan 28, 2021","Jun 30, 2023",/filip-krastev/profil/spieler/486814
+546,Derek Mazou-Sacko,17,"Oct 6, 2004 ",France,TROYES,,Central Midfield,0.25,19,0,0,1452,0,0,-,-,-,/derek-mazou-sacko/profil/spieler/917104
+553,Renaud Ripart,29,"Mar 14, 1993",France,TROYES,,Right Winger,4.0,29,3,3,1992,0,0,1.81,"Jul 15, 2021","Jun 30, 2025",/renaud-ripart/profil/spieler/234802
+556,Alexis Lefebvre,19,"May 21, 2003",France,TROYES,,Right Winger,0.1,12,7,2,740,0,0,1.66,-,"Jun 30, 2023",/alexis-lefebvre/profil/spieler/857154
+558,Mama Baldé,26,"Nov 6, 1995 ",Guinea-Bissau,TROYES,,Centre-Forward,4.5,31,3,4,1768,0,0,1.76,"Jul 31, 2021","Jun 30, 2025",/mama-balde/profil/spieler/325223
+563,Mamadou Camara,21,"Feb 7, 2001 ",France,TROYES,,Centre-Forward,0.2,22,7,0,1591,0,0,1.84,-,"Jun 30, 2025",/mamadou-camara/profil/spieler/857148
+567,Teddy Bartouche,25,"Jun 5, 1997 ",France,LORIENT,,Goalkeeper,0.15,6,0,0,540,6,0,1.78,"Jul 1, 2020","Jun 30, 2023",/teddy-bartouche/profil/spieler/629587
+568,Julien Laporte,28,"Nov 4, 1993 ",France,LORIENT,,Centre-Back,3.0,33,2,0,2892,0,0,1.85,"Jul 8, 2019","Jun 30, 2025",/julien-laporte/profil/spieler/386057
+574,Bamo Meïté,21,"Jun 20, 2001",Cote d'Ivoire,LORIENT,,Centre-Back,0.1,21,0,0,1814,0,0,1.83,"Jul 1, 2022","Jun 30, 2026",/bamo-meite/profil/spieler/807165
+575,Vincent Le Goff,32,"Oct 15, 1989",France,LORIENT,,Left-Back,1.0,34,1,1,3060,0,0,1.77,"Jul 17, 2014","Jun 30, 2024",/vincent-le-goff/profil/spieler/120651
+576,Samuel Loric,21,"Jul 5, 2000 ",France,LORIENT,,Left-Back,0.6,11,0,0,942,0,0,1.83,"Jul 1, 2020","Jun 30, 2023",/samuel-loric/profil/spieler/648886
+578,Igor Silva,25,"Aug 21, 1996",Brazil,LORIENT,,Right-Back,2.0,28,0,0,1571,0,0,1.73,"Jul 23, 2021","Jun 30, 2026",/igor-silva/profil/spieler/391720
+579,Théo Le Bris,19,"Oct 1, 2002 ",France,LORIENT,,Right-Back,0.4,22,2,3,1522,0,0,1.7,"Jul 1, 2022","Jun 30, 2027",/theo-le-bris/profil/spieler/766412
+581,Ronny Labonne,24,"Sep 14, 1997",France,LORIENT,,Right-Back,0.15,26,1,9,2303,0,0,-,-,"Jun 30, 2024",/ronny-labonne/profil/spieler/562175
+582,Laurent Abergel,29,"Feb 1, 1993 ",France,LORIENT,,Defensive Midfield,3.0,35,0,2,2988,0,0,1.7,"Jul 26, 2019","Jun 30, 2025",/laurent-abergel/profil/spieler/238626
+583,Bonke Innocent,26,"Jan 20, 1996",Nigeria,LORIENT,,Defensive Midfield,2.0,26,0,1,1841,0,0,1.78,"Jan 18, 2022","Jun 30, 2025",/bonke-innocent/profil/spieler/333383
+586,Baptiste Mouazan,20,"Sep 27, 2001",France,LORIENT,,Central Midfield,0.2,23,2,0,1687,0,0,1.74,-,"Jun 30, 2025",/baptiste-mouazan/profil/spieler/804548
+587,Redwan Bourlès,19,"Jan 2, 2003 ",France,LORIENT,,Left Midfield,0.3,21,6,2,1450,0,0,1.86,-,-,/redwan-bourles/profil/spieler/804547
+588,Enzo Le Fée,22,"Feb 3, 2000 ",France,LORIENT,,Attacking Midfield,6.0,38,2,3,2349,0,0,1.7,"Jul 1, 2019","Jun 30, 2024",/enzo-le-fee/profil/spieler/633992
+589,Quentin Boisgard,25,"Mar 17, 1997",France,LORIENT,,Attacking Midfield,1.8,26,1,1,1015,0,0,1.74,"Jul 2, 2020","Jun 30, 2023",/quentin-boisgard/profil/spieler/412671
+591,Stéphane Diarra,23,"Dec 9, 1998 ",Cote d'Ivoire,LORIENT,,Right Winger,1.5,16,0,1,501,0,0,1.73,"Jul 1, 2020","Jun 30, 2025",/stephane-diarra/profil/spieler/428954
+592,Dango Ouattara,20,"Feb 11, 2002",Burkina Faso,LORIENT,,Right Winger,0.9,29,2,2,1138,0,0,1.77,"Jul 1, 2021","Jun 30, 2028",/dango-ouattara/profil/spieler/823231
+593,Terem Moffi,23,"May 25, 1999",Nigeria,LORIENT,,Centre-Forward,9.0,38,8,4,2758,0,0,1.88,"Oct 1, 2020","Jun 30, 2023",/terem-moffi/profil/spieler/538874
+594,Ibrahima Koné,23,"Jun 16, 1999",Mali,LORIENT,,Centre-Forward,4.5,16,5,1,726,0,0,1.9,"Jan 31, 2022","Jun 30, 2026",/ibrahima-kone/profil/spieler/490223
+599,Ouparine Djoco,24,"Apr 22, 1998",France,CLERMONT,,Goalkeeper,1.8,26,0,0,2295,38,6,1.88,"Jul 1, 2018","Jun 30, 2025",/ouparine-djoco/profil/spieler/594993
+601,Lucas Margueron,21,"Feb 12, 2001",France,CLERMONT,,Goalkeeper,0.15,17,0,0,1530,30,1,1.94,"Jul 2, 2020","Jun 30, 2023",/lucas-margueron/profil/spieler/618463
+603,Alidu Seidu,22,"Jun 4, 2000 ",Ghana,CLERMONT,,Centre-Back,2.0,25,0,1,1769,0,0,1.73,"Jul 1, 2020","Jun 30, 2027",/alidu-seidu/profil/spieler/798404
+605,Florent Ogier,33,"Mar 21, 1989",France,CLERMONT,,Centre-Back,0.7,30,1,0,2434,0,0,1.83,"Jul 13, 2018","Jun 30, 2024",/florent-ogier/profil/spieler/91473
+607,Baptiste Boît,20,"Nov 17, 2001",France,CLERMONT,,Centre-Back,0.1,21,2,0,1890,0,0,1.87,-,"Jun 30, 2023",/baptiste-boit/profil/spieler/912601
+609,Arial Mendy,27,"Nov 7, 1994 ",Senegal,CLERMONT,,Left-Back,0.7,22,0,0,1104,0,0,1.8,"Jul 13, 2021","Jun 30, 2025",/arial-mendy/profil/spieler/422715
+613,Karim Mohamed,21,"Apr 2, 2001 ",Comoros,CLERMONT,,Right-Back,0.1,15,1,1,1008,0,0,1.78,-,-,/karim-mohamed/profil/spieler/942083
+614,Oliver Kamdem,19,"Oct 15, 2002",France,CLERMONT,,Right-Back,0.1,14,0,1,963,0,0,-,"Jul 1, 2022","Jun 30, 2023",/oliver-kamdem/profil/spieler/969154
+616,Yohann Magnin,25,"Jun 21, 1997",France,CLERMONT,,Defensive Midfield,2.0,29,1,1,2048,0,0,1.83,"Jan 25, 2019","Jun 30, 2025",/yohann-magnin/profil/spieler/594997
+618,Johan Gastien,34,"Jan 25, 1988",France,CLERMONT,,Defensive Midfield,0.8,33,0,1,2842,0,0,1.79,"Jul 1, 2018","Jun 30, 2025",/johan-gastien/profil/spieler/72121
+623,Jim Allevinah,27,"Feb 27, 1995",Gabon,CLERMONT,,Right Midfield,2.0,30,1,3,1481,0,0,1.72,"Jul 1, 2019","Jun 30, 2024",/jim-allevinah/profil/spieler/646733
+624,Saîf-Eddine Khaoui,27,"Apr 27, 1995",Tunisia,CLERMONT,,Attacking Midfield,1.5,24,2,2,988,0,0,1.8,"Aug 14, 2021","Jun 30, 2023",/saif-eddine-khaoui/profil/spieler/270411
+627,Aïman Maurer,17,"Sep 25, 2004",Morocco,CLERMONT,,Attacking Midfield,0.1,14,4,1,972,0,0,1.73,"Feb 1, 2023","Jun 30, 2025",/aiman-maurer/profil/spieler/860056
+628,Elbasan Rashani,29,"May 9, 1993 ",Kosovo,CLERMONT,,Left Winger,2.5,31,8,3,1884,0,0,1.81,"Jul 16, 2021","Jun 30, 2025",/elbasan-rashani/profil/spieler/149579
+631,Jodel Dossou,30,"Mar 17, 1992",Benin,CLERMONT,,Right Winger,1.8,37,3,1,2133,0,0,1.71,"Aug 15, 2020","Jun 30, 2025",/jodel-dossou/profil/spieler/221151
+632,Aboubakar Sidibé,26,"May 3, 1996 ",France,CLERMONT,,Right Winger,0.15,13,1,0,819,0,0,1.8,-,-,/aboubakar-sidibe/profil/spieler/503518
+635,Grejohn Kyei,26,"Aug 12, 1995",France,CLERMONT,,Centre-Forward,1.2,34,7,3,1843,0,0,1.87,"Jan 31, 2022","Jun 30, 2024",/grejohn-kyei/profil/spieler/321647
+637,Mathis Clairicia,19,"Aug 30, 2002",France,CLERMONT,,Centre-Forward,0.1,22,8,2,1653,0,0,-,-,-,/mathis-clairicia/profil/spieler/969153
+638,Maxime Dupé,29,"Mar 4, 1993 ",France,TOULOUSE,,Goalkeeper,1.2,38,0,0,3420,33,16,1.88,"Jul 1, 2020","Jun 30, 2023",/maxime-dupe/profil/spieler/127188
+639,Isak Pettersson,25,"Jun 6, 1997 ",Sweden,TOULOUSE,,Goalkeeper,0.7,8,0,0,720,7,3,1.81,"Jan 5, 2021","Dec 31, 2023",/isak-pettersson/profil/spieler/296458
+640,Thomas Himeur,21,"Jan 17, 2001",France,TOULOUSE,,Goalkeeper,0.15,15,0,0,1350,14,5,1.87,"Jul 1, 2021","Jun 30, 2024",/thomas-himeur/profil/spieler/835136
+641,Guillaume Restes,17,"Mar 11, 2005",France,TOULOUSE,,Goalkeeper,,4,0,0,360,4,2,1.86,-,-,/guillaume-restes/profil/spieler/912902
+642,Anthony Rouault,21,"May 29, 2001",France,TOULOUSE,,Centre-Back,4.0,28,4,1,2446,0,0,1.86,"Jul 1, 2019","Jun 30, 2024",/anthony-rouault/profil/spieler/690799
+643,Rasmus Nicolaisen,25,"Mar 16, 1997",Denmark,TOULOUSE,,Centre-Back,1.8,42,4,2,3433,0,0,1.91,"Aug 17, 2021","Jun 30, 2025",/rasmus-nicolaisen/profil/spieler/283227
+644,Ruben Gabrielsen,30,"Mar 10, 1992",Norway,TOULOUSE,,Centre-Back,0.6,51,3,1,4059,0,0,1.86,"Jan 1, 2020","Dec 31, 2027",/ruben-gabrielsen/profil/spieler/107662
+645,Logan Costa,21,"Apr 1, 2001 ",Cape Verde,TOULOUSE,,Centre-Back,0.4,17,1,0,1345,0,0,1.9,"Aug 20, 2021","Jun 30, 2025",/logan-costa/profil/spieler/484988
+646,Kévin Keben,18,"Jan 26, 2004",Cameroon,TOULOUSE,,Centre-Back,,11,0,0,990,0,0,-,"Jul 1, 2022","Jun 30, 2025",/kevin-keben/profil/spieler/855014
+647,Issiaga Sylla,28,"Jan 1, 1994 ",Guinea,TOULOUSE,,Left-Back,1.8,26,0,2,1980,0,0,1.8,"Sep 4, 2012","Jun 30, 2025",/issiaga-sylla/profil/spieler/220878
+648,Moussa Diarra,21,"Nov 10, 2000",Mali,TOULOUSE,,Left-Back,0.6,31,0,1,1565,0,0,1.85,"Jul 1, 2019","Jun 30, 2024",/moussa-diarra/profil/spieler/694509
+651,Mikkel Desler,27,"Feb 19, 1995",Denmark,TOULOUSE,,Right-Back,1.8,40,1,6,3464,0,0,1.84,"Jul 20, 2021","Jun 30, 2023",/mikkel-desler/profil/spieler/221873
+652,Stijn Spierings,26,"Mar 12, 1996",Netherlands,TOULOUSE,,Defensive Midfield,2.0,37,1,7,2907,0,0,1.88,"Oct 5, 2020","Jun 30, 2023",/stijn-spierings/profil/spieler/241501
+653,Branco van den Boomen,26,"Jul 21, 1995",Netherlands,TOULOUSE,,Central Midfield,6.0,41,12,23,3511,0,0,1.88,"Aug 7, 2020","Jun 30, 2023",/branco-van-den-boomen/profil/spieler/203938
+654,Brecht Dejaegere,31,"May 29, 1991",Belgium,TOULOUSE,,Central Midfield,1.8,30,2,4,1854,0,0,1.73,"Jul 1, 2021","Jun 30, 2023",/brecht-dejaegere/profil/spieler/159098
+658,Denis Genreau,23,"May 21, 1999",Australia,TOULOUSE,,Attacking Midfield,1.2,37,2,3,2061,0,0,1.75,"Aug 2, 2021","Jun 30, 2025",/denis-genreau/profil/spieler/470618
+661,Farès Chaïbi,19,"Nov 28, 2002",France,TOULOUSE,,Attacking Midfield,0.05,17,1,3,1478,0,0,1.83,"Jul 1, 2022","Jun 30, 2025",/fares-chaibi/profil/spieler/855015
+662,Rafael Ratão,26,"Nov 30, 1995",Brazil,TOULOUSE,,Left Winger,1.8,39,16,4,2190,0,0,1.83,"Aug 31, 2021","Jun 30, 2024",/rafael-ratao/profil/spieler/289802
+663,Junior Flemmings,26,"Jan 16, 1996",Jamaica,TOULOUSE,,Left Winger,0.4,9,5,0,562,0,0,1.8,"Jan 5, 2022","Jun 30, 2023",/junior-flemmings/profil/spieler/354664
+664,Amine Adli,22,"May 10, 2000",France,TOULOUSE,,Right Winger,12.0,35,4,4,1928,0,0,1.74,"Jul 1, 2019","Jun 30, 2026",/amine-adli/profil/spieler/532776
+666,Janis Antiste,19,"Aug 18, 2002",France,TOULOUSE,,Centre-Forward,4.0,22,1,0,966,0,0,1.83,"Jul 1, 2020","Jun 30, 2023",/janis-antiste/profil/spieler/538974
+667,Rhys Healey,27,"Dec 6, 1994 ",England,TOULOUSE,,Centre-Forward,3.0,37,22,4,2820,0,0,1.8,"Aug 27, 2020","Jun 30, 2023",/rhys-healey/profil/spieler/238185
+668,Ado Onaiwu,26,"Nov 8, 1995 ",Japan,TOULOUSE,,Centre-Forward,1.5,43,12,4,2799,0,0,1.8,"Jul 20, 2021","Jun 30, 2024",/ado-onaiwu/profil/spieler/308133
+669,Yanis Begraoui,20,"Jul 4, 2001 ",France,TOULOUSE,,Centre-Forward,0.6,35,8,2,1184,0,0,1.79,"Aug 6, 2021","Jun 30, 2023",/yanis-begraoui/profil/spieler/569376
+670,Stéphane Zobo,21,"Aug 2, 2000 ",Cameroon,TOULOUSE,,Centre-Forward,0.15,23,7,1,1859,0,0,1.82,"Jul 1, 2019",-,/stephane-zobo/profil/spieler/690797
+671,Benjamin Leroy,33,"Apr 7, 1989 ",France,AJACCIO,,Goalkeeper,0.8,32,0,0,2745,16,20,1.84,"Jul 1, 2018","Jun 30, 2023",/benjamin-leroy/profil/spieler/124901
+672,François-Joseph Sollacaro,28,"Mar 21, 1994",France,AJACCIO,,Goalkeeper,0.3,12,0,0,1035,4,8,1.82,"Jul 1, 2018","Jun 30, 2024",/francois-joseph-sollacaro/profil/spieler/331977
+673,Ghjuvanni Quilichini,19,"Sep 1, 2002 ",France,AJACCIO,,Goalkeeper,0.1,5,0,0,450,7,1,1.82,"Jul 1, 2021","Jun 30, 2023",/ghjuvanni-quilichini/profil/spieler/855050
+674,Sacha Contena,16,"Oct 4, 2005 ",France,AJACCIO,,Goalkeeper,0.05,-,0,0,0,0,0,-,-,-,/sacha-contena/profil/spieler/987302
+675,Oumar Gonzalez,24,"Feb 25, 1998",Cameroon,AJACCIO,,Centre-Back,2.5,34,3,0,2821,0,0,1.86,"Jul 1, 2021","Jun 30, 2023",/oumar-gonzalez/profil/spieler/388795
+677,Cédric Avinel,35,"Sep 11, 1986",Guadeloupe,AJACCIO,,Centre-Back,0.3,28,0,0,2282,0,0,1.87,"Jul 1, 2017","Jun 30, 2023",/cedric-avinel/profil/spieler/44421
+678,Ismaël Diallo,25,"Jan 29, 1997",Cote d'Ivoire,AJACCIO,,Left-Back,1.5,25,0,2,2172,0,0,1.78,"Jul 1, 2018","Jun 30, 2023",/ismael-diallo/profil/spieler/375881
+679,Matthieu Huard,24,"May 9, 1998 ",France,AJACCIO,,Left-Back,0.45,13,0,1,640,0,0,1.78,"Jul 18, 2019","Jun 30, 2024",/matthieu-huard/profil/spieler/588997
+680,Chaker Alhadhur,30,"Dec 4, 1991 ",Comoros,AJACCIO,,Left-Back,0.3,3,0,0,183,0,0,1.72,"Oct 12, 2021","Jun 30, 2023",/chaker-alhadhur/profil/spieler/178540
+681,Théo Emmanuelli,22,"Jan 31, 2000",France,AJACCIO,,Left-Back,0.1,10,1,0,851,0,0,1.8,-,-,/theo-emmanuelli/profil/spieler/830255
+683,Mohamed Youssouf,34,"Mar 26, 1988",Comoros,AJACCIO,,Right-Back,0.3,28,0,0,2109,0,0,1.69,"Jul 1, 2018","Jun 30, 2023",/mohamed-youssouf/profil/spieler/57482
+684,Qazim Laçi,26,"Jan 19, 1996",Albania,AJACCIO,,Central Midfield,3.0,34,3,1,2457,0,0,1.73,"Jul 1, 2018",-,/qazim-laci/profil/spieler/290552
+685,Vincent Marchetti,24,"Jul 4, 1997 ",France,AJACCIO,,Central Midfield,1.2,25,1,1,1907,0,0,1.81,"Oct 5, 2020","Jun 30, 2024",/vincent-marchetti/profil/spieler/374040
+686,Mathieu Coutadeur,36,"Mar 20, 1986",France,AJACCIO,,Central Midfield,0.25,26,0,2,2055,0,0,1.69,"Jul 1, 2017","Jun 30, 2023",/mathieu-coutadeur/profil/spieler/39914
+687,Paolo Lebas,19,"Apr 20, 2003",Portugal,AJACCIO,,Central Midfield,0.1,9,0,0,643,0,0,-,-,-,/paolo-lebas/profil/spieler/657919
+688,Alassane N'Diaye,31,"Jun 14, 1991",France,AJACCIO,,Right Midfield,0.3,16,0,0,513,0,0,1.8,"Jul 1, 2020","Jun 30, 2023",/alassane-ndiaye/profil/spieler/281704
+689,Yanis Cimignani,20,"Jan 22, 2002",France,AJACCIO,,Left Midfield,2.0,35,2,4,2253,0,0,1.76,"Jul 1, 2020","Jun 30, 2023",/yanis-cimignani/profil/spieler/801754
+690,Michaël Barreto,31,"Jan 18, 1991",France,AJACCIO,,Attacking Midfield,0.7,23,1,1,1106,0,0,1.75,"Jul 1, 2020","Jun 30, 2023",/michael-barreto/profil/spieler/149518
+691,Florian Chabrolle,24,"Apr 7, 1998 ",France,AJACCIO,,Attacking Midfield,0.3,14,0,0,456,0,0,1.71,"Jan 5, 2021","Jun 30, 2023",/florian-chabrolle/profil/spieler/418662
+692,Everson Junior,18,"Nov 7, 2003 ",France,AJACCIO,,Attacking Midfield,0.05,5,0,0,290,0,0,-,-,-,/everson-junior/profil/spieler/919236
+693,Jean Botué,19,"Aug 7, 2002 ",Burkina Faso,AJACCIO,,Left Winger,0.45,14,2,0,697,0,0,1.84,"Feb 16, 2021","Jun 30, 2023",/jean-botue/profil/spieler/649457
+694,Anis Ajroud,20,"Mar 30, 2002",Tunisia,AJACCIO,,Left Winger,0.1,11,0,0,594,0,0,1.82,-,"Jun 30, 2023",/anis-ajroud/profil/spieler/855054
+695,Cyrille Bayala,26,"May 24, 1996",Burkina Faso,AJACCIO,,Right Winger,0.8,21,2,2,1385,0,0,1.81,"Jan 15, 2021","Jun 30, 2024",/cyrille-bayala/profil/spieler/267147
+697,Riad Nouri,37,"Jun 7, 1985 ",France,AJACCIO,,Right Winger,0.25,39,9,4,2397,0,0,1.78,"Sep 7, 2020","Jun 30, 2024",/riad-nouri/profil/spieler/119104
+699,Mounaïm El Idrissy,23,"Feb 10, 1999",France,AJACCIO,,Centre-Forward,0.8,28,3,2,1288,0,0,1.81,"Jul 1, 2019","Jun 30, 2023",/mounaim-el-idrissy/profil/spieler/627163
+701,Bevic Moussiti-Oko,27,"Jan 28, 1995",Congo,AJACCIO,,Centre-Forward,0.6,13,2,1,479,0,0,1.84,"Jul 10, 2020","Jun 30, 2024",/bevic-moussiti-oko/profil/spieler/364525
+702,Donovan Léon,29,"Nov 3, 1992 ",French Guiana,AUXERRE,,Goalkeeper,1.2,41,0,0,3750,41,15,1.87,"Jul 1, 2020","Jun 30, 2025",/donovan-leon/profil/spieler/170911
+704,Théo De Percin,21,"Feb 2, 2001 ",France,AUXERRE,,Goalkeeper,0.2,11,0,0,990,17,3,1.85,"Mar 17, 2021","Jun 30, 2024",/theo-de-percin/profil/spieler/695422
+705,Clément Douguet,20,"Feb 5, 2002 ",France,AUXERRE,,Goalkeeper,0.05,9,0,0,810,9,5,1.86,-,-,/clement-douguet/profil/spieler/855144
+706,Jubal,28,"Aug 29, 1993",Brazil,AUXERRE,,Centre-Back,2.0,41,2,0,3721,0,0,1.9,"Sep 3, 2020","Jun 30, 2025",/jubal/profil/spieler/149928
+707,Théo Pellenard,28,"Mar 4, 1994 ",France,AUXERRE,,Centre-Back,1.2,37,1,0,3323,0,0,1.82,"Jul 1, 2021","Jun 30, 2024",/theo-pellenard/profil/spieler/238716
+708,Alexandre Coeff,30,"Feb 20, 1992",France,AUXERRE,,Centre-Back,0.7,31,1,1,2285,0,0,1.85,"Jul 1, 2019","Jun 30, 2023",/alexandre-coeff/profil/spieler/89450
+710,Oumar Camara,21,"Apr 12, 2001",France,AUXERRE,,Centre-Back,0.05,27,0,1,2289,0,0,1.88,-,"Jun 30, 2024",/oumar-camara/profil/spieler/805067
+711,Quentin Bernard,32,"Jul 7, 1989 ",France,AUXERRE,,Left-Back,0.5,38,0,5,3209,0,0,1.84,"Jul 1, 2019",-,/quentin-bernard/profil/spieler/98262
+714,Paul Joly,22,"Jun 7, 2000 ",France,AUXERRE,,Right-Back,0.4,20,2,6,1608,0,0,1.82,"Jul 1, 2021","Jun 30, 2023",/paul-joly/profil/spieler/806168
+715,Kryss Chapelle,22,"Mar 28, 2000",France,AUXERRE,,Right-Back,0.15,29,0,0,2546,0,0,1.73,-,"Jun 30, 2023",/kryss-chapelle/profil/spieler/802894
+716,Birama Touré,30,"Jun 6, 1992 ",Mali,AUXERRE,,Defensive Midfield,1.5,42,1,1,3663,0,0,1.83,"Jul 17, 2017","Jun 30, 2023",/birama-toure/profil/spieler/229853
+719,Ousoumane Camara,23,"Dec 19, 1998",France,AUXERRE,,Defensive Midfield,0.2,,0,0,0,0,0,1.84,"Jul 1, 2019","Jun 30, 2024",/ousoumane-camara/profil/spieler/478107
+721,Gaëtan Perrin,26,"Jun 7, 1996 ",France,AUXERRE,,Right Midfield,1.3,40,6,2,2198,0,0,1.69,"Jul 1, 2021","Jun 30, 2024",/gaetan-perrin/profil/spieler/353404
+724,Hamza Sakhi,26,"Jun 7, 1996 ",Morocco,AUXERRE,,Attacking Midfield,2.0,36,6,4,2865,0,0,1.76,"Apr 16, 2018","Jun 30, 2025",/hamza-sakhi/profil/spieler/263951
+725,Mathias Autret,31,"Mar 1, 1991 ",France,AUXERRE,,Attacking Midfield,1.2,39,6,6,3011,0,0,1.79,"Jul 1, 2020","Jun 30, 2023",/mathias-autret/profil/spieler/138171
+726,Kévin Danois,18,"Jun 28, 2004",France,AUXERRE,,Attacking Midfield,0.05,21,1,0,1617,0,0,-,"Jul 1, 2022","Jun 30, 2024",/kevin-danois/profil/spieler/743496
+727,Rémy Dugimont,35,"Jul 1, 1986 ",France,AUXERRE,,Left Winger,0.3,28,4,2,996,0,0,1.82,"Aug 13, 2018","Jun 30, 2023",/remy-dugimont/profil/spieler/174304
+728,Gauthier Hein,25,"Aug 7, 1996 ",France,AUXERRE,,Right Winger,3.0,40,12,7,3166,0,0,1.7,"Jul 1, 2020","Jun 30, 2025",/gauthier-hein/profil/spieler/344892
+729,Lassine Sinayoko,22,"Dec 8, 1999 ",Mali,AUXERRE,,Right Winger,1.3,37,5,4,1936,0,0,1.86,"Jul 1, 2019","Jun 30, 2025",/lassine-sinayoko/profil/spieler/569140
+730,Gaëtan Charbonnier,33,"Dec 27, 1988",France,AUXERRE,,Centre-Forward,1.3,36,17,7,2995,0,0,1.88,"Aug 2, 2021","Jun 30, 2023",/gaetan-charbonnier/profil/spieler/93678
+733,Ousmane Camara,20,"Nov 3, 2001 ",Guinea,AUXERRE,,Centre-Forward,,25,10,2,1901,0,0,-,"Jul 1, 2022","Jun 30, 2025",/ousmane-camara/profil/spieler/827950
