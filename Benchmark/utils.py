@@ -3,6 +3,7 @@ import pandas as pd
 from scipy.stats import genextreme
 
 from sklearn.linear_model import LinearRegression
+from sklearn.ensemble import RandomForestClassifier
 from tqdm.auto import tqdm
 from statsmodels.discrete.discrete_model import MNLogit
 from catboost import CatBoostClassifier
@@ -69,7 +70,7 @@ def calc_metrics(ests, true, model_name):
            list(100 * np.mean(np.abs(np.array(ests) - true) / true, axis=0))
 
 
-def run_simulations(n, rho, r, betas, gammas, n_simulations=1000):
+def run_simulations(n, rho, r, betas, gammas, model='CatBoost', n_simulations=1000):
     
     ols_results = []
     dmf_results = []
@@ -111,9 +112,12 @@ def run_simulations(n, rho, r, betas, gammas, n_simulations=1000):
         
         ## Бустинг с полиномами
         # Вероятности
-        boosting = CatBoostClassifier(iterations=10, max_depth=3, verbose=0)
-        boosting.fit(W, z)
-        prob_boost = boosting.predict_proba(W)
+        if model == 'CatBoost':
+            ml_model = CatBoostClassifier(iterations=10, max_depth=3, verbose=0)
+        else:
+            ml_model = RandomForestClassifier(random_state=0)
+        ml_model.fit(W, z)
+        prob_boost = ml_model.predict_proba(W)
         
         # Полиномы вероятностей
         # Подбираем лучший по CV с 4 фолдами (по MSE)
