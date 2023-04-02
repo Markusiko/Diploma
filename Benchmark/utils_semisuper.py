@@ -7,6 +7,8 @@ from tqdm.auto import tqdm
 from statsmodels.discrete.discrete_model import MNLogit
 from catboost import CatBoostClassifier
 from sklearn.model_selection import KFold
+from sklearn.svm import SVR
+from sklearn.model_selection import GridSearchCV
 
 
 # Параметры, использующиеся в статье:
@@ -75,6 +77,7 @@ def run_simulations(n, rho, r, betas, gammas, n_simulations=1000):
     ols_results = []
     dmf_results = []
     ml_results = []
+    semisuper_results = []
     
     for i in tqdm(range(n_simulations)):
         
@@ -153,10 +156,15 @@ def run_simulations(n, rho, r, betas, gammas, n_simulations=1000):
         
         dmf_ml = LinearRegression().fit(df_no_nans[needed_columns], y_no_nans)
         ml_results.append([dmf_ml.intercept_] + list(dmf_ml.coef_[:2]))
+        
+        
+        ## Подход с semi-super
+        semisuper_results.append(estimate_semisupervised(df))
     
     ols_res_metrics = calc_metrics(ols_results, betas, 'OLS')
     dmf_res_metrics = calc_metrics(dmf_results, betas, 'DMF')
     ml_res_metrics = calc_metrics(ml_results, betas, 'Catboost')
+    semisuper_metrics = calc_metrics(semisuper_results, betas, 'SemiSuper')
     
     cols = ['method', 'beta0_mean', 'beta1_mean', 'beta2_mean', 
             'beta0_sd', 'beta1_sd', 'beta2_sd', 'beta0_MAPE', 'beta1_MAPE', 'beta2_MAPE']
@@ -167,9 +175,42 @@ def run_simulations(n, rho, r, betas, gammas, n_simulations=1000):
     
     results = pd.DataFrame([ols_res_metrics, 
                             dmf_res_metrics,
-                            ml_res_metrics], columns=cols)
+                            ml_res_metrics,
+                            semisuper_metrics], columns=cols)
     
     return results[cols_order_show]
+
+
+def estimate_semisupervised(df):
+    # признаки для восстановления пропущенных значений
+    recoveries = ['w1', 'w2', 'x1', 'x2', 'z']
+    
+    X_train = df.loc[~df.y.isna(), recoveries]
+    y_train = df.loc[~df.y.isna(), 'y']
+    
+    X_test = df.loc[df.y.isna(), recoveries]
+    y_test = df.loc[df.y.isna(), 'y_star']
+    
+    # подход
+    param_grid = {'C': list(0.1 ** np.arange(5)) + list(np.arange(2, 11)), 
+             'kernel': ['linear', 'poly', 'rbf', 'sigmoid']}
+    
+    svm = SVR(max_iter=1000000)
+    
+    searcher = GridSearchCV(svm, param_grid, scoring='neg_root_mean_squared_error', n_jobs=5, cv=5, refit=True)
+    searcher.fit(X_train, y_train)
+    
+    y_pred = searcher.best_estimator_.predict(X_test)
+    df['y_pred'] = df['y']
+    df.loc[df.y.isna(), 'y_pred'] = y_pred
+    X = df[['x1', 'x2']]
+    y = df['y_pred']
+    
+    # Финальный МНК
+    ols = LinearRegression().fit(X, y)
+    return [ols.intercept_] + list(ols.coef_)
+
+
         
 
 

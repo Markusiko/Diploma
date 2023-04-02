@@ -1,0 +1,431 @@
+,Name,Age,date,nationality,club,fee_y,position,market,match,goal,assist,minute,miss,clean,height,join,contract,href
+0,Mike Maignan,26,"Jul 3, 1995 ",France,MILAN,,Goalkeeper,35.0,39,0,0,3540,32,19,1.91,"Jul 1, 2021","Jun 30, 2026",/mike-maignan/profil/spieler/182906
+2,Ciprian Tatarusanu,36,"Feb 9, 1986 ",Romania,MILAN,,Goalkeeper,0.6,9,0,0,810,12,2,1.98,"Sep 11, 2020","Jun 30, 2023",/ciprian-tatarusanu/profil/spieler/55282
+3,Antonio Mirante,38,"Jul 8, 1983 ",Italy,MILAN,,Goalkeeper,0.3,-,0,0,0,0,0,1.93,"Oct 13, 2021","Jun 30, 2023",/antonio-mirante/profil/spieler/22141
+4,Sebastiano Desplanches,19,"Mar 11, 2003",Italy,MILAN,,Goalkeeper,0.2,28,0,0,2471,54,6,1.88,-,"Jun 30, 2023",/sebastiano-desplanches/profil/spieler/567465
+5,Andreas Jungdal,20,"Feb 22, 2002",Denmark,MILAN,,Goalkeeper,0.15,4,0,0,360,4,1,1.95,"Jul 1, 2022","Jun 30, 2023",/andreas-jungdal/profil/spieler/592924
+6,Lapo Nava,18,"Jan 22, 2004",Italy,MILAN,,Goalkeeper,,22,0,0,1980,26,8,-,-,-,/lapo-nava/profil/spieler/815563
+7,Fikayo Tomori,24,"Dec 19, 1997",England,MILAN,,Centre-Back,50.0,40,1,0,3356,0,0,1.85,"Jul 1, 2021","Jun 30, 2027",/fikayo-tomori/profil/spieler/303254
+8,Pierre Kalulu,22,"Jun 5, 2000 ",France,MILAN,,Centre-Back,28.0,37,1,4,2516,0,0,1.82,"Sep 1, 2020","Jun 30, 2027",/pierre-kalulu/profil/spieler/585949
+10,Simon Kjaer,33,"Mar 26, 1989",Denmark,MILAN,,Centre-Back,6.0,14,0,0,1073,0,0,1.91,"Sep 1, 2020","Jun 30, 2024",/simon-kjaer/profil/spieler/48859
+11,Matteo Gabbia,22,"Oct 21, 1999",Italy,MILAN,,Centre-Back,6.0,10,0,0,674,0,0,1.85,"Jul 1, 2017","Jun 30, 2026",/matteo-gabbia/profil/spieler/323167
+12,Luca Stanga,20,"Jan 23, 2002",Italy,MILAN,,Centre-Back,0.15,32,0,2,2630,0,0,1.85,-,"Jun 30, 2024",/luca-stanga/profil/spieler/621123
+13,Theo Hernández,24,"Oct 6, 1997 ",France,MILAN,,Left-Back,55.0,41,5,10,3553,0,0,1.84,"Jul 6, 2019","Jun 30, 2026",/theo-hernandez/profil/spieler/339808
+14,Fodé Ballo-Touré,25,"Jan 3, 1997 ",Senegal,MILAN,,Left-Back,3.5,12,0,0,534,0,0,1.82,"Jul 18, 2021","Jun 30, 2025",/fode-ballo-toure/profil/spieler/296422
+15,Davide Calabria,25,"Dec 6, 1996 ",Italy,MILAN,,Right-Back,25.0,33,2,3,2595,0,0,1.76,"Jul 1, 2015","Jun 30, 2025",/davide-calabria/profil/spieler/262523
+18,Sandro Tonali,22,"May 8, 2000 ",Italy,MILAN,,Defensive Midfield,50.0,45,5,3,3151,0,0,1.81,"Jul 8, 2021","Jun 30, 2027",/sandro-tonali/profil/spieler/397033
+19,Ismaël Bennacer,24,"Dec 1, 1997 ",Algeria,MILAN,,Defensive Midfield,33.0,40,2,1,2100,0,0,1.75,"Aug 4, 2019","Jun 30, 2027",/ismael-bennacer/profil/spieler/351816
+20,Tiemoué Bakayoko,27,"Aug 17, 1994",France,MILAN,,Defensive Midfield,10.0,18,0,0,607,0,0,1.89,"Aug 30, 2021","Jun 30, 2023",/tiemoue-bakayoko/profil/spieler/182618
+23,Rade Krunic,28,"Oct 7, 1993 ",Bosnia-Herzegovina,MILAN,,Central Midfield,9.0,35,0,1,1810,0,0,1.84,"Jul 8, 2019","Jun 30, 2025",/rade-krunic/profil/spieler/259953
+24,Enrico Di Gesù,20,"Mar 26, 2002",Italy,MILAN,,Central Midfield,0.15,31,2,1,2476,0,0,1.84,-,"Jun 30, 2024",/enrico-di-gesu/profil/spieler/582302
+25,Brahim Díaz,22,"Aug 3, 1999 ",Spain,MILAN,,Attacking Midfield,18.0,40,4,4,2438,0,0,1.71,"Jul 19, 2021","Jun 30, 2023",/brahim-diaz/profil/spieler/314678
+27,Rafael Leão,23,"Jun 10, 1999",Portugal,MILAN,,Left Winger,70.0,42,14,12,3201,0,0,1.88,"Aug 1, 2019","Jun 30, 2024",/rafael-leao/profil/spieler/357164
+28,Ante Rebic,28,"Sep 21, 1993",Croatia,MILAN,,Left Winger,17.0,29,3,2,1106,0,0,1.85,"Sep 12, 2020","Jun 30, 2025",/ante-rebic/profil/spieler/187587
+29,Alexis Saelemaekers,23,"Jun 27, 1999",Belgium,MILAN,,Right Winger,17.0,46,2,3,2490,0,0,1.8,"Sep 1, 2020","Jun 30, 2026",/alexis-saelemaekers/profil/spieler/381950
+33,Olivier Giroud,35,"Sep 30, 1986",France,MILAN,,Centre-Forward,3.5,38,14,4,2520,0,0,1.92,"Jul 17, 2021","Jun 30, 2023",/olivier-giroud/profil/spieler/82442
+34,Marko Lazetic,18,"Jan 22, 2004",Serbia,MILAN,,Centre-Forward,3.0,27,7,1,1110,0,0,1.92,"Jan 26, 2022","Jun 30, 2023",/marko-lazetic/profil/spieler/698548
+35,Zlatan Ibrahimović,40,"Oct 3, 1981 ",Sweden,MILAN,,Centre-Forward,3.0,27,8,3,1167,0,0,1.95,"Jan 2, 2020","Jun 30, 2023",/zlatan-ibrahimovi%C4%87/profil/spieler/3455
+38,Samir Handanovic,37,"Jul 14, 1984",Slovenia,INTER,,Goalkeeper,2.0,50,0,0,4560,40,21,1.93,"Jul 9, 2012","Jun 30, 2023",/samir-handanovic/profil/spieler/28021
+39,Alex Cordaz,39,"Jan 1, 1983 ",Italy,INTER,,Goalkeeper,0.4,-,0,0,0,0,0,1.88,"Jul 1, 2021","Jun 30, 2023",/alex-cordaz/profil/spieler/16633
+40,William Rovida,19,"Mar 14, 2003",Italy,INTER,,Goalkeeper,0.2,32,0,0,2970,26,14,1.95,-,-,/william-rovida/profil/spieler/704337
+41,Milan Skriniar,27,"Feb 11, 1995",Slovakia,INTER,,Centre-Back,65.0,48,4,0,4380,0,0,1.88,"Jul 7, 2017","Jun 30, 2023",/milan-skriniar/profil/spieler/204069
+42,Alessandro Bastoni,23,"Apr 13, 1999",Italy,INTER,,Centre-Back,60.0,44,1,3,3326,0,0,1.9,"Aug 30, 2017","Jun 30, 2024",/alessandro-bastoni/profil/spieler/315853
+43,Stefan de Vrij,30,"Feb 5, 1992 ",Netherlands,INTER,,Centre-Back,28.0,41,1,1,3364,0,0,1.89,"Jul 1, 2018","Jun 30, 2023",/stefan-de-vrij/profil/spieler/111196
+44,Danilo D'Ambrosio,33,"Sep 9, 1988 ",Italy,INTER,,Centre-Back,3.0,27,1,1,1421,0,0,1.8,"Jan 30, 2014","Jun 30, 2023",/danilo-dambrosio/profil/spieler/55769
+46,Fabio Cortinovis,20,"Apr 20, 2002",Italy,INTER,,Centre-Back,0.05,10,0,0,734,0,0,-,-,"Jun 30, 2025",/fabio-cortinovis/profil/spieler/614498
+47,Federico Dimarco,24,"Nov 10, 1997",Italy,INTER,,Left-Back,18.0,42,2,5,1892,0,0,1.75,"Jul 5, 2018","Jun 30, 2026",/federico-dimarco/profil/spieler/198116
+50,Matteo Darmian,32,"Dec 2, 1989 ",Italy,INTER,,Right-Back,5.0,36,2,3,2046,0,0,1.83,"Jul 1, 2021","Jun 30, 2024",/matteo-darmian/profil/spieler/54906
+51,Mattia Zanotti,19,"Jan 11, 2003",Italy,INTER,,Right-Back,0.35,24,0,3,1912,0,0,1.77,"Jul 1, 2022","Jun 30, 2025",/mattia-zanotti/profil/spieler/582353
+52,Marcelo Brozovic,29,"Nov 16, 1992",Croatia,INTER,,Defensive Midfield,40.0,48,3,4,4094,0,0,1.81,"Jul 1, 2016","Jun 30, 2026",/marcelo-brozovic/profil/spieler/156617
+54,Mattia Sangalli,20,"Feb 27, 2002",Italy,INTER,,Defensive Midfield,0.25,36,1,3,2681,0,0,1.88,-,-,/mattia-sangalli/profil/spieler/614500
+55,Nicolò Barella,25,"Feb 7, 1997 ",Italy,INTER,,Central Midfield,70.0,48,4,13,3934,0,0,1.75,"Sep 1, 2020","Jun 30, 2026",/nicolo-barella/profil/spieler/255942
+56,Hakan Calhanoglu,28,"Feb 8, 1994 ",Turkey,INTER,,Central Midfield,35.0,46,8,13,3357,0,0,1.78,"Jul 1, 2021","Jun 30, 2024",/hakan-calhanoglu/profil/spieler/126414
+57,Roberto Gagliardini,28,"Apr 7, 1994 ",Italy,INTER,,Central Midfield,8.0,24,2,2,785,0,0,1.88,"Aug 1, 2017","Jun 30, 2023",/roberto-gagliardini/profil/spieler/197471
+61,Cesare Casadei,19,"Jan 10, 2003",Italy,INTER,,Central Midfield,1.0,40,17,5,3040,0,0,1.85,-,"May 31, 2023",/cesare-casadei/profil/spieler/622380
+62,Denzel Dumfries,26,"Apr 18, 1996",Netherlands,INTER,,Right Midfield,25.0,45,5,7,2849,0,0,1.88,"Aug 14, 2021","Jun 30, 2025",/denzel-dumfries/profil/spieler/321528
+66,Lautaro Martínez,24,"Aug 22, 1997",Argentina,INTER,,Centre-Forward,75.0,49,25,4,3293,0,0,1.74,"Jul 4, 2018","Jun 30, 2026",/lautaro-martinez/profil/spieler/406625
+69,Edin Dzeko,36,"Mar 17, 1986",Bosnia-Herzegovina,INTER,,Centre-Forward,4.0,49,17,10,3371,0,0,1.93,"Aug 14, 2021","Jun 30, 2023",/edin-dzeko/profil/spieler/28396
+72,Dennis Curatolo,18,"Apr 3, 2004 ",Italy,INTER,,Centre-Forward,,38,19,2,2111,0,0,-,-,-,/dennis-curatolo/profil/spieler/819036
+73,Alex Meret,25,"Mar 22, 1997",Italy,NAPOLI,,Goalkeeper,10.0,15,0,0,1324,23,4,1.9,"Jul 1, 2019","Jun 30, 2024",/alex-meret/profil/spieler/240414
+75,Hubert Idasiak,20,"Feb 3, 2002 ",Poland,NAPOLI,,Goalkeeper,0.15,32,0,0,2880,48,5,1.88,"Jul 1, 2022","Jun 30, 2024",/hubert-idasiak/profil/spieler/555557
+76,Davide Marfella,22,"Sep 15, 1999",Italy,NAPOLI,,Goalkeeper,0.05,1,0,0,10,0,1,1.82,"Aug 19, 2021","Jun 30, 2023",/davide-marfella/profil/spieler/417414
+77,Valerio Boffelli,17,"Sep 4, 2004 ",Italy,NAPOLI,,Goalkeeper,,5,0,0,450,6,1,1.82,-,-,/valerio-boffelli/profil/spieler/809986
+79,Amir Rrahmani,28,"Feb 24, 1994",Kosovo,NAPOLI,,Centre-Back,25.0,41,4,0,3518,0,0,1.92,"Jan 20, 2020","Jun 30, 2024",/amir-rrahmani/profil/spieler/257732
+82,Juan Jesus,31,"Jun 10, 1991",Brazil,NAPOLI,,Centre-Back,4.0,28,1,0,1754,0,0,1.85,"Aug 18, 2021","Jun 30, 2023",/juan-jesus/profil/spieler/121985
+83,Davide Costanzo,19,"Jul 4, 2002 ",Italy,NAPOLI,,Centre-Back,0.125,34,1,0,2883,0,0,1.82,-,"Jun 30, 2023",/davide-costanzo/profil/spieler/618505
+84,Benedetto Barba,19,"Jan 27, 2003",Italy,NAPOLI,,Centre-Back,0.075,35,0,1,2969,0,0,-,-,-,/benedetto-barba/profil/spieler/582354
+85,Jonathan Spedalieri,20,"Jan 26, 2002",Italy,NAPOLI,,Centre-Back,0.05,11,0,0,585,0,0,1.92,-,"Jun 30, 2023",/jonathan-spedalieri/profil/spieler/616142
+86,Mário Rui,31,"May 27, 1991",Portugal,NAPOLI,,Left-Back,8.0,39,0,6,3307,0,0,1.68,"Jan 3, 2018","Jun 30, 2025",/mario-rui/profil/spieler/87884
+88,Giovanni Di Lorenzo,28,"Aug 4, 1993 ",Italy,NAPOLI,,Right-Back,25.0,42,1,7,3713,0,0,1.83,"Jul 1, 2019","Jun 30, 2026",/giovanni-di-lorenzo/profil/spieler/169880
+89,Alessandro Zanoli,21,"Oct 3, 2000 ",Italy,NAPOLI,,Right-Back,4.0,14,0,0,531,0,0,1.88,"Sep 1, 2020","Jun 30, 2023",/alessandro-zanoli/profil/spieler/397225
+91,Moussa Mané,18,"Nov 19, 2003",Italy,NAPOLI,,Right-Back,0.025,16,0,1,1107,0,0,1.82,-,"Jun 30, 2023",/moussa-mane/profil/spieler/877620
+92,Stanislav Lobotka,27,"Nov 25, 1994",Slovakia,NAPOLI,,Defensive Midfield,20.0,26,1,0,1882,0,0,1.7,"Jan 15, 2020","Jun 30, 2025",/stanislav-lobotka/profil/spieler/192735
+93,Diego Demme,30,"Nov 21, 1991",Germany,NAPOLI,,Defensive Midfield,8.0,25,1,0,1038,0,0,1.7,"Jan 11, 2020","Jun 30, 2024",/diego-demme/profil/spieler/82070
+96,Piotr Zielinski,28,"May 20, 1994",Poland,NAPOLI,,Central Midfield,40.0,42,8,5,2613,0,0,1.8,"Aug 4, 2016","Jun 30, 2024",/piotr-zielinski/profil/spieler/181136
+98,Eljif Elmas,22,"Sep 24, 1999",North Macedonia,NAPOLI,,Central Midfield,24.0,46,7,6,2338,0,0,1.82,"Jul 24, 2019","Jun 30, 2025",/eljif-elmas/profil/spieler/400489
+100,Antonio Vergara,19,"Jan 16, 2003",Italy,NAPOLI,,Attacking Midfield,0.15,29,2,13,2066,0,0,1.82,-,-,/antonio-vergara/profil/spieler/703245
+102,Antonio Cioffi,19,"Dec 19, 2002",Italy,NAPOLI,,Left Winger,0.5,31,5,0,2065,0,0,1.8,-,-,/antonio-cioffi/profil/spieler/566936
+103,Hirving Lozano,26,"Jul 30, 1995",Mexico,NAPOLI,,Right Winger,30.0,37,6,6,1997,0,0,1.75,"Aug 23, 2019","Jun 30, 2024",/hirving-lozano/profil/spieler/316889
+104,Matteo Politano,28,"Aug 3, 1993 ",Italy,NAPOLI,,Right Winger,20.0,39,5,7,1906,0,0,1.71,"Jul 1, 2021","Jun 30, 2025",/matteo-politano/profil/spieler/165895
+107,Victor Osimhen,23,"Dec 29, 1998",Nigeria,NAPOLI,,Centre-Forward,65.0,32,18,6,2314,0,0,1.86,"Sep 1, 2020","Jun 30, 2025",/victor-osimhen/profil/spieler/401923
+110,Wojciech Szczesny,32,"Apr 18, 1990",Poland,JUVENTUS,,Goalkeeper,15.0,40,0,0,3600,39,15,1.96,"Jul 19, 2017","Jun 30, 2024",/wojciech-szczesny/profil/spieler/44058
+111,Mattia Perin,29,"Nov 10, 1992",Italy,JUVENTUS,,Goalkeeper,4.0,12,0,0,1095,15,4,1.88,"Jul 1, 2018","Jun 30, 2025",/mattia-perin/profil/spieler/110923
+112,Franco Israel,22,"Apr 22, 2000",Uruguay,JUVENTUS,,Goalkeeper,1.0,39,0,0,3540,39,12,1.9,-,"Jun 30, 2027",/franco-israel/profil/spieler/492319
+113,Carlo Pinsoglio,32,"Mar 16, 1990",Italy,JUVENTUS,,Goalkeeper,0.4,1,0,0,44,1,0,1.94,"Jul 1, 2014","Jun 30, 2023",/carlo-pinsoglio/profil/spieler/75411
+114,Zsombor Senkó,19,"Jan 4, 2003 ",Hungary,JUVENTUS,,Goalkeeper,0.2,38,0,0,3420,50,9,1.96,-,-,/zsombor-senko/profil/spieler/663519
+115,Marco Raina,20,"May 25, 2002",Italy,JUVENTUS,,Goalkeeper,0.05,-,0,0,0,0,0,1.91,-,"Jun 30, 2023",/marco-raina/profil/spieler/494301
+117,Leonardo Bonucci,35,"May 1, 1987 ",Italy,JUVENTUS,,Centre-Back,6.0,34,5,0,2816,0,0,1.9,"Aug 2, 2018","Jun 30, 2024",/leonardo-bonucci/profil/spieler/39983
+118,Daniele Rugani,27,"Jul 29, 1994",Italy,JUVENTUS,,Centre-Back,3.5,18,1,0,1263,0,0,1.9,"Feb 1, 2015","Jun 30, 2024",/daniele-rugani/profil/spieler/162959
+119,Koni De Winter,20,"Jun 12, 2002",Belgium,JUVENTUS,,Centre-Back,2.2,34,2,0,2505,0,0,1.91,-,"Jun 30, 2023",/koni-de-winter/profil/spieler/490384
+121,Diego Stramaccioni,21,"Jan 2, 2001 ",Italy,JUVENTUS,,Centre-Back,0.35,21,0,0,1460,0,0,1.9,-,"Jun 30, 2023",/diego-stramaccioni/profil/spieler/536341
+123,Alex Sandro,31,"Jan 26, 1991",Brazil,JUVENTUS,,Left-Back,6.0,40,2,2,2805,0,0,1.81,"Aug 20, 2015","Jun 30, 2023",/alex-sandro/profil/spieler/79960
+124,Danilo,30,"Jul 15, 1991",Brazil,JUVENTUS,,Right-Back,13.0,31,2,3,2627,0,0,1.84,"Aug 7, 2019","Jun 30, 2025",/danilo/profil/spieler/145707
+125,Mattia De Sciglio,29,"Oct 20, 1992",Italy,JUVENTUS,,Right-Back,6.0,29,1,3,1891,0,0,1.83,"Jul 20, 2017","Jun 30, 2025",/mattia-de-sciglio/profil/spieler/88682
+126,Manuel Locatelli,24,"Jan 8, 1998 ",Italy,JUVENTUS,,Defensive Midfield,35.0,43,3,5,3051,0,0,1.85,"Aug 18, 2021","Jun 30, 2023",/manuel-locatelli/profil/spieler/265088
+129,Weston McKennie,23,"Aug 28, 1998",United States,JUVENTUS,,Central Midfield,25.0,29,4,0,1965,0,0,1.85,"Jul 1, 2021","Jun 30, 2023",/weston-mckennie/profil/spieler/332697
+131,Adrien Rabiot,27,"Apr 3, 1995 ",France,JUVENTUS,,Central Midfield,17.0,45,0,2,3358,0,0,1.88,"Jul 1, 2019","Jun 30, 2023",/adrien-rabiot/profil/spieler/182913
+133,Fabio Miretti,18,"Aug 3, 2003 ",Italy,JUVENTUS,,Central Midfield,5.0,41,6,4,3069,0,0,1.8,"Jul 1, 2022","Jun 30, 2026",/fabio-miretti/profil/spieler/571607
+136,Hans Nicolussi Caviglia,22,"Jun 18, 2000",Italy,JUVENTUS,,Central Midfield,0.9,7,1,1,305,0,0,1.84,-,"Jun 30, 2023",/hans-nicolussi-caviglia/profil/spieler/430280
+137,Emanuele Zuelli,20,"Nov 22, 2001",Italy,JUVENTUS,,Central Midfield,0.7,40,1,5,2653,0,0,1.79,-,-,/emanuele-zuelli/profil/spieler/477556
+139,Juan Cuadrado,34,"May 26, 1988",Colombia,JUVENTUS,,Right Midfield,8.0,45,5,7,3304,0,0,1.76,"Jul 1, 2017","Jun 30, 2023",/juan-cuadrado/profil/spieler/91970
+141,Marley Aké,21,"Jan 5, 2001 ",France,JUVENTUS,,Left Winger,2.5,32,5,6,2014,0,0,1.77,"Feb 1, 2022","Jun 30, 2023",/marley-ake/profil/spieler/682032
+142,Samuel Iling Junior,18,"Oct 4, 2003 ",England,JUVENTUS,,Left Winger,0.7,40,11,10,3016,0,0,1.82,"Dec 19, 2022","Jun 30, 2025",/samuel-iling-junior/profil/spieler/581672
+145,Matías Soulé,19,"Apr 15, 2003",Argentina,JUVENTUS,,Right Winger,2.5,42,7,7,2907,0,0,1.82,"Jul 1, 2022","Jun 30, 2026",/matias-soule/profil/spieler/668951
+148,Cristiano Ronaldo,37,"Feb 5, 1985 ",Portugal,JUVENTUS,,Centre-Forward,30.0,39,24,3,3221,0,0,1.87,"Jul 10, 2018","Jun 30, 2025",/cristiano-ronaldo/profil/spieler/8198
+150,Moise Kean,22,"Feb 28, 2000",Italy,JUVENTUS,,Centre-Forward,24.0,44,6,3,1434,0,0,1.83,"Aug 31, 2021","Jun 30, 2023",/moise-kean/profil/spieler/364135
+151,Kaio Jorge,20,"Jan 24, 2002",Brazil,JUVENTUS,,Centre-Forward,7.0,13,1,0,239,0,0,1.82,"Aug 17, 2021","Jun 30, 2026",/kaio-jorge/profil/spieler/620477
+152,Cosimo Marco Da Graca,20,"May 1, 2002 ",Italy,JUVENTUS,,Centre-Forward,1.0,25,4,0,1553,0,0,1.85,-,"Jun 30, 2024",/cosimo-marco-da-graca/profil/spieler/564795
+155,Marius Adamonis,25,"May 13, 1997",Lithuania,LAZIO,,Goalkeeper,0.15,-,0,0,0,0,0,1.91,"Jul 1, 2017","Jun 30, 2025",/marius-adamonis/profil/spieler/300137
+156,Alessio Furlanetto,20,"Feb 7, 2002 ",Italy,LAZIO,,Goalkeeper,0.05,10,0,0,900,17,0,1.91,-,-,/alessio-furlanetto/profil/spieler/538079
+158,Patric,29,"Apr 17, 1993",Spain,LAZIO,,Centre-Back,5.5,30,2,2,2216,0,0,1.84,"Jul 1, 2015","Jun 30, 2027",/patric/profil/spieler/126729
+161,Dimitrije Kamenovic,21,"Jul 16, 2000",Serbia,LAZIO,,Left-Back,1.5,1,0,0,44,0,0,1.88,"Jul 1, 2021","Jun 30, 2023",/dimitrije-kamenovic/profil/spieler/465565
+162,Stefan Radu,35,"Oct 22, 1986",Romania,LAZIO,,Left-Back,0.6,12,0,0,681,0,0,1.83,"Jul 1, 2008","Jun 30, 2023",/stefan-radu/profil/spieler/44420
+163,Manuel Lazzari,28,"Nov 29, 1993",Italy,LAZIO,,Right-Back,15.0,39,3,3,2121,0,0,1.74,"Jul 12, 2019","Jun 30, 2027",/manuel-lazzari/profil/spieler/331401
+164,Adam Marusic,29,"Oct 17, 1992",Montenegro,LAZIO,,Right-Back,7.5,41,1,0,3332,0,0,1.85,"Jul 1, 2017","Jun 30, 2025",/adam-marusic/profil/spieler/239802
+165,Elseid Hysaj,28,"Feb 2, 1994 ",Albania,LAZIO,,Right-Back,5.0,38,1,0,2609,0,0,1.82,"Jul 1, 2021","Jun 30, 2025",/elseid-hysaj/profil/spieler/200056
+166,Romano Floriani,19,"Jan 27, 2003",Italy,LAZIO,,Right-Back,0.075,18,0,3,1557,0,0,1.88,-,"Jun 30, 2024",/romano-floriani/profil/spieler/708086
+167,Danilo Cataldi,27,"Aug 6, 1994 ",Italy,LAZIO,,Defensive Midfield,5.0,42,2,3,2124,0,0,1.8,"Jul 1, 2013","Jun 30, 2024",/danilo-cataldi/profil/spieler/199733
+170,Marco Bertini,19,"Aug 7, 2002 ",Italy,LAZIO,,Defensive Midfield,0.1,28,9,5,2470,0,0,1.85,"Jul 1, 2022","Jun 30, 2024",/marco-bertini/profil/spieler/613539
+171,Sergej Milinković-Savić,27,"Feb 27, 1995",Serbia,LAZIO,,Central Midfield,70.0,47,11,12,3777,0,0,1.91,"Aug 6, 2015","Jun 30, 2024",/sergej-milinkovi%C4%87-savi%C4%87/profil/spieler/266302
+172,Luis Alberto,29,"Sep 28, 1992",Spain,LAZIO,,Central Midfield,28.0,44,5,12,3003,0,0,1.83,"Aug 31, 2016","Jun 30, 2025",/luis-alberto/profil/spieler/128220
+173,Toma Basic,25,"Nov 25, 1996",Croatia,LAZIO,,Central Midfield,8.0,40,1,3,1626,0,0,1.9,"Aug 25, 2021","Jun 30, 2026",/toma-basic/profil/spieler/334835
+181,Felipe Anderson,29,"Apr 15, 1993",Brazil,LAZIO,,Right Winger,13.0,48,7,8,3594,0,0,1.75,"Jul 16, 2021","Jun 30, 2024",/felipe-anderson/profil/spieler/159372
+182,Pedro,34,"Jul 28, 1987",Spain,LAZIO,,Right Winger,3.0,41,10,5,2564,0,0,1.67,"Aug 19, 2021","Jun 30, 2023",/pedro/profil/spieler/65278
+183,Luka Romero,17,"Nov 18, 2004",Argentina,LAZIO,,Right Winger,1.0,13,0,0,401,0,0,1.65,"Jul 20, 2021","Jun 30, 2023",/luka-romero/profil/spieler/769063
+184,Ciro Immobile,32,"Feb 20, 1990",Italy,LAZIO,,Centre-Forward,27.0,40,32,4,3356,0,0,1.85,"Jul 27, 2016","Jun 30, 2026",/ciro-immobile/profil/spieler/105521
+187,Rui Patrício,34,"Feb 15, 1988",Portugal,ROMA,,Goalkeeper,6.0,54,0,0,4860,60,22,1.9,"Jul 13, 2021","Jun 30, 2024",/rui-patricio/profil/spieler/45026
+189,Pietro Boer,20,"May 12, 2002",Italy,ROMA,,Goalkeeper,0.15,2,0,0,180,3,0,1.93,"Jul 1, 2021","Jun 30, 2024",/pietro-boer/profil/spieler/581604
+190,Davide Mastrantonio,18,"Jan 16, 2004",Italy,ROMA,,Goalkeeper,,35,0,0,3180,38,13,1.89,-,-,/davide-mastrantonio/profil/spieler/703227
+191,Roger Ibañez,23,"Nov 23, 1998",Brazil,ROMA,,Centre-Back,23.0,51,4,0,4256,0,0,1.86,"Jul 1, 2021","Jun 30, 2025",/roger-ibanez/profil/spieler/524481
+192,Gianluca Mancini,26,"Apr 17, 1996",Italy,ROMA,,Centre-Back,21.0,46,1,1,4032,0,0,1.9,"Sep 1, 2020","Jun 30, 2027",/gianluca-mancini/profil/spieler/256448
+193,Marash Kumbulla,22,"Feb 8, 2000 ",Albania,ROMA,,Centre-Back,16.0,28,1,0,1801,0,0,1.91,"Jul 1, 2021","Jun 30, 2025",/marash-kumbulla/profil/spieler/371371
+194,Chris Smalling,32,"Nov 22, 1989",England,ROMA,,Centre-Back,8.0,38,4,0,2902,0,0,1.94,"Oct 5, 2020","Jun 30, 2023",/chris-smalling/profil/spieler/103427
+195,Maissa Ndiaye,20,"Jan 28, 2002",Senegal,ROMA,,Centre-Back,0.4,32,2,0,2805,0,0,1.9,-,"Jun 30, 2023",/maissa-ndiaye/profil/spieler/716411
+196,Dimitrios Keramitsis,17,"Jul 1, 2004 ",Greece,ROMA,,Centre-Back,,29,1,0,2264,0,0,1.93,-,"Jun 30, 2024",/dimitrios-keramitsis/profil/spieler/861192
+197,Leonardo Spinazzola,29,"Mar 25, 1993",Italy,ROMA,,Left-Back,20.0,4,0,0,152,0,0,1.86,"Jul 1, 2019","Jun 30, 2024",/leonardo-spinazzola/profil/spieler/118689
+198,Matías Viña,24,"Nov 9, 1997 ",Uruguay,ROMA,,Left-Back,7.5,37,0,2,2104,0,0,1.75,"Aug 8, 2021","Jun 30, 2023",/matias-vina/profil/spieler/439072
+201,Jan Oliveras,17,"Jul 7, 2004 ",Spain,ROMA,,Left-Back,,20,1,5,926,0,0,-,-,"Jun 30, 2026",/jan-oliveras/profil/spieler/709970
+202,Rick Karsdorp,27,"Feb 11, 1995",Netherlands,ROMA,,Right-Back,13.0,51,0,7,4083,0,0,1.84,"Jul 1, 2017","Jun 30, 2025",/rick-karsdorp/profil/spieler/205006
+204,Filippo Missori,18,"Mar 24, 2004",Italy,ROMA,,Right-Back,,37,3,1,2563,0,0,1.82,-,"Jun 30, 2026",/filippo-missori/profil/spieler/650993
+205,Bryan Cristante,27,"Mar 3, 1995 ",Italy,ROMA,,Defensive Midfield,20.0,50,3,2,3828,0,0,1.86,"Jul 1, 2019","Jun 30, 2024",/bryan-cristante/profil/spieler/199248
+208,Ebrima Darboe,21,"Jun 6, 2001 ",The Gambia,ROMA,,Defensive Midfield,2.0,5,0,1,231,0,0,1.79,"Jul 1, 2021","Jun 30, 2026",/ebrima-darboe/profil/spieler/647484
+209,Filippo Tripi,20,"Jan 6, 2002 ",Italy,ROMA,,Defensive Midfield,0.3,31,1,4,2688,0,0,1.8,"Oct 1, 2021","Jun 30, 2025",/filippo-tripi/profil/spieler/628645
+212,Edoardo Bove,20,"May 16, 2002",Italy,ROMA,,Central Midfield,1.1,13,1,0,114,0,0,1.79,"Jul 1, 2021","Jun 30, 2025",/edoardo-bove/profil/spieler/562049
+214,Nicola Zalewski,20,"Jan 23, 2002",Poland,ROMA,,Left Midfield,12.0,24,0,2,1206,0,0,1.75,"Jul 1, 2021","Jun 30, 2025",/nicola-zalewski/profil/spieler/550108
+215,Lorenzo Pellegrini,26,"Jun 19, 1996",Italy,ROMA,,Attacking Midfield,45.0,41,14,8,3223,0,0,1.86,"Jul 1, 2017","Jun 30, 2026",/lorenzo-pellegrini/profil/spieler/286297
+216,Nicolò Zaniolo,22,"Jul 2, 1999 ",Italy,ROMA,,Attacking Midfield,33.0,42,8,9,2876,0,0,1.9,"Jul 1, 2018","Jun 30, 2027",/nicolo-zaniolo/profil/spieler/392085
+218,Cristian Volpato,18,"Nov 15, 2003",Italy,ROMA,,Attacking Midfield,0.9,35,12,5,2176,0,0,1.87,"Oct 1, 2022","Jun 30, 2026",/cristian-volpato/profil/spieler/746891
+219,Stephan El Shaarawy,29,"Oct 27, 1992",Italy,ROMA,,Left Winger,6.0,36,7,1,1523,0,0,1.78,"Jan 30, 2021","Jun 30, 2023",/stephan-el-shaarawy/profil/spieler/94529
+221,Tammy Abraham,24,"Oct 2, 1997 ",England,ROMA,,Centre-Forward,50.0,53,27,5,4257,0,0,1.94,"Aug 17, 2021","Jun 30, 2026",/tammy-abraham/profil/spieler/331726
+223,Eldor Shomurodov,27,"Jun 29, 1995",Uzbekistan,ROMA,,Centre-Forward,8.0,40,5,6,1188,0,0,1.9,"Aug 2, 2021","Jun 30, 2023",/eldor-shomurodov/profil/spieler/358166
+225,Joel Voelkerling Persson,19,"Jan 15, 2003",Sweden,ROMA,,Centre-Forward,0.6,32,14,7,2281,0,0,1.94,-,"Jun 30, 2027",/joel-voelkerling-persson/profil/spieler/647534
+227,Pietro Terracciano,32,"Mar 8, 1990 ",Italy,FIORENTINA,,Goalkeeper,1.5,36,0,0,3205,47,10,1.93,"Jul 7, 2019","Jun 30, 2025",/pietro-terracciano/profil/spieler/96254
+230,Nikola Milenković,24,"Oct 12, 1997",Serbia,FIORENTINA,,Centre-Back,20.0,39,3,0,3328,0,0,1.95,"Jul 1, 2017","Jun 30, 2027",/nikola-milenkovi%C4%87/profil/spieler/413507
+231,Igor,24,"Feb 7, 1998 ",Brazil,FIORENTINA,,Centre-Back,14.0,35,0,1,2626,0,0,1.85,"Jul 1, 2021","Jun 30, 2024",/igor/profil/spieler/380350
+232,Lucas Martínez Quarta,26,"May 10, 1996",Argentina,FIORENTINA,,Centre-Back,12.0,22,1,0,1598,0,0,1.83,"Oct 5, 2020","Jun 30, 2025",/lucas-martinez-quarta/profil/spieler/373373
+233,Germán Pezzella,31,"Jun 27, 1991",Argentina,FIORENTINA,,Centre-Back,5.0,35,1,1,3155,0,0,1.87,"Jul 1, 2018","Jun 30, 2025",/german-pezzella/profil/spieler/113133
+235,Filippo Frison,19,"Jul 30, 2002",Italy,FIORENTINA,,Centre-Back,0.15,33,1,0,2797,0,0,-,-,-,/filippo-frison/profil/spieler/610383
+236,Cristiano Biraghi,29,"Sep 1, 1992 ",Italy,FIORENTINA,,Left-Back,10.0,42,5,2,3645,0,0,1.85,"Jul 1, 2018","Jun 30, 2024",/cristiano-biraghi/profil/spieler/124555
+238,Aleksa Terzić,22,"Aug 17, 1999",Serbia,FIORENTINA,,Left-Back,1.5,15,0,1,351,0,0,1.84,"Jul 1, 2019","Jun 30, 2024",/aleksa-terzi%C4%87/profil/spieler/404260
+240,Lorenzo Venuti,27,"Apr 12, 1995",Italy,FIORENTINA,,Right-Back,3.0,28,2,1,1989,0,0,1.79,"Jul 1, 2014","Jun 30, 2024",/lorenzo-venuti/profil/spieler/240219
+242,Sofyan Amrabat,25,"Aug 21, 1996",Morocco,FIORENTINA,,Defensive Midfield,10.0,25,1,0,1051,0,0,1.85,"Jan 30, 2020","Jun 30, 2024",/sofyan-amrabat/profil/spieler/287579
+244,Gaetano Castrovilli,25,"Feb 17, 1997",Italy,FIORENTINA,,Central Midfield,12.0,27,1,2,1648,0,0,1.87,"Jul 1, 2017","Jun 30, 2024",/gaetano-castrovilli/profil/spieler/303116
+245,Alfred Duncan,29,"Mar 10, 1993",Ghana,FIORENTINA,,Central Midfield,8.5,37,2,2,2085,0,0,1.78,"Sep 1, 2020","Jun 30, 2024",/alfred-duncan/profil/spieler/184894
+246,Youssef Maleh,23,"Aug 22, 1998",Morocco,FIORENTINA,,Central Midfield,5.0,33,3,4,1334,0,0,1.79,"Jan 20, 2021","Jun 30, 2023",/youssef-maleh/profil/spieler/324377
+247,Giacomo Bonaventura,32,"Aug 22, 1989",Italy,FIORENTINA,,Central Midfield,3.0,35,4,9,2509,0,0,1.8,"Sep 10, 2020","Jun 30, 2024",/giacomo-bonaventura/profil/spieler/57280
+249,Alessandro Bianco,19,"Oct 1, 2002 ",Italy,FIORENTINA,,Central Midfield,0.35,35,3,7,2975,0,0,1.73,"Jul 1, 2022","Jun 30, 2026",/alessandro-bianco/profil/spieler/602124
+250,Riccardo Saponara,30,"Dec 21, 1991",Italy,FIORENTINA,,Attacking Midfield,2.5,34,3,4,1547,0,0,1.84,"Jul 1, 2018","Jun 30, 2023",/riccardo-saponara/profil/spieler/88909
+251,Vittorio Agostinelli,20,"Feb 21, 2002",Italy,FIORENTINA,,Attacking Midfield,0.1,30,4,2,2218,0,0,1.83,-,"Jun 30, 2023",/vittorio-agostinelli/profil/spieler/561150
+252,Nicolás González,24,"Apr 6, 1998 ",Argentina,FIORENTINA,,Left Winger,25.0,39,8,9,2698,0,0,1.8,"Jul 1, 2021","Jun 30, 2026",/nicolas-gonzalez/profil/spieler/486031
+253,Riccardo Sottil,23,"Jun 3, 1999 ",Italy,FIORENTINA,,Left Winger,9.0,29,4,2,1433,0,0,1.8,"Jul 1, 2018","Jun 30, 2026",/riccardo-sottil/profil/spieler/386455
+254,Jonathan Ikoné,24,"May 2, 1998 ",France,FIORENTINA,,Right Winger,18.0,46,3,4,2272,0,0,1.75,"Jan 3, 2022","Jun 30, 2026",/jonathan-ikone/profil/spieler/324690
+256,Destiny Egharevba,19,"Feb 4, 2003 ",Italy,FIORENTINA,,Right Winger,0.1,26,5,0,1231,0,0,-,-,"Jun 30, 2023",/destiny-egharevba/profil/spieler/704176
+258,Filippo Distefano,18,"Aug 28, 2003",Italy,FIORENTINA,,Second Striker,0.3,35,4,4,2565,0,0,-,-,"Jun 30, 2024",/filippo-distefano/profil/spieler/669915
+260,Arthur Cabral,24,"Apr 25, 1998",Brazil,FIORENTINA,,Centre-Forward,14.0,47,29,10,3404,0,0,1.86,"Jan 29, 2022","Jun 30, 2026",/arthur-cabral/profil/spieler/390638
+262,Louis Munteanu,20,"Jun 16, 2002",Romania,FIORENTINA,,Centre-Forward,0.35,11,2,0,649,0,0,1.84,-,-,/louis-munteanu/profil/spieler/547786
+263,Eljon Toci,19,"Jan 9, 2003 ",Albania,FIORENTINA,,Centre-Forward,0.25,38,15,8,2776,0,0,1.83,-,"Jun 30, 2026",/eljon-toci/profil/spieler/724418
+264,Juan Musso,28,"May 6, 1994 ",Argentina,ATALANTA,,Goalkeeper,18.0,47,0,0,4193,64,12,1.91,"Jul 2, 2021","Jun 30, 2025",/juan-musso/profil/spieler/242359
+265,Marco Sportiello,30,"May 10, 1992",Italy,ATALANTA,,Goalkeeper,1.5,5,0,0,450,5,2,1.92,"Jun 22, 2012","Jun 30, 2023",/marco-sportiello/profil/spieler/199976
+266,Jacopo Sassi,18,"Jul 24, 2003",Italy,ATALANTA,,Goalkeeper,0.2,31,0,0,2820,41,9,1.94,-,-,/jacopo-sassi/profil/spieler/617808
+267,Matevz Dajcar,20,"Feb 5, 2002 ",Slovenia,ATALANTA,,Goalkeeper,0.15,14,0,0,1260,27,1,1.9,-,"Jun 30, 2023",/matevz-dajcar/profil/spieler/704079
+268,Francesco Rossi,31,"Apr 27, 1991",Italy,ATALANTA,,Goalkeeper,0.1,1,0,0,36,1,0,1.93,"Aug 1, 2009","Jun 30, 2024",/francesco-rossi/profil/spieler/126634
+269,Tommaso Bertini,18,"Jan 13, 2004",Italy,ATALANTA,,Goalkeeper,,29,0,0,2570,59,3,-,-,-,/tommaso-bertini/profil/spieler/667060
+271,Berat Djimsiti,29,"Feb 19, 1993",Albania,ATALANTA,,Centre-Back,17.0,41,3,1,2932,0,0,1.9,"Jan 18, 2016","Jun 30, 2026",/berat-djimsiti/profil/spieler/165513
+272,Giorgio Scalvini,18,"Dec 11, 2003",Italy,ATALANTA,,Centre-Back,10.0,30,4,0,1703,0,0,1.94,"Jul 9, 2021","Jun 30, 2027",/giorgio-scalvini/profil/spieler/571604
+273,Rafael Tolói,31,"Oct 10, 1990",Italy,ATALANTA,,Centre-Back,8.0,28,1,1,2079,0,0,1.85,"Aug 26, 2015","Jun 30, 2024",/rafael-toloi/profil/spieler/72441
+274,José Luis Palomino,32,"Jan 5, 1990 ",Argentina,ATALANTA,,Centre-Back,7.5,45,2,1,3539,0,0,1.88,"Jul 1, 2017","Jun 30, 2024",/jose-luis-palomino/profil/spieler/125020
+278,Joakim Maehle,25,"May 20, 1997",Denmark,ATALANTA,,Left-Back,14.0,35,3,2,2101,0,0,1.85,"Jan 4, 2021","Jun 30, 2025",/joakim-maehle/profil/spieler/369674
+280,Hans Hateboer,28,"Jan 9, 1994 ",Netherlands,ATALANTA,,Right-Back,13.0,30,0,0,2110,0,0,1.85,"Jan 31, 2017","Jun 30, 2024",/hans-hateboer/profil/spieler/275303
+281,Davide Zappacosta,30,"Jun 11, 1992",Italy,ATALANTA,,Right-Back,9.0,45,2,8,3183,0,0,1.82,"Aug 24, 2021","Jun 30, 2025",/davide-zappacosta/profil/spieler/173859
+283,Teun Koopmeiners,24,"Feb 28, 1998",Netherlands,ATALANTA,,Defensive Midfield,25.0,47,4,4,3215,0,0,1.83,"Aug 30, 2021","Jun 30, 2025",/teun-koopmeiners/profil/spieler/360518
+284,Marten de Roon,31,"Mar 29, 1991",Netherlands,ATALANTA,,Defensive Midfield,17.0,44,3,1,3667,0,0,1.85,"Aug 10, 2017","Jun 30, 2024",/marten-de-roon/profil/spieler/133179
+285,Simone Panada,20,"Jun 2, 2002 ",Italy,ATALANTA,,Defensive Midfield,0.3,37,1,7,2599,0,0,1.75,-,-,/simone-panada/profil/spieler/487836
+290,Federico Zuccon,19,"Apr 1, 2003 ",Italy,ATALANTA,,Central Midfield,0.2,38,1,2,2410,0,0,-,-,-,/federico-zuccon/profil/spieler/567472
+291,Andrea Oliveri,19,"Jan 14, 2003",Italy,ATALANTA,,Right Midfield,0.4,42,5,7,3144,0,0,1.81,-,-,/andrea-oliveri/profil/spieler/663939
+292,Guillaume Renault,20,"Mar 17, 2002",Italy,ATALANTA,,Right Midfield,0.35,36,7,9,2811,0,0,1.79,-,"Jun 30, 2023",/guillaume-renault/profil/spieler/487846
+294,Ruslan Malinovskyi,29,"May 4, 1993 ",Ukraine,ATALANTA,,Attacking Midfield,28.0,41,10,7,2313,0,0,1.81,"Jul 16, 2019","Jun 30, 2023",/ruslan-malinovskyi/profil/spieler/207877
+295,Mario Pasalic,27,"Feb 9, 1995 ",Croatia,ATALANTA,,Attacking Midfield,28.0,48,14,9,2526,0,0,1.88,"Sep 1, 2020","Jun 30, 2025",/mario-pasalic/profil/spieler/205938
+302,Tommaso De Nipoti,18,"Jul 23, 2003",Italy,ATALANTA,,Second Striker,0.15,26,4,6,1813,0,0,1.8,-,-,/tommaso-de-nipoti/profil/spieler/622031
+303,Duván Zapata,31,"Apr 1, 1991 ",Colombia,ATALANTA,,Centre-Forward,28.0,32,13,7,2313,0,0,1.89,"Jan 17, 2020","Jun 30, 2024",/duvan-zapata/profil/spieler/73794
+304,Luis Muriel,31,"Apr 16, 1991",Colombia,ATALANTA,,Centre-Forward,20.0,39,14,10,2057,0,0,1.79,"Jul 1, 2019","Jun 30, 2024",/luis-muriel/profil/spieler/119228
+310,Mattia Chiesa,21,"Jul 16, 2000",Italy,VERONA,,Goalkeeper,0.1,8,0,0,750,6,3,1.9,"Jul 1, 2019","Jun 30, 2023",/mattia-chiesa/profil/spieler/535881
+311,Kaur Kivila,18,"Nov 22, 2003",Estonia,VERONA,,Goalkeeper,0.075,30,0,0,2700,49,5,1.87,-,"Jun 30, 2023",/kaur-kivila/profil/spieler/488270
+312,Alessandro Berardi,31,"Jan 16, 1991",Italy,VERONA,,Goalkeeper,0.05,1,0,0,90,3,0,1.85,"Dec 14, 2018","Jun 30, 2025",/alessandro-berardi/profil/spieler/127217
+314,Elia Boseggia,18,"Feb 6, 2004 ",Italy,VERONA,,Goalkeeper,,14,0,0,1260,27,2,-,-,-,/elia-boseggia/profil/spieler/678006
+315,Giacomo Toniolo,18,"Apr 1, 2004 ",Italy,VERONA,,Goalkeeper,,12,0,0,1080,31,0,-,-,-,/giacomo-toniolo/profil/spieler/709986
+317,Koray Günter,27,"Aug 16, 1994",Germany,VERONA,,Centre-Back,5.0,31,1,0,2481,0,0,1.86,"Sep 2, 2020","Jun 30, 2023",/koray-gunter/profil/spieler/115763
+318,Pawel Dawidowicz,27,"May 20, 1995",Poland,VERONA,,Centre-Back,4.5,19,0,0,1318,0,0,1.89,"Jul 1, 2019","Jun 30, 2025",/pawel-dawidowicz/profil/spieler/248732
+319,Federico Ceccherini,30,"May 11, 1992",Italy,VERONA,,Centre-Back,4.0,35,1,0,2456,0,0,1.87,"Jul 1, 2021","Jun 30, 2024",/federico-ceccherini/profil/spieler/163639
+325,Diego Coppola,18,"Dec 28, 2003",Italy,VERONA,,Centre-Back,1.0,19,0,0,1599,0,0,1.92,"Jan 1, 2022","Jun 30, 2027",/diego-coppola/profil/spieler/660860
+327,Davide Faraoni,30,"Oct 25, 1991",Italy,VERONA,,Right-Back,5.0,32,4,6,2578,0,0,1.8,"Jul 1, 2019","Jun 30, 2025",/davide-faraoni/profil/spieler/73926
+330,Adrien Tamèze,28,"Feb 4, 1994 ",Cameroon,VERONA,,Defensive Midfield,10.0,40,4,2,2644,0,0,1.8,"Sep 3, 2020","Jun 30, 2024",/adrien-tameze/profil/spieler/157507
+332,Miguel Veloso,36,"May 11, 1986",Portugal,VERONA,,Defensive Midfield,0.9,24,0,4,1504,0,0,1.8,"Jul 20, 2019","Jun 30, 2023",/miguel-veloso/profil/spieler/43848
+333,Ivan Ilić,21,"Mar 17, 2001",Serbia,VERONA,,Central Midfield,14.0,34,2,5,2569,0,0,1.85,"Aug 12, 2021","Jun 30, 2023",/ivan-ili%C4%87/profil/spieler/470794
+335,Filippo Terracciano,19,"Feb 8, 2003 ",Italy,VERONA,,Central Midfield,0.25,35,0,3,2626,0,0,1.81,"Jul 1, 2022","Jun 30, 2026",/filippo-terracciano/profil/spieler/631007
+336,Christian Pierobon,20,"Mar 26, 2002",Italy,VERONA,,Central Midfield,0.125,32,4,5,2615,0,0,-,-,-,/christian-pierobon/profil/spieler/554433
+337,Mattia Turra,19,"Aug 29, 2002",Italy,VERONA,,Central Midfield,0.05,23,0,0,1466,0,0,-,-,-,/mattia-turra/profil/spieler/554432
+338,Darko Lazović,31,"Sep 15, 1990",Serbia,VERONA,,Left Midfield,4.0,35,2,7,2859,0,0,1.81,"Aug 6, 2019","Jun 30, 2024",/darko-lazovi%C4%87/profil/spieler/70411
+340,Mateusz Praszelik,21,"Sep 26, 2000",Poland,VERONA,,Attacking Midfield,1.4,22,4,3,1465,0,0,1.84,"Jan 2, 2023","Jun 30, 2023",/mateusz-praszelik/profil/spieler/374418
+345,Mattia Florio,18,"Sep 5, 2003 ",Italy,VERONA,,Second Striker,0.15,36,3,5,1692,0,0,1.82,-,-,/mattia-florio/profil/spieler/704423
+347,Kevin Lasagna,29,"Aug 10, 1992",Italy,VERONA,,Centre-Forward,3.5,29,2,4,1242,0,0,1.81,"Jul 1, 2021","Jun 30, 2025",/kevin-lasagna/profil/spieler/131951
+350,David Flakus Bosilj,20,"Feb 1, 2002 ",Slovenia,VERONA,,Centre-Forward,0.45,40,12,4,2825,0,0,1.85,-,-,/david-flakus-bosilj/profil/spieler/506941
+351,Vanja Milinković-Savić,25,"Feb 20, 1997",Serbia,TORINO,,Goalkeeper,2.5,28,0,0,2550,33,5,2.02,"Jul 1, 2017","Jun 30, 2024",/vanja-milinkovi%C4%87-savi%C4%87/profil/spieler/257474
+353,Luca Gemello,21,"Jul 3, 2000 ",Italy,TORINO,,Goalkeeper,0.3,1,0,0,90,0,1,1.9,"Jul 1, 2019","Jun 30, 2023",/luca-gemello/profil/spieler/463792
+354,Alberto Milan,19,"Apr 4, 2003 ",Italy,TORINO,,Goalkeeper,0.1,32,0,0,2834,43,8,-,-,"Jun 30, 2023",/alberto-milan/profil/spieler/652920
+356,David Zima,21,"Nov 8, 2000 ",Czech Republic,TORINO,,Centre-Back,7.0,27,0,0,1803,0,0,1.9,"Aug 31, 2021","Jun 30, 2025",/david-zima/profil/spieler/544149
+357,Alessandro Buongiorno,23,"Jun 6, 1999 ",Italy,TORINO,,Centre-Back,4.0,25,0,2,1366,0,0,1.94,"Jul 1, 2018","Jun 30, 2025",/alessandro-buongiorno/profil/spieler/386446
+358,Ricardo Rodríguez,29,"Aug 25, 1992",Switzerland,TORINO,,Centre-Back,3.4,36,0,1,2596,0,0,1.8,"Sep 1, 2020","Jun 30, 2024",/ricardo-rodriguez/profil/spieler/86784
+359,Koffi Djidji,29,"Nov 30, 1992",Cote d'Ivoire,TORINO,,Centre-Back,3.0,26,0,0,1857,0,0,1.84,"Jul 1, 2019","Jun 30, 2023",/koffi-djidji/profil/spieler/183031
+361,Andrei Anton,18,"Aug 23, 2003",Romania,TORINO,,Centre-Back,0.075,23,2,0,1569,0,0,1.89,-,-,/andrei-anton/profil/spieler/704729
+363,Samuele Angori,18,"Oct 7, 2003 ",Italy,TORINO,,Left-Back,0.2,35,0,7,3024,0,0,1.84,-,-,/samuele-angori/profil/spieler/705063
+364,Stephane Singo,21,"Dec 25, 2000",Cote d'Ivoire,TORINO,,Right-Back,15.0,36,3,4,2704,0,0,1.9,"Jul 1, 2019","Jun 30, 2024",/stephane-singo/profil/spieler/648779
+365,Mërgim Vojvoda,27,"Feb 1, 1995 ",Kosovo,TORINO,,Right-Back,5.5,30,0,3,2017,0,0,1.87,"Sep 1, 2020","Jun 30, 2024",/mergim-vojvoda/profil/spieler/336125
+366,Ola Aina,25,"Oct 8, 1996 ",Nigeria,TORINO,,Right-Back,3.5,23,0,0,1644,0,0,1.84,"Jul 1, 2019","Jun 30, 2023",/ola-aina/profil/spieler/236490
+371,Sasa Lukic,25,"Aug 13, 1996",Serbia,TORINO,,Central Midfield,15.0,36,5,4,3067,0,0,1.83,"Jul 29, 2016","Jun 30, 2027",/sasa-lukic/profil/spieler/245056
+373,Karol Linetty,27,"Feb 2, 1995 ",Poland,TORINO,,Central Midfield,3.5,18,0,3,1043,0,0,1.76,"Sep 1, 2020","Jun 30, 2024",/karol-linetty/profil/spieler/225873
+376,Matthew Garbett,20,"Apr 13, 2002",New Zealand,TORINO,,Central Midfield,0.15,30,3,2,2251,0,0,1.88,"Jul 1, 2022","Jun 30, 2023",/matthew-garbett/profil/spieler/617019
+380,Dennis Stojkovic,19,"Aug 3, 2002 ",Serbia,TORINO,,Attacking Midfield,0.2,2,0,0,106,0,0,1.77,-,"Jun 30, 2023",/dennis-stojkovic/profil/spieler/526098
+384,Demba Seck,21,"Feb 10, 2001",Senegal,TORINO,,Right Winger,3.0,25,1,2,1167,0,0,1.9,"Jan 31, 2022","Jun 30, 2026",/demba-seck/profil/spieler/551752
+385,Simone Edera,25,"Jan 9, 1997 ",Italy,TORINO,,Right Winger,0.5,4,0,1,130,0,0,1.74,"Jul 1, 2016","Jun 30, 2023",/simone-edera/profil/spieler/340070
+387,Antonio Sanabria,26,"Mar 4, 1996 ",Paraguay,TORINO,,Centre-Forward,7.5,29,6,5,1812,0,0,1.81,"Jan 31, 2021","Jun 30, 2025",/antonio-sanabria/profil/spieler/234523
+391,Lado Akhalaia,19,"Jul 1, 2002 ",Moldova,TORINO,,Centre-Forward,0.025,33,6,3,2031,0,0,1.9,-,"Jun 30, 2023",/lado-akhalaia/profil/spieler/706380
+392,Andrea Consigli,35,"Jan 27, 1987",Italy,SASSUOLO,,Goalkeeper,1.5,37,0,0,3323,63,3,1.89,"Sep 1, 2014","Jun 30, 2024",/andrea-consigli/profil/spieler/35865
+394,Gioele Zacchi,18,"Jul 10, 2003",Italy,SASSUOLO,,Goalkeeper,0.125,15,0,0,1380,14,5,1.84,-,-,/gioele-zacchi/profil/spieler/659648
+395,Samuele Vitale,19,"Aug 20, 2002",Italy,SASSUOLO,,Goalkeeper,0.1,23,0,0,2100,23,7,-,-,-,/samuele-vitale/profil/spieler/502475
+396,Gianluca Pegolo,41,"Mar 25, 1981",Italy,SASSUOLO,,Goalkeeper,0.1,3,0,0,270,5,1,1.83,"Sep 2, 2013","Jun 30, 2023",/gianluca-pegolo/profil/spieler/21872
+397,Gian Marco Ferrari,30,"May 15, 1992",Italy,SASSUOLO,,Centre-Back,7.0,38,1,1,3306,0,0,1.89,"Aug 30, 2016","Jun 30, 2024",/gian-marco-ferrari/profil/spieler/277167
+398,Kaan Ayhan,27,"Nov 10, 1994",Turkey,SASSUOLO,,Centre-Back,5.0,24,1,0,1391,0,0,1.85,"Sep 1, 2020","Jun 30, 2023",/kaan-ayhan/profil/spieler/119031
+399,Ruan Tressoldi,23,"Jun 7, 1999 ",Brazil,SASSUOLO,,Centre-Back,5.0,12,0,0,384,0,0,1.87,"Aug 11, 2021","Jun 30, 2026",/ruan-tressoldi/profil/spieler/555015
+401,Filippo Romagna,25,"May 26, 1997",Italy,SASSUOLO,,Centre-Back,1.5,1,0,0,46,0,0,1.86,"Sep 17, 2020","Jun 30, 2024",/filippo-romagna/profil/spieler/256678
+403,Rogério,24,"Jan 13, 1998",Brazil,SASSUOLO,,Left-Back,6.0,24,0,2,1821,0,0,1.78,"Jul 1, 2019","Jun 30, 2024",/rogerio/profil/spieler/401527
+404,Georgios Kyriakopoulos,26,"Feb 5, 1996 ",Greece,SASSUOLO,,Left-Back,5.0,31,0,6,2136,0,0,1.82,"Sep 1, 2020","Jun 30, 2023",/georgios-kyriakopoulos/profil/spieler/311178
+406,Edoardo Pieragnolo,19,"Jan 3, 2003 ",Italy,SASSUOLO,,Left-Back,0.1,29,1,1,2095,0,0,1.84,-,-,/edoardo-pieragnolo/profil/spieler/691825
+407,Mert Müldür,23,"Apr 3, 1999 ",Turkey,SASSUOLO,,Right-Back,7.0,33,0,1,2179,0,0,1.84,"Aug 20, 2019","Jun 30, 2024",/mert-muldur/profil/spieler/353922
+408,Jeremy Toljan,27,"Aug 8, 1994 ",Germany,SASSUOLO,,Right-Back,5.0,20,0,0,1397,0,0,1.82,"Jul 1, 2021","Jun 30, 2025",/jeremy-toljan/profil/spieler/129674
+409,Maxime López,24,"Dec 4, 1997 ",France,SASSUOLO,,Defensive Midfield,15.0,37,2,2,3073,0,0,1.67,"Jul 1, 2021","Jun 30, 2025",/maxime-lopez/profil/spieler/290862
+411,Davide Frattesi,22,"Sep 22, 1999",Italy,SASSUOLO,,Central Midfield,20.0,38,4,4,2920,0,0,1.84,"Jul 13, 2017","Jun 30, 2026",/davide-frattesi/profil/spieler/394300
+414,Pedro Obiang,30,"Mar 27, 1992",Equatorial Guinea,SASSUOLO,,Central Midfield,1.0,,0,0,0,0,0,1.86,"Jul 24, 2019","Jun 30, 2023",/pedro-obiang/profil/spieler/101213
+415,Christian Aucelli,20,"Jun 14, 2002",Italy,SASSUOLO,,Central Midfield,0.15,33,5,2,2699,0,0,-,-,-,/christian-aucelli/profil/spieler/613129
+416,Salim Abubakar,19,"Apr 6, 2003 ",Ghana,SASSUOLO,,Central Midfield,0.1,31,1,2,2209,0,0,-,-,-,/salim-abubakar/profil/spieler/745436
+417,Justin Kumi,17,"Jul 16, 2004",Italy,SASSUOLO,,Central Midfield,,35,4,0,1849,0,0,-,-,-,/justin-kumi/profil/spieler/808559
+419,Hamed Junior Traorè,22,"Feb 16, 2000",Cote d'Ivoire,SASSUOLO,,Attacking Midfield,22.0,32,8,4,1840,0,0,1.77,"Jul 1, 2021","Jun 30, 2023",/hamed-junior-traore/profil/spieler/391065
+425,Asan Mata,18,"Aug 18, 2003",Albania,SASSUOLO,,Left Winger,0.075,27,5,4,1398,0,0,-,-,-,/asan-mata/profil/spieler/691828
+427,Domenico Berardi,27,"Aug 1, 1994 ",Italy,SASSUOLO,,Right Winger,35.0,34,15,17,2895,0,0,1.83,"Jul 1, 2015","Jun 30, 2027",/domenico-berardi/profil/spieler/177843
+428,Brian Oddei,19,"Sep 18, 2002",Ghana,SASSUOLO,,Right Winger,0.9,15,1,2,483,0,0,1.75,"Jan 1, 2021","Jun 30, 2023",/brian-oddei/profil/spieler/546176
+432,Grégoire Defrel,31,"Jun 17, 1991",Martinique,SASSUOLO,,Centre-Forward,3.0,40,2,2,1465,0,0,1.79,"Sep 1, 2020","Jun 30, 2024",/gregoire-defrel/profil/spieler/163222
+434,Luigi Samele,20,"Apr 9, 2002 ",Italy,SASSUOLO,,Centre-Forward,0.25,32,12,2,2348,0,0,1.86,-,"Jun 30, 2023",/luigi-samele/profil/spieler/658244
+435,Marco Silvestri,31,"Mar 2, 1991 ",Italy,UDINESE,,Goalkeeper,5.0,37,0,0,3360,52,7,1.91,"Jul 20, 2021","Jun 30, 2025",/marco-silvestri/profil/spieler/85528
+436,Simone Scuffet,26,"May 31, 1996",Italy,UDINESE,,Goalkeeper,0.6,24,0,0,2115,29,6,1.93,"Jul 1, 2013",-,/simone-scuffet/profil/spieler/238993
+437,Daniele Padelli,36,"Oct 25, 1985",Italy,UDINESE,,Goalkeeper,0.4,4,0,0,360,8,2,1.91,"Jul 1, 2021","Jun 30, 2023",/daniele-padelli/profil/spieler/27807
+440,Edoardo Piana,18,"Sep 29, 2003",Italy,UDINESE,,Goalkeeper,0.05,18,0,0,1575,22,6,1.98,"Jul 1, 2022",-,/edoardo-piana/profil/spieler/612059
+441,Matteo Carnelos,19,"Feb 22, 2003",Italy,UDINESE,,Goalkeeper,0.025,12,0,0,1080,16,5,1.88,-,"Jun 30, 2023",/matteo-carnelos/profil/spieler/617178
+443,Rodrigo Becão,26,"Jan 19, 1996",Brazil,UDINESE,,Centre-Back,6.0,36,2,1,3252,0,0,1.91,"Jul 6, 2019","Jun 30, 2024",/rodrigo-becao/profil/spieler/410158
+446,Bram Nuytinck,32,"May 4, 1990 ",Netherlands,UDINESE,,Centre-Back,3.5,29,1,1,2136,0,0,1.91,"Jul 29, 2017","Jun 30, 2023",/bram-nuytinck/profil/spieler/104597
+449,Nicolò Cocetta,18,"Dec 19, 2003",Italy,UDINESE,,Centre-Back,0.075,25,3,1,2154,0,0,-,-,"Jun 30, 2023",/nicolo-cocetta/profil/spieler/704692
+452,Raed Jaziri,19,"Apr 13, 2003",Tunisia,UDINESE,,Left-Back,0.025,10,0,1,581,0,0,-,-,"Jun 30, 2023",/raed-jaziri/profil/spieler/704711
+456,Lorenzo Codutti,19,"Jun 27, 2003",Italy,UDINESE,,Right-Back,0.05,25,1,7,2169,0,0,-,-,"Jun 30, 2023",/lorenzo-codutti/profil/spieler/704693
+457,Walace,27,"Apr 4, 1995 ",Brazil,UDINESE,,Defensive Midfield,5.0,38,1,0,3152,0,0,1.88,"Aug 12, 2019","Jun 30, 2026",/walace/profil/spieler/323954
+458,Mato Jajalo,34,"May 25, 1988",Bosnia-Herzegovina,UDINESE,,Defensive Midfield,0.4,24,0,1,760,0,0,1.82,"Jul 1, 2019","Jun 30, 2025",/mato-jajalo/profil/spieler/47513
+459,Riccardo Castagnaviz,19,"Jan 29, 2003",Italy,UDINESE,,Defensive Midfield,0.075,26,2,2,1946,0,0,-,-,"Jun 30, 2023",/riccardo-castagnaviz/profil/spieler/704708
+460,Mattia Damiani,19,"Feb 25, 2003",Italy,UDINESE,,Defensive Midfield,0.05,18,0,1,1351,0,0,1.86,-,-,/mattia-damiani/profil/spieler/704709
+461,Jean-Victor Makengo,24,"Jun 12, 1998",France,UDINESE,,Central Midfield,7.5,36,1,3,2512,0,0,1.77,"Oct 5, 2020","Jun 30, 2027",/jean-victor-makengo/profil/spieler/322305
+462,Roberto Pereyra,31,"Jan 7, 1991 ",Argentina,UDINESE,,Central Midfield,6.5,25,5,6,1860,0,0,1.82,"Sep 28, 2020","Jun 30, 2023",/roberto-pereyra/profil/spieler/112302
+463,Tolgay Arslan,31,"Aug 16, 1990",Germany,UDINESE,,Central Midfield,2.3,33,1,2,1768,0,0,1.8,"Sep 18, 2020","Jun 30, 2023",/tolgay-arslan/profil/spieler/53536
+466,Riccardo Pinzi,18,"Aug 17, 2003",Italy,UDINESE,,Central Midfield,0.1,24,1,2,1585,0,0,1.75,-,"Jun 30, 2026",/riccardo-pinzi/profil/spieler/704712
+467,Jacopo Fedrizzi,19,"Mar 18, 2003",Italy,UDINESE,,Central Midfield,0.05,18,0,2,917,0,0,-,-,"Jun 30, 2023",/jacopo-fedrizzi/profil/spieler/704710
+468,Lazar Samardzic,20,"Feb 24, 2002",Serbia,UDINESE,,Attacking Midfield,3.5,24,2,3,679,0,0,1.84,"Aug 5, 2021","Jun 30, 2026",/lazar-samardzic/profil/spieler/528833
+469,Simone Pafundi,16,"Mar 14, 2006",Italy,UDINESE,,Attacking Midfield,,18,6,7,1309,0,0,1.66,"Jul 1, 2022","Jun 30, 2025",/simone-pafundi/profil/spieler/876400
+470,Simone Ianesi,20,"Feb 13, 2002",Italy,UDINESE,,Left Winger,0.125,25,19,3,2174,0,0,1.73,-,"Jun 30, 2023",/simone-ianesi/profil/spieler/574889
+473,Gerard Deulofeu,28,"Mar 13, 1994",Spain,UDINESE,,Centre-Forward,15.0,35,13,5,2651,0,0,1.77,"Jan 30, 2021","Jun 30, 2024",/gerard-deulofeu/profil/spieler/129476
+475,Isaac Success,26,"Jan 7, 1996 ",Nigeria,UDINESE,,Centre-Forward,3.0,24,3,9,1068,0,0,1.82,"Aug 26, 2021","Jun 30, 2024",/isaac-success/profil/spieler/295331
+476,Stefano Okaka,32,"Aug 9, 1989 ",Italy,UDINESE,,Centre-Forward,2.9,35,12,4,2744,0,0,1.86,"Sep 2, 2019","Jun 30, 2023",/stefano-okaka/profil/spieler/35249
+478,Ilija Nestorovski,32,"Mar 12, 1990",North Macedonia,UDINESE,,Centre-Forward,0.7,9,1,1,219,0,0,1.82,"Jul 26, 2019","Jun 30, 2023",/ilija-nestorovski/profil/spieler/54581
+479,Lukasz Skorupski,31,"May 5, 1991 ",Poland,BOLOGNA,,Goalkeeper,4.0,37,0,0,3330,58,12,1.87,"Jul 1, 2018","Jun 30, 2025",/lukasz-skorupski/profil/spieler/80894
+480,Francesco Bardi,30,"Jan 18, 1992",Italy,BOLOGNA,,Goalkeeper,0.6,2,0,0,178,2,1,1.88,"Jul 17, 2021","Jun 30, 2023",/francesco-bardi/profil/spieler/110925
+482,Davide Franzini,17,"Feb 8, 2005 ",Italy,BOLOGNA,,Goalkeeper,,23,0,0,2095,39,5,-,-,-,/davide-franzini/profil/spieler/821105
+483,Nicola Bagnolini,18,"Mar 14, 2004",Italy,BOLOGNA,,Goalkeeper,,35,0,0,3062,48,12,1.93,"Jul 1, 2022","Jun 30, 2026",/nicola-bagnolini/profil/spieler/818892
+485,Adama Soumaoro,30,"Jun 18, 1992",France,BOLOGNA,,Centre-Back,4.0,29,0,1,2357,0,0,1.86,"Jul 1, 2021","Jun 30, 2024",/adama-soumaoro/profil/spieler/126673
+486,Kevin Bonifazi,26,"May 19, 1996",Italy,BOLOGNA,,Centre-Back,3.8,23,0,1,1298,0,0,1.87,"Jul 2, 2021","Jun 30, 2025",/kevin-bonifazi/profil/spieler/247377
+490,Riccardo Stivanello,18,"Apr 24, 2004",Italy,BOLOGNA,,Centre-Back,,33,2,1,2825,0,0,1.88,-,"Jun 30, 2025",/riccardo-stivanello/profil/spieler/818882
+491,Wisdom Amey,16,"Aug 11, 2005",Togo,BOLOGNA,,Centre-Back,,36,2,0,3007,0,0,1.87,"Jul 1, 2022","Jun 30, 2025",/wisdom-amey/profil/spieler/818878
+494,Ebenezer Annan,19,"Aug 21, 2002",Ghana,BOLOGNA,,Left-Back,0.2,32,1,1,2373,0,0,1.78,-,-,/ebenezer-annan/profil/spieler/861221
+495,Takehiro Tomiyasu,23,"Nov 5, 1998 ",Japan,BOLOGNA,,Right-Back,25.0,23,0,1,1782,0,0,1.88,"Jul 9, 2019","Jun 30, 2025",/takehiro-tomiyasu/profil/spieler/331560
+496,Denso Kasius,19,"Oct 6, 2002 ",Netherlands,BOLOGNA,,Right-Back,2.0,29,5,2,2124,0,0,1.83,"Jan 30, 2022","Jun 30, 2023",/denso-kasius/profil/spieler/577394
+497,Lorenzo De Silvestri,34,"May 23, 1988",Italy,BOLOGNA,,Right-Back,1.5,31,3,2,2297,0,0,1.86,"Sep 17, 2020","Jun 30, 2023",/lorenzo-de-silvestri/profil/spieler/33571
+499,Jerdy Schouten,25,"Jan 12, 1997",Netherlands,BOLOGNA,,Defensive Midfield,9.0,18,1,1,1483,0,0,1.85,"Jul 5, 2019","Jun 30, 2026",/jerdy-schouten/profil/spieler/347900
+500,Gary Medel,34,"Aug 3, 1987 ",Chile,BOLOGNA,,Defensive Midfield,1.0,34,0,1,2867,0,0,1.71,"Aug 29, 2019","Jun 30, 2023",/gary-medel/profil/spieler/60889
+501,Kacper Urbanski,17,"Sep 7, 2004 ",Poland,BOLOGNA,,Defensive Midfield,0.2,33,2,3,2282,0,0,1.78,"Jul 1, 2022","Jun 30, 2023",/kacper-urbanski/profil/spieler/699442
+503,Nicolás Domínguez,24,"Jun 28, 1998",Argentina,BOLOGNA,,Central Midfield,13.0,29,1,3,2102,0,0,1.79,"Aug 30, 2019","Jun 30, 2024",/nicolas-dominguez/profil/spieler/497291
+508,Niklas Pyyhtiä,18,"Sep 25, 2003",Finland,BOLOGNA,,Central Midfield,0.4,26,2,3,1985,0,0,1.86,"Jan 1, 2023","Jun 30, 2024",/niklas-pyyhtia/profil/spieler/679754
+510,Roberto Soriano,31,"Feb 8, 1991 ",Italy,BOLOGNA,,Attacking Midfield,5.0,36,1,4,2726,0,0,1.82,"Jul 1, 2019","Jun 30, 2023",/roberto-soriano/profil/spieler/63186
+512,Musa Barrow,23,"Nov 14, 1998",The Gambia,BOLOGNA,,Left Winger,18.0,35,6,7,2182,0,0,1.84,"Jul 1, 2021","Jun 30, 2025",/musa-barrow/profil/spieler/486624
+513,Nicola Sansone,30,"Sep 10, 1991",Italy,BOLOGNA,,Left Winger,2.0,27,2,5,880,0,0,1.73,"Jul 1, 2019","Jun 30, 2023",/nicola-sansone/profil/spieler/82048
+515,Musa Juwara,20,"Dec 26, 2001",The Gambia,BOLOGNA,,Left Winger,0.6,4,0,1,75,0,0,1.7,"Jan 1, 2020","Dec 31, 2023",/musa-juwara/profil/spieler/562030
+516,Riccardo Orsolini,25,"Jan 24, 1997",Italy,BOLOGNA,,Right Winger,10.0,30,7,4,1877,0,0,1.83,"Jul 1, 2019","Jun 30, 2024",/riccardo-orsolini/profil/spieler/368482
+517,Emanuel Vignato,21,"Aug 24, 2000",Italy,BOLOGNA,,Right Winger,5.0,25,0,1,665,0,0,1.75,"Jan 20, 2020","Jun 30, 2023",/emanuel-vignato/profil/spieler/394346
+518,Marko Arnautovic,33,"Apr 19, 1989",Austria,BOLOGNA,,Centre-Forward,6.0,34,15,1,2790,0,0,1.92,"Aug 1, 2021","Jun 30, 2025",/marko-arnautovic/profil/spieler/41384
+522,Mattia Pagliuca,20,"Apr 25, 2002",Italy,BOLOGNA,,Centre-Forward,0.2,26,2,3,1754,0,0,-,-,"Jun 30, 2024",/mattia-pagliuca/profil/spieler/616667
+523,Antonio Raimondo,18,"Mar 18, 2004",Italy,BOLOGNA,,Centre-Forward,,35,14,2,2813,0,0,1.85,"Jul 1, 2022","Jun 30, 2027",/antonio-raimondo/profil/spieler/818888
+525,Alberto Brignoli,30,"Aug 19, 1991",Italy,EMPOLI,,Goalkeeper,1.2,29,0,0,2610,19,18,1.88,"Jul 18, 2019","Jun 30, 2024",/alberto-brignoli/profil/spieler/146799
+527,Samir Ujkani,33,"Jul 5, 1988 ",Kosovo,EMPOLI,,Goalkeeper,0.2,1,0,0,90,3,0,1.86,"Aug 1, 2021","Jun 30, 2023",/samir-ujkani/profil/spieler/42744
+528,Klemen Hvalic,20,"Apr 18, 2002",Slovenia,EMPOLI,,Goalkeeper,0.1,16,0,0,1470,18,5,1.95,-,"Jun 30, 2025",/klemen-hvalic/profil/spieler/603692
+529,Valerio Biagini,18,"Oct 20, 2003",Italy,EMPOLI,,Goalkeeper,0.075,23,0,0,2070,35,5,-,-,-,/valerio-biagini/profil/spieler/691529
+532,Ardian Ismajli,25,"Sep 30, 1996",Albania,EMPOLI,,Centre-Back,1.8,22,0,0,1390,0,0,1.85,"Aug 9, 2021","Jun 30, 2025",/ardian-ismajli/profil/spieler/435228
+535,Lorenzo Tonelli,32,"Jan 17, 1990",Italy,EMPOLI,,Centre-Back,1.0,14,0,0,865,0,0,1.83,"Aug 27, 2021","Jun 30, 2023",/lorenzo-tonelli/profil/spieler/111347
+536,Leonardo Pezzola,20,"Mar 17, 2002",Italy,EMPOLI,,Centre-Back,0.125,34,2,1,2762,0,0,1.88,-,"Jun 30, 2023",/leonardo-pezzola/profil/spieler/603676
+537,Fabiano Parisi,21,"Nov 9, 2000 ",Italy,EMPOLI,,Left-Back,4.5,25,0,1,1475,0,0,1.78,"Sep 22, 2020","Jun 30, 2025",/fabiano-parisi/profil/spieler/547985
+540,Alessio Rizza,19,"Mar 7, 2003 ",Italy,EMPOLI,,Left-Back,0.15,41,1,6,3606,0,0,-,-,-,/alessio-rizza/profil/spieler/641553
+546,Duccio Degli Innocenti,19,"Apr 28, 2003",Italy,EMPOLI,,Defensive Midfield,0.5,38,12,3,3315,0,0,1.8,"Jul 1, 2022","Jun 30, 2023",/duccio-degli-innocenti/profil/spieler/616169
+549,Filippo Bandinelli,27,"Mar 29, 1995",Italy,EMPOLI,,Central Midfield,3.0,38,2,4,2163,0,0,1.8,"Jul 13, 2019","Jun 30, 2025",/filippo-bandinelli/profil/spieler/240934
+550,Nicolas Haas,26,"Jan 23, 1996",Switzerland,EMPOLI,,Central Midfield,3.0,18,1,3,1090,0,0,1.78,"Jul 1, 2021","Jun 30, 2025",/nicolas-haas/profil/spieler/192638
+551,Liam Henderson,26,"Apr 25, 1996",Scotland,EMPOLI,,Central Midfield,2.8,40,2,4,2104,0,0,1.83,"Aug 11, 2021","Jun 30, 2025",/liam-henderson/profil/spieler/193867
+554,Jacopo Fazzini,19,"Mar 16, 2003",Italy,EMPOLI,,Central Midfield,0.25,36,4,4,2963,0,0,1.78,"Jul 1, 2022","Jun 30, 2027",/jacopo-fazzini/profil/spieler/691482
+555,Nedim Bajrami,23,"Feb 28, 1999",Albania,EMPOLI,,Attacking Midfield,10.0,38,9,7,2283,0,0,1.79,"Sep 1, 2020","Jun 30, 2023",/nedim-bajrami/profil/spieler/390177
+557,Tommaso Baldanzi,19,"Mar 23, 2003",Italy,EMPOLI,,Attacking Midfield,0.8,28,10,3,2303,0,0,1.7,"Jul 1, 2021","Jun 30, 2027",/tommaso-baldanzi/profil/spieler/641537
+563,Emmanuel Ekong,20,"Jun 25, 2002",Sweden,EMPOLI,,Centre-Forward,0.3,8,3,1,683,0,0,1.76,"Jul 1, 2021","Jun 30, 2023",/emmanuel-ekong/profil/spieler/603891
+564,Emil Audero,25,"Jan 18, 1997",Italy,SAMPDORIA,,Goalkeeper,6.0,30,0,0,2651,50,6,1.92,"Jul 1, 2019","Jun 30, 2026",/emil-audero/profil/spieler/256339
+566,Nicola Ravaglia,33,"Dec 12, 1988",Italy,SAMPDORIA,,Goalkeeper,0.2,1,0,0,4,1,0,1.84,"Sep 1, 2020","Jun 30, 2024",/nicola-ravaglia/profil/spieler/42796
+567,Ivan Saio,20,"Mar 16, 2002",Italy,SAMPDORIA,,Goalkeeper,0.1,31,0,0,2820,50,6,1.92,-,-,/ivan-saio/profil/spieler/613533
+568,Omar Colley,29,"Oct 24, 1992",The Gambia,SAMPDORIA,,Centre-Back,4.5,33,0,0,2769,0,0,1.91,"Jul 1, 2018","Jun 30, 2025",/omar-colley/profil/spieler/174733
+571,Jeison Murillo,30,"May 27, 1992",Colombia,SAMPDORIA,,Centre-Back,3.5,23,0,0,1498,0,0,1.82,"Jan 14, 2020","Jun 30, 2023",/jeison-murillo/profil/spieler/131102
+573,Alex Ferrari,27,"Jul 1, 1994 ",Italy,SAMPDORIA,,Centre-Back,1.8,24,1,0,1741,0,0,1.91,"Jul 1, 2019","Jun 30, 2023",/alex-ferrari/profil/spieler/197491
+575,Lorenzo Tonelli,32,"Jan 17, 1990",Italy,SAMPDORIA,,Centre-Back,1.0,14,0,0,865,0,0,1.83,"Sep 1, 2020","Jun 30, 2023",/lorenzo-tonelli/profil/spieler/111347
+576,Luigi Aquino,20,"Feb 1, 2002 ",Italy,SAMPDORIA,,Centre-Back,0.175,18,4,0,1479,0,0,1.84,-,"Jun 30, 2024",/luigi-aquino/profil/spieler/552751
+577,Giovanni Bonfanti,19,"Jan 17, 2003",Italy,SAMPDORIA,,Centre-Back,0.1,33,2,1,2862,0,0,1.87,-,-,/giovanni-bonfanti/profil/spieler/663900
+578,Tommaso Augello,27,"Aug 30, 1994",Italy,SAMPDORIA,,Left-Back,3.5,38,1,2,2566,0,0,1.8,"Sep 1, 2020","Jun 30, 2025",/tommaso-augello/profil/spieler/284595
+579,Nicola Murru,27,"Dec 16, 1994",Italy,SAMPDORIA,,Left-Back,2.0,24,1,0,1164,0,0,1.8,"Jul 1, 2017","Jun 30, 2024",/nicola-murru/profil/spieler/171399
+580,Francesco Migliardi,19,"Mar 19, 2003",Italy,SAMPDORIA,,Left-Back,0.15,34,1,6,2959,0,0,1.83,-,"Jun 30, 2024",/francesco-migliardi/profil/spieler/622800
+581,Bartosz Bereszynski,29,"Jul 12, 1992",Poland,SAMPDORIA,,Right-Back,4.0,37,0,3,3136,0,0,1.83,"Jan 3, 2017","Jun 30, 2023",/bartosz-bereszynski/profil/spieler/144143
+586,Gerard Yepes,19,"Aug 25, 2002",Spain,SAMPDORIA,,Defensive Midfield,0.5,29,4,2,2155,0,0,1.7,"Jul 1, 2022","Jun 30, 2025",/gerard-yepes/profil/spieler/624436
+589,Ronaldo Vieira,23,"Jul 19, 1998",England,SAMPDORIA,,Central Midfield,3.5,15,0,0,515,0,0,1.78,"Aug 1, 2018","Jun 30, 2023",/ronaldo-vieira/profil/spieler/434676
+592,Simone Trimboli,20,"Apr 19, 2002",Italy,SAMPDORIA,,Central Midfield,0.6,9,1,0,379,0,0,1.76,"Jul 1, 2021","Jun 30, 2023",/simone-trimboli/profil/spieler/487839
+595,Jakub Jankto,26,"Jan 19, 1996",Czech Republic,SAMPDORIA,,Left Midfield,4.0,16,0,2,725,0,0,1.84,"Jul 1, 2019","Jun 30, 2023",/jakub-jankto/profil/spieler/319160
+603,Manolo Gabbiadini,30,"Nov 26, 1991",Italy,SAMPDORIA,,Centre-Forward,4.0,21,7,4,1266,0,0,1.86,"Jan 11, 2019","Jun 30, 2026",/manolo-gabbiadini/profil/spieler/112343
+607,Fabio Quagliarella,39,"Jan 31, 1983",Italy,SAMPDORIA,,Centre-Forward,1.0,35,6,3,1793,0,0,1.8,"Jul 1, 2016","Jun 30, 2023",/fabio-quagliarella/profil/spieler/22328
+609,Daniele Montevago,19,"Mar 18, 2003",Italy,SAMPDORIA,,Centre-Forward,0.15,32,9,7,2091,0,0,1.84,"Oct 28, 2022","Jun 30, 2025",/daniele-montevago/profil/spieler/678441
+611,Jeroen Zoet,31,"Jan 6, 1991 ",Netherlands,SPEZIA,,Goalkeeper,0.85,9,0,0,810,22,0,1.89,"Sep 8, 2020","Jun 30, 2024",/jeroen-zoet/profil/spieler/79045
+612,Petar Zovko,20,"Mar 25, 2002",Bosnia-Herzegovina,SPEZIA,,Goalkeeper,0.1,5,0,0,388,6,1,1.92,"Jul 12, 2021","Jun 30, 2024",/petar-zovko/profil/spieler/602299
+614,Dimitrios Nikolaou,23,"Aug 13, 1998",Greece,SPEZIA,,Centre-Back,4.0,37,1,0,3330,0,0,1.88,"Aug 9, 2021","Jun 30, 2026",/dimitrios-nikolaou/profil/spieler/292772
+615,Jakub Kiwior,22,"Feb 15, 2000",Poland,SPEZIA,,Centre-Back,3.0,34,1,1,2916,0,0,1.89,"Aug 31, 2021","Jun 30, 2028",/jakub-kiwior/profil/spieler/425918
+616,Petko Hristov,23,"Mar 1, 1999 ",Bulgaria,SPEZIA,,Centre-Back,1.0,19,1,1,1424,0,0,1.91,"Jul 5, 2021","Jun 30, 2023",/petko-hristov/profil/spieler/372809
+619,Kelvin Amian,24,"Feb 8, 1998 ",France,SPEZIA,,Right-Back,3.5,33,1,1,2738,0,0,1.8,"Jul 22, 2021","Jun 30, 2026",/kelvin-amian/profil/spieler/344072
+621,Salva Ferrer,24,"Jan 21, 1998",Spain,SPEZIA,,Right-Back,1.3,29,0,3,1664,0,0,1.84,"Aug 9, 2019","Jun 30, 2025",/salva-ferrer/profil/spieler/624548
+624,Aurélien Nguiamba,23,"Jan 18, 1999",France,SPEZIA,,Defensive Midfield,0.4,4,0,0,73,0,0,1.79,"Sep 28, 2021","Jun 30, 2023",/aurelien-nguiamba/profil/spieler/344595
+626,Simone Bastoni,25,"Nov 5, 1996 ",Italy,SPEZIA,,Central Midfield,7.5,32,3,4,2356,0,0,1.81,"Jul 1, 2014","Jun 30, 2025",/simone-bastoni/profil/spieler/257751
+627,Aimar Sher,19,"Dec 20, 2002",Sweden,SPEZIA,,Central Midfield,1.0,5,0,0,286,0,0,1.75,"Aug 19, 2021","Jun 30, 2024",/aimar-sher/profil/spieler/579294
+628,Jacopo Sala,30,"Dec 5, 1991 ",Italy,SPEZIA,,Central Midfield,0.5,19,1,0,892,0,0,1.81,"Sep 5, 2020","Jun 30, 2024",/jacopo-sala/profil/spieler/96806
+629,Niccolò Pietra,18,"Sep 28, 2003",Italy,SPEZIA,,Central Midfield,0.1,16,7,5,1418,0,0,1.89,-,"Jun 30, 2025",/niccolo-pietra/profil/spieler/632829
+632,Emmanuel Gyasi,28,"Jan 11, 1994",Ghana,SPEZIA,,Left Winger,2.5,37,6,0,3055,0,0,1.81,"Aug 9, 2016","Jun 30, 2025",/emmanuel-gyasi/profil/spieler/241076
+633,Daniele Verde,26,"Jun 20, 1996",Italy,SPEZIA,,Right Winger,5.0,34,8,7,2036,0,0,1.68,"Jul 1, 2021","Jun 30, 2025",/daniele-verde/profil/spieler/256361
+636,Dennis Deloriè,17,"Nov 6, 2004 ",Italy,SPEZIA,,Second Striker,,16,2,3,963,0,0,-,-,-,/dennis-delorie/profil/spieler/883048
+639,M'Bala Nzola,25,"Aug 18, 1996",Angola,SPEZIA,,Centre-Forward,2.0,22,2,1,1131,0,0,1.85,"Oct 7, 2020","Jun 30, 2024",/mbala-nzola/profil/spieler/354814
+641,David Strelec,21,"Apr 4, 2001 ",Slovakia,SPEZIA,,Centre-Forward,1.4,23,3,0,1179,0,0,1.85,"Aug 31, 2021","Jun 30, 2023",/david-strelec/profil/spieler/482836
+643,Diego Zuppel,19,"Oct 13, 2002",Italy,SPEZIA,,Centre-Forward,0.05,7,0,0,479,0,0,1.92,-,-,/diego-zuppel/profil/spieler/581912
+646,Vincenzo Fiorillo,32,"Jan 13, 1990",Italy,SALERNITANA,,Goalkeeper,0.3,2,0,0,180,6,0,1.9,"Aug 6, 2021","Jun 30, 2025",/vincenzo-fiorillo/profil/spieler/55000
+649,Jacopo De Matteis,19,"Dec 28, 2002",Italy,SALERNITANA,,Goalkeeper,0.05,17,0,0,1530,28,4,1.86,"Jul 1, 2022","Jun 30, 2023",/jacopo-de-matteis/profil/spieler/606614
+651,Norbert Gyomber,29,"Jul 3, 1992 ",Slovakia,SALERNITANA,,Centre-Back,1.0,33,0,0,2665,0,0,1.89,"Sep 12, 2020","Jun 30, 2025",/norbert-gyomber/profil/spieler/205054
+659,Andrei Motoc,20,"Apr 13, 2002",Moldova,SALERNITANA,,Centre-Back,0.1,22,1,0,1902,0,0,1.95,"Jul 1, 2022","Jun 30, 2023",/andrei-motoc/profil/spieler/816930
+660,Mario Perrone,19,"Feb 6, 2003 ",Italy,SALERNITANA,,Centre-Back,0.075,25,4,0,2064,0,0,-,-,-,/mario-perrone/profil/spieler/709579
+663,Tommaso De Lorenzo,18,"Jan 12, 2004",Italy,SALERNITANA,,Left-Back,,14,0,0,738,0,0,-,-,-,/tommaso-de-lorenzo/profil/spieler/815941
+672,Lassana Coulibaly,26,"Apr 10, 1996",Mali,SALERNITANA,,Central Midfield,3.0,33,0,0,2409,0,0,1.83,"Jul 31, 2021","Jun 30, 2026",/lassana-coulibaly/profil/spieler/386552
+675,Leonardo Capezzi,27,"Mar 28, 1995",Italy,SALERNITANA,,Central Midfield,0.6,6,0,0,207,0,0,1.78,"Sep 29, 2020","Jun 30, 2023",/leonardo-capezzi/profil/spieler/84442
+677,Alessandro Russo,18,"Sep 6, 2003 ",Italy,SALERNITANA,,Central Midfield,0.1,24,7,6,2037,0,0,-,-,-,/alessandro-russo/profil/spieler/708084
+678,Antonio Pio Iervolino,19,"May 23, 2003",Italy,SALERNITANA,,Central Midfield,0.05,12,0,0,1075,0,0,-,"Jul 1, 2022","Jun 30, 2024",/antonio-pio-iervolino/profil/spieler/704347
+691,Julian Kristoffersen,25,"May 10, 1997",Norway,SALERNITANA,,Centre-Forward,0.2,7,0,0,68,0,0,1.98,"Feb 2, 2021","Jun 30, 2023",/julian-kristoffersen/profil/spieler/267614
+692,Angelo Guida,19,"Aug 24, 2002",Italy,SALERNITANA,,Centre-Forward,0.075,19,9,1,1485,0,0,1.84,-,"Jun 30, 2023",/angelo-guida/profil/spieler/651206
+694,Lorenzo Cannavale,20,"Jan 29, 2002",Italy,SALERNITANA,,Centre-Forward,0.01,16,6,0,966,0,0,1.83,-,-,/lorenzo-cannavale/profil/spieler/622029
+697,Marco Bleve,26,"Oct 18, 1995",Italy,LECCE,,Goalkeeper,0.2,7,0,0,499,4,3,1.84,"Jan 31, 2013","Jun 30, 2023",/marco-bleve/profil/spieler/215167
+698,Alexandru Borbei,19,"Jun 27, 2003",Romania,LECCE,,Goalkeeper,0.15,20,0,0,1713,26,4,1.83,-,"Jun 30, 2025",/alexandru-borbei/profil/spieler/667640
+699,Jasper Samooja,18,"Jul 21, 2003",Finland,LECCE,,Goalkeeper,0.075,16,0,0,1440,23,2,1.89,"Jul 1, 2022",-,/jasper-samooja/profil/spieler/712911
+700,Alberto Dima,18,"Jan 22, 2004",Italy,LECCE,,Goalkeeper,,-,0,0,0,0,0,1.92,-,"Jun 30, 2029",/alberto-dima/profil/spieler/862393
+701,Alessandro Tuia,32,"Jun 8, 1990 ",Italy,LECCE,,Centre-Back,0.9,20,2,0,1599,0,0,1.84,"Jul 1, 2021","Jun 30, 2023",/alessandro-tuia/profil/spieler/73943
+702,Kastriot Dermaku,30,"Jan 15, 1992",Albania,LECCE,,Centre-Back,0.8,17,1,0,1304,0,0,1.94,"Aug 30, 2021","Jun 30, 2024",/kastriot-dermaku/profil/spieler/163647
+705,Brynjar Ingi Bjarnason,22,"Dec 6, 1999 ",Iceland,LECCE,,Centre-Back,0.4,28,0,0,2258,0,0,1.94,"Jul 1, 2021","Dec 31, 2025",/brynjar-ingi-bjarnason/profil/spieler/569171
+706,Biagio Meccariello,31,"Mar 27, 1991",Italy,LECCE,,Centre-Back,0.25,24,0,0,1589,0,0,1.87,"Jul 1, 2019","Jun 30, 2024",/biagio-meccariello/profil/spieler/124002
+708,Emin Hasić,19,"Feb 8, 2003 ",Sweden,LECCE,,Centre-Back,0.075,33,3,1,2846,0,0,1.91,-,"Jun 30, 2023",/emin-hasi%C4%87/profil/spieler/615235
+710,Antonino Gallo,22,"Jan 5, 2000 ",Italy,LECCE,,Left-Back,1.0,27,1,1,1872,0,0,1.83,"Jul 25, 2019","Jun 30, 2026",/antonino-gallo/profil/spieler/392516
+711,Brayan Vera,23,"Jan 15, 1999",Colombia,LECCE,,Left-Back,0.4,33,0,0,2269,0,0,1.8,"Jul 1, 2019","Dec 31, 2025",/brayan-vera/profil/spieler/642967
+712,Valentin Gendrey,22,"Jun 21, 2000",France,LECCE,,Right-Back,1.7,33,0,1,2290,0,0,1.79,"Jul 29, 2021","Jun 30, 2024",/valentin-gendrey/profil/spieler/569387
+715,Morten Hjulmand,23,"Jun 25, 1999",Denmark,LECCE,,Defensive Midfield,6.5,38,0,3,3298,0,0,1.85,"Jan 16, 2021","Jun 30, 2024",/morten-hjulmand/profil/spieler/461496
+716,Alexis Blin,25,"Sep 16, 1996",France,LECCE,,Defensive Midfield,2.2,29,1,2,1188,0,0,1.84,"Jul 1, 2021","Jun 30, 2025",/alexis-blin/profil/spieler/236041
+717,Catalin Vulturar,18,"Mar 9, 2004 ",Romania,LECCE,,Defensive Midfield,,33,3,1,2820,0,0,1.81,-,"Jun 30, 2025",/catalin-vulturar/profil/spieler/710079
+721,John Björkengren,23,"Dec 9, 1998 ",Sweden,LECCE,,Central Midfield,0.8,25,1,1,1035,0,0,1.8,"Oct 4, 2020","Jun 30, 2023",/john-bjorkengren/profil/spieler/413942
+722,Thórir Jóhann Helgason,21,"Sep 28, 2000",Iceland,LECCE,,Central Midfield,0.7,29,1,1,1206,0,0,1.87,"Jul 15, 2021","Jun 30, 2025",/thorir-johann-helgason/profil/spieler/488996
+723,Joan González,20,"Feb 1, 2002 ",Spain,LECCE,,Central Midfield,0.25,32,8,3,2681,0,0,1.9,"Jul 1, 2022","Jun 30, 2027",/joan-gonzalez/profil/spieler/692209
+724,Marcin Listkowski,24,"Feb 10, 1998",Poland,LECCE,,Attacking Midfield,0.4,25,3,1,901,0,0,1.78,"Sep 1, 2020","Jun 30, 2023",/marcin-listkowski/profil/spieler/291276
+726,Marco Olivieri,23,"Jun 30, 1999",Italy,LECCE,,Left Winger,1.0,39,5,1,1911,0,0,1.77,"Jul 1, 2021","Jun 30, 2023",/marco-olivieri/profil/spieler/346562
+729,Gabriel Strefezza,25,"Apr 18, 1997",Brazil,LECCE,,Right Winger,6.5,36,14,6,2777,0,0,1.68,"Aug 12, 2021","Jun 30, 2025",/gabriel-strefezza/profil/spieler/457673
+730,Luca Paganini,29,"Jun 8, 1993 ",Italy,LECCE,,Right Winger,0.4,21,0,0,562,0,0,1.77,"Sep 7, 2020","Jun 30, 2024",/luca-paganini/profil/spieler/167444
+731,Pablo Rodríguez,20,"Aug 4, 2001 ",Spain,LECCE,,Second Striker,2.0,27,2,2,814,0,0,1.78,"Sep 30, 2020","Jun 30, 2023",/pablo-rodriguez/profil/spieler/537765
+734,Rares Burnete,18,"Jan 31, 2004",Romania,LECCE,,Centre-Forward,,23,2,2,1126,0,0,1.85,-,"Jun 30, 2025",/rares-burnete/profil/spieler/731525
+736,Mouhamadou Sarr,25,"Jan 5, 1997 ",Senegal,CREMONESE,,Goalkeeper,0.25,3,0,0,246,1,2,1.9,"Aug 27, 2021",-,/mouhamadou-sarr/profil/spieler/338101
+737,Enrico Alfonso,34,"May 4, 1988 ",Italy,CREMONESE,,Goalkeeper,0.15,11,0,0,990,19,1,1.91,"Sep 1, 2020","Jun 30, 2024",/enrico-alfonso/profil/spieler/34334
+738,Dorian Ciezkowski,21,"Mar 22, 2001",Poland,CREMONESE,,Goalkeeper,0.1,-,0,0,0,0,0,1.92,"Jul 30, 2021","Jun 30, 2023",/dorian-ciezkowski/profil/spieler/466367
+739,Federico Agazzi,18,"Apr 18, 2004",Italy,CREMONESE,,Goalkeeper,,21,0,0,1914,29,7,-,-,-,/federico-agazzi/profil/spieler/729536
+740,Davide Peschieri,18,"Mar 18, 2004",Italy,CREMONESE,,Goalkeeper,,6,0,0,540,14,1,-,-,"Jun 30, 2023",/davide-peschieri/profil/spieler/821109
+743,Matteo Bianchetti,29,"Mar 17, 1993",Italy,CREMONESE,,Centre-Back,0.7,27,0,1,2380,0,0,1.89,"Aug 17, 2019","Jun 30, 2025",/matteo-bianchetti/profil/spieler/160986
+747,Emanuele Valeri,23,"Dec 7, 1998 ",Italy,CREMONESE,,Left-Back,1.8,30,3,1,2335,0,0,1.8,"Sep 10, 2020","Jun 30, 2023",/emanuele-valeri/profil/spieler/445126
+753,Michele Castagnetti,32,"Dec 27, 1989",Italy,CREMONESE,,Defensive Midfield,0.7,31,0,3,2307,0,0,1.8,"Jul 2, 2018","Jun 30, 2024",/michele-castagnetti/profil/spieler/195335
+762,Jaime Báez,27,"Apr 25, 1995",Uruguay,CREMONESE,,Left Winger,1.6,35,4,4,2072,0,0,1.78,"Jan 29, 2021",-,/jaime-baez/profil/spieler/238654
+763,Cristian Buonaiuto,29,"Dec 29, 1992",Italy,CREMONESE,,Left Winger,0.8,30,8,4,1732,0,0,1.79,"Sep 4, 2020","Jun 30, 2024",/cristian-buonaiuto/profil/spieler/187384
+771,Daniel Ciofani,36,"Jul 31, 1985",Italy,CREMONESE,,Centre-Forward,0.2,36,8,1,1757,0,0,1.91,"Aug 9, 2019","Jun 30, 2023",/daniel-ciofani/profil/spieler/29605
+773,Eugenio Lamanna,32,"Aug 7, 1989 ",Italy,MONZA,,Goalkeeper,0.2,2,0,0,180,2,0,1.87,"Jul 13, 2019",-,/eugenio-lamanna/profil/spieler/85240
+776,Gianluca Ravarelli,19,"Jan 18, 2003",Italy,MONZA,,Goalkeeper,0.01,1,0,0,90,4,0,-,-,"Jun 30, 2023",/gianluca-ravarelli/profil/spieler/816744
+777,Andrea Mazza,18,"Mar 19, 2004",Italy,MONZA,,Goalkeeper,,7,0,0,630,13,0,-,-,-,/andrea-mazza/profil/spieler/815567
+780,Luca Caldirola,31,"Feb 1, 1991 ",Italy,MONZA,,Centre-Back,1.0,28,0,0,2256,0,0,1.86,"Jul 17, 2021","Jun 30, 2023",/luca-caldirola/profil/spieler/88680
+782,Luca Marrone,32,"Mar 28, 1990",Italy,MONZA,,Centre-Back,0.4,22,1,2,1782,0,0,1.86,"Aug 31, 2021","Jun 30, 2023",/luca-marrone/profil/spieler/124769
+784,Gabriel Paletta,36,"Feb 15, 1986",Italy,MONZA,,Centre-Back,0.2,21,0,0,1437,0,0,1.9,"Nov 6, 2019",-,/gabriel-paletta/profil/spieler/30767
+785,Carlos Augusto,23,"Jan 7, 1999 ",Brazil,MONZA,,Left-Back,4.5,37,3,1,3196,0,0,1.84,"Sep 1, 2020","Jun 30, 2024",/carlos-augusto/profil/spieler/585982
+788,Giulio Donati,32,"Feb 5, 1990 ",Italy,MONZA,,Right-Back,0.6,31,0,1,2345,0,0,1.78,"Sep 1, 2020","Jun 30, 2023",/giulio-donati/profil/spieler/88684
+789,Andrea Barberis,28,"Dec 11, 1993",Italy,MONZA,,Defensive Midfield,1.5,40,2,1,3018,0,0,1.77,"Sep 1, 2020","Jun 30, 2023",/andrea-barberis/profil/spieler/146680
+790,Antonis Siatounis,19,"Aug 26, 2002",Greece,MONZA,,Defensive Midfield,0.45,2,0,0,22,0,0,1.86,"Jul 1, 2021","Jun 30, 2025",/antonis-siatounis/profil/spieler/554397
+791,Matteo Scozzarella,34,"Jun 5, 1988 ",Italy,MONZA,,Defensive Midfield,0.3,4,0,0,218,0,0,1.7,"Jan 5, 2021",-,/matteo-scozzarella/profil/spieler/85208
+795,José Machín,25,"Aug 14, 1996",Equatorial Guinea,MONZA,,Central Midfield,1.7,30,5,4,1771,0,0,1.84,"Jul 1, 2020","Jun 30, 2024",/jose-machin/profil/spieler/355104
+797,Antonino Barillà,34,"Apr 1, 1988 ",Italy,MONZA,,Central Midfield,0.3,8,0,0,200,0,0,1.8,"Sep 1, 2020",-,/antonino-barilla/profil/spieler/39828
+798,Salvatore Molina,30,"Jan 1, 1992 ",Italy,MONZA,,Right Midfield,1.1,39,0,1,3071,0,0,1.77,"Jan 5, 2022","Jun 30, 2023",/salvatore-molina/profil/spieler/163582
+800,Samuele Vignato,18,"Feb 24, 2004",Italy,MONZA,,Attacking Midfield,0.6,13,1,1,412,0,0,1.72,"Aug 11, 2021","Jun 30, 2025",/samuele-vignato/profil/spieler/650966
+801,Patrick Ciurria,27,"Feb 9, 1995 ",Italy,MONZA,,Right Winger,1.6,39,5,8,1976,0,0,1.78,"Jul 31, 2021","Jun 30, 2024",/patrick-ciurria/profil/spieler/255838
+802,Marco D'Alessandro,31,"Feb 17, 1991",Italy,MONZA,,Right Winger,1.1,36,3,4,1738,0,0,1.73,"Jan 27, 2021","Jun 30, 2023",/marco-dalessandro/profil/spieler/99232
+803,Dany Mota,24,"May 2, 1998 ",Portugal,MONZA,,Centre-Forward,6.0,32,12,5,2404,0,0,1.8,"Jul 1, 2020","Jun 30, 2024",/dany-mota/profil/spieler/347253
+806,Christian Gytkjaer,32,"May 6, 1990 ",Denmark,MONZA,,Centre-Forward,1.4,38,14,1,1835,0,0,1.85,"Aug 1, 2020","Jun 30, 2023",/christian-gytkjaer/profil/spieler/76274
+807,Mattia Finotto,29,"Dec 28, 1992",Italy,MONZA,,Centre-Forward,0.3,14,4,0,674,0,0,1.86,"Jul 5, 2019","Jun 30, 2024",/mattia-finotto/profil/spieler/284604

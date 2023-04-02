@@ -1,0 +1,499 @@
+,Name,Age,date,nationality,club,fee_y,position,market,match,goal,assist,minute,miss,clean,height,join,contract,href
+0,Thibaut Courtois,30,"May 11, 1992",Belgium,REAL MADRID,,Goalkeeper,60.0,52,0,0,4770,46,22,2.0,"Aug 9, 2018","Jun 30, 2026",/thibaut-courtois/profil/spieler/108390
+1,Andriy Lunin,23,"Feb 11, 1999",Ukraine,REAL MADRID,,Goalkeeper,2.5,4,0,0,390,4,0,1.91,"Jul 1, 2018","Jun 30, 2024",/andriy-lunin/profil/spieler/404839
+2,Luis López,21,"May 8, 2001 ",Spain,REAL MADRID,,Goalkeeper,0.3,14,0,0,1260,15,3,1.93,-,"Jun 30, 2023",/luis-lopez/profil/spieler/623525
+3,Toni Fuidias,21,"Apr 15, 2001",Spain,REAL MADRID,,Goalkeeper,0.3,23,0,0,2070,32,6,1.95,-,"Jun 30, 2025",/toni-fuidias/profil/spieler/623526
+4,Diego Piñeiro,18,"Feb 13, 2004",Spain,REAL MADRID,,Goalkeeper,,3,0,0,270,4,1,-,-,-,/diego-pineiro/profil/spieler/926850
+5,Éder Militão,24,"Jan 18, 1998",Brazil,REAL MADRID,,Centre-Back,60.0,50,2,3,4496,0,0,1.86,"Jul 1, 2019","Jun 30, 2025",/eder-militao/profil/spieler/401530
+6,David Alaba,30,"Jun 24, 1992",Austria,REAL MADRID,,Centre-Back,55.0,46,3,4,4070,0,0,1.8,"Jul 1, 2021","Jun 30, 2026",/david-alaba/profil/spieler/59016
+7,Nacho Fernández,32,"Jan 18, 1990",Spain,REAL MADRID,,Centre-Back,7.0,42,3,0,2541,0,0,1.8,"Sep 1, 2012","Jun 30, 2023",/nacho-fernandez/profil/spieler/58884
+8,Jesús Vallejo,25,"Jan 5, 1997 ",Spain,REAL MADRID,,Centre-Back,3.0,8,0,0,353,0,0,1.84,"Jul 31, 2015","Jun 30, 2025",/jesus-vallejo/profil/spieler/251896
+9,Mario Gila,21,"Aug 29, 2000",Spain,REAL MADRID,,Centre-Back,0.5,34,2,1,2784,0,0,1.85,-,"Jun 30, 2027",/mario-gila/profil/spieler/618341
+10,Rafa Marín,20,"May 19, 2002",Spain,REAL MADRID,,Centre-Back,0.4,27,1,0,2126,0,0,1.91,-,"Jun 30, 2024",/rafa-marin/profil/spieler/662261
+11,Ferland Mendy,27,"Jun 8, 1995 ",France,REAL MADRID,,Left-Back,40.0,35,2,5,2816,0,0,1.8,"Jul 1, 2019","Jun 30, 2025",/ferland-mendy/profil/spieler/291417
+14,Daniel Carvajal,30,"Jan 11, 1992",Spain,REAL MADRID,,Right-Back,18.0,36,1,4,2598,0,0,1.73,"Jul 1, 2013","Jun 30, 2025",/daniel-carvajal/profil/spieler/138927
+15,Álvaro Odriozola,26,"Dec 14, 1995",Spain,REAL MADRID,,Right-Back,12.0,27,1,1,1866,0,0,1.76,"Jul 5, 2018","Jun 30, 2024",/alvaro-odriozola/profil/spieler/280730
+16,Lucas Vázquez,30,"Jul 1, 1991 ",Spain,REAL MADRID,,Right-Back,12.0,41,3,0,2514,0,0,1.73,"Jul 2, 2015","Jun 30, 2024",/lucas-vazquez/profil/spieler/221316
+17,Sergio Santos,21,"Jan 3, 2001 ",Spain,REAL MADRID,,Right-Back,0.25,29,2,4,2075,0,0,1.8,-,"Jun 30, 2023",/sergio-santos/profil/spieler/537759
+20,Federico Valverde,23,"Jul 22, 1998",Uruguay,REAL MADRID,,Central Midfield,70.0,46,1,2,2860,0,0,1.82,"Jul 1, 2018","Jun 30, 2027",/federico-valverde/profil/spieler/369081
+21,Eduardo Camavinga,19,"Nov 10, 2002",France,REAL MADRID,,Central Midfield,55.0,46,2,2,1866,0,0,1.82,"Aug 31, 2021","Jun 30, 2027",/eduardo-camavinga/profil/spieler/640428
+22,Toni Kroos,32,"Jan 4, 1990 ",Germany,REAL MADRID,,Central Midfield,20.0,45,3,3,3397,0,0,1.83,"Jul 17, 2014","Jun 30, 2023",/toni-kroos/profil/spieler/31909
+23,Dani Ceballos,25,"Aug 7, 1996 ",Spain,REAL MADRID,,Central Midfield,14.0,18,0,1,338,0,0,1.79,"Jul 14, 2017","Jun 30, 2023",/dani-ceballos/profil/spieler/319745
+24,Luka Modric,36,"Sep 9, 1985 ",Croatia,REAL MADRID,,Central Midfield,10.0,45,3,12,3435,0,0,1.72,"Aug 27, 2012","Jun 30, 2023",/luka-modric/profil/spieler/27992
+26,Vinicius Junior,21,"Jul 12, 2000",Brazil,REAL MADRID,,Left Winger,100.0,52,22,20,4274,0,0,1.76,"Jul 12, 2018","Jun 30, 2024",/vinicius-junior/profil/spieler/371998
+27,Eden Hazard,31,"Jan 7, 1991 ",Belgium,REAL MADRID,,Left Winger,12.0,23,1,2,903,0,0,1.75,"Jul 1, 2019","Jun 30, 2024",/eden-hazard/profil/spieler/50202
+28,Rodrygo,21,"Jan 9, 2001 ",Brazil,REAL MADRID,,Right Winger,60.0,49,9,10,2435,0,0,1.74,"Jul 1, 2019","Jun 30, 2025",/rodrygo/profil/spieler/412363
+29,Marco Asensio,26,"Jan 21, 1996",Spain,REAL MADRID,,Right Winger,40.0,42,12,2,2110,0,0,1.82,"Jul 1, 2015","Jun 30, 2023",/marco-asensio/profil/spieler/296622
+31,Peter González,19,"Jul 25, 2002",Dominican Republic,REAL MADRID,,Right Winger,1.0,45,5,9,3002,0,0,1.8,-,"Jun 30, 2025",/peter-gonzalez/profil/spieler/710004
+32,Karim Benzema,34,"Dec 19, 1987",France,REAL MADRID,,Centre-Forward,30.0,46,44,15,3919,0,0,1.85,"Jul 9, 2009","Jun 30, 2023",/karim-benzema/profil/spieler/18922
+34,Mariano Díaz,28,"Aug 1, 1993 ",Dominican Republic,REAL MADRID,,Centre-Forward,6.0,11,1,1,397,0,0,1.8,"Aug 29, 2018","Jun 30, 2023",/mariano-diaz/profil/spieler/225020
+35,Juanmi Latasa,21,"Mar 23, 2001",Spain,REAL MADRID,,Centre-Forward,1.0,31,13,1,2386,0,0,1.92,-,"Jun 30, 2023",/juanmi-latasa/profil/spieler/623521
+36,Marc-André ter Stegen,30,"Apr 30, 1992",Germany,BARCELONA,,Goalkeeper,30.0,49,0,0,4470,57,15,1.87,"Jul 1, 2014","Jun 30, 2025",/marc-andre-ter-stegen/profil/spieler/74857
+39,Arnau Tenas,21,"May 30, 2001",Spain,BARCELONA,,Goalkeeper,1.5,18,0,0,1620,21,4,1.85,-,"Jun 30, 2023",/arnau-tenas/profil/spieler/466783
+40,Lazar Carevic,23,"Mar 16, 1999",Montenegro,BARCELONA,,Goalkeeper,0.2,9,0,0,810,20,0,1.95,-,"Jun 30, 2025",/lazar-carevic/profil/spieler/344457
+41,Ronald Araújo,23,"Mar 7, 1999 ",Uruguay,BARCELONA,,Centre-Back,50.0,43,4,0,3270,0,0,1.88,"Oct 5, 2020","Jun 30, 2026",/ronald-araujo/profil/spieler/480267
+42,Eric García,21,"Jan 9, 2001 ",Spain,BARCELONA,,Centre-Back,18.0,36,0,0,2808,0,0,1.82,"Jul 1, 2021","Jun 30, 2026",/eric-garcia/profil/spieler/466794
+45,Gerard Piqué,35,"Feb 2, 1987 ",Spain,BARCELONA,,Centre-Back,5.0,40,3,0,3101,0,0,1.94,"Jul 1, 2008",-,/gerard-pique/profil/spieler/18944
+47,Arnau Comas,22,"Apr 11, 2000",Spain,BARCELONA,,Centre-Back,1.0,29,0,0,2409,0,0,1.91,-,"Jun 30, 2026",/arnau-comas/profil/spieler/388542
+48,Mika Mármol,20,"Jul 1, 2001 ",Spain,BARCELONA,,Centre-Back,0.8,37,1,0,3184,0,0,1.82,-,"Jun 30, 2024",/mika-marmol/profil/spieler/617060
+49,Jordi Alba,33,"Mar 21, 1989",Spain,BARCELONA,,Left-Back,9.0,44,3,12,3893,0,0,1.7,"Jul 1, 2012","Jun 30, 2024",/jordi-alba/profil/spieler/69751
+50,Alejandro Balde,18,"Oct 18, 2003",Spain,BARCELONA,,Left-Back,4.0,22,0,1,1359,0,0,1.75,"Jul 1, 2022","Jun 30, 2024",/alejandro-balde/profil/spieler/636688
+51,Emerson Royal,23,"Jan 14, 1999",Brazil,BARCELONA,,Right-Back,25.0,44,1,1,2919,0,0,1.83,"Jul 1, 2021","Jun 30, 2026",/emerson-royal/profil/spieler/476344
+53,Sergi Roberto,30,"Feb 7, 1992 ",Spain,BARCELONA,,Right-Back,6.0,12,2,1,567,0,0,1.78,"Jul 1, 2013","Jun 30, 2024",/sergi-roberto/profil/spieler/85370
+55,Guillem Jaime,23,"Jan 6, 1999 ",Spain,BARCELONA,,Right-Back,0.3,22,0,4,1667,0,0,1.77,-,"Jun 30, 2023",/guillem-jaime/profil/spieler/331508
+56,Sergio Busquets,33,"Jul 16, 1988",Spain,BARCELONA,,Defensive Midfield,9.0,51,3,1,4420,0,0,1.89,"Jul 1, 2008","Jun 30, 2023",/sergio-busquets/profil/spieler/65230
+57,Jandro Orellana,21,"Aug 7, 2000 ",Spain,BARCELONA,,Defensive Midfield,1.5,23,0,4,1504,0,0,1.76,-,"Jun 30, 2025",/jandro-orellana/profil/spieler/388548
+58,Álvaro Sanz,21,"Feb 14, 2001",Spain,BARCELONA,,Defensive Midfield,0.7,34,1,1,2231,0,0,1.7,-,"Jun 30, 2025",/alvaro-sanz/profil/spieler/466806
+59,Pedri,19,"Nov 25, 2002",Spain,BARCELONA,,Central Midfield,80.0,22,5,1,1708,0,0,1.74,"Sep 2, 2019","Jun 30, 2026",/pedri/profil/spieler/683840
+60,Gavi,17,"Aug 5, 2004 ",Spain,BARCELONA,,Central Midfield,60.0,48,2,6,3136,0,0,1.73,"Jul 1, 2021","Jun 30, 2026",/gavi/profil/spieler/646740
+61,Frenkie de Jong,25,"May 12, 1997",Netherlands,BARCELONA,,Central Midfield,60.0,47,4,5,3527,0,0,1.81,"Jul 1, 2019","Jun 30, 2026",/frenkie-de-jong/profil/spieler/326330
+65,Lucas de Vega,22,"Jan 16, 2000",Brazil,BARCELONA,,Central Midfield,0.4,32,1,3,1525,0,0,1.8,-,"Jun 30, 2023",/lucas-de-vega/profil/spieler/388555
+66,Ansu Fati,19,"Oct 31, 2002",Spain,BARCELONA,,Left Winger,60.0,15,6,1,574,0,0,1.78,"Sep 23, 2020","Jun 30, 2027",/ansu-fati/profil/spieler/466810
+67,Ferran Torres,22,"Feb 29, 2000",Spain,BARCELONA,,Left Winger,45.0,33,10,7,2581,0,0,1.84,"Jan 1, 2022","Jun 30, 2027",/ferran-torres/profil/spieler/398184
+70,Estanis Pedrola,18,"Aug 24, 2003",Spain,BARCELONA,,Left Winger,,12,1,1,402,0,0,1.85,-,"Jun 30, 2024",/estanis-pedrola/profil/spieler/913539
+71,Ousmane Dembélé,25,"May 15, 1997",France,BARCELONA,,Right Winger,30.0,32,2,13,1943,0,0,1.78,"Aug 25, 2017","Jun 30, 2024",/ousmane-dembele/profil/spieler/288230
+74,Ilias Akhomach,18,"Apr 16, 2004",Spain,BARCELONA,,Right Winger,3.0,22,3,0,1321,0,0,1.75,-,"Jun 30, 2023",/ilias-akhomach/profil/spieler/709969
+75,Antoine Griezmann,31,"Mar 21, 1991",France,BARCELONA,,Second Striker,35.0,39,8,7,2522,0,0,1.76,"Jul 14, 2019","Jun 30, 2023",/antoine-griezmann/profil/spieler/125781
+76,Memphis Depay,28,"Feb 13, 1994",Netherlands,BARCELONA,,Centre-Forward,35.0,38,13,2,2495,0,0,1.78,"Jul 1, 2021","Jun 30, 2025",/memphis-depay/profil/spieler/167850
+80,Ferran Jutglà,23,"Feb 1, 1999 ",Spain,BARCELONA,,Centre-Forward,3.0,41,21,6,3177,0,0,1.75,-,"Jun 30, 2027",/ferran-jutgla/profil/spieler/599231
+83,Bono,31,"Apr 5, 1991 ",Morocco,SEVILLA,,Goalkeeper,18.0,41,0,0,3720,33,16,1.92,"Sep 4, 2020","Jun 30, 2025",/bono/profil/spieler/207834
+84,Marko Dmitrović,30,"Jan 24, 1992",Serbia,SEVILLA,,Goalkeeper,5.0,9,0,0,870,6,6,1.94,"Jul 4, 2021","Jun 30, 2025",/marko-dmitrovi%C4%87/profil/spieler/94308
+86,Alfonso Pastor,21,"Oct 4, 2000 ",Spain,SEVILLA,,Goalkeeper,0.25,13,0,0,1170,29,2,1.9,-,"Jun 30, 2023",/alfonso-pastor/profil/spieler/537367
+87,Adrián González,22,"Mar 20, 2000",Spain,SEVILLA,,Goalkeeper,0.05,4,0,0,360,4,1,1.88,-,"Jun 30, 2023",/adrian-gonzalez/profil/spieler/537369
+88,Alberto Flores,18,"Nov 10, 2003",Spain,SEVILLA,,Goalkeeper,,8,0,0,720,5,5,1.87,-,"Jun 30, 2024",/alberto-flores/profil/spieler/766552
+91,Karim Rekik,27,"Dec 2, 1994 ",Netherlands,SEVILLA,,Centre-Back,5.0,26,0,2,1554,0,0,1.86,"Oct 5, 2020","Jun 30, 2025",/karim-rekik/profil/spieler/182579
+92,Kike Salas,20,"Apr 23, 2002",Spain,SEVILLA,,Centre-Back,0.15,37,1,2,3126,0,0,1.88,"Jan 1, 2023","Jun 30, 2023",/kike-salas/profil/spieler/766583
+93,Marcos Acuña,30,"Oct 28, 1991",Argentina,SEVILLA,,Left-Back,18.0,41,1,4,2988,0,0,1.72,"Sep 14, 2020","Jun 30, 2025",/marcos-acuna/profil/spieler/60410
+95,Juan María Alcedo,21,"Feb 5, 2001 ",Spain,SEVILLA,,Left-Back,0.2,36,0,2,2911,0,0,1.79,-,"Jun 30, 2025",/juan-maria-alcedo/profil/spieler/628923
+96,Pablo Pérez,20,"Aug 18, 2001",Spain,SEVILLA,,Left-Back,0.1,15,2,0,933,0,0,1.74,-,"Jun 30, 2024",/pablo-perez/profil/spieler/711628
+97,Gonzalo Montiel,25,"Jan 1, 1997 ",Argentina,SEVILLA,,Right-Back,14.0,28,1,3,1643,0,0,1.75,"Aug 13, 2021","Jun 30, 2026",/gonzalo-montiel/profil/spieler/402733
+99,Jesús Navas,36,"Nov 21, 1985",Spain,SEVILLA,,Right-Back,3.0,33,0,3,2362,0,0,1.72,"Aug 1, 2017","Jun 30, 2024",/jesus-navas/profil/spieler/15956
+100,Valentino Fattore,20,"Aug 10, 2001",Spain,SEVILLA,,Right-Back,0.4,31,2,1,2576,0,0,1.78,-,"Jun 30, 2023",/valentino-fattore/profil/spieler/537373
+101,José Ángel Carmona,20,"Jan 29, 2002",Spain,SEVILLA,,Right-Back,0.2,19,0,1,1144,0,0,1.84,"Jul 1, 2022","Jun 30, 2023",/jose-angel-carmona/profil/spieler/711625
+102,Nemanja Gudelj,30,"Nov 16, 1991",Serbia,SEVILLA,,Defensive Midfield,4.0,28,0,0,1549,0,0,1.87,"Jul 23, 2019","Jun 30, 2023",/nemanja-gudelj/profil/spieler/74294
+103,Fernando,34,"Jul 25, 1987",Brazil,SEVILLA,,Defensive Midfield,4.0,32,1,1,2541,0,0,1.83,"Jul 12, 2019","Jun 30, 2024",/fernando/profil/spieler/51174
+104,Joan Jordán,27,"Jul 6, 1994 ",Spain,SEVILLA,,Central Midfield,22.0,49,1,1,3312,0,0,1.85,"Jul 1, 2019","Jun 30, 2027",/joan-jordan/profil/spieler/263727
+105,Óliver Torres,27,"Nov 10, 1994",Spain,SEVILLA,,Central Midfield,8.0,38,2,4,1665,0,0,1.75,"Jul 15, 2019","Jun 30, 2024",/oliver-torres/profil/spieler/214775
+106,Thomas Delaney,30,"Sep 3, 1991 ",Denmark,SEVILLA,,Central Midfield,7.0,37,2,1,2040,0,0,1.82,"Aug 25, 2021","Jun 30, 2023",/thomas-delaney/profil/spieler/91849
+107,Ivan Rakitic,34,"Mar 10, 1988",Croatia,SEVILLA,,Central Midfield,7.0,46,7,7,2933,0,0,1.84,"Sep 1, 2020","Jun 30, 2024",/ivan-rakitic/profil/spieler/32467
+108,Pedro Ortiz,21,"Aug 19, 2000",Spain,SEVILLA,,Central Midfield,0.15,12,0,0,637,0,0,1.84,-,"Jun 30, 2023",/pedro-ortiz/profil/spieler/610238
+110,Nacho Quintana,21,"Feb 23, 2001",Spain,SEVILLA,,Attacking Midfield,0.3,35,5,1,2442,0,0,1.78,-,"Jun 30, 2024",/nacho-quintana/profil/spieler/536826
+112,Papu Gómez,34,"Feb 15, 1988",Argentina,SEVILLA,,Left Winger,6.0,40,6,3,2558,0,0,1.67,"Jan 26, 2021","Jun 30, 2024",/papu-gomez/profil/spieler/20005
+114,Tecatito,29,"Jan 6, 1993 ",Mexico,SEVILLA,,Right Winger,18.0,40,2,5,2178,0,0,1.73,"Jan 14, 2022","Jun 30, 2025",/tecatito/profil/spieler/125165
+115,Erik Lamela,30,"Mar 4, 1992 ",Argentina,SEVILLA,,Right Winger,16.0,24,5,3,1131,0,0,1.84,"Jul 26, 2021","Jun 30, 2024",/erik-lamela/profil/spieler/111630
+116,Suso,28,"Nov 19, 1993",Spain,SEVILLA,,Right Winger,10.0,12,0,1,615,0,0,1.77,"Jul 21, 2020","Jun 30, 2025",/suso/profil/spieler/111961
+117,Juanlu Sánchez,18,"Aug 15, 2003",Spain,SEVILLA,,Right Winger,0.5,36,5,2,2777,0,0,1.86,-,"Jun 30, 2023",/juanlu-sanchez/profil/spieler/676042
+118,Luismi Cruz,21,"May 23, 2001",Spain,SEVILLA,,Right Winger,0.4,33,5,5,2157,0,0,1.66,-,"Jun 30, 2023",/luismi-cruz/profil/spieler/610461
+119,Antonio Zarzana,20,"Mar 21, 2002",Spain,SEVILLA,,Right Winger,0.2,38,3,4,2452,0,0,1.77,-,"Jun 30, 2023",/antonio-zarzana/profil/spieler/587562
+120,Youssef En-Nesyri,25,"Jun 1, 1997 ",Morocco,SEVILLA,,Centre-Forward,25.0,29,5,3,1580,0,0,1.92,"Jan 16, 2020","Jun 30, 2025",/youssef-en-nesyri/profil/spieler/433049
+122,Rafa Mir,25,"Jun 18, 1997",Spain,SEVILLA,,Centre-Forward,16.0,47,13,0,2467,0,0,1.91,"Aug 20, 2021","Jun 30, 2027",/rafa-mir/profil/spieler/361254
+126,Jan Oblak,29,"Jan 7, 1993 ",Slovenia,ATLETICO MADRID,,Goalkeeper,45.0,51,0,0,4590,57,16,1.88,"Jul 16, 2014","Jun 30, 2028",/jan-oblak/profil/spieler/121483
+128,Ivo Grbic,26,"Jan 18, 1996",Croatia,ATLETICO MADRID,,Goalkeeper,3.5,29,0,0,2610,35,5,1.95,"Aug 20, 2020","Jun 30, 2024",/ivo-grbic/profil/spieler/226073
+129,Christian Gómez,22,"May 18, 2000",Spain,ATLETICO MADRID,,Goalkeeper,,-,0,0,0,0,0,1.87,-,"Jun 30, 2023",/christian-gomez/profil/spieler/461613
+130,Alejandro Iturbe,18,"Sep 2, 2003 ",Spain,ATLETICO MADRID,,Goalkeeper,,8,0,0,720,11,3,1.86,-,"Jun 30, 2027",/alejandro-iturbe/profil/spieler/618801
+131,Antonio Gomis,19,"May 20, 2003",Spain,ATLETICO MADRID,,Goalkeeper,,2,0,0,180,2,1,-,-,"Jun 30, 2025",/antonio-gomis/profil/spieler/930415
+132,José María Giménez,27,"Jan 20, 1995",Uruguay,ATLETICO MADRID,,Centre-Back,50.0,33,1,1,2765,0,0,1.85,"Apr 25, 2013","Jun 30, 2025",/jose-maria-gimenez/profil/spieler/250845
+133,Mario Hermoso,27,"Jun 18, 1995",Spain,ATLETICO MADRID,,Centre-Back,20.0,34,2,1,2473,0,0,1.84,"Jul 18, 2019","Jun 30, 2024",/mario-hermoso/profil/spieler/281769
+134,Stefan Savic,31,"Jan 8, 1991 ",Montenegro,ATLETICO MADRID,,Centre-Back,16.0,33,0,0,2891,0,0,1.87,"Jul 20, 2015","Jun 30, 2024",/stefan-savic/profil/spieler/107010
+135,Felipe,33,"May 16, 1989",Brazil,ATLETICO MADRID,,Centre-Back,6.0,35,2,1,2146,0,0,1.9,"Jul 1, 2019","Jun 30, 2024",/felipe/profil/spieler/156501
+137,Marco Moreno,21,"Feb 20, 2001",Spain,ATLETICO MADRID,,Centre-Back,,-,0,0,0,0,0,1.91,-,"Jun 30, 2025",/marco-moreno/profil/spieler/534376
+138,Joan Rojas,22,"Jan 14, 2000",Spain,ATLETICO MADRID,,Centre-Back,,-,0,0,0,0,0,1.85,-,"Jun 30, 2023",/joan-rojas/profil/spieler/537458
+139,Manu Lama,21,"Feb 12, 2001",Spain,ATLETICO MADRID,,Centre-Back,,-,0,0,0,0,0,1.92,-,"Jun 30, 2025",/manu-lama/profil/spieler/628464
+140,Ibra Cámara,19,"Jan 18, 2003",Spain,ATLETICO MADRID,,Centre-Back,,9,0,0,801,0,0,1.81,-,"Jun 30, 2023",/ibra-camara/profil/spieler/668273
+141,Fran González,23,"Aug 13, 1998",Spain,ATLETICO MADRID,,Centre-Back,,-,0,0,0,0,0,1.9,-,"Jun 30, 2023",/fran-gonzalez/profil/spieler/784717
+143,Reinildo Mandava,28,"Jan 21, 1994",Mozambique,ATLETICO MADRID,,Left-Back,22.0,48,1,0,3836,0,0,1.8,"Jan 31, 2022","Jun 30, 2025",/reinildo-mandava/profil/spieler/240692
+147,Sergio Camus,25,"Apr 19, 1997",Spain,ATLETICO MADRID,,Right-Back,,11,0,0,667,0,0,1.76,-,-,/sergio-camus/profil/spieler/379632
+148,Sergio Diez,18,"Jul 28, 2003",Spain,ATLETICO MADRID,,Right-Back,,10,1,0,825,0,0,1.78,-,"Jun 30, 2025",/sergio-diez/profil/spieler/935456
+149,Geoffrey Kondogbia,29,"Feb 15, 1993",Central African Republic,ATLETICO MADRID,,Defensive Midfield,20.0,39,1,2,2602,0,0,1.88,"Nov 3, 2020","Jun 30, 2024",/geoffrey-kondogbia/profil/spieler/127189
+150,Marcos Llorente,27,"Jan 30, 1995",Spain,ATLETICO MADRID,,Central Midfield,45.0,40,0,3,3246,0,0,1.84,"Jul 1, 2019","Jun 30, 2027",/marcos-llorente/profil/spieler/282411
+151,Rodrigo de Paul,28,"May 24, 1994",Argentina,ATLETICO MADRID,,Central Midfield,40.0,48,4,2,2938,0,0,1.8,"Jul 12, 2021","Jun 30, 2026",/rodrigo-de-paul/profil/spieler/255901
+152,Koke,30,"Jan 8, 1992 ",Spain,ATLETICO MADRID,,Central Midfield,25.0,43,1,3,3357,0,0,1.76,"Jan 1, 2011","Jun 30, 2024",/koke/profil/spieler/74229
+153,Saúl Ñíguez,27,"Nov 21, 1994",Spain,ATLETICO MADRID,,Central Midfield,25.0,26,1,1,1379,0,0,1.84,"Jul 1, 2013","Jun 30, 2026",/saul-niguez/profil/spieler/148928
+155,Alberto Moreno,20,"Apr 19, 2002",Spain,ATLETICO MADRID,,Central Midfield,,3,0,1,179,0,0,1.75,-,"Jun 30, 2023",/alberto-moreno/profil/spieler/568149
+156,Javi Serrano,19,"Jan 16, 2003",Spain,ATLETICO MADRID,,Central Midfield,,11,1,0,419,0,0,1.78,-,"Jun 30, 2023",/javi-serrano/profil/spieler/668177
+157,Pablo Barrios,19,"Jun 15, 2003",Spain,ATLETICO MADRID,,Central Midfield,,10,2,1,884,0,0,1.81,"Jan 23, 2023","Jun 30, 2028",/pablo-barrios/profil/spieler/775605
+158,Thomas Lemar,26,"Nov 12, 1995",France,ATLETICO MADRID,,Attacking Midfield,40.0,35,4,6,1996,0,0,1.71,"Jul 1, 2018","Jun 30, 2027",/thomas-lemar/profil/spieler/205562
+159,Yannick Carrasco,28,"Sep 4, 1993 ",Belgium,ATLETICO MADRID,,Left Winger,40.0,44,6,7,3320,0,0,1.81,"Sep 8, 2020","Jun 30, 2024",/yannick-carrasco/profil/spieler/140776
+160,Ángel Correa,27,"Mar 9, 1995 ",Argentina,ATLETICO MADRID,,Right Winger,45.0,49,13,6,2424,0,0,1.71,"Jan 1, 2015","Jun 30, 2026",/angel-correa/profil/spieler/266807
+161,João Félix,22,"Nov 10, 1999",Portugal,ATLETICO MADRID,,Second Striker,70.0,35,10,6,2048,0,0,1.81,"Jul 3, 2019","Jun 30, 2023",/joao-felix/profil/spieler/462250
+162,Antoine Griezmann,31,"Mar 21, 1991",France,ATLETICO MADRID,,Second Striker,35.0,39,8,7,2522,0,0,1.76,"Aug 31, 2021","Jun 30, 2023",/antoine-griezmann/profil/spieler/125781
+163,Matheus Cunha,23,"May 27, 1999",Brazil,ATLETICO MADRID,,Centre-Forward,30.0,38,7,7,1341,0,0,1.83,"Aug 25, 2021","Jun 30, 2023",/matheus-cunha/profil/spieler/517894
+168,Carlos Martín,20,"Apr 22, 2002",Spain,ATLETICO MADRID,,Centre-Forward,,11,1,3,749,0,0,1.8,-,"Jun 30, 2026",/carlos-martin/profil/spieler/618813
+169,Álex Remiro,27,"Mar 24, 1995",Spain,REAL SOCIEDAD,,Goalkeeper,22.0,42,0,0,3780,40,22,1.91,"Jul 1, 2019","Jun 30, 2027",/alex-remiro/profil/spieler/212862
+171,Gaizka Ayesa,21,"Apr 2, 2001 ",Spain,REAL SOCIEDAD,,Goalkeeper,1.0,21,0,0,1857,36,1,1.82,-,"Jun 30, 2023",/gaizka-ayesa/profil/spieler/561702
+172,Unai Marrero,20,"Oct 9, 2001 ",Spain,REAL SOCIEDAD,,Goalkeeper,0.15,24,0,0,2152,19,11,1.89,-,"Jun 30, 2026",/unai-marrero/profil/spieler/625657
+173,Robin Le Normand,25,"Nov 11, 1996",France,REAL SOCIEDAD,,Centre-Back,30.0,48,2,2,4252,0,0,1.87,"Jul 1, 2019","Jun 30, 2026",/robin-le-normand/profil/spieler/351809
+174,Aritz Elustondo,28,"Mar 28, 1994",Spain,REAL SOCIEDAD,,Centre-Back,20.0,40,4,2,2922,0,0,1.82,"Jan 4, 2016","Jun 30, 2026",/aritz-elustondo/profil/spieler/229804
+175,Igor Zubeldia,25,"Mar 30, 1997",Spain,REAL SOCIEDAD,,Centre-Back,15.0,34,0,2,2220,0,0,1.81,"Jul 1, 2017","Jun 30, 2024",/igor-zubeldia/profil/spieler/355628
+176,Urko González,21,"Mar 20, 2001",Spain,REAL SOCIEDAD,,Centre-Back,1.0,35,0,1,3027,0,0,1.89,-,"Jun 30, 2028",/urko-gonzalez/profil/spieler/625651
+177,Jon Pacheco,21,"Jan 8, 2001 ",Spain,REAL SOCIEDAD,,Centre-Back,1.0,18,0,0,870,0,0,1.84,"Jul 1, 2022","Jun 30, 2027",/jon-pacheco/profil/spieler/580560
+178,Aihen Muñoz,24,"Aug 16, 1997",Spain,REAL SOCIEDAD,,Left-Back,6.0,31,1,1,2208,0,0,1.75,"Jul 1, 2019","Jun 30, 2024",/aihen-munoz/profil/spieler/517842
+179,Diego Rico,29,"Feb 23, 1993",Spain,REAL SOCIEDAD,,Left-Back,3.0,26,0,1,1922,0,0,1.83,"Jul 26, 2021","Jun 30, 2025",/diego-rico/profil/spieler/249513
+181,Jonathan Gómez,18,"Sep 1, 2003 ",United States,REAL SOCIEDAD,,Left-Back,0.5,14,0,1,909,0,0,1.78,-,"Jun 30, 2025",/jonathan-gomez/profil/spieler/674501
+182,Cristo Romero,22,"Apr 30, 2000",Spain,REAL SOCIEDAD,,Left-Back,0.3,18,0,2,1053,0,0,1.74,-,"Jun 30, 2024",/cristo-romero/profil/spieler/696890
+183,Andoni Gorosabel,25,"Aug 4, 1996 ",Spain,REAL SOCIEDAD,,Right-Back,10.0,40,0,4,2632,0,0,1.74,"Jul 1, 2018","Jun 30, 2024",/andoni-gorosabel/profil/spieler/289255
+185,Álex Sola,23,"Jun 9, 1999 ",Spain,REAL SOCIEDAD,,Right-Back,0.3,18,2,2,1116,0,0,1.78,"Jul 1, 2022","Jun 30, 2026",/alex-sola/profil/spieler/434990
+186,Martín Zubimendi,23,"Feb 2, 1999 ",Spain,REAL SOCIEDAD,,Defensive Midfield,30.0,47,3,2,3325,0,0,1.81,"Sep 10, 2020","Jun 30, 2027",/martin-zubimendi/profil/spieler/423440
+187,Asier Illarramendi,32,"Mar 8, 1990 ",Spain,REAL SOCIEDAD,,Defensive Midfield,3.0,10,0,0,415,0,0,1.79,"Aug 26, 2015","Jun 30, 2023",/asier-illarramendi/profil/spieler/59344
+188,Mikel Merino,26,"Jun 22, 1996",Spain,REAL SOCIEDAD,,Central Midfield,50.0,43,4,4,3676,0,0,1.89,"Jul 12, 2018","Jun 30, 2025",/mikel-merino/profil/spieler/338424
+189,Ander Guevara,24,"Jul 7, 1997 ",Spain,REAL SOCIEDAD,,Central Midfield,5.0,24,0,0,1349,0,0,1.8,"Jul 1, 2019","Jun 30, 2024",/ander-guevara/profil/spieler/465967
+190,Beñat Turrientes,20,"Jan 31, 2002",Spain,REAL SOCIEDAD,,Central Midfield,3.0,33,1,1,2073,0,0,1.81,"Jul 1, 2022","Jun 30, 2027",/benat-turrientes/profil/spieler/634431
+192,Jon Ander Olasagasti,21,"Aug 16, 2000",Spain,REAL SOCIEDAD,,Central Midfield,1.0,35,4,4,2940,0,0,1.76,-,"Jun 30, 2025",/jon-ander-olasagasti/profil/spieler/625660
+194,David Silva,36,"Jan 8, 1986 ",Spain,REAL SOCIEDAD,,Attacking Midfield,4.0,32,2,6,2104,0,0,1.7,"Aug 17, 2020","Jun 30, 2023",/david-silva/profil/spieler/35518
+196,Mikel Oyarzabal,25,"Apr 21, 1997",Spain,REAL SOCIEDAD,,Left Winger,60.0,33,15,4,2548,0,0,1.81,"Jan 1, 2016","Jun 30, 2028",/mikel-oyarzabal/profil/spieler/351478
+197,Ander Barrenetxea,20,"Dec 27, 2001",Spain,REAL SOCIEDAD,,Left Winger,9.0,16,1,2,745,0,0,1.75,"Jul 1, 2019","Jun 30, 2027",/ander-barrenetxea/profil/spieler/616369
+198,Näis Djouahra,22,"Nov 23, 1999",France,REAL SOCIEDAD,,Left Winger,1.5,30,1,0,1380,0,0,1.72,-,"Jun 30, 2025",/nais-djouahra/profil/spieler/594926
+201,Germán Valera,20,"Mar 16, 2002",Spain,REAL SOCIEDAD,,Right Winger,1.5,23,1,0,858,0,0,1.7,-,"Jun 30, 2023",/german-valera/profil/spieler/548188
+202,Ander Martín,21,"Nov 16, 2000",Spain,REAL SOCIEDAD,,Right Winger,0.5,36,3,3,2018,0,0,1.77,-,"Jun 30, 2024",/ander-martin/profil/spieler/625658
+205,Jon Karrikaburu,19,"Sep 19, 2002",Spain,REAL SOCIEDAD,,Centre-Forward,5.0,37,11,2,2123,0,0,1.83,"Jul 1, 2022","Jun 30, 2023",/jon-karrikaburu/profil/spieler/711382
+206,Carlos Fernández,26,"May 22, 1996",Spain,REAL SOCIEDAD,,Centre-Forward,5.0,,0,0,0,0,0,1.85,"Jan 24, 2021","Jun 30, 2026",/carlos-fernandez/profil/spieler/216464
+209,Rui Silva,28,"Feb 7, 1994 ",Portugal,REAL BETIS,,Goalkeeper,15.0,32,0,0,2821,34,11,1.91,"Jul 1, 2021","Jun 30, 2026",/rui-silva/profil/spieler/234811
+211,Claudio Bravo,39,"Apr 13, 1983",Chile,REAL BETIS,,Goalkeeper,1.0,23,0,0,2009,27,7,1.84,"Aug 30, 2020","Jun 30, 2023",/claudio-bravo/profil/spieler/40423
+212,Dani Rebollo,22,"Dec 10, 1999",Spain,REAL BETIS,,Goalkeeper,0.1,23,0,0,2070,38,3,1.88,-,"Jun 30, 2023",/dani-rebollo/profil/spieler/566666
+214,Edgar González,25,"Apr 1, 1997 ",Spain,REAL BETIS,,Centre-Back,6.0,35,1,1,2658,0,0,1.93,"Jul 21, 2020","Jun 30, 2025",/edgar-gonzalez/profil/spieler/401624
+215,Germán Pezzella,31,"Jun 27, 1991",Argentina,REAL BETIS,,Centre-Back,5.0,35,1,1,3155,0,0,1.87,"Aug 19, 2021","Jun 30, 2025",/german-pezzella/profil/spieler/113133
+217,Víctor Ruiz,33,"Jan 25, 1989",Spain,REAL BETIS,,Centre-Back,1.5,23,0,1,1791,0,0,1.84,"Aug 31, 2020","Jun 30, 2023",/victor-ruiz/profil/spieler/62920
+218,Kike Hermoso,22,"Aug 10, 1999",Spain,REAL BETIS,,Centre-Back,0.2,26,1,0,1829,0,0,1.9,-,"Jun 30, 2023",/kike-hermoso/profil/spieler/531824
+219,Álex Moreno,29,"Jun 8, 1993 ",Spain,REAL BETIS,,Left-Back,18.0,45,5,5,3392,0,0,1.79,"Aug 21, 2019","Jun 30, 2026",/alex-moreno/profil/spieler/193098
+220,Juan Miranda,22,"Jan 19, 2000",Spain,REAL BETIS,,Left-Back,5.0,23,1,2,1369,0,0,1.85,"Jul 1, 2021","Jun 30, 2024",/juan-miranda/profil/spieler/341227
+221,Marc Baró,22,"Aug 23, 1999",Spain,REAL BETIS,,Left-Back,0.2,33,0,1,2208,0,0,1.84,-,"Jun 30, 2023",/marc-baro/profil/spieler/388512
+222,José Calderón,22,"Jan 7, 2000 ",Spain,REAL BETIS,,Left-Back,0.2,17,0,1,1254,0,0,1.7,-,"Jun 30, 2023",/jose-calderon/profil/spieler/630998
+224,Youssouf Sabaly,29,"Mar 5, 1993 ",Senegal,REAL BETIS,,Right-Back,3.0,17,0,1,1408,0,0,1.73,"Jul 1, 2021","Jun 30, 2026",/youssouf-sabaly/profil/spieler/135492
+225,Aitor Ruibal,26,"Mar 22, 1996",Spain,REAL BETIS,,Right-Back,3.0,33,1,2,1806,0,0,1.76,"Jul 1, 2019","Jun 30, 2025",/aitor-ruibal/profil/spieler/378139
+226,Martín Montoya,31,"Apr 14, 1991",Spain,REAL BETIS,,Right-Back,1.5,10,0,1,802,0,0,1.75,"Aug 25, 2020","Jun 30, 2024",/martin-montoya/profil/spieler/68645
+227,Fran Delgado,20,"Jul 11, 2001",Spain,REAL BETIS,,Right-Back,0.4,34,0,1,2082,0,0,1.81,-,"Jun 30, 2024",/fran-delgado/profil/spieler/711638
+228,Guido Rodríguez,28,"Apr 12, 1994",Argentina,REAL BETIS,,Defensive Midfield,25.0,47,2,3,3843,0,0,1.85,"Jan 14, 2020","Jun 30, 2024",/guido-rodriguez/profil/spieler/342385
+229,William Carvalho,30,"Apr 7, 1992 ",Portugal,REAL BETIS,,Defensive Midfield,16.0,49,4,5,2933,0,0,1.87,"Jul 13, 2018","Jun 30, 2026",/william-carvalho/profil/spieler/100131
+230,Paul Akouokou,24,"Dec 20, 1997",Cote d'Ivoire,REAL BETIS,,Defensive Midfield,4.0,11,0,0,755,0,0,1.81,"Sep 10, 2020","Jun 30, 2024",/paul-akouokou/profil/spieler/429901
+231,Andrés Guardado,35,"Sep 28, 1986",Mexico,REAL BETIS,,Central Midfield,1.5,36,1,1,1778,0,0,1.67,"Jul 7, 2017","Jun 30, 2023",/andres-guardado/profil/spieler/20506
+232,Víctor Camarasa,28,"May 28, 1994",Spain,REAL BETIS,,Central Midfield,1.0,7,0,0,101,0,0,1.83,"Jul 1, 2017","Jun 30, 2023",/victor-camarasa/profil/spieler/263856
+233,Antonio Marchena,19,"Jul 27, 2002",Spain,REAL BETIS,,Central Midfield,0.1,27,1,1,1410,0,0,1.82,-,"Jun 30, 2024",/antonio-marchena/profil/spieler/718580
+234,Nabil Fekir,28,"Jul 18, 1993",France,REAL BETIS,,Attacking Midfield,40.0,47,10,10,3927,0,0,1.73,"Jul 23, 2019","Jun 30, 2026",/nabil-fekir/profil/spieler/203496
+235,Sergio Canales,31,"Feb 16, 1991",Spain,REAL BETIS,,Attacking Midfield,20.0,48,8,12,3765,0,0,1.78,"Jul 3, 2018","Jun 30, 2026",/sergio-canales/profil/spieler/66106
+236,Rodri Sánchez,22,"May 16, 2000",Spain,REAL BETIS,,Attacking Midfield,4.0,28,1,4,1103,0,0,1.75,"Jul 1, 2021","Jun 30, 2026",/rodri-sanchez/profil/spieler/630995
+237,Yassin Fekir,25,"May 5, 1997 ",France,REAL BETIS,,Attacking Midfield,0.3,32,2,1,2302,0,0,1.7,"Feb 1, 2021","Jun 30, 2023",/yassin-fekir/profil/spieler/395694
+238,Juanmi,29,"May 20, 1993",Spain,REAL BETIS,,Left Winger,15.0,46,20,5,2912,0,0,1.72,"Jul 1, 2019","Jun 30, 2026",/juanmi/profil/spieler/126737
+242,Joaquín,40,"Jul 21, 1981",Spain,REAL BETIS,,Right Winger,1.5,36,2,4,1207,0,0,1.81,"Aug 31, 2015","Jun 30, 2023",/joaquin/profil/spieler/7663
+243,Borja Iglesias,29,"Jan 17, 1993",Spain,REAL BETIS,,Centre-Forward,15.0,51,19,1,2774,0,0,1.87,"Aug 14, 2019","Jun 30, 2026",/borja-iglesias/profil/spieler/278359
+247,Gerónimo Rulli,30,"May 20, 1992",Argentina,VILLARREAL,,Goalkeeper,6.0,46,0,0,4108,46,18,1.89,"Sep 4, 2020","Jun 30, 2026",/geronimo-rulli/profil/spieler/229604
+249,Iker Álvarez,20,"Jul 25, 2001",Andorra,VILLARREAL,,Goalkeeper,0.3,20,0,0,1750,20,8,1.9,-,"Jun 30, 2024",/iker-alvarez/profil/spieler/547248
+250,Filip Jörgensen,20,"Apr 16, 2002",Denmark,VILLARREAL,,Goalkeeper,0.3,21,0,0,1792,20,8,1.9,"Jan 5, 2023","Jun 30, 2025",/filip-jorgensen/profil/spieler/585323
+251,Pau Torres,25,"Jan 16, 1997",Spain,VILLARREAL,,Centre-Back,50.0,47,6,1,4146,0,0,1.91,"Jul 1, 2018","Jun 30, 2024",/pau-torres/profil/spieler/399776
+253,Aïssa Mandi,30,"Oct 22, 1991",Algeria,VILLARREAL,,Centre-Back,6.0,22,2,0,1606,0,0,1.84,"Jul 1, 2021","Jun 30, 2025",/aissa-mandi/profil/spieler/80293
+254,Raúl Albiol,36,"Sep 4, 1985 ",Spain,VILLARREAL,,Centre-Back,3.0,43,1,0,3731,0,0,1.9,"Jul 4, 2019","Jun 30, 2023",/raul-albiol/profil/spieler/15452
+255,Adrián de la Fuente,23,"Feb 26, 1999",Spain,VILLARREAL,,Centre-Back,0.6,38,5,3,3337,0,0,1.79,-,"Jun 30, 2023",/adrian-de-la-fuente/profil/spieler/341263
+257,Alfonso Pedraza,26,"Apr 9, 1996 ",Spain,VILLARREAL,,Left-Back,18.0,41,4,7,2368,0,0,1.84,"Jul 1, 2016","Jun 30, 2026",/alfonso-pedraza/profil/spieler/356197
+258,Alberto Moreno,29,"Jul 5, 1992 ",Spain,VILLARREAL,,Left-Back,5.0,35,6,4,1812,0,0,1.71,"Jul 9, 2019","Jun 30, 2024",/alberto-moreno/profil/spieler/207917
+259,Dani Tasende,21,"Jul 6, 2000 ",Spain,VILLARREAL,,Left-Back,0.5,40,4,4,3164,0,0,1.72,-,"Jun 30, 2025",/dani-tasende/profil/spieler/627282
+260,Juan Foyth,24,"Jan 12, 1998",Argentina,VILLARREAL,,Right-Back,25.0,38,1,1,3022,0,0,1.87,"Jul 1, 2021","Jun 30, 2026",/juan-foyth/profil/spieler/480763
+264,Lanchi,21,"Jun 23, 2001",Spain,VILLARREAL,,Right-Back,0.2,11,0,0,427,0,0,-,-,"Jun 30, 2023",/lanchi/profil/spieler/631098
+265,Francis Coquelin,31,"May 13, 1991",France,VILLARREAL,,Defensive Midfield,5.0,28,3,2,1285,0,0,1.77,"Aug 12, 2020","Jun 30, 2024",/francis-coquelin/profil/spieler/74869
+266,Étienne Capoue,33,"Jul 11, 1988",France,VILLARREAL,,Defensive Midfield,3.0,44,3,5,3502,0,0,1.89,"Jan 4, 2021","Jun 30, 2024",/etienne-capoue/profil/spieler/63494
+269,Manu Trigueros,30,"Oct 17, 1991",Spain,VILLARREAL,,Central Midfield,14.0,47,8,4,2748,0,0,1.78,"Jul 1, 2012","Jun 30, 2025",/manu-trigueros/profil/spieler/188854
+270,Dani Parejo,33,"Apr 16, 1989",Spain,VILLARREAL,,Central Midfield,9.0,46,3,13,3790,0,0,1.82,"Aug 12, 2020","Jun 30, 2024",/dani-parejo/profil/spieler/59561
+272,Antonio Pacheco,20,"Jan 3, 2002 ",Spain,VILLARREAL,,Central Midfield,0.2,38,5,3,1812,0,0,1.84,-,"Jun 30, 2025",/antonio-pacheco/profil/spieler/568156
+273,Carlo García,21,"Feb 12, 2001",Spain,VILLARREAL,,Attacking Midfield,0.4,36,3,2,2649,0,0,1.82,-,"Jun 30, 2026",/carlo-garcia/profil/spieler/627287
+274,Arnaut Danjuma,25,"Jan 31, 1997",Netherlands,VILLARREAL,,Left Winger,50.0,34,16,4,2384,0,0,1.78,"Aug 19, 2021","Jun 30, 2023",/arnaut-danjuma/profil/spieler/355861
+276,Nikita Iosifov,21,"Apr 11, 2001",Russia,VILLARREAL,,Left Winger,1.2,32,7,1,1358,0,0,1.75,-,"Jun 30, 2026",/nikita-iosifov/profil/spieler/614464
+277,Yéremy Pino,19,"Oct 20, 2002",Spain,VILLARREAL,,Right Winger,40.0,40,7,4,2219,0,0,1.72,"Aug 1, 2020","Jun 30, 2027",/yeremy-pino/profil/spieler/568157
+278,Samuel Chukwueze,23,"May 22, 1999",Nigeria,VILLARREAL,,Right Winger,20.0,38,7,3,1767,0,0,1.72,"Nov 1, 2018","Jun 30, 2024",/samuel-chukwueze/profil/spieler/401922
+280,Gerard Moreno,30,"Apr 7, 1992 ",Spain,VILLARREAL,,Centre-Forward,40.0,27,13,6,1910,0,0,1.8,"Jul 1, 2018","Jun 30, 2027",/gerard-moreno/profil/spieler/177467
+284,Nicolas Jackson,21,"Jun 20, 2001",Senegal,VILLARREAL,,Centre-Forward,1.0,36,7,9,2399,0,0,1.88,"Jul 1, 2022","Jun 30, 2026",/nicolas-jackson/profil/spieler/776890
+285,Juan Carlos Arana,22,"Feb 8, 2000 ",Spain,VILLARREAL,,Centre-Forward,0.8,38,16,4,2677,0,0,1.82,-,"Jun 30, 2025",/juan-carlos-arana/profil/spieler/461631
+286,Unai Simón,25,"Jun 11, 1997",Spain,ATHLETIC BILBAO,,Goalkeeper,25.0,36,0,0,3240,34,12,1.9,"Jul 1, 2018","Jun 30, 2025",/unai-simon/profil/spieler/262396
+287,Julen Agirrezabala,21,"Dec 26, 2000",Spain,ATHLETIC BILBAO,,Goalkeeper,5.0,36,0,0,3270,42,9,1.87,"Jul 1, 2022","Jun 30, 2025",/julen-agirrezabala/profil/spieler/625014
+289,Ander Iru,23,"Aug 22, 1998",Spain,ATHLETIC BILBAO,,Goalkeeper,0.1,10,0,0,900,13,4,1.88,"Jul 1, 2022","Jun 30, 2023",/ander-iru/profil/spieler/480958
+290,Iñigo Martínez,31,"May 17, 1991",Spain,ATHLETIC BILBAO,,Centre-Back,25.0,34,4,0,3003,0,0,1.82,"Jan 30, 2018","Jun 30, 2023",/inigo-martinez/profil/spieler/158863
+291,Yeray Álvarez,27,"Jan 24, 1995",Spain,ATHLETIC BILBAO,,Centre-Back,13.0,27,1,0,2264,0,0,1.82,"Jul 1, 2016","Jun 30, 2026",/yeray-alvarez/profil/spieler/255488
+292,Dani Vivian,22,"Jul 5, 1999 ",Spain,ATHLETIC BILBAO,,Centre-Back,12.0,27,2,1,2239,0,0,1.84,"Aug 1, 2020","Jun 30, 2026",/dani-vivian/profil/spieler/524000
+294,Aitor Paredes,22,"Apr 29, 2000",Spain,ATHLETIC BILBAO,,Centre-Back,0.2,30,3,1,2676,0,0,1.85,-,"Jun 30, 2025",/aitor-paredes/profil/spieler/591916
+295,Yuri Berchiche,32,"Feb 10, 1990",Spain,ATHLETIC BILBAO,,Left-Back,3.0,20,1,2,1422,0,0,1.81,"Jul 2, 2018","Jun 30, 2024",/yuri-berchiche/profil/spieler/61812
+296,Mikel Balenziaga,34,"Feb 29, 1988",Spain,ATHLETIC BILBAO,,Left-Back,1.2,31,0,0,2217,0,0,1.77,"Jul 1, 2013","Jun 30, 2023",/mikel-balenziaga/profil/spieler/85258
+297,Iñigo Lekue,29,"May 4, 1993 ",Spain,ATHLETIC BILBAO,,Right-Back,3.0,29,0,2,2182,0,0,1.8,"Jul 1, 2016","Jun 30, 2023",/inigo-lekue/profil/spieler/255501
+298,Ander Capa,30,"Feb 8, 1992 ",Spain,ATHLETIC BILBAO,,Right-Back,2.5,1,0,0,3,0,0,1.75,"Jul 1, 2018","Jun 30, 2024",/ander-capa/profil/spieler/197545
+299,Óscar de Marcos,33,"Apr 14, 1989",Spain,ATHLETIC BILBAO,,Right-Back,1.8,26,1,2,2059,0,0,1.82,"Jul 1, 2010","Jun 30, 2023",/oscar-de-marcos/profil/spieler/96718
+301,Mikel Vesga,29,"Apr 8, 1993 ",Spain,ATHLETIC BILBAO,,Defensive Midfield,3.0,39,2,2,1877,0,0,1.91,"Jul 1, 2016","Jun 30, 2024",/mikel-vesga/profil/spieler/300168
+303,Unai Vencedor,21,"Nov 15, 2000",Spain,ATHLETIC BILBAO,,Central Midfield,20.0,35,0,1,2424,0,0,1.76,"Aug 1, 2020","Jun 30, 2027",/unai-vencedor/profil/spieler/610083
+304,Oier Zarraga,23,"Jan 4, 1999 ",Spain,ATHLETIC BILBAO,,Central Midfield,3.5,37,1,0,1325,0,0,1.75,"Feb 1, 2021","Jun 30, 2023",/oier-zarraga/profil/spieler/524010
+305,Dani García,32,"May 24, 1990",Spain,ATHLETIC BILBAO,,Central Midfield,3.0,39,0,1,2734,0,0,1.79,"Jul 1, 2018","Jun 30, 2024",/dani-garcia/profil/spieler/178425
+306,Iker Muniain,29,"Dec 19, 1992",Spain,ATHLETIC BILBAO,,Attacking Midfield,16.0,41,6,13,3364,0,0,1.69,"Jul 1, 2009","Jun 30, 2024",/iker-muniain/profil/spieler/54235
+307,Oihan Sancet,22,"Apr 25, 2000",Spain,ATHLETIC BILBAO,,Attacking Midfield,15.0,33,6,4,1685,0,0,1.88,"Aug 4, 2020","Jun 30, 2024",/oihan-sancet/profil/spieler/571020
+308,Álex Berenguer,26,"Jul 4, 1995 ",Spain,ATHLETIC BILBAO,,Left Winger,12.0,41,4,7,2594,0,0,1.75,"Oct 2, 2020","Jun 30, 2024",/alex-berenguer/profil/spieler/338425
+311,Luis Bilbao,19,"Mar 24, 2003",Spain,ATHLETIC BILBAO,,Left Winger,0.25,15,3,2,1048,0,0,1.81,-,"Jun 30, 2024",/luis-bilbao/profil/spieler/834755
+312,Nico Williams,19,"Jul 12, 2002",Spain,ATHLETIC BILBAO,,Right Winger,12.0,40,3,1,1631,0,0,1.81,"Jul 1, 2021","Jun 30, 2024",/nico-williams/profil/spieler/709187
+314,Iñaki Williams,28,"Jun 15, 1994",Ghana,ATHLETIC BILBAO,,Centre-Forward,25.0,44,8,6,3290,0,0,1.86,"Jul 1, 2015","Jun 30, 2028",/inaki-williams/profil/spieler/255508
+315,Asier Villalibre,24,"Sep 30, 1997",Spain,ATHLETIC BILBAO,,Centre-Forward,3.0,20,2,0,549,0,0,1.84,"Jul 1, 2019","Jun 30, 2023",/asier-villalibre/profil/spieler/251897
+316,Raúl García,35,"Jul 11, 1986",Spain,ATHLETIC BILBAO,,Centre-Forward,2.5,42,7,3,2233,0,0,1.84,"Aug 30, 2015","Jun 30, 2023",/raul-garcia/profil/spieler/34601
+319,Jaume Doménech,31,"Nov 5, 1990 ",Spain,VALENCIA,,Goalkeeper,2.0,9,0,0,822,7,4,1.85,"Jul 1, 2015","Jun 30, 2025",/jaume-domenech/profil/spieler/227805
+321,Charlie Pérez,20,"Jun 7, 2002 ",Spain,VALENCIA,,Goalkeeper,,-,0,0,0,0,0,-,-,"Jun 30, 2023",/charlie-perez/profil/spieler/707271
+323,Gabriel Paulista,31,"Nov 26, 1990",Brazil,VALENCIA,,Centre-Back,7.0,21,2,1,1799,0,0,1.87,"Aug 18, 2017","Jun 30, 2024",/gabriel-paulista/profil/spieler/149498
+324,Mouctar Diakhaby,25,"Dec 19, 1996",Guinea,VALENCIA,,Centre-Back,7.0,37,0,2,2678,0,0,1.92,"Jul 1, 2018","Jun 30, 2027",/mouctar-diakhaby/profil/spieler/346289
+325,Eray Cömert,24,"Feb 4, 1998 ",Switzerland,VALENCIA,,Centre-Back,1.5,28,1,0,1933,0,0,1.83,"Jan 25, 2022","Jun 30, 2026",/eray-comert/profil/spieler/298583
+327,Cristhian Mosquera,18,"Jun 27, 2004",Colombia,VALENCIA,,Centre-Back,1.0,7,0,0,299,0,0,1.91,-,"Jun 30, 2025",/cristhian-mosquera/profil/spieler/646750
+328,Rubén Iranzo,19,"Mar 14, 2003",Spain,VALENCIA,,Centre-Back,,4,0,0,133,0,0,1.82,-,"Jun 30, 2025",/ruben-iranzo/profil/spieler/668212
+329,César Tárrega,20,"Feb 26, 2002",Spain,VALENCIA,,Centre-Back,,2,0,0,210,0,0,1.94,-,"Jun 30, 2028",/cesar-tarrega/profil/spieler/707274
+330,José Gayà,27,"May 25, 1995",Spain,VALENCIA,,Left-Back,40.0,31,2,5,2426,0,0,1.72,"Jul 1, 2014","Jun 30, 2027",/jose-gaya/profil/spieler/221322
+331,Jesús Vázquez,19,"Jan 2, 2003 ",Spain,VALENCIA,,Left-Back,5.0,17,0,0,979,0,0,1.82,"Jan 1, 2022","Jun 30, 2025",/jesus-vazquez/profil/spieler/623024
+332,Toni Lato,24,"Nov 21, 1997",Spain,VALENCIA,,Left-Back,1.5,16,0,1,696,0,0,1.71,"Jul 1, 2017","Jun 30, 2023",/toni-lato/profil/spieler/320271
+333,Thierry Correia,23,"Mar 9, 1999 ",Portugal,VALENCIA,,Right-Back,8.0,22,0,1,1622,0,0,1.76,"Sep 2, 2019","Jun 30, 2026",/thierry-correia/profil/spieler/367466
+335,Dimitri Foulquier,29,"Mar 23, 1993",Guadeloupe,VALENCIA,,Right-Back,4.0,38,0,2,3055,0,0,1.83,"Aug 30, 2021","Jun 30, 2025",/dimitri-foulquier/profil/spieler/170472
+336,Joseda Menargues,20,"May 1, 2002 ",Spain,VALENCIA,,Right-Back,0.2,-,0,0,0,0,0,1.81,-,"Jun 30, 2024",/joseda-menargues/profil/spieler/589459
+337,Hugo Guillamón,22,"Jan 31, 2000",Spain,VALENCIA,,Defensive Midfield,20.0,37,2,0,2786,0,0,1.78,"Jul 1, 2020","Jun 30, 2026",/hugo-guillamon/profil/spieler/495629
+340,Yunus Musah,19,"Nov 29, 2002",United States,VALENCIA,,Central Midfield,15.0,36,3,1,1714,0,0,1.78,"Aug 1, 2020","Jun 30, 2026",/yunus-musah/profil/spieler/503991
+343,Javi Guerra,19,"May 13, 2003",Spain,VALENCIA,,Central Midfield,,1,0,0,1,0,0,1.87,-,"Jun 30, 2024",/javi-guerra/profil/spieler/834764
+344,Yellu Santiago,18,"May 25, 2004",Spain,VALENCIA,,Central Midfield,,3,0,0,79,0,0,1.92,-,"Jun 30, 2026",/yellu-santiago/profil/spieler/941869
+345,Lass Sangaré,20,"Nov 20, 2001",Cote d'Ivoire,VALENCIA,,Central Midfield,,-,0,0,0,0,0,1.83,-,"Jun 30, 2023",/lass-sangare/profil/spieler/944124
+346,Pedro Alemañ,20,"Mar 21, 2002",Spain,VALENCIA,,Attacking Midfield,0.1,-,0,0,0,0,0,1.82,-,"Jun 30, 2025",/pedro-aleman/profil/spieler/699771
+353,Hugo González,19,"Feb 7, 2003 ",Spain,VALENCIA,,Right Winger,0.2,-,0,0,0,0,0,-,-,"Jun 30, 2024",/hugo-gonzalez/profil/spieler/707279
+357,Marcos André,25,"Oct 20, 1996",Brazil,VALENCIA,,Centre-Forward,5.0,36,4,3,1335,0,0,1.85,"Aug 25, 2021","Jun 30, 2026",/marcos-andre/profil/spieler/481084
+358,Rubén Sobrino,30,"Jun 1, 1992 ",Spain,VALENCIA,,Centre-Forward,2.0,38,4,1,2149,0,0,1.85,"Jan 31, 2019","Jun 30, 2024",/ruben-sobrino/profil/spieler/85383
+359,Diego López,20,"May 13, 2002",Spain,VALENCIA,,Centre-Forward,,-,0,0,0,0,0,-,-,"Jun 30, 2024",/diego-lopez/profil/spieler/617081
+360,Mario Dominguez,18,"Feb 10, 2004",Spain,VALENCIA,,Centre-Forward,,2,0,0,111,0,0,1.75,-,"Jun 30, 2023",/mario-dominguez/profil/spieler/941867
+361,Sergio Herrera,29,"Jun 5, 1993 ",Spain,OSASUNA,,Goalkeeper,8.0,37,0,0,3330,49,12,1.92,"Jul 12, 2017",-,/sergio-herrera/profil/spieler/248738
+362,Juan Pérez,25,"Jul 15, 1996",Spain,OSASUNA,,Goalkeeper,0.6,3,0,0,270,4,0,1.91,"Jul 1, 2019","Jun 30, 2026",/juan-perez/profil/spieler/298613
+363,Darío Ramos,22,"Oct 19, 1999",Spain,OSASUNA,,Goalkeeper,0.2,27,0,0,2430,18,15,1.91,-,"Jun 30, 2023",/dario-ramos/profil/spieler/341266
+364,Yoel Ramírez,20,"Feb 5, 2002 ",Spain,OSASUNA,,Goalkeeper,0.05,2,0,0,210,3,0,1.84,-,"Jun 30, 2023",/yoel-ramirez/profil/spieler/634116
+365,David García,28,"Feb 14, 1994",Spain,OSASUNA,,Centre-Back,20.0,36,4,0,3195,0,0,1.86,"Jan 1, 2015","Jun 30, 2026",/david-garcia/profil/spieler/298589
+366,Unai García,30,"Feb 3, 1992 ",Spain,OSASUNA,,Centre-Back,1.5,19,0,0,1496,0,0,1.86,"Jul 1, 2015","Jun 30, 2025",/unai-garcia/profil/spieler/197122
+367,Aridane Hernández,33,"Mar 23, 1989",Spain,OSASUNA,,Centre-Back,1.5,16,0,0,1235,0,0,1.88,"Jul 17, 2017","Jun 30, 2023",/aridane-hernandez/profil/spieler/82503
+369,Unai Dufur,23,"Jan 21, 1999",Spain,OSASUNA,,Centre-Back,0.3,28,2,0,2510,0,0,1.87,-,"Jun 30, 2023",/unai-dufur/profil/spieler/783429
+371,Juan Cruz,29,"Jul 28, 1992",Spain,OSASUNA,,Left-Back,2.0,25,0,0,2070,0,0,1.82,"Aug 30, 2020","Jun 30, 2026",/juan-cruz/profil/spieler/169497
+373,Nacho Vidal,27,"Jan 24, 1995",Spain,OSASUNA,,Right-Back,5.0,37,0,1,2935,0,0,1.8,"Jul 13, 2018","Jun 30, 2025",/nacho-vidal/profil/spieler/216870
+375,Lucas Torró,27,"Jul 19, 1994",Spain,OSASUNA,,Defensive Midfield,5.0,33,1,0,2733,0,0,1.9,"Aug 4, 2020","Jun 30, 2027",/lucas-torro/profil/spieler/213670
+377,Jon Moncayola,24,"May 13, 1998",Spain,OSASUNA,,Central Midfield,12.0,38,2,3,2972,0,0,1.82,"Jul 1, 2019","Jun 30, 2031",/jon-moncayola/profil/spieler/552425
+378,Darko Brasanac,30,"Feb 12, 1992",Serbia,OSASUNA,,Central Midfield,2.0,36,1,2,2434,0,0,1.78,"Jul 22, 2019","Jun 30, 2023",/darko-brasanac/profil/spieler/95641
+381,Roberto Torres,33,"Mar 7, 1989 ",Spain,OSASUNA,,Attacking Midfield,3.0,33,3,3,1200,0,0,1.78,"Jul 1, 2012",-,/roberto-torres/profil/spieler/63056
+383,Rubén García,28,"Jul 14, 1993",Spain,OSASUNA,,Left Winger,8.0,38,1,6,2422,0,0,1.71,"Jul 1, 2019","Jun 30, 2024",/ruben-garcia/profil/spieler/213260
+385,Kike Barja,25,"Apr 1, 1997 ",Spain,OSASUNA,,Right Winger,3.0,24,2,0,961,0,0,1.79,"Jan 1, 2018","Jun 30, 2026",/kike-barja/profil/spieler/298575
+387,Iker Benito,19,"Aug 10, 2002",Spain,OSASUNA,,Right Winger,0.3,32,5,0,2239,0,0,1.76,-,"Jun 30, 2025",/iker-benito/profil/spieler/710679
+388,Pau Martínez,21,"Nov 10, 2000",Spain,OSASUNA,,Right Winger,0.2,32,9,0,2278,0,0,1.68,-,"Jun 30, 2023",/pau-martinez/profil/spieler/366931
+389,Chimy Ávila,28,"Feb 6, 1994 ",Argentina,OSASUNA,,Centre-Forward,8.0,38,7,2,1983,0,0,1.72,"Jul 1, 2019","Jun 30, 2026",/chimy-avila/profil/spieler/167721
+390,Ante Budimir,30,"Jul 22, 1991",Croatia,OSASUNA,,Centre-Forward,6.0,30,9,2,1837,0,0,1.9,"Jul 1, 2021","Jun 30, 2025",/ante-budimir/profil/spieler/46413
+391,Kike García,32,"Nov 25, 1989",Spain,OSASUNA,,Centre-Forward,1.8,36,6,2,1990,0,0,1.86,"Jul 1, 2021","Jun 30, 2024",/kike-garcia/profil/spieler/93936
+393,Édgar Badía,30,"Feb 12, 1992",Spain,ELCHE,,Goalkeeper,3.0,24,0,0,2160,35,5,1.8,"Jan 5, 2019","Jun 30, 2025",/edgar-badia/profil/spieler/102146
+396,Lluis Andreu,22,"Jul 27, 1999",Spain,ELCHE,,Goalkeeper,,-,0,0,0,0,0,1.88,-,"Jun 30, 2023",/lluis-andreu/profil/spieler/602979
+397,Enzo Roco,29,"Aug 16, 1992",Chile,ELCHE,,Centre-Back,2.0,32,1,0,2690,0,0,1.92,"Jul 9, 2021","Jun 30, 2023",/enzo-roco/profil/spieler/186862
+398,Diego González,27,"Jan 28, 1995",Spain,ELCHE,,Centre-Back,2.0,31,0,0,2060,0,0,1.85,"Oct 9, 2020","Jun 30, 2024",/diego-gonzalez/profil/spieler/349836
+399,Pedro Bigas,32,"May 15, 1990",Spain,ELCHE,,Centre-Back,1.0,19,1,0,1556,0,0,1.81,"Jul 7, 2021","Jun 30, 2023",/pedro-bigas/profil/spieler/203043
+401,Gonzalo Verdú,33,"Oct 21, 1988",Spain,ELCHE,,Centre-Back,0.7,23,1,0,1656,0,0,1.88,"Jul 1, 2017","Jun 30, 2023",/gonzalo-verdu/profil/spieler/184779
+402,Sergio Bono,21,"Jul 24, 2000",Spain,ELCHE,,Centre-Back,0.025,10,2,0,655,0,0,1.88,-,"Jun 30, 2024",/sergio-bono/profil/spieler/622623
+403,John Donald,21,"Sep 25, 2000",Spain,ELCHE,,Centre-Back,,5,0,0,294,0,0,1.82,"Jul 1, 2022","Jun 30, 2025",/john-donald/profil/spieler/627290
+406,Helibelton Palacios,29,"Jun 11, 1993",Colombia,ELCHE,,Right-Back,1.2,29,0,0,2100,0,0,1.81,"Feb 4, 2021","Jun 30, 2023",/helibelton-palacios/profil/spieler/211389
+408,Carles Marco,22,"Apr 5, 2000 ",Spain,ELCHE,,Right-Back,,-,0,0,0,0,0,1.83,-,"Jun 30, 2023",/carles-marco/profil/spieler/623023
+409,Omar Mascarell,29,"Feb 2, 1993 ",Spain,ELCHE,,Defensive Midfield,4.0,32,0,0,2506,0,0,1.81,"Aug 23, 2021","Jun 30, 2025",/omar-mascarell/profil/spieler/142031
+410,Gerard Gumbau,27,"Dec 18, 1994",Spain,ELCHE,,Defensive Midfield,3.0,37,0,6,2308,0,0,1.88,"Aug 31, 2021","Jun 30, 2023",/gerard-gumbau/profil/spieler/268670
+411,Iván Marcone,32,"Jun 3, 1990 ",Argentina,ELCHE,,Defensive Midfield,2.0,42,1,1,2448,0,0,1.82,"Jul 1, 2021","Dec 31, 2024",/ivan-marcone/profil/spieler/90451
+412,Raúl Guti,25,"Dec 30, 1996",Spain,ELCHE,,Central Midfield,4.0,35,1,0,2000,0,0,1.78,"Sep 20, 2020","Jun 30, 2025",/raul-guti/profil/spieler/330352
+414,César Moreno,21,"Apr 23, 2001",Spain,ELCHE,,Central Midfield,0.2,30,1,0,2564,0,0,1.83,-,"Jun 30, 2024",/cesar-moreno/profil/spieler/672953
+415,Jony Álamo,20,"Sep 25, 2001",Spain,ELCHE,,Central Midfield,0.05,12,0,1,467,0,0,1.75,-,"Jun 30, 2023",/jony-alamo/profil/spieler/786438
+416,Javier Pastore,33,"Jun 20, 1989",Argentina,ELCHE,,Attacking Midfield,0.9,15,0,0,664,0,0,1.87,"Sep 4, 2021",-,/javier-pastore/profil/spieler/55215
+417,Pere Milla,29,"Sep 23, 1992",Spain,ELCHE,,Left Winger,3.0,36,8,3,1949,0,0,1.8,"Jul 1, 2019","Jun 30, 2025",/pere-milla/profil/spieler/225593
+418,Tete Morente,25,"Dec 4, 1996 ",Spain,ELCHE,,Left Winger,3.0,34,3,3,1691,0,0,1.84,"Sep 16, 2020","Jun 30, 2024",/tete-morente/profil/spieler/339816
+419,Fidel,32,"Oct 27, 1989",Spain,ELCHE,,Left Winger,2.0,37,5,6,2463,0,0,1.8,"Jul 1, 2019","Jun 30, 2024",/fidel/profil/spieler/149231
+421,Josan,32,"Dec 3, 1989 ",Spain,ELCHE,,Right Winger,1.0,34,2,4,1410,0,0,1.76,"Jan 1, 2018","Jun 30, 2023",/josan/profil/spieler/277533
+422,Joselu Friaza,20,"Feb 15, 2002",Spain,ELCHE,,Right Winger,,1,0,0,25,0,0,1.92,-,-,/joselu-friaza/profil/spieler/900166
+423,Lucas Boyé,26,"Feb 28, 1996",Argentina,ELCHE,,Centre-Forward,15.0,24,7,3,1724,0,0,1.83,"Jul 1, 2021","Jun 30, 2024",/lucas-boye/profil/spieler/334222
+428,Diego Bri,19,"Sep 12, 2002",Spain,ELCHE,,Centre-Forward,,1,0,0,13,0,0,-,-,"Jun 30, 2026",/diego-bri/profil/spieler/720532
+429,Cheikh Diamanka,21,"Jan 20, 2001",Senegal,ELCHE,,Centre-Forward,,-,0,0,0,0,0,-,-,"Jun 30, 2023",/cheikh-diamanka/profil/spieler/887054
+432,Gaizka Campos,25,"May 16, 1997",Spain,CELTA,,Goalkeeper,0.15,32,0,0,2880,39,8,1.9,-,"Jun 30, 2023",/gaizka-campos/profil/spieler/448835
+433,Coke Carrillo,20,"Jan 7, 2002 ",Spain,CELTA,,Goalkeeper,0.1,-,0,0,0,0,0,1.88,-,"Jun 30, 2027",/coke-carrillo/profil/spieler/581640
+434,César Fernández,17,"Sep 28, 2004",Spain,CELTA,,Goalkeeper,,-,0,0,0,0,0,1.81,-,"Jun 30, 2023",/cesar-fernandez/profil/spieler/646741
+435,Joseph Aidoo,26,"Sep 29, 1995",Ghana,CELTA,,Centre-Back,7.0,32,0,0,2640,0,0,1.77,"Jul 11, 2019","Jun 30, 2026",/joseph-aidoo/profil/spieler/358250
+439,Carlos Domínguez,21,"Feb 11, 2001",Spain,CELTA,,Centre-Back,1.0,29,0,0,2158,0,0,1.87,-,"Jun 30, 2026",/carlos-dominguez/profil/spieler/636093
+440,Javi Castro,21,"Sep 13, 2000",Spain,CELTA,,Centre-Back,0.2,35,1,1,3100,0,0,1.83,-,"Jun 30, 2023",/javi-castro/profil/spieler/740253
+441,Javi Galán,27,"Nov 19, 1994",Spain,CELTA,,Left-Back,12.0,39,0,3,3378,0,0,1.72,"Jul 31, 2021","Jun 30, 2026",/javi-galan/profil/spieler/448628
+442,Fernando Medrano,22,"Mar 26, 2000",Spain,CELTA,,Left-Back,0.15,31,0,1,1306,0,0,1.72,-,"Jun 30, 2026",/fernando-medrano/profil/spieler/461619
+443,Hugo Mallo,31,"Jun 22, 1991",Spain,CELTA,,Right-Back,4.0,23,1,1,1979,0,0,1.74,"Jul 1, 2009","Jun 30, 2023",/hugo-mallo/profil/spieler/119905
+444,Kevin Vázquez,29,"Mar 23, 1993",Spain,CELTA,,Right-Back,2.0,19,0,1,1380,0,0,1.75,"Jul 1, 2018","Jun 30, 2023",/kevin-vazquez/profil/spieler/221315
+445,Thomas Carrique,23,"Feb 26, 1999",France,CELTA,,Right-Back,0.4,31,1,1,1835,0,0,1.73,-,"Jun 30, 2026",/thomas-carrique/profil/spieler/540676
+446,Renato Tapia,26,"Jul 28, 1995",Peru,CELTA,,Defensive Midfield,10.0,32,0,1,1582,0,0,1.85,"Aug 4, 2020","Jun 30, 2024",/renato-tapia/profil/spieler/277137
+448,Fran Beltrán,23,"Feb 3, 1999 ",Spain,CELTA,,Central Midfield,15.0,39,1,0,2723,0,0,1.65,"Aug 1, 2018","Jun 30, 2026",/fran-beltran/profil/spieler/423444
+450,Damián Rodríguez,19,"Mar 17, 2003",Spain,CELTA,,Central Midfield,,-,0,0,0,0,0,-,-,"Jun 30, 2023",/damian-rodriguez/profil/spieler/715628
+451,Hugo Sotelo,18,"Dec 19, 2003",Spain,CELTA,,Central Midfield,,1,0,0,1,0,0,1.8,-,"Jun 30, 2023",/hugo-sotelo/profil/spieler/892221
+453,Denis Suárez,28,"Jan 6, 1994 ",Spain,CELTA,,Attacking Midfield,10.0,40,4,6,3044,0,0,1.76,"Jul 1, 2019","Jun 30, 2023",/denis-suarez/profil/spieler/165007
+454,Gabri Veiga,20,"May 27, 2002",Spain,CELTA,,Attacking Midfield,1.5,41,9,1,2364,0,0,1.84,"Jul 1, 2022","Jun 30, 2026",/gabri-veiga/profil/spieler/699704
+456,Franco Cervi,28,"May 26, 1994",Argentina,CELTA,,Left Winger,5.0,36,6,5,2005,0,0,1.66,"Jul 5, 2021","Jun 30, 2024",/franco-cervi/profil/spieler/341110
+459,Hugo Álvarez,18,"Jul 2, 2003 ",Spain,CELTA,,Left Winger,,2,0,0,55,0,0,1.76,-,"Jun 30, 2025",/hugo-alvarez/profil/spieler/892929
+460,Augusto Solari,30,"Jan 3, 1992 ",Argentina,CELTA,,Right Winger,2.5,27,1,0,786,0,0,1.76,"Jan 23, 2021","Jun 30, 2023",/augusto-solari/profil/spieler/282694
+461,Iago Aspas,34,"Aug 1, 1987 ",Spain,CELTA,,Centre-Forward,7.0,38,18,6,3118,0,0,1.76,"Jul 7, 2015","Jun 30, 2025",/iago-aspas/profil/spieler/72047
+465,Joan García,21,"May 4, 2001 ",Spain,ESPANYOL,,Goalkeeper,0.4,4,0,0,287,6,0,1.91,"Jul 1, 2021","Jun 30, 2025",/joan-garcia/profil/spieler/561613
+467,Leandro Cabrera,31,"Jun 17, 1991",Uruguay,ESPANYOL,,Centre-Back,4.0,40,2,0,3630,0,0,1.9,"Jan 20, 2020","Jun 30, 2024",/leandro-cabrera/profil/spieler/102423
+468,Sergi Gómez,30,"Mar 28, 1992",Spain,ESPANYOL,,Centre-Back,3.0,35,2,2,2985,0,0,1.85,"Jul 28, 2021","Jun 30, 2024",/sergi-gomez/profil/spieler/92947
+470,Fernando Calero,26,"Sep 14, 1995",Spain,ESPANYOL,,Centre-Back,1.8,18,0,0,1264,0,0,1.84,"Aug 9, 2019","Jun 30, 2024",/fernando-calero/profil/spieler/357884
+471,Álvaro García,22,"Jun 1, 2000 ",Spain,ESPANYOL,,Centre-Back,0.2,27,1,0,2279,0,0,1.84,-,"Jun 30, 2023",/alvaro-garcia/profil/spieler/495600
+472,Lluís Recasens,20,"Feb 19, 2002",Spain,ESPANYOL,,Centre-Back,0.15,13,0,0,698,0,0,1.83,-,"Jun 30, 2023",/lluis-recasens/profil/spieler/705810
+473,Adrià Pedrosa,24,"May 13, 1998",Spain,ESPANYOL,,Left-Back,9.0,33,2,2,2933,0,0,1.72,"Jul 1, 2019","Jun 30, 2023",/adria-pedrosa/profil/spieler/501418
+475,Óscar Gil,24,"Apr 26, 1998",Spain,ESPANYOL,,Right-Back,3.0,24,0,2,1826,0,0,1.75,"Sep 7, 2020","Jun 30, 2024",/oscar-gil/profil/spieler/544106
+477,Aleix Vidal,32,"Aug 21, 1989",Spain,ESPANYOL,,Right-Back,2.0,34,2,0,2083,0,0,1.77,"Aug 18, 2021","Jun 30, 2023",/aleix-vidal/profil/spieler/88490
+479,Rubén Sánchez,21,"Feb 4, 2001 ",Spain,ESPANYOL,,Right-Back,0.25,35,3,1,2360,0,0,1.85,"Jul 1, 2022","Jun 30, 2024",/ruben-sanchez/profil/spieler/705813
+481,Sergi Darder,28,"Dec 22, 1993",Spain,ESPANYOL,,Central Midfield,14.0,39,3,10,3349,0,0,1.8,"Jul 1, 2018","Jun 30, 2026",/sergi-darder/profil/spieler/142021
+484,Keidi Bare,24,"Aug 28, 1997",Albania,ESPANYOL,,Central Midfield,4.0,28,1,2,1716,0,0,1.74,"Sep 22, 2020","Jun 30, 2024",/keidi-bare/profil/spieler/295622
+486,Roger Martínez,18,"Apr 5, 2004 ",Spain,ESPANYOL,,Central Midfield,0.3,28,1,0,2236,0,0,1.77,-,"Jun 30, 2025",/roger-martinez/profil/spieler/646746
+487,Dani Villahermosa,21,"Jan 2, 2001 ",Spain,ESPANYOL,,Central Midfield,0.25,31,5,0,2672,0,0,1.74,-,"Jun 30, 2023",/dani-villahermosa/profil/spieler/628496
+488,Alejandro Pérez,21,"Jan 7, 2001 ",Spain,ESPANYOL,,Central Midfield,0.2,8,0,0,556,0,0,-,-,"Jun 30, 2025",/alejandro-perez/profil/spieler/548187
+490,Gori,20,"May 15, 2002",Spain,ESPANYOL,,Attacking Midfield,0.15,5,0,0,249,0,0,-,-,"Jun 30, 2024",/gori/profil/spieler/705815
+491,Javi Puado,24,"May 25, 1998",Spain,ESPANYOL,,Left Winger,8.0,33,5,1,2464,0,0,1.77,"Jul 1, 2018","Jun 30, 2025",/javi-puado/profil/spieler/408471
+492,Nico Melamed,21,"Apr 11, 2001",Spain,ESPANYOL,,Left Winger,7.5,33,1,1,1196,0,0,1.73,"Aug 1, 2020","Jun 30, 2024",/nico-melamed/profil/spieler/570421
+495,Luca Koleosho,17,"Sep 15, 2004",Italy,ESPANYOL,,Left Winger,,3,0,0,34,0,0,1.75,-,"Jun 30, 2024",/luca-koleosho/profil/spieler/745461
+501,Max Svensson,20,"Nov 8, 2001 ",Spain,ESPANYOL,,Centre-Forward,0.4,35,9,0,2320,0,0,1.82,-,"Jun 30, 2023",/max-svensson/profil/spieler/705808
+502,Stole Dimitrievski,28,"Dec 25, 1993",North Macedonia,RAYO VALLECANO,,Goalkeeper,3.0,33,0,0,2951,39,10,1.88,"Jan 31, 2019","Jun 30, 2024",/stole-dimitrievski/profil/spieler/165467
+505,Miguel Ángel Morro,21,"Sep 11, 2000",Spain,RAYO VALLECANO,,Goalkeeper,0.6,16,0,0,1470,23,6,1.95,"Aug 1, 2020","Jun 30, 2025",/miguel-angel-morro/profil/spieler/607780
+506,Adrián Quintela,21,"Mar 11, 2001",Spain,RAYO VALLECANO,,Goalkeeper,,-,0,0,0,0,0,1.88,-,"Jun 30, 2023",/adrian-quintela/profil/spieler/548186
+507,Alejandro Catena,27,"Oct 28, 1994",Spain,RAYO VALLECANO,,Centre-Back,4.0,40,2,2,3600,0,0,1.94,"Jan 31, 2019","Jun 30, 2023",/alejandro-catena/profil/spieler/449796
+509,Esteban Saveljich,31,"May 20, 1991",Montenegro,RAYO VALLECANO,,Centre-Back,0.8,23,0,0,1754,0,0,1.87,"Jul 26, 2019","Jun 30, 2023",/esteban-saveljich/profil/spieler/240360
+511,Mario Suárez,35,"Feb 24, 1987",Spain,RAYO VALLECANO,,Centre-Back,0.3,21,1,0,1354,0,0,1.89,"Jan 31, 2019","Jun 30, 2023",/mario-suarez/profil/spieler/37337
+512,Sergio Gimeno,21,"May 25, 2001",Spain,RAYO VALLECANO,,Centre-Back,,-,0,0,0,0,0,-,-,-,/sergio-gimeno/profil/spieler/623025
+513,Iker Recio,21,"Jun 17, 2001",Spain,RAYO VALLECANO,,Centre-Back,,2,0,0,91,0,0,1.84,-,"Jun 30, 2023",/iker-recio/profil/spieler/628461
+514,Fran García,22,"Aug 14, 1999",Spain,RAYO VALLECANO,,Left-Back,7.5,39,1,1,3419,0,0,1.69,"Jul 13, 2021","Jun 30, 2025",/fran-garcia/profil/spieler/341264
+516,Iván Balliu,30,"Jan 1, 1992 ",Albania,RAYO VALLECANO,,Right-Back,2.0,40,1,3,3534,0,0,1.72,"Jul 14, 2021","Jun 30, 2025",/ivan-balliu/profil/spieler/85295
+517,Mario Hernández,23,"Jan 25, 1999",Spain,RAYO VALLECANO,,Right-Back,0.8,12,1,0,667,0,0,1.77,"Jan 1, 2019","Jun 30, 2023",/mario-hernandez/profil/spieler/608531
+518,Santi Comesaña,25,"Oct 5, 1996 ",Spain,RAYO VALLECANO,,Central Midfield,4.0,41,1,2,3104,0,0,1.88,"Jul 16, 2016","Jun 30, 2023",/santi-comesana/profil/spieler/380598
+520,Óscar Valentín,27,"Aug 20, 1994",Spain,RAYO VALLECANO,,Central Midfield,3.0,42,0,0,3037,0,0,1.77,"Jul 1, 2019","Jun 30, 2025",/oscar-valentin/profil/spieler/517753
+521,Pathé Ciss,28,"Mar 16, 1994",Senegal,RAYO VALLECANO,,Central Midfield,2.0,36,3,1,1345,0,0,1.86,"Jul 28, 2021","Jun 30, 2025",/pathe-ciss/profil/spieler/525578
+522,Manu Navarro,21,"Oct 9, 2000 ",Spain,RAYO VALLECANO,,Central Midfield,,-,0,0,0,0,0,-,-,"Jun 30, 2023",/manu-navarro/profil/spieler/629020
+523,Randy Nteka,24,"Dec 6, 1997 ",France,RAYO VALLECANO,,Attacking Midfield,4.0,39,3,2,1674,0,0,1.89,"Jul 28, 2021","Jun 30, 2023",/randy-nteka/profil/spieler/560483
+524,Óscar Trejo,34,"Apr 26, 1988",Argentina,RAYO VALLECANO,,Attacking Midfield,3.0,38,4,9,2372,0,0,1.8,"Jul 1, 2017","Jun 30, 2024",/oscar-trejo/profil/spieler/30321
+526,Álvaro García,29,"Oct 27, 1992",Spain,RAYO VALLECANO,,Left Winger,6.0,39,8,6,3264,0,0,1.67,"Aug 23, 2018","Jun 30, 2026",/alvaro-garcia/profil/spieler/257062
+528,Bebé,31,"Jul 12, 1990",Cape Verde,RAYO VALLECANO,,Left Winger,0.8,36,2,3,1219,0,0,1.9,"Aug 31, 2018","Jun 30, 2023",/bebe/profil/spieler/153427
+529,Álvaro Aguirre,22,"Feb 3, 2000 ",Spain,RAYO VALLECANO,,Left Winger,,1,0,0,8,0,0,-,-,"Jun 30, 2023",/alvaro-aguirre/profil/spieler/888694
+530,Alejandro Asensio,21,"Sep 14, 2000",Spain,RAYO VALLECANO,,Left Winger,,2,0,0,11,0,0,-,-,"Jun 30, 2023",/alejandro-asensio/profil/spieler/891075
+531,Isi Palazón,27,"Dec 27, 1994",Spain,RAYO VALLECANO,,Right Winger,3.0,40,2,4,2664,0,0,1.69,"Jan 23, 2020","Jun 30, 2025",/isi-palazon/profil/spieler/362086
+533,Radamel Falcao,36,"Feb 10, 1986",Colombia,RAYO VALLECANO,,Centre-Forward,2.0,28,6,0,963,0,0,1.77,"Sep 4, 2021","Jun 30, 2023",/radamel-falcao/profil/spieler/39152
+538,Pablo Montero,20,"May 9, 2002 ",Spain,GETAFE,,Midfield,,2,0,0,28,0,0,1.68,-,"Jun 30, 2023",/pablo-montero/profil/spieler/889717
+539,Diego López,20,"Oct 21, 2001",Spain,GETAFE,,Midfield,,-,0,0,0,0,0,-,-,"Jun 30, 2023",/diego-lopez/profil/spieler/891091
+540,David Soria,29,"Apr 4, 1993 ",Spain,GETAFE,,Goalkeeper,8.0,38,0,0,3415,41,14,1.92,"Jul 13, 2018","Jun 30, 2023",/david-soria/profil/spieler/226012
+542,Diego Conde,23,"Oct 28, 1998",Spain,GETAFE,,Goalkeeper,0.3,1,0,0,5,0,1,1.88,"Jul 28, 2021","Jun 30, 2024",/diego-conde/profil/spieler/341713
+543,Djené,30,"Dec 31, 1991",Togo,GETAFE,,Centre-Back,10.0,35,0,1,3117,0,0,1.78,"Jul 24, 2017","Jun 30, 2025",/djene/profil/spieler/221150
+546,Stefan Mitrović,32,"May 22, 1990",Serbia,GETAFE,,Centre-Back,1.8,32,1,0,2671,0,0,1.89,"Jul 6, 2021","Jun 30, 2024",/stefan-mitrovi%C4%87/profil/spieler/143029
+549,Gastón Álvarez,22,"Mar 24, 2000",Uruguay,GETAFE,,Centre-Back,0.5,-,0,0,0,0,0,1.84,"Jan 28, 2022","Jun 30, 2023",/gaston-alvarez/profil/spieler/577486
+550,Álvaro López,23,"Jun 7, 1999 ",Spain,GETAFE,,Centre-Back,,1,0,0,52,0,0,-,-,"Jun 30, 2023",/alvaro-lopez/profil/spieler/783873
+551,Chinchu,20,"Mar 5, 2002 ",Spain,GETAFE,,Centre-Back,,-,0,0,0,0,0,-,-,"Jun 30, 2023",/chinchu/profil/spieler/857939
+552,Marc Cucurella,23,"Jul 22, 1998",Spain,GETAFE,,Left-Back,28.0,39,1,2,3290,0,0,1.73,"Jul 1, 2020","Jun 30, 2028",/marc-cucurella/profil/spieler/284857
+555,Koffi,20,"Nov 20, 2001",Ghana,GETAFE,,Left-Back,0.2,4,0,1,168,0,0,-,-,"Jun 30, 2023",/koffi/profil/spieler/809639
+556,Juan Iglesias,23,"Jul 3, 1998 ",Spain,GETAFE,,Right-Back,1.5,22,0,1,889,0,0,1.87,"Jul 1, 2021","Jun 30, 2026",/juan-iglesias/profil/spieler/390688
+557,Damián Suárez,34,"Apr 27, 1988",Uruguay,GETAFE,,Right-Back,1.5,35,0,3,2718,0,0,1.73,"Jul 8, 2015","Jun 30, 2023",/damian-suarez/profil/spieler/76746
+562,Ángel Algobia,23,"Jun 23, 1999",Spain,GETAFE,,Defensive Midfield,0.1,1,0,0,84,0,0,1.88,"Aug 11, 2022","Jun 30, 2023",/angel-algobia/profil/spieler/638589
+563,Mauro Arambarri,26,"Sep 30, 1995",Uruguay,GETAFE,,Central Midfield,15.0,31,0,5,2667,0,0,1.75,"Jul 1, 2018","Jun 30, 2028",/mauro-arambarri/profil/spieler/290249
+564,Nemanja Maksimović,27,"Jan 26, 1995",Serbia,GETAFE,,Central Midfield,14.0,35,1,2,2943,0,0,1.84,"Jul 16, 2018","Jun 30, 2024",/nemanja-maksimovi%C4%87/profil/spieler/273152
+565,Carles Aleñá,24,"Jan 5, 1998 ",Spain,GETAFE,,Central Midfield,9.0,33,1,2,2338,0,0,1.8,"Jul 10, 2021","Jun 30, 2026",/carles-alena/profil/spieler/284854
+567,John Joe Patrick Finn,18,"Oct 24, 2003",Ireland,GETAFE,,Central Midfield,1.0,-,0,0,0,0,0,1.92,-,"Jun 30, 2024",/john-joe-patrick-finn/profil/spieler/841121
+568,Totti,20,"Dec 14, 2001",Spain,GETAFE,,Central Midfield,,1,0,0,6,0,0,1.81,-,"Jun 30, 2023",/totti/profil/spieler/708500
+571,Santi García,20,"Aug 29, 2001",Spain,GETAFE,,Attacking Midfield,0.05,1,0,0,38,0,0,1.84,-,"Jun 30, 2023",/santi-garcia/profil/spieler/732096
+573,Enes Ünal,25,"May 10, 1997",Turkey,GETAFE,,Centre-Forward,25.0,37,16,1,2813,0,0,1.87,"Aug 12, 2020","Jun 30, 2025",/enes-unal/profil/spieler/251106
+578,Jaime Mata,33,"Oct 24, 1988",Spain,GETAFE,,Centre-Forward,3.0,24,4,0,820,0,0,1.86,"Jul 1, 2018","Jun 30, 2024",/jaime-mata/profil/spieler/227961
+580,Mamor Niang,20,"Feb 4, 2002 ",Senegal,GETAFE,,Centre-Forward,0.025,5,0,0,73,0,0,1.9,-,"Jun 30, 2023",/mamor-niang/profil/spieler/715650
+582,Dominik Greif,25,"Apr 6, 1997 ",Slovakia,MALLORCA,,Goalkeeper,2.0,2,0,0,210,3,1,1.97,"Jul 6, 2021","Jun 30, 2026",/dominik-greif/profil/spieler/316884
+583,Leo Román,21,"Jul 6, 2000 ",Spain,MALLORCA,,Goalkeeper,0.3,5,0,0,450,7,1,1.89,"Jul 1, 2022","Jun 30, 2026",/leo-roman/profil/spieler/562742
+585,Pere García,20,"Mar 22, 2002",Spain,MALLORCA,,Goalkeeper,,-,0,0,0,0,0,1.93,-,"Jun 30, 2023",/pere-garcia/profil/spieler/632913
+586,Ferrán Quetglas,17,"Jun 6, 2005 ",Spain,MALLORCA,,Goalkeeper,,-,0,0,0,0,0,1.88,-,"Jun 30, 2024",/ferran-quetglas/profil/spieler/741285
+587,Martin Valjent,26,"Dec 11, 1995",Slovakia,MALLORCA,,Centre-Back,4.0,39,0,0,3388,0,0,1.87,"Jul 1, 2019","Jun 30, 2025",/martin-valjent/profil/spieler/277384
+588,Antonio Raíllo,30,"Oct 8, 1991 ",Spain,MALLORCA,,Centre-Back,2.0,17,2,1,1530,0,0,1.87,"Jul 1, 2016","Jun 30, 2024",/antonio-raillo/profil/spieler/278296
+589,Franco Russo,27,"Oct 25, 1994",Argentina,MALLORCA,,Centre-Back,1.2,22,1,0,1689,0,0,1.86,"Jul 9, 2018","Jun 30, 2026",/franco-russo/profil/spieler/378463
+591,Josep Gayá,21,"Jul 7, 2000 ",Spain,MALLORCA,,Centre-Back,,4,2,0,359,0,0,-,-,"Jun 30, 2023",/josep-gaya/profil/spieler/632495
+593,Jaume Costa,34,"Mar 18, 1988",Spain,MALLORCA,,Left-Back,1.2,28,0,5,2056,0,0,1.71,"Jul 7, 2021","Jun 30, 2023",/jaume-costa/profil/spieler/65318
+594,Marc Carmona,21,"Jan 8, 2001 ",Spain,MALLORCA,,Left-Back,,-,0,0,0,0,0,-,-,-,/marc-carmona/profil/spieler/628488
+595,Marcos Fernández,18,"Jul 17, 2003",Spain,MALLORCA,,Left-Back,,-,0,0,0,0,0,-,-,"Jun 30, 2023",/marcos-fernandez/profil/spieler/947432
+598,Giovanni González,27,"Sep 20, 1994",Uruguay,MALLORCA,,Right-Back,1.5,10,1,0,418,0,0,1.78,"Jan 29, 2022","Jun 30, 2024",/giovanni-gonzalez/profil/spieler/339699
+599,Miguelito,21,"Jan 12, 2001",Spain,MALLORCA,,Right-Back,,-,0,0,0,0,0,-,-,"Jun 30, 2023",/miguelito/profil/spieler/632498
+601,Iddrisu Baba,26,"Jan 22, 1996",Ghana,MALLORCA,,Central Midfield,3.5,26,1,0,1942,0,0,1.82,"Jul 1, 2018","Jun 30, 2024",/iddrisu-baba/profil/spieler/442805
+602,Iñigo Ruiz de Galarreta,28,"Aug 6, 1993 ",Spain,MALLORCA,,Central Midfield,1.8,26,0,1,1599,0,0,1.75,"Sep 1, 2019","Jun 30, 2023",/inigo-ruiz-de-galarreta/profil/spieler/126751
+603,Antonio Sánchez,25,"Apr 22, 1997",Spain,MALLORCA,,Central Midfield,1.5,33,1,0,1860,0,0,1.79,"Jul 1, 2018","Jun 30, 2024",/antonio-sanchez/profil/spieler/513031
+605,Clément Grenier,31,"Jan 7, 1991 ",France,MALLORCA,,Central Midfield,1.0,5,1,0,55,0,0,1.86,"Mar 3, 2022","Jun 30, 2024",/clement-grenier/profil/spieler/72479
+607,Kang-in Lee,21,"Feb 19, 2001","Korea, South",MALLORCA,,Attacking Midfield,6.0,34,1,3,1544,0,0,1.73,"Aug 30, 2021","Jun 30, 2025",/kang-in-lee/profil/spieler/557149
+608,Dani Rodríguez,34,"Jun 6, 1988 ",Spain,MALLORCA,,Attacking Midfield,1.2,40,3,4,3110,0,0,1.78,"Jul 1, 2018","Jun 30, 2024",/dani-rodriguez/profil/spieler/139435
+609,Thomas Giaquinto,22,"Mar 20, 2000",Argentina,MALLORCA,,Attacking Midfield,0.15,-,0,0,0,0,0,1.75,-,"Jun 30, 2023",/thomas-giaquinto/profil/spieler/632501
+610,Amath Ndiaye,25,"Jul 16, 1996",Senegal,MALLORCA,,Left Winger,2.0,21,0,1,995,0,0,1.73,"Jul 1, 2021","Jun 30, 2025",/amath-ndiaye/profil/spieler/339820
+612,Javi Llabrés,19,"Sep 11, 2002",Spain,MALLORCA,,Left Winger,,8,1,2,307,0,0,1.74,"Jul 1, 2022","Jun 30, 2023",/javi-llabres/profil/spieler/706138
+618,Ángel Rodríguez,35,"Apr 26, 1987",Spain,MALLORCA,,Centre-Forward,2.0,33,8,4,1709,0,0,1.71,"Jul 2, 2021","Jun 30, 2023",/angel-rodriguez/profil/spieler/51510
+619,Abdón Prats,29,"Dec 7, 1992 ",Spain,MALLORCA,,Centre-Forward,1.5,27,4,0,909,0,0,1.81,"Jul 4, 2017","Jun 30, 2024",/abdon-prats/profil/spieler/177452
+621,Pablo Gálvez,20,"Oct 30, 2001",Spain,MALLORCA,,Centre-Forward,,-,0,0,0,0,0,-,-,"Jun 30, 2023",/pablo-galvez/profil/spieler/632499
+622,Conan Ledesma,29,"Feb 13, 1993",Argentina,CÁDIZ,,Goalkeeper,6.0,38,0,0,3420,51,13,1.86,"Jul 1, 2021","Jun 30, 2025",/conan-ledesma/profil/spieler/284342
+623,David Gil,28,"Jan 11, 1994",Spain,CÁDIZ,,Goalkeeper,0.8,5,0,0,480,2,4,1.86,"Jul 1, 2018","Jun 30, 2025",/david-gil/profil/spieler/162027
+625,Victor Aznar,19,"Oct 17, 2002",Brazil,CÁDIZ,,Goalkeeper,0.05,15,0,0,1339,13,7,1.89,-,"Jun 30, 2027",/victor-aznar/profil/spieler/706797
+626,Fali,28,"Aug 12, 1993",Spain,CÁDIZ,,Centre-Back,3.0,31,0,2,2044,0,0,1.86,"Jul 1, 2019","Jun 30, 2024",/fali/profil/spieler/252667
+630,Juan Cala,32,"Nov 26, 1989",Spain,CÁDIZ,,Centre-Back,0.9,16,0,1,1119,0,0,1.86,"Jul 17, 2019","Jun 30, 2024",/juan-cala/profil/spieler/67089
+631,Luis Hernández,33,"Apr 14, 1989",Spain,CÁDIZ,,Centre-Back,0.8,44,1,0,3781,0,0,1.82,"Jan 31, 2022","Jun 30, 2025",/luis-hernandez/profil/spieler/62945
+632,Alfonso Espino,30,"Jan 5, 1992 ",Uruguay,CÁDIZ,,Left-Back,6.0,41,2,2,3458,0,0,1.72,"Jan 28, 2019","Jun 30, 2023",/alfonso-espino/profil/spieler/311044
+633,Santiago Arzamendia,24,"May 5, 1998 ",Paraguay,CÁDIZ,,Left-Back,1.8,17,1,0,760,0,0,1.72,"Jul 8, 2021","Jun 30, 2025",/santiago-arzamendia/profil/spieler/520947
+634,Genar Fornés,22,"Jan 17, 2000",Spain,CÁDIZ,,Left-Back,0.15,26,1,0,2022,0,0,1.8,-,"Jun 30, 2023",/genar-fornes/profil/spieler/628490
+635,Iza Carcelén,29,"Apr 23, 1993",Spain,CÁDIZ,,Right-Back,1.5,27,0,2,1575,0,0,1.7,"Jul 1, 2019","Jun 30, 2023",/iza-carcelen/profil/spieler/254037
+639,José Mari,34,"Dec 6, 1987 ",Spain,CÁDIZ,,Defensive Midfield,0.4,11,0,0,385,0,0,1.82,"Aug 16, 2016","Jun 30, 2025",/jose-mari/profil/spieler/225462
+640,Tomás Alarcón,23,"Jan 19, 1999",Chile,CÁDIZ,,Central Midfield,3.0,24,1,1,1459,0,0,1.76,"Jul 1, 2021","Jun 30, 2023",/tomas-alarcon/profil/spieler/454238
+643,Álvaro Bastida,18,"May 12, 2004",Spain,CÁDIZ,,Central Midfield,1.0,28,1,0,1629,0,0,1.7,-,"Jun 30, 2026",/alvaro-bastida/profil/spieler/882772
+645,Álex Fernández,29,"Oct 15, 1992",Spain,CÁDIZ,,Attacking Midfield,6.0,35,3,2,2208,0,0,1.83,"Aug 7, 2017","Jun 30, 2025",/alex-fernandez/profil/spieler/89733
+649,Iván Alejo,27,"Feb 10, 1995",Spain,CÁDIZ,,Right Winger,1.2,24,2,4,1264,0,0,1.86,"Aug 4, 2020","Jun 30, 2025",/ivan-alejo/profil/spieler/281755
+652,Antony Lozano,29,"Apr 25, 1993",Honduras,CÁDIZ,,Centre-Forward,4.0,31,7,4,1675,0,0,1.83,"Aug 4, 2020","Jun 30, 2023",/antony-lozano/profil/spieler/131275
+654,Rubén Sobrino,30,"Jun 1, 1992 ",Spain,CÁDIZ,,Centre-Forward,2.0,38,4,1,2149,0,0,1.85,"Aug 30, 2021","Jun 30, 2024",/ruben-sobrino/profil/spieler/85383
+655,Álvaro Negredo,36,"Aug 20, 1985",Spain,CÁDIZ,,Centre-Forward,1.5,39,10,5,2417,0,0,1.86,"Aug 4, 2020","Jun 30, 2023",/alvaro-negredo/profil/spieler/18644
+658,Pedro Benito,22,"Mar 27, 2000",Spain,CÁDIZ,,Centre-Forward,0.3,33,4,1,1264,0,0,1.82,-,"Jun 30, 2023",/pedro-benito/profil/spieler/835794
+659,Fernando Martínez,32,"Jun 10, 1990",Spain,ALMERÍA,,Goalkeeper,0.8,42,0,0,3727,34,16,1.83,"Jul 5, 2017","Jun 30, 2025",/fernando-martinez/profil/spieler/81997
+661,Diego Fuoli,24,"Oct 20, 1997",Spain,ALMERÍA,,Goalkeeper,0.2,3,0,0,330,3,0,1.88,"Jul 1, 2022","Jun 30, 2023",/diego-fuoli/profil/spieler/531274
+662,Rodrigo Ely,28,"Nov 3, 1993 ",Brazil,ALMERÍA,,Centre-Back,2.0,12,3,0,979,0,0,1.91,"Mar 7, 2022","Jun 30, 2024",/rodrigo-ely/profil/spieler/176140
+663,Chumi,23,"Mar 2, 1999 ",Spain,ALMERÍA,,Centre-Back,2.0,27,1,0,2346,0,0,1.85,"Sep 10, 2020","Jun 30, 2025",/chumi/profil/spieler/333361
+667,Juan Ibiza,26,"Aug 17, 1995",Spain,ALMERÍA,,Centre-Back,0.5,28,1,0,2383,0,0,1.87,"Jul 10, 2019","Jun 30, 2023",/juan-ibiza/profil/spieler/411294
+668,Iván Martos,25,"May 15, 1997",Spain,ALMERÍA,,Centre-Back,0.4,14,0,0,898,0,0,1.83,"Jul 1, 2019","Jun 30, 2023",/ivan-martos/profil/spieler/406773
+670,Aitor Puñal,23,"Apr 1, 1999 ",Spain,ALMERÍA,,Centre-Back,,3,1,1,330,0,0,1.77,-,"Jun 30, 2023",/aitor-punal/profil/spieler/423435
+671,Sergio Akieme,24,"Dec 16, 1997",Spain,ALMERÍA,,Left-Back,4.0,32,1,2,2513,0,0,1.75,"Jul 7, 2021","Jun 30, 2026",/sergio-akieme/profil/spieler/355627
+672,Álex Centelles,22,"Aug 30, 1999",Spain,ALMERÍA,,Left-Back,1.5,23,0,1,1602,0,0,1.85,"Oct 2, 2020","Jun 30, 2026",/alex-centelles/profil/spieler/423443
+673,David Cuenca,20,"Apr 5, 2002 ",Spain,ALMERÍA,,Left-Back,0.05,3,0,0,330,0,0,1.82,-,"Jun 30, 2023",/david-cuenca/profil/spieler/710000
+675,Juanjo Nieto,27,"Oct 3, 1994 ",Spain,ALMERÍA,,Right-Back,0.7,19,0,2,793,0,0,1.74,"Jul 9, 2021","Jun 30, 2024",/juanjo-nieto/profil/spieler/327207
+677,Samú Costa,21,"Nov 27, 2000",Portugal,ALMERÍA,,Defensive Midfield,5.0,40,0,2,3261,0,0,1.85,"Jul 1, 2021","Jun 30, 2026",/samu-costa/profil/spieler/657430
+678,Iñigo Eguaras,30,"Mar 7, 1992 ",Spain,ALMERÍA,,Defensive Midfield,0.8,35,3,1,2148,0,0,1.81,"Jan 21, 2022","Jun 30, 2024",/inigo-eguaras/profil/spieler/89731
+679,Lucas Robertone,25,"Mar 18, 1997",Argentina,ALMERÍA,,Central Midfield,4.0,27,4,4,1899,0,0,1.69,"Oct 1, 2020","Jun 30, 2028",/lucas-robertone/profil/spieler/457221
+680,Arnau Puigmal,21,"Jan 10, 2001",Spain,ALMERÍA,,Central Midfield,1.5,34,5,4,1429,0,0,1.74,"Jul 9, 2021","Jun 30, 2026",/arnau-puigmal/profil/spieler/536030
+681,César de la Hoz,30,"Mar 30, 1992",Spain,ALMERÍA,,Central Midfield,1.0,43,0,0,3186,0,0,1.79,"Jul 4, 2018","Jun 30, 2023",/cesar-de-la-hoz/profil/spieler/226261
+682,Mamadou Sylla,18,"Jan 26, 2004",Spain,ALMERÍA,,Central Midfield,0.15,-,0,0,0,0,0,1.79,-,"Jun 30, 2023",/mamadou-sylla/profil/spieler/654177
+684,Largie Ramazani,21,"Feb 27, 2001",Belgium,ALMERÍA,,Left Winger,4.0,33,9,1,2166,0,0,1.67,"Aug 24, 2020","Jun 30, 2025",/largie-ramazani/profil/spieler/518644
+686,Francisco Portillo,32,"Jun 13, 1990",Spain,ALMERÍA,,Right Winger,2.0,40,3,8,2691,0,0,1.69,"Jul 22, 2021","Jun 30, 2023",/francisco-portillo/profil/spieler/138803
+690,Carlos Rojas,20,"Apr 18, 2002",Spain,ALMERÍA,,Right Winger,0.1,3,2,0,329,0,0,-,-,"Jun 30, 2025",/carlos-rojas/profil/spieler/628473
+692,Dyego Sousa,32,"Sep 14, 1989",Portugal,ALMERÍA,,Centre-Forward,1.0,26,5,5,587,0,0,1.89,"Aug 31, 2021","Jun 30, 2024",/dyego-sousa/profil/spieler/157036
+693,Carlos Gilbert,23,"Apr 16, 1999",Spain,ALMERÍA,,Centre-Forward,0.15,5,1,0,388,0,0,-,-,"Jun 30, 2023",/carlos-gilbert/profil/spieler/341270
+694,Raúl Caballero,21,"Jan 16, 2001",Spain,ALMERÍA,,Centre-Forward,,7,0,0,113,0,0,1.78,-,"Jun 30, 2023",/raul-caballero/profil/spieler/635357
+695,Jordi Masip,33,"Jan 3, 1989 ",Spain,REAL VALLADOLID,,Goalkeeper,0.7,24,0,0,2160,20,11,1.8,"Jul 17, 2017","Jun 30, 2024",/jordi-masip/profil/spieler/65263
+697,Samuel Casado,25,"Jan 16, 1997",Spain,REAL VALLADOLID,,Goalkeeper,0.2,18,0,0,1620,28,3,1.87,-,"Jun 30, 2023",/samuel-casado/profil/spieler/388888
+698,Joaquín Fernández,26,"May 31, 1996",Spain,REAL VALLADOLID,,Centre-Back,2.8,26,0,1,2092,0,0,1.9,"Aug 31, 2018","Jun 30, 2023",/joaquin-fernandez/profil/spieler/221321
+699,Javi Sánchez,25,"Mar 14, 1997",Spain,REAL VALLADOLID,,Centre-Back,2.5,28,2,0,2059,0,0,1.89,"Jul 1, 2020","Jun 30, 2026",/javi-sanchez/profil/spieler/340853
+700,Jawad El Yamiq,30,"Feb 29, 1992",Morocco,REAL VALLADOLID,,Centre-Back,1.2,25,2,1,1890,0,0,1.93,"Sep 24, 2020","Jun 30, 2024",/jawad-el-yamiq/profil/spieler/235412
+701,Bruno González,32,"May 24, 1990",Spain,REAL VALLADOLID,,Centre-Back,1.0,21,0,0,1573,0,0,1.84,"Aug 11, 2020","Jun 30, 2023",/bruno-gonzalez/profil/spieler/188838
+702,Diogo Queirós,23,"Jan 5, 1999 ",Portugal,REAL VALLADOLID,,Centre-Back,1.0,9,0,0,616,0,0,1.85,"Aug 31, 2021","Jun 30, 2023",/diogo-queiros/profil/spieler/357148
+705,Kike Ríos,22,"Jan 21, 2000",Spain,REAL VALLADOLID,,Centre-Back,0.1,22,1,0,1740,0,0,1.87,-,"Jun 30, 2023",/kike-rios/profil/spieler/398435
+709,Luis Pérez,27,"Feb 4, 1995 ",Spain,REAL VALLADOLID,,Right-Back,1.5,37,2,2,3006,0,0,1.73,"Aug 4, 2020","Jun 30, 2025",/luis-perez/profil/spieler/358115
+711,Iván Fresneda,17,"Sep 28, 2004",Spain,REAL VALLADOLID,,Right-Back,0.2,10,0,0,764,0,0,1.82,"Jul 1, 2022","Jun 30, 2025",/ivan-fresneda/profil/spieler/946883
+714,Roque Mesa,33,"Jun 7, 1989 ",Spain,REAL VALLADOLID,,Central Midfield,2.5,42,4,8,3108,0,0,1.72,"Oct 5, 2020","Jun 30, 2023",/roque-mesa/profil/spieler/202984
+715,Álvaro Aguado,26,"May 1, 1996 ",Spain,REAL VALLADOLID,,Central Midfield,1.8,41,4,3,2886,0,0,1.75,"Jan 25, 2019","Jun 30, 2023",/alvaro-aguado/profil/spieler/449496
+718,Anuar,27,"Jan 15, 1995",Morocco,REAL VALLADOLID,,Central Midfield,1.0,37,4,2,1214,0,0,1.73,"Jul 1, 2017","Jun 30, 2023",/anuar/profil/spieler/327126
+719,Mikel Carro,23,"Jan 25, 1999",Spain,REAL VALLADOLID,,Central Midfield,0.2,34,1,1,2970,0,0,1.88,-,"Jun 30, 2023",/mikel-carro/profil/spieler/396327
+720,Sergio Ortuño,23,"Mar 2, 1999 ",Spain,REAL VALLADOLID,,Central Midfield,0.05,33,2,0,2690,0,0,-,-,"Jun 30, 2023",/sergio-ortuno/profil/spieler/531476
+725,Víctor Narro,23,"May 27, 1999",Spain,REAL VALLADOLID,,Left Winger,0.3,32,6,8,1980,0,0,1.76,-,"Jun 30, 2023",/victor-narro/profil/spieler/341271
+727,Óscar Plano,31,"Feb 11, 1991",Spain,REAL VALLADOLID,,Right Winger,2.5,35,3,4,2255,0,0,1.79,"Jul 1, 2017","Jun 30, 2023",/oscar-plano/profil/spieler/221309
+730,Dalisson de Almeida,22,"Apr 6, 2000 ",Spain,REAL VALLADOLID,,Right Winger,0.2,25,1,0,1023,0,0,1.72,-,"Jun 30, 2023",/dalisson-de-almeida/profil/spieler/644900
+731,Shon Weissman,26,"Feb 14, 1996",Israel,REAL VALLADOLID,,Centre-Forward,8.0,41,21,3,3256,0,0,1.74,"Aug 31, 2020","Jun 30, 2023",/shon-weissman/profil/spieler/247652
+732,Marcos André,25,"Oct 20, 1996",Brazil,REAL VALLADOLID,,Centre-Forward,5.0,36,4,3,1335,0,0,1.85,"Aug 29, 2019","Jun 30, 2026",/marcos-andre/profil/spieler/481084
+734,Sergio León,33,"Jan 6, 1989 ",Spain,REAL VALLADOLID,,Centre-Forward,1.2,33,7,4,1838,0,0,1.76,"Aug 31, 2021","Jun 30, 2024",/sergio-leon/profil/spieler/145769
+736,Slavy,20,"May 5, 2002 ",Bulgaria,REAL VALLADOLID,,Centre-Forward,0.3,26,4,1,1002,0,0,1.82,-,"Jun 30, 2024",/slavy/profil/spieler/622991
+738,Juan Carlos,34,"Jan 20, 1988",Spain,GIRONA,,Goalkeeper,0.3,44,0,0,3990,43,16,1.87,"Jul 1, 2019","Jun 30, 2023",/juan-carlos/profil/spieler/120705
+739,Jonatan Morilla,22,"Dec 6, 1999 ",Spain,GIRONA,,Goalkeeper,,-,0,0,0,0,0,1.88,-,"Jun 30, 2023",/jonatan-morilla/profil/spieler/441221
+740,Santiago Bueno,23,"Nov 9, 1998 ",Uruguay,GIRONA,,Centre-Back,2.0,39,1,3,3352,0,0,1.92,"Aug 19, 2019","Jun 30, 2026",/santiago-bueno/profil/spieler/438001
+741,Bernardo Espinosa,32,"Jul 11, 1989",Colombia,GIRONA,,Centre-Back,1.5,45,4,1,3897,0,0,1.92,"Jul 7, 2017","Jun 30, 2024",/bernardo-espinosa/profil/spieler/64598
+742,Juanpe,31,"Apr 30, 1991",Spain,GIRONA,,Centre-Back,1.5,45,2,2,3861,0,0,1.9,"Jul 7, 2016","Jun 30, 2023",/juanpe/profil/spieler/115333
+743,Biel Farrés,20,"May 1, 2002 ",Spain,GIRONA,,Centre-Back,,5,0,0,404,0,0,-,-,"Jun 30, 2023",/biel-farres/profil/spieler/633167
+744,Loïc Williams,20,"Jan 7, 2002 ",Spain,GIRONA,,Centre-Back,,-,0,0,0,0,0,1.88,-,"Jun 30, 2024",/loic-williams/profil/spieler/707272
+745,Eric Monjonell,20,"Dec 6, 2001 ",Spain,GIRONA,,Centre-Back,,4,1,0,390,0,0,1.87,-,"Jun 30, 2023",/eric-monjonell/profil/spieler/787154
+748,Arnau Martínez,19,"Apr 25, 2003",Spain,GIRONA,,Right-Back,5.0,42,2,6,3703,0,0,1.82,"Apr 1, 2021","Jun 30, 2025",/arnau-martinez/profil/spieler/826224
+750,Gerard Gumbau,27,"Dec 18, 1994",Spain,GIRONA,,Defensive Midfield,3.0,37,0,6,2308,0,0,1.88,"Aug 14, 2019","Jun 30, 2023",/gerard-gumbau/profil/spieler/268670
+751,Ramón Terrats,21,"Oct 18, 2000",Spain,GIRONA,,Defensive Midfield,1.0,20,0,0,1075,0,0,1.81,"Nov 1, 2020","Jun 30, 2023",/ramon-terrats/profil/spieler/783396
+752,Ibrahima Kébé,21,"Aug 1, 2000 ",Mali,GIRONA,,Defensive Midfield,0.6,30,1,0,1271,0,0,1.8,"Jul 1, 2020","Jun 30, 2024",/ibrahima-kebe/profil/spieler/785967
+753,Aleix García,25,"Jun 28, 1997",Spain,GIRONA,,Central Midfield,2.5,45,1,5,3571,0,0,1.73,"Jul 23, 2021","Jun 30, 2023",/aleix-garcia/profil/spieler/261504
+757,Unai Hernández,17,"Dec 14, 2004",Spain,GIRONA,,Central Midfield,,1,0,0,28,0,0,1.71,-,"Jun 30, 2023",/unai-hernandez/profil/spieler/970633
+758,Borja García,31,"Nov 2, 1990 ",Spain,GIRONA,,Attacking Midfield,1.5,30,2,3,2066,0,0,1.75,"Sep 3, 2021","Jun 30, 2023",/borja-garcia/profil/spieler/67808
+760,Ricard Artero,19,"Feb 5, 2003 ",Spain,GIRONA,,Attacking Midfield,0.2,16,1,1,466,0,0,1.81,-,"Jun 30, 2026",/ricard-artero/profil/spieler/906025
+762,Samu Saiz,31,"Jan 22, 1991",Spain,GIRONA,,Left Winger,1.0,42,4,9,2441,0,0,1.74,"Jul 18, 2019","Jun 30, 2024",/samu-saiz/profil/spieler/131506
+763,Arnau Ortiz,20,"Oct 29, 2001",Spain,GIRONA,,Left Winger,0.1,15,4,0,1050,0,0,1.75,-,"Jun 30, 2023",/arnau-ortiz/profil/spieler/802046
+764,Joel Roca,17,"Jun 7, 2005 ",Spain,GIRONA,,Left Winger,,-,0,0,0,0,0,1.76,-,"Jun 30, 2026",/joel-roca/profil/spieler/895326
+766,Valery Fernández,22,"Nov 23, 1999",Spain,GIRONA,,Right Winger,0.8,29,1,1,1289,0,0,1.82,"Jan 1, 2019","Jun 30, 2026",/valery-fernandez/profil/spieler/331496
+767,Óscar Ureña,19,"May 31, 2003",Spain,GIRONA,,Right Winger,0.2,12,0,0,564,0,0,1.71,"Jul 1, 2022","Jun 30, 2023",/oscar-urena/profil/spieler/921734
+769,Suleiman Camara,20,"Dec 7, 2001 ",Spain,GIRONA,,Right Winger,,4,0,0,262,0,0,-,-,"Jun 30, 2025",/suleiman-camara/profil/spieler/707568
+771,Cristhian Stuani,35,"Oct 12, 1986",Uruguay,GIRONA,,Centre-Forward,1.5,42,24,2,2925,0,0,1.84,"Jul 21, 2017","Jun 30, 2026",/cristhian-stuani/profil/spieler/59323
+774,Pau Víctor,20,"Nov 26, 2001",Spain,GIRONA,,Centre-Forward,0.2,2,0,0,210,0,0,1.84,-,"Jun 30, 2023",/pau-victor/profil/spieler/707572
+775,Álex Castro,20,"Jul 6, 2001 ",Spain,GIRONA,,Centre-Forward,,-,0,0,0,0,0,-,-,"Jun 30, 2023",/alex-castro/profil/spieler/707569
+776,Dawda Camara,19,"Nov 4, 2002 ",Mauritania,GIRONA,,Centre-Forward,,4,1,0,121,0,0,-,-,"Jun 30, 2023",/dawda-camara/profil/spieler/891923
