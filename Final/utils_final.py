@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
-from scipy.stats import genextreme
+from scipy.stats import genextreme, norm, t, expon, skewnorm
+from scipy.stats import multivariate_normal as mnorm
 
 from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestClassifier
@@ -56,7 +57,38 @@ def loocv(X, y):
     h = np.diag(X @ np.linalg.inv(X.T @ X) @ X.T) + 1 / X.shape[0]
     
     return np.mean(((reg.predict(X) - y) / (1 - h)) ** 2)
+
+def calc_skewed_std(a):
+    delta = a / np.sqrt(1 + a ** 2)
+    var = (1 - 2 * delta ** 2 / np.pi)
     
+    return np.sqrt(var)
+
+def calc_skewed_mean(a):
+    delta = a / np.sqrt(1 + a ** 2)
+    
+    return delta * np.sqrt(2 / np.pi)
+
+
+def simulate_gaussian_copula(n):
+    '''
+    
+    '''
+    sigma = np.array([[1.00,  0.10,  0.45,  0.64],
+                      [0.10,  1.00, -0.35, -0.24],
+                      [0.45, -0.35,  1.00,  0.14],
+                      [0.64, -0.24,  0.14,  1.00]])
+    
+    u = mnorm.rvs(mean=[0, 0, 0, 0], cov=sigma, size=n)
+    x_copula = norm.cdf(u)
+
+    x_copula[:, 0] = expon.ppf(x_copula[:, 0]) - 1
+    x_copula[:, 1] = (skewnorm.ppf(x_copula[:, 1], a=5, loc=0, scale=1) - calc_skewed_mean(5)) / calc_skewed_std(5)
+    x_copula[:, 2] = t.ppf(x_copula[:, 2], df=5) * np.sqrt((5 - 2) / 5)
+    x_copula[:, 3] = (skewnorm.ppf(x_copula[:, 3], a=-3, loc=0, scale=1) - calc_skewed_mean(-3)) / calc_skewed_std(-3) 
+    
+    return x_copula
+        
     
 def baseline_model():
     '''
@@ -75,7 +107,7 @@ def baseline_model():
     return model    
 
 
-def get_benchmark_data(n, rho, r, betas, gammas):
+def get_benchmark_data(n, rho, r, betas, gammas, errors_dist='mnorm'):
     '''
     Генерирует данные на основе (Bourguignon et al, 2007)
     
@@ -91,8 +123,22 @@ def get_benchmark_data(n, rho, r, betas, gammas):
     Примечание: для z != 1 значения y не наблюдаются
         
     '''
-    
-    errors = np.random.multivariate_normal(mean=np.zeros(4), cov=rho, size=n)
+    if errors_dist == 'mnorm':
+        errors = np.random.multivariate_normal(mean=np.zeros(4), cov=rho, size=n)
+        
+    elif errors_dist == 'gumbel':
+        errors = genextreme.rvs(c=0, size=(n, 4))
+        errors[:, -1] = np.random.normal(size=n, loc=0, scale=1) 
+        
+    elif errors_dist == 'copula':
+        errors = simulate_gaussian_copula(n)
+        
+    elif errors_dist == 'expon':
+        errors = np.random.exponential(scale=1, size=(n, 4)) - 1 
+        
+    elif errors_dist == 'uniform':
+        errors = np.random.uniform(low=0, high=np.sqrt(12), size=(n, 4)) - np.sqrt(3)
+        
     us, eps = errors[:, :-1], errors[:, -1]
     vs = np.random.normal(size=(n, 2), loc=0, scale=(4 * np.sqrt(1 - r ** 2)))
     
@@ -116,7 +162,7 @@ def get_benchmark_data(n, rho, r, betas, gammas):
     return df
 
 
-def get_polinom_data(n, rho, r, betas, gammas):
+def get_polinom_data(n, rho, r, betas, gammas, errors_dist='mnorm'):
     '''
     Генерирует данные аналогично процедуре, описанной в (Bourguignon et al, 2007), с добавлением полиномов 
     второй степени в уравнении отбора
@@ -134,7 +180,22 @@ def get_polinom_data(n, rho, r, betas, gammas):
         
     '''
     
-    errors = np.random.multivariate_normal(mean=np.zeros(4), cov=rho, size=n)
+    if errors_dist == 'mnorm':
+        errors = np.random.multivariate_normal(mean=np.zeros(4), cov=rho, size=n)
+        
+    elif errors_dist == 'gumbel':
+        errors = genextreme.rvs(c=0, size=(n, 4))
+        errors[:, -1] = np.random.normal(size=n, loc=0, scale=1) 
+        
+    elif errors_dist == 'copula':
+        errors = simulate_gaussian_copula(n)
+        
+    elif errors_dist == 'expon':
+        errors = np.random.exponential(scale=1, size=(n, 4)) - 1 
+        
+    elif errors_dist == 'uniform':
+        errors = np.random.uniform(low=0, high=np.sqrt(12), size=(n, 4)) - np.sqrt(3)
+        
     us, eps = errors[:, :-1], errors[:, -1]
     vs = np.random.normal(size=(n, 2), loc=0, scale=(4 * np.sqrt(1 - r ** 2)))
     
@@ -174,7 +235,7 @@ def calc_metrics(ests, true, model_name):
            list(100 * np.mean(np.abs(np.array(ests) - true) / true, axis=0))
 
 
-def get_results_ml_model(model, df, W, z, nn=False):
+def get_results_ml_model(model, df, W, z):
     '''
     
     
@@ -228,7 +289,8 @@ def get_results_ml_model(model, df, W, z, nn=False):
     return [dmf_ml.intercept_] + list(dmf_ml.coef_[:2])
 
 
-def run_simulations(n, rho, r, betas, gammas, n_simulations=1000, regime='default'):
+def run_simulations(n, rho, r, betas, gammas, n_simulations=1000, 
+                    regime='default', errors_dist='mnorm'):
     
     ols_results = []
     dmf_results = []
@@ -239,9 +301,10 @@ def run_simulations(n, rho, r, betas, gammas, n_simulations=1000, regime='defaul
     for i in tqdm(range(n_simulations)):
         
         if regime == 'default':
-            df = get_benchmark_data(n, rho, r, betas, gammas)
+            df = get_benchmark_data(n, rho, r, betas, gammas, errors_dist=errors_dist)
+            
         elif regime == 'polinom':
-            df = get_polinom_data(n, rho, r, betas, gammas)
+            df = get_polinom_data(n, rho, r, betas, gammas, errors_dist=errors_dist)
             
         df_no_nans = df.dropna()
         
@@ -283,8 +346,8 @@ def run_simulations(n, rho, r, betas, gammas, n_simulations=1000, regime='defaul
         forest_results.append(get_results_ml_model(forest, df, W, z))
         
         # Полносвязная нейросеть с полиномами
-        nn_clf = KerasClassifier(build_fn=baseline_model, epochs=50, batch_size=128, verbose=False)
-        nn_results.append(get_results_ml_model(nn_clf, df, W, z, nn=True))
+        nn_clf = KerasClassifier(build_fn=baseline_model, epochs=50, batch_size=512, verbose=False)
+        nn_results.append(get_results_ml_model(nn_clf, df, W, z))
         
     ols_res_metrics = calc_metrics(ols_results, betas, 'OLS')
     dmf_res_metrics = calc_metrics(dmf_results, betas, 'DMF')
@@ -301,8 +364,8 @@ def run_simulations(n, rho, r, betas, gammas, n_simulations=1000, regime='defaul
     
     results = pd.DataFrame([ols_res_metrics, 
                             dmf_res_metrics,
-                            boosting_res_metrics,
                             forest_res_metrics,
+                            boosting_res_metrics,
                             nn_res_metrics], columns=cols)
     
     return results[cols_order_show]
