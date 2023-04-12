@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-from scipy.stats import genextreme, norm, t, expon, skewnorm
+from scipy.stats import genextreme, norm, t, expon, skewnorm, uniform
 from scipy.stats import multivariate_normal as mnorm
 
 from sklearn.linear_model import LinearRegression
@@ -123,21 +123,46 @@ def get_benchmark_data(n, rho, r, betas, gammas, errors_dist='mnorm'):
     Примечание: для z != 1 значения y не наблюдаются
         
     '''
+    
     if errors_dist == 'mnorm':
         errors = np.random.multivariate_normal(mean=np.zeros(4), cov=rho, size=n)
-        
+
     elif errors_dist == 'gumbel':
         errors = genextreme.rvs(c=0, size=(n, 4))
-        errors[:, -1] = np.random.normal(size=n, loc=0, scale=1) 
+        errors[:, -1] = np.random.normal(size=n, loc=0, scale=1) * np.sqrt(32)
+        
+    elif errors_dist == 'gumbel_c':
+        errors = np.random.multivariate_normal(mean=np.zeros(4), cov=rho, size=n)
+        errors[:, :-1] = norm.cdf(errors[:, :-1])
+        errors[:, :-1] = genextreme.ppf(errors[:, :-1], c=0)
+        errors[:, -1] = norm.cdf(errors[:, -1], scale=np.sqrt(32))
+        errors[:, -1] = norm.ppf(errors[:, -1]) * np.sqrt(32)
+        
+    elif errors_dist == 'expon':        
+        errors = (np.random.exponential(size=(n, 4)) - 1) 
+        errors[:, -1] *= np.sqrt(32)
+        
+    elif errors_dist == 'expon_c':
+        errors = np.random.multivariate_normal(mean=np.zeros(4), cov=rho, size=n)
+        errors[:, :-1] = norm.cdf(errors[:, :-1])
+        errors[:, -1] = norm.cdf(errors[:, -1], scale=np.sqrt(32))
+        errors = (expon.ppf(errors) - 1)
+        errors[:, -1] *= np.sqrt(32)
+
+    elif errors_dist == 'uniform':
+        errors = (np.random.uniform(low=0, high=1, size=(n, 4)) - 0.5) * np.sqrt(12) 
+        errors[:, -1] *= np.sqrt(32)
+        
+    elif errors_dist == 'uniform_c':
+        errors = np.random.multivariate_normal(mean=np.zeros(4), cov=rho, size=n)
+        errors[:, :-1] = norm.cdf(errors[:, :-1])
+        errors[:, -1] = norm.cdf(errors[:, -1], scale=np.sqrt(32))
+        errors = (uniform.ppf(errors) - 0.5) * np.sqrt(12) 
+        errors[:, -1] *= np.sqrt(32)
         
     elif errors_dist == 'copula':
         errors = simulate_gaussian_copula(n)
-        
-    elif errors_dist == 'expon':
-        errors = np.random.exponential(scale=1, size=(n, 4)) - 1 
-        
-    elif errors_dist == 'uniform':
-        errors = np.random.uniform(low=0, high=np.sqrt(12), size=(n, 4)) - np.sqrt(3)
+        errors[:, -1] *= np.sqrt(32)
         
     us, eps = errors[:, :-1], errors[:, -1]
     vs = np.random.normal(size=(n, 2), loc=0, scale=(4 * np.sqrt(1 - r ** 2)))
@@ -179,22 +204,62 @@ def get_polinom_data(n, rho, r, betas, gammas, errors_dist='mnorm'):
     Примечание: для z != 1 значения y не наблюдаются
         
     '''
-    
+        
     if errors_dist == 'mnorm':
         errors = np.random.multivariate_normal(mean=np.zeros(4), cov=rho, size=n)
-        
+
     elif errors_dist == 'gumbel':
         errors = genextreme.rvs(c=0, size=(n, 4))
-        errors[:, -1] = np.random.normal(size=n, loc=0, scale=1) 
+        errors[:, -1] = np.random.normal(size=n, loc=0, scale=1) * np.sqrt(32)
+        
+    elif errors_dist == 'gumbel_c':
+        errors = np.random.multivariate_normal(mean=np.zeros(4), cov=rho, size=n)
+        errors[:, :-1] = norm.cdf(errors[:, :-1])
+        errors[:, :-1] = genextreme.ppf(errors[:, :-1], c=0)
+        errors[:, -1] = norm.cdf(errors[:, -1], scale=np.sqrt(32))
+        errors[:, -1] = norm.ppf(errors[:, -1]) * np.sqrt(32)
+        
+    elif errors_dist == 'expon':        
+        errors = (np.random.exponential(size=(n, 4)) - 1) 
+        errors[:, -1] *= np.sqrt(32)
+        
+    elif errors_dist == 'expon_c':
+        errors = np.random.multivariate_normal(mean=np.zeros(4), cov=rho, size=n)
+        errors[:, :-1] = norm.cdf(errors[:, :-1])
+        errors[:, -1] = norm.cdf(errors[:, -1], scale=np.sqrt(32))
+        errors = (expon.ppf(errors) - 1)
+        errors[:, -1] *= np.sqrt(32)
+
+    elif errors_dist == 'uniform':
+        errors = (np.random.uniform(low=0, high=1, size=(n, 4)) - 0.5) * np.sqrt(12) 
+        errors[:, -1] *= np.sqrt(32)
+        
+    elif errors_dist == 'uniform_c':
+        errors = np.random.multivariate_normal(mean=np.zeros(4), cov=rho, size=n)
+        errors[:, :-1] = norm.cdf(errors[:, :-1])
+        errors[:, -1] = norm.cdf(errors[:, -1], scale=np.sqrt(32))
+        errors = (uniform.ppf(errors) - 0.5) * np.sqrt(12) 
+        errors[:, -1] *= np.sqrt(32)
         
     elif errors_dist == 'copula':
         errors = simulate_gaussian_copula(n)
+        errors[:, -1] *= np.sqrt(32)
+
+#     if errors_dist == 'mnorm':
+#         errors = np.random.multivariate_normal(mean=np.zeros(4), cov=rho, size=n)
         
-    elif errors_dist == 'expon':
-        errors = np.random.exponential(scale=1, size=(n, 4)) - 1 
+#     elif errors_dist == 'gumbel':
+#         errors = genextreme.rvs(c=0, size=(n, 4))
+#         errors[:, -1] = np.random.normal(size=n, loc=0, scale=1) 
         
-    elif errors_dist == 'uniform':
-        errors = np.random.uniform(low=0, high=np.sqrt(12), size=(n, 4)) - np.sqrt(3)
+#     elif errors_dist == 'copula':
+#         errors = simulate_gaussian_copula(n)
+        
+#     elif errors_dist == 'expon':
+#         errors = np.random.exponential(scale=1, size=(n, 4)) - 1 
+        
+#     elif errors_dist == 'uniform':
+#         errors = np.random.uniform(low=0, high=np.sqrt(12), size=(n, 4)) - np.sqrt(3)
         
     us, eps = errors[:, :-1], errors[:, -1]
     vs = np.random.normal(size=(n, 2), loc=0, scale=(4 * np.sqrt(1 - r ** 2)))
